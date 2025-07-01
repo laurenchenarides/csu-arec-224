@@ -4,10 +4,10 @@ project:
 
 # Meta
 description-meta: "Open Course on Energy and Climate Policy developed by Dr. Gang He, covering energy policy, climate policy, energy and climate policy."
-author-meta: "Gang He"
+author-meta: "Lauren Chenarides"
 
 website:
-  title: "Energy and Climate Policy"
+  title: "Ag Entrepreneurship"
   description: "Open Course on Energy and Climate Policy developed by Dr. Gang He."
   navbar:
     background: light
@@ -18,10 +18,10 @@ website:
         href: 2025/schedule.qmd
       - text: Lectures
         href: lectures.qmd
-      - text: Guest Speakers
+      - text: Mentors
         href: http://drganghe.github.io/climate-guest-speakers
         target: _blank
-      - text: Guide
+      - text: Case Studies
         menu:                           
         - text: Policy Memo
           href: policymemo.qmd 

@@ -36,3 +36,4 @@ Backup of *.doc*
 # Visio autosave temporary files
 *.~vsd*
 /.luarc.json
+.Rproj.user
