@@ -1,1 +1,1 @@
-Sitemap: https://drganghe.github.io/energy-climate-policy/sitemap.xml
+Sitemap: https://github.com/laurenchenarides/csu-arec-224/sitemap.xml

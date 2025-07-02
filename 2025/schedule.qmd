@@ -7,29 +7,47 @@ repo-actions: false
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-| Week | Date | Lecture | Guest Speaker | Assignment |
-|---|---|---|---|---|
-| 1 | 9/1 | Labor Day - No session |  |  |
-| 2 | 9/8 | Introduction--Grand Challenges |  |  |
-| 3 | 9/15 | Energy and climate numbers and project economics | [Dr. Mallory Flowers](https://drganghe.github.io/climate-guest-speakers/speakers/mallory-flowers/index.html) | PR1 |
-| 4 | 9/22 | No classes scheduled |  |  |
-| 5 | 9/29 | Climate impacts and responses | [Dr. Shanru Tian](https://drganghe.github.io/climate-guest-speakers/speakers/shanru-tian/index.html) | HW1 |
-| 6 | 10/6 | Energy systems and energy conversion technologies |  | PR2 |
-| 7 | 10/14 | Energy demand, energy and economy |  | HW2 |
-| 8 | 10/24 | Energy, environment, and health |  | PR3 |
-| 9 | 10/27 | Energy transition and power systems decarbonization | [Dr. Beia Spiller](https://drganghe.github.io/climate-guest-speakers/speakers/beia-spiller/index.html) | PR4 |
-| 10 | 11/3 | Energy access, energy and climate justice | [Dr. Shuchen Cong](https://drganghe.github.io/climate-guest-speakers/speakers/shuchen-cong/index.html) | HW3 |
-| 11 | 11/10 | Energy efficiency, human behavior, culture, and sustainable energy consumption |  | PM Proposal |
-| 12 | 11/17 | Climate policy instruments |  | HW4 |
-| 13 | 11/24 | Big data and AI for energy and climate change | [Dr. Cecilia Springer](https://drganghe.github.io/climate-guest-speakers/speakers/cecilia-springer/index.html) | PR5 |
-| 14 | 12/1 | Uncertainties in policy analysis | [Dr. Luo Xu](https://drganghe.github.io/climate-guest-speakers/speakers/luo-xu/index.html) | PR6 |
-| 15 | 12/8 | Presentation |  |  |
-| 16 | 12/15 | Presentation |  |  |
-| 17 | 12/22 | Policy memo |  |  |
+| Week | Date     | Day | Lecture / Case Study                                         | Textbook Chapter (Quiz Basis) | Assignment |
+|------|----------|-----|--------------------------------------------------------------|-------------------------------|------------|
+| –    | 8/25     |     | Semester Starts                                              |                               |            |
+| 1    | 8/26     | T   | Course intro, syllabus review, forming teams                | 1                             |            |
+| 1    | 8/28     | R   | Mock Case Study – Walk through debate process               |                               |            |
+| 2    | 9/2      | T   | The Entrepreneurial Mindset                                 | 2 & 3                         |            |
+| 2    | 9/4      | R   | Case Topic: The Founder’s Dilemma                           |                               |            |
+| 3    | 9/9      | T   | Leadership, Hiring & Team Building                          | 4                             |            |
+| 3    | 9/11     | R   | Case Topic: Hiring for Culture vs. Skills                   |                               |            |
+| 4    | 9/16     | T   | Identifying Market Gaps: From Problem to Solution           | 5                             |            |
+| 4    | 9/18     | R   | Case Topic: How Entrepreneurs Identify Market Needs         |                               |            |
+| 5    | 9/23     | T   | Business Models & Value Propositions                        | 6                             |            |
+| 5    | 9/25     | R   | Case Topic: Business Model Innovation                       |                               |            |
+| 6    | 9/30     | T   | Business Failures & Learning from Mistakes                  | 6                             |            |
+| 6    | 10/2     | R   | Case Topic: When to Pivot vs. When to Quit                  |                               |            |
+| 7    | 10/7     | T   | Supply Chain & Operations in Food & Agriculture             | 7                             |            |
+| 7    | 10/9     | R   | Case Topic: Scaling vs. Specialization in Agribusiness      |                               |            |
+| 8    | 10/14    | T   | Midterm Exam (In-Class, Covers Weeks 2–7)                   | –                             |            |
+| 8    | 10/16    | R   | No Case Study                                               |                               |            |
+| 9    | 10/21    | T   | Funding, Investment & Bootstrapping                         | 8                             |            |
+| 9    | 10/23    | R   | Case Topic: Venture Capital vs. Bootstrapping               |                               |            |
+|10    | 10/28    | T   | Customer Discovery & Competitive Advantage                  | 10                            |            |
+|10    | 10/30    | R   | Case Topic: Pricing & Market Positioning                    |                               |            |
+|11    | 11/4     | T   | Customer Acquisition & Sales                                | 10                            |            |
+|11    | 11/6     | R   | Case Topic: Customer Loyalty vs. Acquisition                |                               |            |
+|12    | 11/11    | T   | Business Case Workshop: Refining the Pitch                  | 12                            |            |
+|12    | 11/13    | R   | Case Topic: Effective Pitching & Storytelling               |                               |            |
+|13    | 11/18    | T   | Scaling, Growth Strategies & Operations                     | 13                            |            |
+|13    | 11/20    | R   | Case Topic: Growth Challenges in Startups                   |                               |            |
+|14    | 11/25    | T   | Fall Recess                                                 |                               |            |
+|14    | 11/27    | R   | Fall Recess (Thanksgiving)                                  |                               |            |
+|15    | 12/2     | T   |                                                              |                               |            |
+|15    | 12/4     | R   |                                                              |                               |            |
+|16    | 12/9     | T   | Course Wrap-Up & Professional Development Reflection        | No New Readings              |            |
+|16    | 12/11    | R   | Business Case Event                                         |                               |            |
+| –    | 12/12    |     | Last Day of Classes                                         |                               |            |
+| –    | 12/19    |     | End of Finals Week                                          |                               |            |
 
 : {.striped .responsive}
 
-Note: PR--Policy Response, HW--Homework Assignment, PM--Policy Memo 
+Note: HW--Homework Assignment 
 
 <!--Include social share buttons-->
 {{< include /files/includes/_socialshare.qmd >}}
