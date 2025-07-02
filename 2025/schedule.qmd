@@ -47,7 +47,7 @@ repo-actions: false
 
 : {.striped .responsive}
 
-Note: HW--Homework Assignment 
+Note: T--Tuesday; R--Thursday; HW--Homework Assignment 
 
 <!--Include social share buttons-->
 {{< include /files/includes/_socialshare.qmd >}}

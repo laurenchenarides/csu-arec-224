@@ -33,12 +33,12 @@ website:
             href: 2024/schedule.qmd         
           - text: Fall 2023
             href: 2023/schedule.qmd                    
-      - text: Dr. Gang He
-        href: http://drganghe.github.io
+      - text: Dr. Lauren Chenarides
+        href: https://scholar.google.com/citations?user=07RAgEQAAAAJ&hl=en
         target: _blank        
     right: 
       - icon: github
-        href: https://github.com/drganghe/energy-climate-policy
+        href: https://github.com/laurenchenarides/csu-arec-224
   page-navigation: true
   page-footer: 
     left: "[Lauren Chenarides](https://github.com/laurenchenarides/csu-arec-224) &copy; <script>document.write(new Date().getFullYear())</script>" 
@@ -52,8 +52,6 @@ website:
   repo-url: https://github.com/laurenchenarides/csu-arec-224
   repo-actions: [edit, issue, source]
   open-graph: true
-  #  creator: "@DrGangHe"
-  #  image: "/lectures/lecture2/images/boe-equations.png"
   site-url: "https://github.com/laurenchenarides/csu-arec-224"
   google-analytics:
     tracking-id: "G-GG4GM3TPXK"
