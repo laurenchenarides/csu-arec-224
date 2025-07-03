@@ -1,0 +1,101 @@
+---
+title: Entrepreneurial-Individual Development Plan (E-IDP)
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+## What Is the E-IDP?
+
+The Entrepreneurial Individual Development Plan (E-IDP) is a tool to help you grow professionally throughout this course. It’s based on the idea that entrepreneurship is not just about launching a business—it’s about cultivating a mindset and a set of core competencies that apply across professional settings.
+
+You will use the E-IDP to:
+
+- Reflect on your entrepreneurial strengths and areas for growth
+- Track your development over the semester
+- Receive feedback from mentors based on real-world interaction
+- Identify habits or patterns that support or inhibit your success
+
+This is also the tool your mentor will use to get to know you and support your development. You’ll complete a **self-assessment at the beginning and end of the course**, using the characteristics below as your guide. Mentors will also give feedback on your development mid-semester and at the end of the semester.
+
+👉 [View Mentor Instructions](mentor-instructions.qmd) to understand what they'll see.
+
+## Entrepreneurial Characteristics
+
+The table below includes 42 personal characteristics associated with entrepreneurial success. These are drawn from Kuratko's *Entrepreneurship: Theory, Process, and Practice* (11th Edition), and you’ll use them to shape your self-assessment and reflection throughout the course.
+
+Each characteristic can be rated on a scale of 1 (low) to 5 (high) in terms of how much it describes you **right now**. The goal is not to score perfectly, but to notice where you’re growing.
+
+| # | Characteristic             | Description |
+|----|-----------------------------|-------------|
+| 1  | Commitment                 | Willingness to do what it takes to make the venture work |
+| 2  | Determination             | Persistence and resilience when faced with obstacles |
+| 3  | Opportunity Orientation   | Constantly looking for opportunities |
+| 4  | Initiative                | Acting without being told |
+| 5  | Responsibility            | Willingness to be accountable for decisions |
+| 6  | Risk Tolerance            | Comfort with uncertainty and calculated risk |
+| 7  | Feedback Seeking          | Openness to input and guidance |
+| 8  | Goal Setting              | Ability to define and pursue goals clearly |
+| 9  | Self-Efficacy             | Belief in your ability to influence outcomes |
+| 10 | Persistence               | Staying with a task or goal despite difficulty |
+| 11 | Vision                    | Ability to imagine future possibilities clearly |
+| 12 | Self-Confidence           | Belief in your ability to achieve success |
+| 13 | Internal Locus of Control | Belief that you can shape your own future |
+| 14 | Creativity                | Ability to generate novel ideas |
+| 15 | Resourcefulness           | Making the most of what’s available |
+| 16 | Adaptability              | Willingness to change course when needed |
+| 17 | Proactivity               | Taking charge rather than waiting |
+| 18 | Leadership                | Ability to guide, influence, and support others |
+| 19 | Communication             | Effectively conveying and receiving information |
+| 20 | Teamwork                  | Willingness to collaborate and support a team |
+| 21 | Problem-Solving           | Diagnosing and resolving challenges effectively |
+| 22 | Time Management           | Using time effectively and efficiently |
+| 23 | Decision-Making           | Making timely, informed decisions |
+| 24 | Integrity                 | Honesty and consistency in actions and values |
+| 25 | Passion                   | Strong interest and enthusiasm |
+| 26 | Initiative                | Willingness to begin projects independently |
+| 27 | Customer Orientation      | Focus on understanding and serving others’ needs |
+| 28 | Financial Literacy        | Understanding financial concepts and budgets |
+| 29 | Strategic Thinking        | Ability to plan for the long term |
+| 30 | Networking                | Building and maintaining productive relationships |
+| 31 | Resilience                | Bouncing back from setbacks |
+| 32 | Learning Orientation      | Eagerness to gain new knowledge and skills |
+| 33 | Open-Mindedness           | Willingness to consider new ideas and perspectives |
+| 34 | Patience                  | Staying calm and persistent over time |
+| 35 | Negotiation               | Reaching agreements that benefit all parties |
+| 36 | Conflict Management       | Navigating disagreement constructively |
+| 37 | Work Ethic                | Dedication to producing high-quality work |
+| 38 | Enthusiasm                | Positivity and energy you bring to your work |
+| 39 | Confidence in Others      | Willingness to trust and delegate |
+| 40 | Empathy                   | Understanding and sharing others’ perspectives |
+| 41 | Focus                     | Ability to concentrate on tasks and goals |
+| 42 | Follow-Through            | Completing what you start |
+
+
+
+## How You'll Use This
+
+- **Week 1**: Complete your baseline self-assessment using a form provided on Canvas.
+- **Mid-Semester**: Your mentor will complete a short evaluation based on their interactions with you.
+- **End of Semester**: Complete your final self-assessment and submit a reflection comparing your growth over time.
+
+You can use this data to write your final reflection or even include in future job materials (e.g. internship reflections, personal statements, cover letters).
+
+
+
+## Why It Matters
+
+Entrepreneurship is not just about starting businesses—it's about being someone who takes initiative, solves problems creatively, and works well with others to turn ideas into action.
+
+The E-IDP is designed to help you **notice how you grow**, and give you structured support along the way.
+
+
+::: {.callout-note}
+**Source:** Adapted from Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (11th ed.). Cengage Learning.
+:::

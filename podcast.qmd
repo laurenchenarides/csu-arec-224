@@ -24,7 +24,7 @@ This semester, you’ll work in a **pod** of four classmates to create a profess
 
 Each pod will be paired with a **mentor**. Your goal is to:
 
-🎤 **Produce a compelling podcast episode** that dives into the entrepreneurial journey of your mentor.  
+🎤 **Produce a compelling podcast episode** that tells a story about the entrepreneurial journey of your mentor.  
 🔍 **Conduct research** to understand their business, sector, and challenges.  
 💡 **Craft questions** that go beyond the surface to reveal their thought process, decisions, and values.  
 📝 **Write up show notes** to summarize the episode and connect it to themes from the course.
@@ -38,7 +38,7 @@ Examples of mentor businesses include:
 
 ## What Makes a Great Podcase?
 
-Good podcasts require **more than just microphones**. To produce a professional-quality episode, you’ll need:
+Good podcasts require more than just the technical equipment. To produce a professional-quality episode, you’ll need:
 
 - **Background research** on the mentor and their business
 - **Clear structure** for the conversation
@@ -48,7 +48,7 @@ Good podcasts require **more than just microphones**. To produce a professional-
 Want inspiration? Explore high-quality podcasts like:
 
 - [The Huberman Lab](https://hubermanlab.com/) (known for tight research and clarity)
-- [How I Built This](https://www.npr.org/sections/how-i-built-this/) (great for founder stories)
+- [How I Built This](https://www.npr.org/series/490248027/how-i-built-this) (great for founder stories)
 
 
 
@@ -70,14 +70,14 @@ Each pod member will take on a defined role:
 
 ### 🕵️‍♀️ In-Studio Fact Checker
 
-- Sit in on the live session
+- Sit in on the live session at the CSU Recording Studio
 - Look up facts or data to support/clarify what the mentor shares
 - Step in with prompts or follow-ups if needed
 
 ### ✍️ Post-Production (Show Notes Lead)
 
 - Write engaging and informative show notes
-- Highlight key insights, links, and connections to course themes
+- Highlight important insights, links, and connections to course themes
 - Submit your draft to the team and instructor
 
 
@@ -85,9 +85,9 @@ Each pod member will take on a defined role:
 ## Logistics
 
 - **Recording Location:** CSU Library Podcast Studio  
-- **Length:** 20–30 minutes  
+- **Length:** 30-40 minutes  
 - **Deadline:** Varies by group – schedule with your mentor and instructor  
-- **Submission:** Final audio + show notes uploaded via **Canvas**  
+- **Submission:** Final show notes uploaded via **Canvas**  
 
 
 ## How You’ll Be Graded
@@ -100,7 +100,6 @@ Your podcase will be evaluated based on:
 | Interview quality + flow    | 25%    |
 | Insightful show notes       | 25%    |
 | Team coordination & clarity | 25%    |
-
 
 
 > The best podcasts don’t just *talk*—they tell a story, highlight decisions, and leave the listener thinking differently. Let’s make something worth sharing.

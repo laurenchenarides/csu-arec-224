@@ -1,1 +1,8 @@
 /* css styles */
+
+/* Prevent image cropping in grid listings */
+.quarto-grid-item .card-img-top {
+  object-fit: contain;   /* Or use 'scale-down' for tighter fit */
+  height: auto;
+  max-height: 300px;     /* Adjust as needed */
+}

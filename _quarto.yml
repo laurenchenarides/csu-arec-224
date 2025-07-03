@@ -22,24 +22,29 @@ website:
         menu:                           
         - text: Access Coursepack
           href: coursepack.qmd
-        - text: Case Study Assignment
+        - text: "Weekly Assignments & Signups"
           href: 2025/signups.qmd
-        - text: The Case Method
+        - text: How We Use Case Studies
           href: casemethod.qmd 
       - text: Case Competition
         href: competition.qmd                
-      - text: Mentors
-        href: http://drganghe.github.io/climate-guest-speakers
-        target: _blank
-      - text: Podcast
+      - text: Podcast Project
         href: podcast.qmd                
+      - text: Mentors
+        menu:                           
+        - text: "Meet the 2025 Cohort"
+          href: 2025/mentors.qmd
+        - text: "Student Guide to Mentor Work"
+          href: 2025/eidp.qmd
+        - text: "Mentor Guide & Timeline"
+          href: 2025/mentor-instructions.qmd
       # - text: Archive
       #   menu:
       #     - text: Fall 2025
       #       href: 2025/schedule.qmd         
-      - text: Dr. Lauren Chenarides
-        href: https://scholar.google.com/citations?user=07RAgEQAAAAJ&hl=en
-        target: _blank        
+      # - text: Dr. Lauren Chenarides
+      #   href: https://scholar.google.com/citations?user=07RAgEQAAAAJ&hl=en
+      #   target: _blank        
     right: 
       - icon: github
         href: https://github.com/laurenchenarides/csu-arec-224

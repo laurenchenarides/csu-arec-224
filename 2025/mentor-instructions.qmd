@@ -1,0 +1,108 @@
+---
+title: "Instructions for Mentors"
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+## Welcome, Mentors
+
+Thank you for serving as a mentor in AREC 224: *Introduction to Agribusiness Entrepreneurship*! This course would not be what it is without your time, experience, and presence. You’ll help students gain real-world insight into entrepreneurship by sharing your story, offering feedback, and encouraging their growth.
+
+This guide outlines your role, the timeline, and how to prepare.
+
+## Your Role
+
+You’ll be paired with a small group of students (a "pod") who will:
+
+- Interview you in a **student-produced podcast** (recorded on campus)
+- Prepare a business case concept based on your story
+- Present the business case concept at the **end-of-semester competition** (think of this as a "story-telling" event)
+
+As a mentor, you will:
+
+- **Be interviewed** (Week 4–6) for a 30–40 min podcast episode. We’ll provide sample questions and a recording studio.
+- **Meet with your pod twice** during the semester to provide feedback and guidance.
+- **Attend the final case competition and networking event** during Week 15 (2-hour event).
+
+
+## Timeline of Activities
+
+The course runs from **August 25 to December 14, 2025**, and follows a weekly schedule. Weeks are numbered based on the academic calendar. You can refer to the [Course Schedule](schedule.qmd) for specific dates associated with each week.
+
+The table below outlines major milestones involving mentor-student engagement, along with expectations for both mentors and students.
+
+| Week | Activity | Mentor Action | Student Role |
+|------|----------|---------------|---------------|
+| 1    | Course Launch | – | Students begin learning about case studies, podcasting, and interviewing |
+| 2    | Initial Contact | Respond to students' outreach and confirm an intro meeting time | Initiate contact with mentor and schedule an intro meeting (virtual or in-person) |
+| 3–4  | First Pod Meeting | Join 30–45 min check-in; share background and answer questions | Conduct first pod meeting; prepare questions and document key insights |
+| 4–6  | Podcast Interview | Attend a 30–40 min recorded podcast session at CSU studio | Host and produce podcast episode featuring mentor’s story |
+| 8    | Mid-Semester Feedback | Submit short feedback form for each student in your pod | Receive and reflect on mentor feedback for E-IDP refinement |
+| 12–13 | Second Pod Meeting | Join second 30–45 min check-in; provide guidance on business case direction | Present progress on business concept and solicit mentor input |
+| 15   | Final Competition | Attend and watch student pitches; submit final feedback form | Present final business case inspired by mentor story |
+
+
+We’ll coordinate scheduling via email and provide reminders.
+
+
+
+## Preparing for Your Interview
+
+The podcast interview will be student-led and conversational. You don’t need to prepare a script, but here are suggested prompts they may explore:
+
+- What problem did you set out to solve?
+- What was your “aha” moment—or was it gradual?
+- What challenges did you face early on?
+- What business model did you choose and why?
+- How did you define success?
+- What advice would you give your younger self?
+- How do you see your business evolving?
+
+You’re welcome to share lessons, numbers, pivots, and surprises—anything that brings your story to life.
+
+
+
+## Supporting Your Pod
+
+You’ll meet your student group twice—once mid-semester and once as they prepare for final pitches. These are informal 30–45 minute virtual or in-person sessions.
+
+Students may ask for your perspective on:
+
+- Customer needs
+- Market trends
+- Growth strategies
+- Communication and branding
+- Your feedback on their evolving business idea
+
+You don’t need to “grade” anything—your role is to guide, challenge, and encourage.
+
+### About the E-IDP
+
+Each student is building an [**Entrepreneurial Individual Development Plan (E-IDP)**](eidp.qmd) throughout the semester. This plan helps them reflect on and strengthen key entrepreneurial skills—ranging from creativity and persistence to opportunity recognition and team leadership.
+
+At **Week 8**, we’ll ask you to submit a short feedback form (3 questions) based on your interactions so far. This is not an evaluation—it’s a chance to offer encouragement and suggestions for growth. We’ll ask for a second round of feedback after the final case presentations in **Week 15**.
+
+Your perspective helps make this learning experience more real and more personal for each student.
+
+## Final Pitch Competition
+
+At the end of the semester, students will present their business concepts (inspired by your story) in a class-wide competition. You’ll be invited to attend as a guest and cheer them on.
+
+
+
+## Questions?
+
+Please reach out anytime to:
+
+**Lauren Chenarides**  
+<lauren.chenarides@colostate.edu>
+Colorado State University, Department of Agricultural and Resource Economics
+
+Thank you again—we’re so grateful to have you join us.

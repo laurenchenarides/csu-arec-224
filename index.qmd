@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Agribusiness Entrepreneurship"
 subtitle: "Fall 2025"
-image: "/files/images/hex-Energy-Climate-Policy.png"
+image: "/files/images/ag-stock-photo.jpg"
 sidebar: false
 toc: false
 css: /custom.css
@@ -40,7 +40,16 @@ Let's build something meaningful together.
 
 ## Reuse of material
 
-Please link my [site](https://github.com/laurenchenarides) and this [course site](https://github.com/laurenchenarides/csu-arec-224) to use any organized material. Copyrights belong to cited authors/creators. 
+Please link my [site](https://github.com/laurenchenarides) and this [course site](https://github.com/laurenchenarides/csu-arec-224) to use any organized material. Copyrights belong to cited authors/creators.
+
+## Acknowledgements
+
+This course redesign would not have been possible without the generous support and insight of many collaborators:
+
+- [**Jessica Hartung**](https://jessicahartung.com/), for her mentorship and guidance in shaping the vision and structure of this course  
+- [**CSU TILT**](https://tilt.colostate.edu/tilt-faculty-research-fellowship/), for awarding the 2025 Faculty Research Fellowship and supporting innovative teaching  
+- [**Our mentor cohort**](2025/mentors.qmd), for generously offering their time, experience, and encouragement to our students  
+- [**Dr. Aryn Baxter**](https://agsci.colostate.edu/directory/bio/?user=1165) and [**Dr. Jenny Bennett**](https://agsci.colostate.edu/directory/bio/?user=1170), for their thoughtful feedback and contributions to the course’s design and integrity  
 
 ## How to help  
 
