@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Open Course on Energy and Climate Policy developed by Dr. Gang He, covering energy policy, climate policy, energy and climate policy."
+description-meta: "Course on Agribusiness Entrepreneurship developed by Dr. Lauren Chenarides, exploring entrepreneurial thinking, business models, and market challenges in the food and agriculture sector."
 author-meta: "Lauren Chenarides"
 
 website:
   title: "Ag Entrepreneurship"
-  description: "Open Course on Energy and Climate Policy developed by Dr. Gang He."
+  description: "Course on Agribusiness Entrepreneurship developed by Dr. Lauren Chenarides."
   navbar:
     background: light
     left:
@@ -18,21 +18,21 @@ website:
         href: 2025/schedule.qmd
       - text: Lectures
         href: lectures.qmd
+      - text: Case Studies
+        menu:                           
+        - text: Access Coursepack
+          href: coursepack.qmd
+        - text: The Case Method
+          href: casemethod.qmd 
       - text: Mentors
         href: http://drganghe.github.io/climate-guest-speakers
         target: _blank
-      - text: Case Studies
-        menu:                           
-        - text: Policy Memo
-          href: policymemo.qmd 
-        - text: Resources
-          href: resources.qmd                
-      - text: Archive
-        menu:
-          - text: Fall 2024
-            href: 2024/schedule.qmd         
-          - text: Fall 2023
-            href: 2023/schedule.qmd                    
+      - text: Case Competition
+        href: competition.qmd                
+      # - text: Archive
+      #   menu:
+      #     - text: Fall 2025
+      #       href: 2025/schedule.qmd         
       - text: Dr. Lauren Chenarides
         href: https://scholar.google.com/citations?user=07RAgEQAAAAJ&hl=en
         target: _blank        

@@ -1,0 +1,22 @@
+---
+title: The Case Method
+format: 
+  html: 
+    theme: cosmo
+ #   css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+## Why Case Studies?
+
+What’s the most efficient way to learn? **From experience.**
+
+Case studies give you the **benefits of learning from experience—without having to live through it yourself**. You’ll get to analyze real decisions, real dilemmas, and real tradeoffs that entrepreneurs face, and use them to sharpen your own thinking.
+
+Each case is an opportunity to build a **deeper well of experience** you can draw from in your own entrepreneurial journey.
+

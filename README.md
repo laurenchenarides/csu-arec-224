@@ -1,26 +1,11 @@
-# PAF 9187 Energy and Climate Policy 
+# AREC 280-A1/224 Introduction to Agribusiness Entrepreneurship 
 
-This is the website for my Energy and Climate Policy class. I share class material here.  
-
-## Acknowledgment
-
-This class benefits from many similar classes and I cannot credit them enough below:  
-
-- Daniel Kammen, [Energy and Society](http://kammen.berkeley.edu/)  
-
-- Severin Borenstein, [Energy and Environmental Markets](http://courses.haas.berkeley.edu/descriptions/Descriptions/EWMBA212-1_Spring14.htm)  
-
-- Jon Koomey and Ian Monroe, [Solving Climate Change: A guide for learners and leaders](https://doi.org/10.1088/978-0-7503-4032-8)  
-
+This is the website for my Introduction to Agribusiness Entrepreneurship class. I share class material here.  
 
 ## Reuse of material
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">Open Course on <a property="dct:title" rel="cc:attributionURL" href="https://drganghe.github.io/energy-climate-policy/">Energy and Climate Policy</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://drganghe.github.io/">Dr. Gang He</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
-
-Please link my [site](https://drganghe.github.io) and this [course site](https://drganghe.github.io/energy-climate-society) to use any organized material. Copyrights belong to cited authors/creators. Example language to use:
-
-> This course/class benefits from the [Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy) class material developed by Dr. [Gang He](https://drganghe.github.io).
+Please link my [site](https://github.com/laurenchenarides) and this [course site](https://github.com/laurenchenarides/csu-arec-224) to use any organized material. Copyrights belong to cited authors/creators. 
 
 ## How to help  
 
-If you like this course, you can **Star** the course [repository](https://github.com/drganghe/energy-climate-policy) to help more people to see it. If you find any issue, please use the "Report an issue" on the right side of a specific page. You can help more people to access the open-source course by spreading the word. Comments and suggestions are very welcome.
+If you like this course, you can **Star** the course [repository](https://github.com/laurenchenarides/csu-arec-224) to help more people to see it. If you find any issue, please use the "Report an issue" on the right side of a specific page. You can help more people to access the open-source course by spreading the word. Comments and suggestions are very welcome.

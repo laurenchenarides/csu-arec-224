@@ -7,47 +7,42 @@ repo-actions: false
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-| Week | Date     | Day | Lecture / Case Study                                         | Textbook Chapter (Quiz Basis) | Assignment |
-|------|----------|-----|--------------------------------------------------------------|-------------------------------|------------|
-| –    | 8/25     |     | Semester Starts                                              |                               |            |
-| 1    | 8/26     | T   | Course intro, syllabus review, forming teams                | 1                             |            |
-| 1    | 8/28     | R   | Mock Case Study – Walk through debate process               |                               |            |
-| 2    | 9/2      | T   | The Entrepreneurial Mindset                                 | 2 & 3                         |            |
-| 2    | 9/4      | R   | Case Topic: The Founder’s Dilemma                           |                               |            |
-| 3    | 9/9      | T   | Leadership, Hiring & Team Building                          | 4                             |            |
-| 3    | 9/11     | R   | Case Topic: Hiring for Culture vs. Skills                   |                               |            |
-| 4    | 9/16     | T   | Identifying Market Gaps: From Problem to Solution           | 5                             |            |
-| 4    | 9/18     | R   | Case Topic: How Entrepreneurs Identify Market Needs         |                               |            |
-| 5    | 9/23     | T   | Business Models & Value Propositions                        | 6                             |            |
-| 5    | 9/25     | R   | Case Topic: Business Model Innovation                       |                               |            |
-| 6    | 9/30     | T   | Business Failures & Learning from Mistakes                  | 6                             |            |
-| 6    | 10/2     | R   | Case Topic: When to Pivot vs. When to Quit                  |                               |            |
-| 7    | 10/7     | T   | Supply Chain & Operations in Food & Agriculture             | 7                             |            |
-| 7    | 10/9     | R   | Case Topic: Scaling vs. Specialization in Agribusiness      |                               |            |
-| 8    | 10/14    | T   | Midterm Exam (In-Class, Covers Weeks 2–7)                   | –                             |            |
-| 8    | 10/16    | R   | No Case Study                                               |                               |            |
-| 9    | 10/21    | T   | Funding, Investment & Bootstrapping                         | 8                             |            |
-| 9    | 10/23    | R   | Case Topic: Venture Capital vs. Bootstrapping               |                               |            |
-|10    | 10/28    | T   | Customer Discovery & Competitive Advantage                  | 10                            |            |
-|10    | 10/30    | R   | Case Topic: Pricing & Market Positioning                    |                               |            |
-|11    | 11/4     | T   | Customer Acquisition & Sales                                | 10                            |            |
-|11    | 11/6     | R   | Case Topic: Customer Loyalty vs. Acquisition                |                               |            |
-|12    | 11/11    | T   | Business Case Workshop: Refining the Pitch                  | 12                            |            |
-|12    | 11/13    | R   | Case Topic: Effective Pitching & Storytelling               |                               |            |
-|13    | 11/18    | T   | Scaling, Growth Strategies & Operations                     | 13                            |            |
-|13    | 11/20    | R   | Case Topic: Growth Challenges in Startups                   |                               |            |
-|14    | 11/25    | T   | Fall Recess                                                 |                               |            |
-|14    | 11/27    | R   | Fall Recess (Thanksgiving)                                  |                               |            |
-|15    | 12/2     | T   |                                                              |                               |            |
-|15    | 12/4     | R   |                                                              |                               |            |
-|16    | 12/9     | T   | Course Wrap-Up & Professional Development Reflection        | No New Readings              |            |
-|16    | 12/11    | R   | Business Case Event                                         |                               |            |
-| –    | 12/12    |     | Last Day of Classes                                         |                               |            |
-| –    | 12/19    |     | End of Finals Week                                          |                               |            |
+| Week | Date       | Day | Topic                                                | Textbook Reading  (Quiz Basis)  |
+|------|------------|-----|------------------------------------------------------|----------------------------|
+| 1    | 8/26       | T   | Introduction to Entrepreneurship                     | Chapter 01                 |
+| 1    | 8/28       | R   | Case Study: Roberto (2022), *Case Companion*         |                            |
+| 2    | 9/2        | T   | Entrepreneurial Mindset                              | Chapters 02 & 03           |
+| 2    | 9/4        | R   | Case Study: McGinnis & Lafkas (2020), *Stirring the Lobster Pot* |                |
+| 3    | 9/9        | T   | Social Entrepreneurship                              | Chapter 04                 |
+| 3    | 9/11       | R   | Case Study: Dann et al. (2024), *Small Niches, Big Promise* |                    |
+| 4    | 9/16       | T   | Innovation & Creativity                              | Chapter 05                 |
+| 4    | 9/18       | R   | Case Study: Knapp et al. (2019), *Chewse*            |                            |
+| 5    | 9/23       | T   | Opportunity Assessment                               | Chapter 06                 |
+| 5    | 9/25       | R   | Case Study: Ghosh & Maslauskaite (2016), *Dinr*      |                            |
+| 6    | 9/30       | T   | Venture Pathways                                     | Chapter 07                 |
+| 6    | 10/2       | R   | Case Study: Hoffman (2021), *White Oak Pastures*     |                            |
+| 7    | 10/7       | T   | Entrepreneurial Finance                              | Chapter 08                 |
+| 7    | 10/9       | R   | Case Study: Hyde et al. (2022), *Sunomi Switchel*    |                            |
+| 8    | 10/14      | T   | Midterm Exam (In-Class)                              | –                          |
+| 8    | 10/16      | R   | No Case Study                                        |                            |
+| 9    | 10/21      | T   | Legal & Marketing Challenges                         | Chapters 09 & 10           |
+| 9    | 10/23      | R   | Case Study: Hoffman (2020), *JUST, Inc.*             |                            |
+| 10   | 10/28      | T   | Financial Planning & Business Plans                  | Chapters 11 & 12           |
+| 10   | 10/30      | R   | Case Study: Salwan & Kate (2024), *Nano Ganesh*      |                            |
+| 11   | 11/4       | T   | Growth & Scaling                                     | Chapter 13                 |
+| 11   | 11/6       | R   | Case Study: Morkunas & Matheson (2020), *Blue Sky Ranch* |                      |
+| 12   | 11/11      | T   | Valuation of Ventures                                | Chapter 14                 |
+| 12   | 11/13      | R   | Case Study: Serafeim & Norris (2023), *Seeds of Innovation* |                  |
+| 13   | 11/18      | T   | Harvesting & Exit Strategies                         | Chapter 15                 |
+| 13   | 11/20      | R   | Case Study: Parker et al. (2019), *Yuser*            |                            |
+| 14   | 11/25      | T   | Fall Recess                                          |                            |
+| 14   | 11/27      | R   | Fall Recess (Thanksgiving)                           |                            |
+| 15   | 12/2       | T   | Final Project Workshop                               | –                          |
+| 15   | 12/4       | R   | Final Project Mentorship or Review                   |                            |
+| 16   | 12/9       | T   | Course Wrap-Up                                       | –                          |
+| 16   | 12/11      | R   | Business Case Event                                  |                            |
 
 : {.striped .responsive}
 
-Note: T--Tuesday; R--Thursday; HW--Homework Assignment 
+Note: T--Tuesday; R--Thursday
 
-<!--Include social share buttons-->
-{{< include /files/includes/_socialshare.qmd >}}

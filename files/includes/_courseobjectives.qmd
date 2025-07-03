@@ -6,3 +6,28 @@
 - Collaborate effectively in teams to research, analyze, and present solutions to agribusiness challenges (teamwork and collaboration)
 - Demonstrate professionalism by engaging with mentors through structured meetings (professional engagement)
 - Reflect on experiential learning activities to articulate personal growth and professional skill development (reflective and experiential learning)
+
+
+:::{.callout-note collapse=true icon=false}
+## DARE Learning Outcomes
+
+Successful graduates from undergraduate programs in Agricultural and Resource Economics will exhibit the following characteristics:
+
+**Professional Development:** Graduates will embody a general awareness of issues in agricultural and natural resource and education issues and their implications in a larger societal context. Students will begin to develop a network of personal and professional connections, which will foster an understanding of the culture surrounding professional expectations and conduct.
+
+**Technical Competence:** Graduates will demonstrate technical competency including the ability to use theory in formulating analytical problems, identifying and gathering appropriate data, employing appropriate analysis of those problems, utilizing appropriate available technology, and educating others.
+
+**Problem-solving Skills:** Graduates will demonstrate the ability to solve real-world problems beyond the context of the classroom. Students will be able to identify a problem and its scope, evaluate resources available to address the problem, formulate alternative solutions, and select the solution(s) most consistent with a stated objective.
+
+**Communication Skills:** Graduates will demonstrate proficiency in oral and written communication in terms of substance, organization, mechanics, documentation, and synthesis. Proficient students will have the ability to communicate material and findings at a professional level within their chosen career.
+
+**Leadership:** Graduates will have developed leadership qualities that they will use in their professional, personal and community interactions leveraging the other competencies acquired in the program. These leadership qualities include vision, initiative, personal responsibility, team building, and motivating collective action.
+:::
+
+This course will contribute to several DARE Learning Outcomes:
+
+- You will develop **problem-solving skills** by identifying gaps in the market, evaluating potential solutions, and designing viable agribusiness models. Through weekly case studies, you will practice applying economic reasoning and entrepreneurial thinking to real-world decisions.
+- You will strengthen your **communication skills** by crafting and delivering business pitches, participating in structured debates, and conducting interviews with entrepreneurs and mentors.
+- You will gain **professional development** experience through interaction with industry mentors, peer collaboration, and exposure to current challenges in food and agricultural markets.
+- Finally, you will have opportunities to practice **leadership** by working in teams, taking initiative in your final business case project, and guiding your peers through collaborative learning experiences.
+

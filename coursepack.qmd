@@ -1,0 +1,36 @@
+---
+title: Coursepack Access
+format: 
+  html: 
+    theme: cosmo
+ #   css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+We will be using a series of case studies from **Harvard Business Impact** to guide our in-class discussions. You can purchase the full coursepack at the following link:
+
+👉 [Access Coursepack Here](https://hbsp.harvard.edu/import/1220179)
+
+
+### Case Studies (From Harvard Business Impact)
+
+| Week | Case Study Title |
+|------|------------------|
+| 1    | Michael A. Roberto. (2022). *Case Companion* |
+| 2    | Patrick J. McGinnis, John Lafkas. (2020). *Stirring the (Lobster) Pot: A Podcase with Luke Holden of Luke's Lobster* |
+| 3    | Jeremy B. Dann, Halle Baerenstecher, Ishan Chhabra, Axl Holmes, Sydney Willoughby. (2024). *Small Niches, Big Promise: Entrepreneurial Opportunities in Sustainable Business* |
+| 4    | Thomas Knapp, Erna Redzepagic, Benjamin Rostoker. (2019). *Chewse: Delivering a Culture of Love* |
+| 5    | Shikhar Ghosh, Kristina Maslauskaite. (2016). *Dinr: My First Start-Up (A)* |
+| 6    | Andrew Hoffman. (2021). *White Oak Pastures: A Radically Traditional Farm Redefines Growth* |
+| 7    | Lindsay N. Hyde, Shani Carter McKinney, Alexandra Horvitz. (2022). *Sunomi Switchel: Time to Switch?* |
+| 9    | Andrew Hoffman. (2020). *JUST, Inc.: Clean Meat and the Future of Protein Alternatives* |
+| 10   | Prashant Salwan, Nilesh Kate. (2024). *Nano Ganesh: Parts 1 and 2* |
+| 11   | Vida J. Morkunas, Kristin Matheson. (2020). *Blue Sky Ranch: Sustainable Meat* |
+| 12   | George Serafeim, Michael Norris. (2023). *Seeds of Innovation: GALY's Quest to Cultivate the Future of Agriculture in the Lab* |
+| 13   | Simon Parker, Lawrence A. Plummer, Eunika Sot. (2019). *Yuser: Pitching a New Social Networking App* |
+
