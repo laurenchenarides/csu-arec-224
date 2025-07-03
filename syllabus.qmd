@@ -1,5 +1,6 @@
 ---
 title: Syllabus
+subtitle: "AREC 280-A1/224 (Fall 2025)"
 format: 
   html: 
     theme: cosmo
