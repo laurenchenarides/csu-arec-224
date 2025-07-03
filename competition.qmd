@@ -1,5 +1,12 @@
 ---
 title: Business Case Competition
+format: 
+  html: 
+    theme: cosmo
+ #   css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
 ---
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->

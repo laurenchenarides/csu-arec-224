@@ -15,13 +15,32 @@ repo-actions: false
 
 👉 [Access Syllabus Here](syllabus.qmd)
 
-{{< include /files/includes/_courseobjectives.qmd >}}
+## Why This Course Matters
 
+In this course, we're not just studying entrepreneurship—we're practicing it.
+
+You don’t need to be a startup founder to have an entrepreneurial mindset. Whether you launch your own venture or work within an existing organization, entrepreneurship is about solving problems, creating value, and navigating uncertainty with creativity and resourcefulness.
+
+We’ll explore both **entrepreneurship** and **intrapreneurship**—what it looks like to lead innovation from inside a company, nonprofit, or public agency. These skills are relevant no matter where your career takes you.
+
+### Our Learning Culture
+
+I want you to imagine we’re all part of the same organization—one where everyone’s success depends on how well we collaborate, share ideas, and support each other’s growth. That means:
+
+- We take initiative and hold ourselves accountable.
+- We celebrate experimentation and embrace failure as part of the process.
+- We give and receive feedback with curiosity and respect.
+- We build a culture that reflects the kind of teams we’d want to work on in the real world.
+
+My goal is to help you **connect what you're learning to real decisions and real contexts**. By the end of the course, you’ll have experience identifying problems, framing solutions, testing ideas, and communicating your value—skills you can carry into any industry or role.
+
+Let's build something meaningful together.
+
+<iframe src="https://scontent-den2-1.xx.fbcdn.net/v/t51.75761-15/465823672_18089867422509818_4597754773044375533_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8lFXKUDnrJsQ7kNvwGLHm8X&_nc_oc=AdkgElylkUec3_GJ5KIWgwDYUKBaVaCeRl47QFLcog4c51Tdz6T63IaZmQCMfG7gJvA&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=KFcRm5NZHeicU21NWW1bEQ&oh=00_AfNgvUaXZ-ieXgJ4XX1B9CCVSfQiQtgQzjc8wjg5MDFJ-Q&oe=686CB851" width="100%" height="600px"></iframe>
 
 ## Reuse of material
 
 Please link my [site](https://github.com/laurenchenarides) and this [course site](https://github.com/laurenchenarides/csu-arec-224) to use any organized material. Copyrights belong to cited authors/creators. 
-
 
 ## How to help  
 

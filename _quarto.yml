@@ -22,13 +22,17 @@ website:
         menu:                           
         - text: Access Coursepack
           href: coursepack.qmd
+        - text: Case Study Assignment
+          href: 2025/signups.qmd
         - text: The Case Method
           href: casemethod.qmd 
+      - text: Case Competition
+        href: competition.qmd                
       - text: Mentors
         href: http://drganghe.github.io/climate-guest-speakers
         target: _blank
-      - text: Case Competition
-        href: competition.qmd                
+      - text: Podcast
+        href: podcast.qmd                
       # - text: Archive
       #   menu:
       #     - text: Fall 2025

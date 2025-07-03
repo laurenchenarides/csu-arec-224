@@ -74,31 +74,55 @@ Both the textbook and case studies are required for full participation in the co
 
 Final grades will be calculated as follows:
 
-<div style="width:550px">
+<div style="width:600px">
 Item                           | Weight | Notes
 -------------------------------|--------|-------------------------------------
-Weekly quizzes                 | 30 %   | 6 responses
-Assignments                    | 20 %   | 4 assignments
-Project: Proposal              | 10 %   | 
-Project: Presentation          | 20 %   |
-Project: Policy memo           | 20 %   |
-
+Weekly Quizzes                 | 10 %   | 12 quizzes, lowest two scores dropped
+Midterm Exam                   | 20 %   | In-class exam covering weeks 2–7
+Case Study: Fishbowl Assignment | 20 %   | Based on your assigned fishbowl week
+Case Study: Observer Assignment | 10 %   | Based on your assigned observer week
+Case Study: Weekly Reflections  | 15 %   | 9 required + 1 homework assignment for the Case Companion in Week 1
+Podcase                         | 10 %   | Team-produced episode and transcript
+Business Case Competition       | 15 %   | Final pitch + written brief
 </div>
+
+All assignments—quizzes, reflections, case write-ups, and project materials—will be submitted via **Canvas**. Deadlines and submission links will be listed in the weekly modules.
+
+### Grading Policies
+
+- **Late submissions are not accepted.** Any assignment submitted after the deadline will automatically receive a zero.
+- **Quiz Policy:** The **two lowest quiz scores will be dropped** when calculating your final grade.
+- All graded components are weighted individually and not curved.
+- Participation in both Fishbowl and Observer roles is required for passing the course.
 
 
 ## Grading Scale
 
 <div style="width:400px">
-Grade  | Range       | Grade | Range
--------|-------------|-------|------------
-A      | 93 - 100%   | C     | 73 - 76.9%
-A-     | 90 - 92.9%  | C-    | 70 - 72.9%
-B+     | 87 - 89.9%  | D+    | 67 - 69.9%
-B      | 83 - 86.9%  | D     | 63 - 66.9%
-B-     | 80 - 82.9%  | D-    | 60 - 62.9%
-C+     | 77 - 79.9%  | F     | < 60%
+Grade | Range       | Grade | Range
+------|-------------|-------|------------
+A+    | 100% – 96.67% | C+  | 79.99% – 76.67%
+A     | 96.66% – 93.34% | C   | 76.66% – 70.00%
+A-    | 93.33% – 90.00% | D   | 69.99% – 60.00%
+B+    | 89.99% – 86.67% | F   | < 60.00%
+B     | 86.66% – 83.34% |     | 
+B-    | 83.33% – 80.00% |     | 
 </div>
 
+[*In accordance with Canvas Grading Schemes.*](https://canvas.colostate.edu/grading-schemes/)
+
+> Grades are assigned based on demonstrated learning outcomes—not effort alone. However, consistent effort *does* improve your ability to meet expectations and raise your performance over time.
+
+:::{.callout-note collapse=true icon=false}
+### What Do These Grades Represent?
+
+- **A+ (Exceptional):** Demonstrates *mastery* of the material with *original insight* or *exceptional quality*. Represents the highest level of academic performance and intellectual engagement. Reserved for work that exceeds typical A-level expectations in clarity, depth, and creativity.
+- **A / A- (Excellent):** Indicates strong understanding, analytical skill, and consistent engagement. Work is thorough, well-reasoned, and clearly presented.
+- **B Range (Good):** Solid performance with room for deeper insight or stronger execution. Meets course expectations and reflects a competent grasp of material.
+- **C Range (Satisfactory):** Adequate understanding of core concepts, though analysis may be basic or inconsistently applied.
+- **D (Poor):** Partial understanding or weak demonstration of concepts. Assignments may be incomplete or show significant gaps.
+- **F (Failing):** Inadequate performance or failure to meet minimum course requirements.
+:::
 
 {{< include /files/includes/_communityprinciples.qmd >}}
 
