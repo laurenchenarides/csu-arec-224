@@ -33,7 +33,7 @@ Make sure to check the schedule below to match your slot with the corresponding 
 
 ### Weekly Case Study Assignments
 
-[*Refer back to course schedule.*](schedule.qmd)
+[*Refer back to course schedule for corresponding dates.*](schedule.qmd)
   
 | Week | Case Study | Fishbowl Team | Observer Team |
 |------|------------|----------------|----------------|
@@ -50,3 +50,4 @@ Make sure to check the schedule below to match your slot with the corresponding 
 | 12   | George Serafeim, Michael Norris. (2023). *Seeds of Innovation* | Team I | Team H |
 | 13   | Simon Parker et al. (2019). *Yuser* | Team J | Team I |
 
+**All students will complete a homework assignment for Week 1: *Case Companion.***

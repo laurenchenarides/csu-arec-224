@@ -6,6 +6,19 @@ format:
     toc: true
     link-external-icon: false
     link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true    
 ---
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
@@ -21,9 +34,9 @@ This guide outlines your role, the timeline, and how to prepare.
 
 You’ll be paired with a small group of students (a "pod") who will:
 
-- Interview you in a **student-produced podcast** (recorded on campus)
+- Interview you in a student-produced podcast (recorded on campus)
 - Prepare a business case concept based on your story
-- Present the business case concept at the **end-of-semester competition** (think of this as a "story-telling" event)
+- Present the business case concept at the end-of-semester competition (think of this as a "story-telling" event about your entrepreneurial journey—framed around a real dilemma or decision point that students explored and built into a formal case study).
 
 As a mentor, you will:
 
@@ -46,7 +59,7 @@ The table below outlines major milestones involving mentor-student engagement, a
 | 4–6  | Podcast Interview | Attend a 30–40 min recorded podcast session at CSU studio | Host and produce podcast episode featuring mentor’s story |
 | 8    | Mid-Semester Feedback | Submit short feedback form for each student in your pod | Receive and reflect on mentor feedback for E-IDP refinement |
 | 12–13 | Second Pod Meeting | Join second 30–45 min check-in; provide guidance on business case direction | Present progress on business concept and solicit mentor input |
-| 15   | Final Competition | Attend and watch student pitches; submit final feedback form | Present final business case inspired by mentor story |
+| 15   | Final Competition | Attend and watch student presentations; submit final feedback form | Present final business case inspired by mentor story |
 
 
 We’ll coordinate scheduling via email and provide reminders.
@@ -71,7 +84,7 @@ You’re welcome to share lessons, numbers, pivots, and surprises—anything tha
 
 ## Supporting Your Pod
 
-You’ll meet your student group twice—once mid-semester and once as they prepare for final pitches. These are informal 30–45 minute virtual or in-person sessions.
+You’ll meet your student group twice—once mid-semester and once as they prepare for final case presentations. These are informal 30–45 minute virtual or in-person sessions.
 
 Students may ask for your perspective on:
 
@@ -91,18 +104,43 @@ At **Week 8**, we’ll ask you to submit a short feedback form (3 questions) bas
 
 Your perspective helps make this learning experience more real and more personal for each student.
 
-## Final Pitch Competition
+## Final Case Competition
 
 At the end of the semester, students will present their business concepts (inspired by your story) in a class-wide competition. You’ll be invited to attend as a guest and cheer them on.
 
+📅 **Save the Date:**  
+**Thursday, December 11, 2025**  
+**5:00–7:00 p.m.**  
+**Nutrien Building, Room 135** (Colorado State University)
 
+🎉 Expect lively presentations, creative ideas, and some light refreshments.
+
+📥 **[Add to Outlook Calendar (.ics)](/files/Final-Case-Competition-2025.ics)**  
+Click the link above to download and open the calendar invite.
+
+👉 [View Case Competion Assignment](../competition.qmd) to see what they're expected to prepare.
+
+## Travel Reimbursement
+
+If you travel to Fort Collins to participate in the podcast interview or final case competition, we can reimburse you for travel-related expenses.
+
+Eligible expenses may include:
+
+- Mileage (based on standard CSU reimbursement rates)
+- Parking costs
+- Meals
+
+To process a reimbursement, you’ll need to complete a CSU vendor request form.<br>
+👉 Please let us know in advance if you plan to request reimbursement so we can set you up in the system and provide the necessary paperwork.
+
+Be sure to save any receipts for expenses you’d like reimbursed.
 
 ## Questions?
 
 Please reach out anytime to:
 
 **Lauren Chenarides**  
-<lauren.chenarides@colostate.edu>
+<lauren.chenarides@colostate.edu> <br>
 Colorado State University, Department of Agricultural and Resource Economics
 
 Thank you again—we’re so grateful to have you join us.

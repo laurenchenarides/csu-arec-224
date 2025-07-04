@@ -18,15 +18,15 @@
     ]
   },
   {
-    "listing": "/2024/students.html",
-    "items": []
-  },
-  {
     "listing": "/2025/mentors.html",
     "items": [
       "/2025/bios/mentor2.html",
       "/2025/bios/mentor1.html",
       "/2025/bios/mentor3.html"
     ]
+  },
+  {
+    "listing": "/2024/students.html",
+    "items": []
   }
 ]

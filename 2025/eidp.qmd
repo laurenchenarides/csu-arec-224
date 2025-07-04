@@ -13,27 +13,39 @@ format:
 
 ## What Is the E-IDP?
 
-The Entrepreneurial Individual Development Plan (E-IDP) is a tool to help you grow professionally throughout this course. It’s based on the idea that entrepreneurship is not just about launching a business—it’s about cultivating a mindset and a set of core competencies that apply across professional settings.
+The Entrepreneurial Individual Development Plan (E-IDP) is a professional growth tool you’ll use throughout this course. Think of it like a workplace development plan: you’ll identify a few key areas to focus on, set goals, and track your progress with input from a mentor.
+
+Entrepreneurship isn’t just about launching a business—it’s about developing a mindset and skillset that can be applied in any career. The E-IDP gives you space to:
 
 You will use the E-IDP to:
 
-- Reflect on your entrepreneurial strengths and areas for growth
-- Track your development over the semester
-- Receive feedback from mentors based on real-world interaction
-- Identify habits or patterns that support or inhibit your success
+- Reflect on your entrepreneurial strengths and growth areas
+- Track your development throughout the semester
+- Receive feedback from your mentor based on real-world interaction
+- Notice patterns in how you work and learn
 
-This is also the tool your mentor will use to get to know you and support your development. You’ll complete a **self-assessment at the beginning and end of the course**, using the characteristics below as your guide. Mentors will also give feedback on your development mid-semester and at the end of the semester.
+Your mentor will also use the E-IDP to support your developmentb by giving you feedback on your development mid-semester and at the end of the semester. You’ll each be working from the same set of 42 entrepreneurial characteristics (listed below).
 
 👉 [View Mentor Instructions](mentor-instructions.qmd) to understand what they'll see.
 
+## Instructions: How to use the E-IDP
+
+You’ll focus on just **three** characteristics that feel meaningful or relevant to you right now. You’ll return to these throughout the semester:
+
+| Week | What You'll Do         |
+|--------|-----------------------------|
+| 1  | Choose 3 characteristics. Complete your baseline self-assessment **in Canvas** and explain why you chose them. |
+| 8  | Your mentor will complete a brief check-in assessment on your progress. You’ll review their feedback and update your E-IDP. |
+| 15  | Complete a final self-assessment and write a short reflection on how you’ve grown. |
+
+You don’t need to be "good" at something to choose it. You might pick something you want to strengthen or explore. The goal is clarity and growth—not perfection.
+
 ## Entrepreneurial Characteristics
 
-The table below includes 42 personal characteristics associated with entrepreneurial success. These are drawn from Kuratko's *Entrepreneurship: Theory, Process, and Practice* (11th Edition), and you’ll use them to shape your self-assessment and reflection throughout the course.
-
-Each characteristic can be rated on a scale of 1 (low) to 5 (high) in terms of how much it describes you **right now**. The goal is not to score perfectly, but to notice where you’re growing.
+The table below includes 42 personal characteristics associated with entrepreneurial success. These are drawn from Kuratko's *Entrepreneurship: Theory, Process, and Practice* (11th Edition). You’ll use these to guide your self-assessments and reflection.
 
 | # | Characteristic             | Description |
-|----|-----------------------------|-------------|
+|----|-------------|-----------------------------
 | 1  | Commitment                 | Willingness to do what it takes to make the venture work |
 | 2  | Determination             | Persistence and resilience when faced with obstacles |
 | 3  | Opportunity Orientation   | Constantly looking for opportunities |
@@ -77,17 +89,9 @@ Each characteristic can be rated on a scale of 1 (low) to 5 (high) in terms of h
 | 41 | Focus                     | Ability to concentrate on tasks and goals |
 | 42 | Follow-Through            | Completing what you start |
 
-
-
-## How You'll Use This
-
-- **Week 1**: Complete your baseline self-assessment using a form provided on Canvas.
-- **Mid-Semester**: Your mentor will complete a short evaluation based on their interactions with you.
-- **End of Semester**: Complete your final self-assessment and submit a reflection comparing your growth over time.
-
-You can use this data to write your final reflection or even include in future job materials (e.g. internship reflections, personal statements, cover letters).
-
-
+::: {.callout-note icon=false title="Source"}
+Adapted from Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (11th ed.). Cengage Learning.
+:::
 
 ## Why It Matters
 
@@ -96,6 +100,3 @@ Entrepreneurship is not just about starting businesses—it's about being someon
 The E-IDP is designed to help you **notice how you grow**, and give you structured support along the way.
 
 
-::: {.callout-note}
-**Source:** Adapted from Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (11th ed.). Cengage Learning.
-:::

@@ -23,7 +23,7 @@ website:
         - text: Access Coursepack
           href: coursepack.qmd
         - text: "Weekly Assignments & Signups"
-          href: 2025/signups.qmd
+          href: 2025/case-assignment.qmd
         - text: How We Use Case Studies
           href: casemethod.qmd 
       - text: Case Competition
