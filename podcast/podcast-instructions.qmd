@@ -95,8 +95,8 @@ Each pod member will take on a defined role:
 
 Your podcase will be evaluated based on:
 
-| Criteria                     | Points | Description |
-|-----------------------------|--------|-------------|
+| Criteria         | Points | Description |
+|----------------|--------|-------------------------------|
 | **Depth of research + prep**    | 25     | Evidence of thoughtful background research, preparation, and familiarity with the mentor’s work and industry. |
 | **Interview quality + flow**    | 25     | Questions are clear and engaging; conversation flows naturally and professionally; follow-ups deepen the discussion. |
 | **Insightful show notes**       | 25     | Notes accurately summarize the episode, highlight key takeaways, and are clearly written for an external audience. |

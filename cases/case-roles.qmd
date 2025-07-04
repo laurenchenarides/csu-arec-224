@@ -12,15 +12,15 @@ format:
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-Each student in this course will engage with our weekly case studies in three ways: 
+Each student in this course will engage with our weekly case studies in *one of three* ways: 
 
 (1) A **Fishbowl participant**
 (2) An **Observer** 
 (3) A **weekly submitter** of a short written reflection
 
-Here's what to expect in each role:
+## Role Expectations
 
-## 🗣️ Fishbowl Team
+### 🗣️ Fishbowl Team
 
 You and your team will lead the in-class case discussion for your assigned week. This is your chance to take the perspective of an entrepreneur, investor, or analyst—and practice real-time decision-making and communication.
 
@@ -36,7 +36,7 @@ You and your team will lead the in-class case discussion for your assigned week.
 - [Case Analysis Worksheet](https://eproduct.hbsp.harvard.edu/eproduct/product/t_case_companion/content/assets/Case-Analysis-Checklist_HBP_EducationForm_en.e891f435.pdf)
 - [Michael A. Roberto. (2022). *Case Companion*](coursepack.qmd)
 
-## 👁️ Observer Team
+### 👁️ Observer Team
 
 Your job is to observe the fishbowl discussion critically and constructively. You will model active listening and provide structured feedback to your peers.
 
@@ -50,7 +50,7 @@ Your job is to observe the fishbowl discussion critically and constructively. Yo
 
 You’ll submit your feedback via Canvas right after class.
 
-## ✏️ All Students: Weekly Pre-Class Reflection
+### ✏️ All Students: Weekly Pre-Class Reflection
 
 Every student will complete a short reflection before each Thursday class, due by **11:59pm the night before**.
 
