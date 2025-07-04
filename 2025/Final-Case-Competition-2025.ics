@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Colorado State University//AREC 224//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:20251211T000000Z-CSU-AREC224@colostate.edu
+DTSTAMP:20250701T180000Z
+DTSTART;TZID=America/Denver:20251211T170000
+DTEND;TZID=America/Denver:20251211T190000
+SUMMARY:Save the Date: Intro to Agribusiness Entrepreneurship Case Competition
+DESCRIPTION:Join us for the final case competition for Intro to Agribusiness Entrepreneurship. Students will present business concepts inspired by their mentor's story in a live pitch-style event. Light refreshments provided.
+LOCATION:Nutrien Building Room 135, Colorado State University, Fort Collins, CO
+ORGANIZER;CN=Lauren Chenarides:MAILTO:Lauren.Chenarides@colostate.edu
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

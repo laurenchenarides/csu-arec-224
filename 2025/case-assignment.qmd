@@ -1,5 +1,5 @@
 ---
-title: Case Study Assignment
+title: Case Study Assignments
 format: 
   html: 
     theme: cosmo
