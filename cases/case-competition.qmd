@@ -1,0 +1,102 @@
+---
+title: Business Case Competition
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+## Overview
+
+This is not a Shark Tank-style pitch. Instead, you'll develop a business case grounded in your mentor’s entrepreneurial experience.
+
+Your goal is to present a real-world decision or dilemma they’ve faced—or one they could realistically face—framed in a way that invites critical thinking and discussion, much like the case studies we’ve covered throughout the semester. The emphasis is on clarity, depth, and relevance.
+
+At the center of your case is a guiding question:
+
+**What should the entrepreneur do next—and why?**
+
+You’re not being asked to provide the final answer. Instead, your job is to build a thoughtful, well-researched case that helps others understand the decision context and weigh the tradeoffs.
+
+## Team Structure
+
+At the start of the course, you were matched with a mentor and placed into a pod. Your **case competition team will be the same as your podcast pod**. You’ll work with this group throughout the semester—interviewing your mentor, learning about their entrepreneurial journey, and building a business case inspired by it.
+
+Your task now is to develop a case rooted in your mentor’s real-life experience—a decision they’ve faced (or could realistically face)—and extend it with original research, thoughtful analysis, and creative framing.
+
+Just like the cases we've studied, your business case should raise a meaningful dilemma and present enough context for others to discuss and engage with it critically.
+
+## Deliverables
+
+Each team will turn in **three items** as part of your final case competition. These should be polished, clear, and based on your mentor’s real-world experience.
+
+| Deliverable                  | What It Is                                           | What to Focus On                                                                                                                                     |
+|-----------------------------|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Written Case (4–6 pages)**| A short case study modeled after the ones we’ve read.| Provide background on your mentor and their business, describe a real decision they faced (or could face), and set up a dilemma with no “right” answer. End with 2–3 guiding questions. Do **not** include a solution. |
+| **Live Presentation (8–10 min)** | A team presentation delivered during our final session. | Present your case in a way that brings it to life. Walk us through the situation, what’s at stake, and why it matters. Focus on clear storytelling—not on pitching your own idea. |
+| **Slide Deck**              | Visual support for your live presentation.           | Keep slides simple and focused. Use them to support your story—not distract from it. You can include visuals, charts, or key facts. Avoid putting too much text on slides. |
+
+All materials will be submitted via Canvas. Aim for a tone that’s professional but approachable. You’re telling a real story that should spark discussion, not solving it for your audience.
+
+## Structure of the Written Case
+
+Use the following structure as a guide:
+
+1. **Title**  
+   A compelling and relevant title that hints at the decision/dilemma.
+
+2. **Opening Hook**  
+   Start in the middle of the action—a quote, moment, or decision point.
+
+3. **Background**  
+   Provide context on the business, mentor, and market environment.
+
+4. **The Challenge**  
+   What dilemma or opportunity are they facing? What’s at stake?
+
+5. **Data and Decision Factors**  
+   Include relevant information the reader needs to consider (e.g., customer data, financials, trends).
+
+6. **Guiding Questions**  
+   2–4 questions to guide discussion. (E.g., "Should they expand into wholesale?" "How can they balance mission with growth?")
+
+## Timeline and Milestones
+
+This timeline outlines the key milestones for your **Business Case Competition** project. You’ll work closely with your mentor and pod throughout the semester. Check the [course schedule](../2025/schedule.qmd) for exact dates.
+
+| Week     | Milestone                      | What You Need to Do                                                                 | What Your Mentor Will Do                                      |
+|----------|--------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| 1        | Course Launch                  | Begin learning about case studies, podcasting, and interviewing                     | –                                                             |
+| 2        | Reach Out to Mentor            | Contact your mentor and schedule an intro meeting (virtual or in-person)            | Respond to your outreach and confirm meeting time             |
+| 3–4      | First Pod Meeting              | Meet as a group (30–45 min); prepare thoughtful questions; take notes               | Join the meeting and share background + experiences           |
+| 4–6      | Podcast Interview              | Host and produce your mentor’s podcast episode at the CSU studio                    | Participate in the interview                                  |
+| 8        | Mid-Semester Feedback          | Review your mentor’s feedback and update your E-IDP                                 | Submit feedback for each student in the pod                   |
+| 12–13    | Second Pod Meeting             | Share your business case concept; ask for feedback and guidance                     | Provide input on the direction of your project                |
+| 15       | Final Case Competition         | Submit your written case, slide deck, and present during the final class session    | Attend the competition and submit final feedback              |
+
+
+## How You’ll Be Graded
+
+Your business case will be evaluated based on:
+
+| Category | Points | Description |
+|----------|--------|------------------------|
+| **Clarity of Dilemma** | 30 | A real, well-framed decision point grounded in your mentor’s experience |
+| **Research & Insight** | 30 | Thoughtful context, use of class concepts, and original insight |
+| **Storytelling & Structure** | 30 | Engaging writing and presentation; well-organized, logical flow |
+| **Teamwork & Collaboration** | 30 | Evidence of shared work, responsiveness to mentor feedback |
+| **Presentation Delivery** | 30 | Clear, professional, and engaging delivery during final presentation |
+
+**Total: 150 points** (15% of final grade)
+
+> Remember: Every case we’ve studied this semester started with a real person facing a hard choice. Your mentor’s story is just as rich, and your challenge is to bring it to life.
+
+::: {.callout-tip}
+Want a refresher on what makes a good case?  
+[Watch this quick explainer on how HBS cases are written](https://youtu.be/h80hmEAGBbM?si=4oCPlv7kuS_at3Z4).
+:::

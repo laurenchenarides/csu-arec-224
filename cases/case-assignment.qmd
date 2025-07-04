@@ -1,0 +1,53 @@
+---
+title: Case Study Assignments
+format: 
+  html: 
+    theme: cosmo
+ #   css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+Each student will participate in:
+
+- **One Fishbowl** team: you’ll lead the case discussion for a specific case study
+- **One Observer** team: the week after your Fishbowl discussion, you’ll observe and reflect on the next team’s discussion
+
+All students, *except the fishbowl team*, submit a **pre-class reflection** every week.
+
+You only need to sign up for **one Fishbowl week**—your Observer role will be assigned based on that.
+
+[See Role Expectations](case-roles.qmd)
+
+### Sign Up for Your Fishbowl Week
+
+Please sign up for **one Fishbowl slot** using the link below:
+
+👉 [Sign up here on Signup Genius](https://www.signupgenius.com/go/your-custom-link)
+
+Make sure to check the schedule below to match your slot with the corresponding case study.
+
+### Weekly Case Study Assignments
+
+[*Refer back to course schedule for corresponding dates.*](schedule.qmd)
+  
+| Week | Case Study | Fishbowl Team | Observer Team |
+|------|------------|----------------|----------------|
+| 1    | Michael A. Roberto. (2022). *Case Companion* | – | – |
+| 2    | Patrick J. McGinnis, John Lafkas. (2020). *Stirring the (Lobster) Pot: A Podcase with Luke Holden of Luke's Lobster* | – | – |
+| 3    | Jeremy B. Dann et al. (2024). *Small Niches, Big Promise* | Team A | Team J |
+| 4    | Thomas Knapp et al. (2019). *Chewse* | Team B | Team A |
+| 5    | Shikhar Ghosh, Kristina Maslauskaite. (2016). *Dinr* | Team C | Team B |
+| 6    | Andrew Hoffman. (2021). *White Oak Pastures* | Team D | Team C |
+| 7    | Lindsay N. Hyde et al. (2022). *Sunomi Switchel* | Team E | Team D |
+| 9    | Andrew Hoffman. (2020). *JUST, Inc.* | Team F | Team E |
+| 10   | Prashant Salwan, Nilesh Kate. (2024). *Nano Ganesh* | Team G | Team F |
+| 11   | Vida J. Morkunas, Kristin Matheson. (2020). *Blue Sky Ranch* | Team H | Team G |
+| 12   | George Serafeim, Michael Norris. (2023). *Seeds of Innovation* | Team I | Team H |
+| 13   | Simon Parker et al. (2019). *Yuser* | Team J | Team I |
+
+**All students will complete a homework assignment for Week 1: *Case Companion.***
