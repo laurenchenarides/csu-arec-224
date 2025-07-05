@@ -1,0 +1,28 @@
+---
+title: "Bob Welch"
+description: "Ag-sector investor and innovator bridging cattle markets, capital, and entrepreneurship"
+image: "bob-welch-crop.jpg"
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+![](bob-welch.jpg){fig-align="left" width=300}
+
+
+**Background:** Bob grew up on a ranch north of Calhan, Colorado, where early exposure to ranch life and storytelling around cow camps inspired him to pursue a degree in journalism. His career began in the Western sports media world, including editorial roles at Spin to Win Rodeo Magazine and American Cowboy, and six years producing feature content for ESPN’s coverage of the Wrangler National Finals Rodeo.
+
+**Current Ventures:** After 19 years in media and communications, Bob transitioned his longtime side hustle into a full-time operation. He now manages a 1,400-head summer stocker yearling business in partnership with his two brothers and is a co-owner of Welch Cattle Company, a multi-state cow-calf operation with grazing in Colorado and Montana. Locally, he and his wife Kristen also manage a small herd of mother cows. Bob continues freelance work in writing and video production, including his recent documentary film The Cut, which explores the cutting horse industry. He also serves as editor of Ranch Record, the magazine of the Ranching Heritage Association.
+
+**Expertise:** Ranch management, cow-calf and stocker operations, Western journalism, video production, storytelling, and media in agriculture. Bob brings a deep understanding of the cultural and business aspects of the American West.
+
+**Student Experience:** Students working with Bob will gain insight into the realities of modern ranching, business partnership models, and how media can be used to tell agricultural stories. Site visits may include livestock operations and behind-the-scenes exposure to documentary and magazine production. Bob offers a unique lens on how creative skills can complement and support a production agriculture career.
+
+**Fun Fact:** 
+
+::: footer
+Navigate to: All [Mentors](../mentors.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::

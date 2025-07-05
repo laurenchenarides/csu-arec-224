@@ -1,0 +1,28 @@
+---
+title: "Adam Washcoll"
+description: "Helping small farms grow through smart financial systems"
+image: "adam-wascholl-crop.jpg"
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+![](adam-wascholl.jpg){fig-align="left" width=300}
+
+
+**Background:** Originally from Connecticut, Adam holds both a bachelor’s and master’s degree from UConn. After discovering a talent for accounting in an intro course, he pursued a career in finance before deciding to build his own practice. A lifelong gardener and home cook, Adam was drawn to working with food and farming clients—and to the freedom of working for himself. He now lives part time in Boulder and part time on a homestead in rural Maine, where he's testing how much land he can sustainably manage (and growing prize-winning winter squash for fun).
+
+**Current Ventures:** Adam runs a solo accounting and bookkeeping firm that serves small businesses, especially farms, CSAs, food co-ops, and other community-based ventures. He works with clients across industries, but many of his clients are in agriculture and food, with operations ranging from local CSAs to wholesale producers that ship nationally. He also mentors beginning farmers through organizations like GoFarm, where he helps new growers understand the financial fundamentals of running a business.
+
+**Expertise:** Bookkeeping, tax strategy, small business financial planning, and the service-based side of entrepreneurship. Adam brings a practical, big-picture lens to the financial operations behind small farms and food enterprises.
+
+**Student Experience:** Students working with Adam will gain insight into the financial structure of farming and small businesses—what makes them viable, how to keep the books in order, and how to make sound decisions as an entrepreneur. Adam is an engaged mentor who enjoys connecting with students and sharing real-world lessons from the back office to the field.
+
+**Fun Fact:** 
+
+::: footer
+Navigate to: All [Mentors](../mentors.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::
