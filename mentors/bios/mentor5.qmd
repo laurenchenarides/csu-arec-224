@@ -44,6 +44,8 @@ format:
 </div>
 ```
 
+<br>
+
 ::: footer
 Navigate to: All [Mentors](../mentors.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
 :::
