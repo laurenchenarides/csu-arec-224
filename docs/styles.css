@@ -6,3 +6,8 @@
   height: auto;
   max-height: 300px;     /* Adjust as needed */
 }
+
+.card .listing-categories .listing-label {
+  display: none;
+}
+

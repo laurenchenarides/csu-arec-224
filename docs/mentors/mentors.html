@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
@@ -248,11 +248,17 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#about-our-mentors" id="toc-about-our-mentors" class="nav-link active" data-scroll-target="#about-our-mentors">About Our Mentors</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -262,7 +268,7 @@ window.Quarto = {
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -287,35 +293,51 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </script>
 <div id="listing-mentors" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1751752621239" data-listing-reading-time-sort="2" data-listing-word-count-sort="261">
+<div class="g-col-1" data-index="0" data-categories="dGF4JTIwc3RyYXRlZ3klMkNmaW5hbmNpYWwlMjBwbGFubmluZyUyQ3NlcnZpY2UtYmFzZWQ=" data-listing-file-modified-sort="1751769339210" data-listing-reading-time-sort="2" data-listing-word-count-sort="354">
 <a href="../mentors/bios/mentor5.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../mentors/bios/adam-wascholl-crop.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Adam Washcoll
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('dGF4JTIwc3RyYXRlZ3k='); return false;">
+tax strategy
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('ZmluYW5jaWFsJTIwcGxhbm5pbmc='); return false;">
+financial planning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2VydmljZS1iYXNlZA=='); return false;">
+service-based
+</div>
+</div>
 <div class="card-text listing-description">
-Helping small farms grow through smart financial systems
+Helping small farms grow through smart financial systems.
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1751576936854" data-listing-reading-time-sort="2" data-listing-word-count-sort="206">
+<div class="g-col-1" data-index="1" data-categories="aG9zcGl0YWxpdHklMkNyZXN0YXVyYW50JTIwb3BlcmF0aW9ucyUyQ2hvcnNlJTIwYnJlZWRpbmc=" data-listing-file-modified-sort="1751767975055" data-listing-reading-time-sort="2" data-listing-word-count-sort="309">
 <a href="../mentors/bios/mentor2.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../mentors/bios/alan-jantzen-crop.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Alan ‘Big Al’ Jantzen
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('aG9zcGl0YWxpdHk='); return false;">
+hospitality
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('cmVzdGF1cmFudCUyMG9wZXJhdGlvbnM='); return false;">
+restaurant operations
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('aG9yc2UlMjBicmVlZGluZw=='); return false;">
+horse breeding
+</div>
+</div>
 <div class="card-text listing-description">
-Entrepreneur and owner of Silver Grill Café, Vern’s Place, and a hay farm near Loveland
+Entrepreneur and owner of Silver Grill Café, Vern’s Place, and a hay farm near Loveland.
 </div>
 </div>
 </div>
@@ -324,9 +346,6 @@ Entrepreneur and owner of Silver Grill Café, Vern’s Place, and a hay farm nea
 <div class="g-col-1" data-index="2" data-listing-file-modified-sort="1751753953954" data-listing-reading-time-sort="2" data-listing-word-count-sort="266">
 <a href="../mentors/bios/mentor8.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../mentors/bios/bob-welch-crop.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Bob Welch
@@ -338,18 +357,29 @@ Ag-sector investor and innovator bridging cattle markets, capital, and entrepren
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1751576928690" data-listing-reading-time-sort="2" data-listing-word-count-sort="265">
+<div class="g-col-1" data-index="3" data-categories="Zmlyc3QtZ2VuZXJhdGlvbiUyQ3N1c3RhaW5hYmlsaXR5JTJDZmxvcmljdWx0dXJlJTJDYWdyaXRvdXJpc20=" data-listing-file-modified-sort="1751767536192" data-listing-reading-time-sort="2" data-listing-word-count-sort="371">
 <a href="../mentors/bios/mentor1.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../mentors/bios/helen-skiba-crop.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Helen Skiba
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Zmlyc3QtZ2VuZXJhdGlvbg=='); return false;">
+first-generation
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c3VzdGFpbmFiaWxpdHk='); return false;">
+sustainability
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('ZmxvcmljdWx0dXJl'); return false;">
+floriculture
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('YWdyaXRvdXJpc20='); return false;">
+agritourism
+</div>
+</div>
 <div class="card-text listing-description">
-First-generation farmer and owner of Artemis Flower Farm
+First-generation farmer and owner of Artemis Flower Farm.
 </div>
 </div>
 </div>
@@ -358,9 +388,6 @@ First-generation farmer and owner of Artemis Flower Farm
 <div class="g-col-1" data-index="4" data-listing-file-modified-sort="1751753189347" data-listing-reading-time-sort="2" data-listing-word-count-sort="263">
 <a href="../mentors/bios/mentor6.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../mentors/bios/jeff-engell.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Jeff Engell
@@ -372,18 +399,26 @@ Global economic strategist building resilient rural communities through innovati
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1751752222255" data-listing-reading-time-sort="2" data-listing-word-count-sort="255">
+<div class="g-col-1" data-index="5" data-categories="ZGlzdHJpYnV0aW9uJTJDb3BlcmF0aW9ucyUyMG1hbmFnZW1lbnQlMkNmb29kJTIwYnJva2VyYWdl" data-listing-file-modified-sort="1751768790362" data-listing-reading-time-sort="2" data-listing-word-count-sort="359">
 <a href="../mentors/bios/mentor4.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../mentors/bios/john-harris-crop.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 John Harris
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('ZGlzdHJpYnV0aW9u'); return false;">
+distribution
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('b3BlcmF0aW9ucyUyMG1hbmFnZW1lbnQ='); return false;">
+operations management
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Zm9vZCUyMGJyb2tlcmFnZQ=='); return false;">
+food brokerage
+</div>
+</div>
 <div class="card-text listing-description">
-Specializes in produce logistics and team-driven operations
+Specializes in produce logistics and team-driven operations.
 </div>
 </div>
 </div>
@@ -392,9 +427,6 @@ Specializes in produce logistics and team-driven operations
 <div class="g-col-1" data-index="6" data-listing-file-modified-sort="1751753425163" data-listing-reading-time-sort="2" data-listing-word-count-sort="241">
 <a href="../mentors/bios/mentor7.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../mentors/bios/jordan-levi.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Jordan Levi
@@ -406,18 +438,26 @@ Ag-sector investor and innovator bridging cattle markets, capital, and entrepren
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1751579008731" data-listing-reading-time-sort="2" data-listing-word-count-sort="327">
+<div class="g-col-1" data-index="7" data-categories="YnVzaW5lc3MlMjBkZXZlbG9wbWVudCUyQ3NhbGVzJTJDc2VydmljZS1iYXNlZA==" data-listing-file-modified-sort="1751768569335" data-listing-reading-time-sort="3" data-listing-word-count-sort="417">
 <a href="../mentors/bios/mentor3.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../mentors/bios/tim-jordan.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Tim Jordan
 </h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('YnVzaW5lc3MlMjBkZXZlbG9wbWVudA=='); return false;">
+business development
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2FsZXM='); return false;">
+sales
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('c2VydmljZS1iYXNlZA=='); return false;">
+service-based
+</div>
+</div>
 <div class="card-text listing-description">
-Service-driven entrepreneur and former president of Colorado’s largest retail florist
+Service-driven entrepreneur and former president of Colorado’s largest retail florist.
 </div>
 </div>
 </div>
@@ -428,9 +468,21 @@ Service-driven entrepreneur and former president of Colorado’s largest retail 
 No matching items
 </div>
 </div>
+<section id="about-our-mentors" class="level2">
+<h2 class="anchored" data-anchor-id="about-our-mentors">About Our Mentors</h2>
+<p>Our mentor cohort represents a diverse range of industries, business models, and entrepreneurial experiences—all grounded in agriculture and food. Each mentor was selected for their ability to share real-world insights, support student growth, and model the complexities of entrepreneurial decision-making.</p>
+<p>Mentors were recruited through a multi-step process that included:</p>
+<ul>
+<li>A public call for interest shared via the DARE and Institute for Entrepreneurship (I4E) email lists</li>
+<li>Campus flyers and outreach</li>
+<li>Referrals and word of mouth</li>
+</ul>
+<p>Every mentor is generously volunteering their time to support student learning, and we’re deeply grateful for their engagement.</p>
+<p>We’re actively working to expand our mentor network in future cohorts. If you’re an entrepreneur or business leader and are interested in mentoring for the Fall 2026 cohort, we’d love to hear from you. Please reach out to <a href="mailto:Lauren.Chenarides@colostate.edu" class="email">Lauren.Chenarides@colostate.edu</a> to learn more.</p>
 
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

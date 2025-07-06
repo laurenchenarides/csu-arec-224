@@ -1,6 +1,7 @@
 ---
 title: "Alan 'Big Al' Jantzen"
-description: "Entrepreneur and owner of Silver Grill Café, Vern’s Place, and a hay farm near Loveland"
+description: "Entrepreneur and owner of Silver Grill Café, Vern’s Place, and a hay farm near Loveland."
+categories: [hospitality, restaurant operations, horse breeding]
 image: "alan-jantzen-crop.jpg"
 format: 
   html: 
@@ -21,6 +22,28 @@ format:
 **Student Experience:** Alan hopes to take students behind the scenes of his restaurants, farm, and breeding operation. He’s especially interested in showing how hospitality and agriculture can intersect, and sharing what it’s like to build a business from the ground up without a college degree.
 
 **Fun Fact:** Alan also goes by "Big Al" and inspired the name behind [Big Al's Burgers and Dogs](https://bigalsburgersanddogs.com/) on Mountain Ave in Fort Collins.
+
+## Additional Resources
+
+```{=html}
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+
+  <a href="https://www.silvergrill.com/history/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Silver Grill Cafe
+  </a>
+
+  <a href="https://treehousefarmcollective.com/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Vern's Place
+  </a>
+
+  <a href="https://youtu.be/PHlCmdwv-wc?si=DIHD3hazI272psvy&t=19" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Plate Tales (YouTube)
+  </a>
+
+</div>
+```
+
+<br>
 
 ::: footer
 Navigate to: All [Mentors](../mentors.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
