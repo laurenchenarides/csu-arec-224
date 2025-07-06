@@ -22,23 +22,23 @@ format:
 
 **Student Experience:** Students working with Bob will gain insight into the realities of modern ranching, business partnership models, and how media can be used to tell agricultural stories. Site visits may include livestock operations and behind-the-scenes exposure to documentary and magazine production. Bob offers a unique lens on how creative skills can complement and support a production agriculture career.
 
-**Fun Fact:** Bob recently produced a documentary about the cutting horse industry—and even pitched it at [Taylor Sheridan’s](https://en.wikipedia.org/wiki/Taylor_Sheridan) house.
+**Fun Fact:** Bob recently produced *The Cut* -- a full-length documentary celebrating the history of horse cutting.
 
 ## Additional Resources
 
 ```{=html}
 <div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-  <a href="https://westernhorseman.com/ranching/family-ranch/welch-cattle-company/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+  <a href="https://www.facebook.com/watch/?v=431336061428303" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
     Welch Cattle Company
   </a>
 
   <a href="https://ranchingheritage.org/support/become-a-member/publications/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
-    National Ranching Heritage Center's *Ranch Record*
+    National Ranching Heritage Center's <i>Ranch Record</i>*
   </a>
 
-  <a href="https://www.facebook.com/watch/?v=431336061428303" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
-    Check out Welch Cattle Company (Facebook)
+  <a href="https://cuttinghorsedoc.squarespace.com/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Check Out the Trailer for <i>The Cut</i> (Video)
   </a>
 
 </div>
