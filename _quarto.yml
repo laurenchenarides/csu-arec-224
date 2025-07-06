@@ -16,8 +16,8 @@ website:
         href: syllabus.qmd
       - text: Schedule
         href: 2025/schedule.qmd
-      - text: Lectures
-        href: lectures.qmd
+      # - text: Lectures
+      #   href: lectures.qmd
       - text: Case Studies
         menu:                           
         - text: Access Coursepack

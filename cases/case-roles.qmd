@@ -26,7 +26,7 @@ You and your team will lead the in-class case discussion for your assigned week.
 
 **Your responsibilities:**
 
-- Read the full case carefully and review the associated teaching note (posted in Canvas).
+- Read the full case carefully.
 - Meet with your team in advance to prepare your analysis.
 - Come ready to present: no slides are required, but visuals are welcome.
 - Participate fully in the discussion, bringing data, insight, and clear recommendations.
@@ -35,6 +35,21 @@ You and your team will lead the in-class case discussion for your assigned week.
 
 - [Case Analysis Worksheet](https://eproduct.hbsp.harvard.edu/eproduct/product/t_case_companion/content/assets/Case-Analysis-Checklist_HBP_EducationForm_en.e891f435.pdf)
 - [Michael A. Roberto. (2022). *Case Companion*](coursepack.qmd)
+
+:::{.callout-note icon=false collapse=true title="How You'll Be Graded"}
+You will lead one in-class fishbowl discussion during the semester.
+
+| Criteria    | Points | Description |
+|-------------|--------|------------------------------|
+| **Preparation & Accuracy**   | 50     | Demonstrates clear understanding of the case and relevant facts. |
+| **Critical Thinking**        | 50     | Applies course frameworks and considers trade-offs or alternative viewpoints. |
+| **Communication & Clarity**  | 40     | Ideas are clearly expressed and organized during the discussion. |
+| **Engagement & Responsiveness** | 30  | Listens to others, responds thoughtfully, and builds on peers' comments. |
+| **Professionalism**          | 30     | Participates respectfully, stays on topic, and shows up prepared. |
+
+**Total: 200 points** (20% of final grade)
+:::
+
 
 ### 👁️ Observer Team
 
@@ -50,6 +65,20 @@ Your job is to observe the fishbowl discussion critically and constructively. Yo
 
 You’ll submit your feedback via Canvas right after class.
 
+:::{.callout-note icon=false collapse=true title="How You'll Be Graded"}
+You will complete one observer reflection during the semester.
+
+| Criteria    | Points | Description |
+|-------------|--------|------------------------------|
+| **Summary of Key Points**   | 30     | Accurately captures the main ideas shared during the fishbowl. |
+| **Insight & Analysis**      | 40     | Provides thoughtful commentary or critique of the discussion. |
+| **Connection to Readings**  | 20     | Links discussion themes to course materials. |
+| **Professional Presentation** | 10   | Submission is clear, polished, and submitted on time. |
+
+**Total: 100 points** (10% of final grade)
+:::
+
+
 ### ✏️ All Students: Weekly Pre-Class Reflection
 
 Every student will complete a short reflection before each Thursday class, due by **11:59pm the night before**.
@@ -61,3 +90,18 @@ Every student will complete a short reflection before each Thursday class, due b
 - **Discussion Question:** One thoughtful question you’d ask in class.
 
 You’ll complete this in Canvas. These reflections will help you stay engaged and give the fishbowl team great questions to work with.
+
+:::{.callout-note icon=false collapse=true title="How You'll Be Graded"}
+
+You’ll submit 10 short case prep assignments, each worth 15 points.
+
+| Criteria    | Points | Description |
+|-------------|--------|------------------------------|
+| **Completion & Accuracy** | 5     | Fully answers all assigned questions correctly. |
+| **Depth of Thought**      | 5     | Shows critical thinking and thoughtful engagement with the case. |
+| **Clarity & Presentation**| 5     | Well-organized, professional, and on time. |
+
+**Total per week: 15 points**  
+**Total across 10 weeks: 150 points** (10% of final grade)
+:::
+
