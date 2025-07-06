@@ -34,7 +34,7 @@ format:
   </a>
 
   <a href="https://ranchingheritage.org/support/become-a-member/publications/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
-    National Ranching Heritage Center's <i>Ranch Record</i>*
+    National Ranching Heritage Center's <i>Ranch Record</i>
   </a>
 
   <a href="https://cuttinghorsedoc.squarespace.com/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
