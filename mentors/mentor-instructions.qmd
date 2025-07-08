@@ -26,24 +26,37 @@ format:
 
 ## Welcome, Mentors
 
-Thank you for serving as a mentor in AREC 224: *Introduction to Agribusiness Entrepreneurship*! This course would not be what it is without your time, experience, and presence. You’ll help students gain real-world insight into entrepreneurship by sharing your story, offering feedback, and encouraging their growth.
+Thank you for serving as a mentor in *Introduction to Agribusiness Entrepreneurship*! This course would not be what it is without your time, experience, and presence. You’ll help students gain real-world insight into entrepreneurship by sharing your story, offering feedback, and encouraging their growth.
 
 This guide outlines your role, the timeline, and how to prepare.
 
 ## Your Role
 
-You’ll be paired with a small group of students (a "pod") who will:
+You’ll be paired with a small group of students (a "pod" of four students) who will:
 
 - Interview you in a student-produced podcast (recorded on campus)
 - Prepare a business case concept based on your story
-- Present the business case concept at the end-of-semester competition (think of this as a "story-telling" event about your entrepreneurial journey—framed around a real dilemma or decision point that students explored and built into a formal case study).
+- Present the business case concept at the end-of-semester competition <br>
+  *Think of this as a "story-telling" event about your entrepreneurial journey—framed around a real dilemma or decision point that students explored and built into a formal case study).*
 
-As a mentor, you will:
 
-- **Be interviewed** (Week 4–6) for a 30–40 min podcast episode. We’ll provide sample questions and a recording studio.
-- **Meet with your pod twice** during the semester to provide feedback and guidance.
-- **Attend the final case competition and networking event** during Week 15 (2-hour event).
+## Time Commitment
 
+As a mentor, we ask that you engage with your student pod at four key points during the semester:
+
+(1) Introductory Meeting (Weeks 2–3) <br>
+  A casual 30–45 minute meeting to get to know your pod, share your background, and hear about students' interests.
+
+(2) Podcast Interview (Weeks 4–6) <br>
+  Join your pod in a 30–40 minute recorded interview at CSU’s podcast studio. We’ll provide sample questions and handle logistics.
+
+(3) Pod Check-ins (Mid-semester and pre-finals) <br>
+  Meet with your pod twice more—once mid-semester and again before the final presentation. Each check-in is 30–45 minutes and can be virtual or in person.
+
+(4) Final Case Competition & Networking Event (Week 16) <br>
+  Attend our two-hour end-of-semester event where students present their business cases inspired by your story. Enjoy light refreshments and connect with other mentors, students, and faculty.
+  
+We also welcome additional engagement if your schedule allows—this could include site visits, virtual Q&A, or informal chats. If you're open to hosting a visit (by your pod or even the full class), please let us know and we’ll help coordinate.
 
 ## Timeline of Activities
 
@@ -59,7 +72,7 @@ The table below outlines major milestones involving mentor-student engagement, a
 | 4–6  | Podcast Interview | Attend a 30–40 min recorded podcast session at CSU studio | Host and produce podcast episode featuring mentor’s story |
 | 8    | Mid-Semester Feedback | Submit short feedback form for each student in your pod | Receive and reflect on mentor feedback for E-IDP refinement |
 | 12–13 | Second Pod Meeting | Join second 30–45 min check-in; provide guidance on business case direction | Present progress on business concept and solicit mentor input |
-| 15   | Final Competition | Attend and watch student presentations; submit final feedback form | Present final business case inspired by mentor story |
+| 16   | Final Competition | Attend and watch student presentations; submit final feedback form | Present final business case inspired by mentor story |
 
 
 We’ll coordinate scheduling via email and provide reminders.
@@ -84,7 +97,7 @@ You’re welcome to share lessons, numbers, pivots, and surprises—anything tha
 
 ## Supporting Your Pod
 
-You’ll meet your student group twice—once mid-semester and once as they prepare for final case presentations. These are informal 30–45 minute virtual or in-person sessions.
+After your introductory meeting, you’ll meet your student group twice—once mid-semester and once as they prepare for final case presentations. These are informal 30–45 minute virtual or in-person sessions.
 
 Students may ask for your perspective on:
 
@@ -96,11 +109,11 @@ Students may ask for your perspective on:
 
 You don’t need to “grade” anything—your role is to guide, challenge, and encourage.
 
-### About the E-IDP
+### Guiding Student Growth: Your Role in the "E-IDP"
 
 Each student is building an [**Entrepreneurial Individual Development Plan (E-IDP)**](eidp.qmd) throughout the semester. This plan helps them reflect on and strengthen key entrepreneurial skills—ranging from creativity and persistence to opportunity recognition and team leadership.
 
-At **Week 8**, we’ll ask you to submit a short feedback form (3 questions) based on your interactions so far. This is not an evaluation—it’s a chance to offer encouragement and suggestions for growth. We’ll ask for a second round of feedback after the final case presentations in **Week 15**.
+At **Week 7**, we’ll ask you to submit a short feedback form (3 questions) based on your interactions so far. This is not an evaluation—it’s a chance to offer encouragement and suggestions for growth. We’ll ask for a second round of feedback after the final case presentations in **Week 16**.
 
 Your perspective helps make this learning experience more real and more personal for each student.
 
