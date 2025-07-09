@@ -88,7 +88,7 @@ Business Case Competition       | 15 %   | Final pitch + written brief
 
 All assignments—quizzes, reflections, case write-ups, and project materials—will be submitted via **Canvas**. Deadlines and submission links will be listed in the weekly modules.
 
-> Students will be placed in teams of four for both the podcase and the final business case competition. Each pod will be paired with a [mentor](2025/mentors.qmd) based on preferences and interests. Think of this as a "mentor match," and you’ll stick with this team throughout the semester.
+> Students will be placed in teams of four for both the podcase and the final business case competition. Each pod will be paired with a [mentor](mentors/mentors.qmd) based on preferences and interests. Think of this as a "mentor match," and you’ll stick with this team throughout the semester.
 
 ### Grading Policies
 

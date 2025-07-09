@@ -24,7 +24,7 @@ You will use the E-IDP to:
 - Receive feedback from your mentor based on real-world interaction
 - Notice patterns in how you work and learn
 
-Your mentor will also use the E-IDP to support your developmentb by giving you feedback on your development mid-semester and at the end of the semester. You’ll each be working from the same set of 42 entrepreneurial characteristics (listed below).
+Your mentor will also use the E-IDP to support your development by giving you feedback on your development mid-semester and at the end of the semester. You’ll each be working from the same set of 42 entrepreneurial characteristics (listed below).
 
 👉 [View Mentor Instructions](mentor-instructions.qmd) to understand what they'll see.
 
@@ -36,14 +36,16 @@ You’ll focus on just **three** characteristics that feel meaningful or relevan
 |--------|-----------------------------|
 | 1  | Choose 3 characteristics. Complete your baseline self-assessment **in Canvas** and explain why you chose them. |
 | 8  | Your mentor will complete a brief check-in assessment on your progress. You’ll review their feedback and update your E-IDP. |
-| 15  | Complete a final self-assessment and write a short reflection on how you’ve grown. |
+| 16  | Complete a final self-assessment and write a short reflection on how you’ve grown. |
 
 You don’t need to be "good" at something to choose it. You might pick something you want to strengthen or explore. The goal is clarity and growth—not perfection.
+
 
 ## Entrepreneurial Characteristics
 
 The table below includes 42 personal characteristics associated with entrepreneurial success. These are drawn from Kuratko's *Entrepreneurship: Theory, Process, and Practice* (11th Edition). You’ll use these to guide your self-assessments and reflection.
 
+:::{.callout-note icon=false title="Choose Your Growth Areas" collapse=true}
 | # | Characteristic             | Description |
 |----|-------------|-----------------------------
 | 1  | Commitment                 | Willingness to do what it takes to make the venture work |
@@ -88,6 +90,7 @@ The table below includes 42 personal characteristics associated with entrepreneu
 | 40 | Empathy                   | Understanding and sharing others’ perspectives |
 | 41 | Focus                     | Ability to concentrate on tasks and goals |
 | 42 | Follow-Through            | Completing what you start |
+:::
 
 ::: {.callout-note icon=false title="Source"}
 Adapted from Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (11th ed.). Cengage Learning.
