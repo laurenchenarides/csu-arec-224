@@ -2,7 +2,6 @@
 title: "Tim Jordan"
 description: "Service-driven entrepreneur and former president of Colorado’s largest retail florist."
 categories: [business development, sales, service-based]
-image: "tim-jordan.jpg"
 format: 
   html: 
     theme: cosmo

@@ -2,7 +2,6 @@
 title: "Alan 'Big Al' Jantzen"
 description: "Entrepreneur and owner of Silver Grill Café, Vern’s Place, and a hay farm near Loveland."
 categories: [hospitality, restaurant operations, horse breeding]
-image: "alan-jantzen-crop.jpg"
 format: 
   html: 
     theme: cosmo

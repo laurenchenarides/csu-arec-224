@@ -2,7 +2,6 @@
 title: "Bobby Strecker"
 description: "Experienced livestock professional applying strong leadership to genetics, consulting, and team development."
 categories: [leadership, livestock genetics, team management]
-image: "bob-welch-crop.jpg"
 format: 
   html: 
     theme: cosmo

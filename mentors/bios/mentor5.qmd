@@ -2,7 +2,6 @@
 title: "Adam Washcoll"
 description: "Helping small farms grow through smart financial systems."
 categories: [tax strategy, financial planning, service-based]
-image: "adam-wascholl-crop.jpg"
 format: 
   html: 
     theme: cosmo

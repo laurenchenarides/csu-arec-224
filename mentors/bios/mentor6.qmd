@@ -2,7 +2,6 @@
 title: "Jeff Engell"
 description: "Global economic strategist building resilient rural communities through innovation and systems thinking."
 categories: [economic development, international consulting, rural food systems]
-image: "jeff-engell.jpg"
 format: 
   html: 
     theme: cosmo

@@ -2,7 +2,6 @@
 title: "Bob Welch"
 description: "Modern rancher and media professional with deep roots in the Western livestock industry and agricultural storytelling."
 categories: [ranch management, journalism, calf-cow operations]
-image: "bob-welch-crop.jpg"
 format: 
   html: 
     theme: cosmo

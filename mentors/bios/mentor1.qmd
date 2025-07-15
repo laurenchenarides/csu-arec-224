@@ -1,8 +1,7 @@
 ---
 title: "Helen Skiba"
 description: "First-generation farmer and owner of Artemis Flower Farm."
-categories: [first-generation, sustainability, floriculture, agritourism]
-image: "helen-skiba-crop.jpg"
+categories: [first-generation, sustainability, floriculture]
 format: 
   html: 
     theme: cosmo
