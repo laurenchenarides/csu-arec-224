@@ -41,57 +41,57 @@ You don’t need to be "good" at something to choose it. You might pick somethin
 
 ## Entrepreneurial Characteristics
 
-The table below includes 42 personal characteristics associated with entrepreneurial success. These are drawn from Kuratko's *Entrepreneurship: Theory, Process, and Practice* (11th Edition). You’ll use these to guide your self-assessments and reflection.
+The table below includes 42 personal characteristics associated with entrepreneurial success. These are drawn from Kuratko's *Entrepreneurship: Theory, Process, and Practice* (12th Edition). You’ll use these to guide your self-assessments and reflection.
 
 :::{.callout-note icon=false title="Choose Your Growth Areas" collapse=true}
-| # | Characteristic             | Description |
-|----|-------------|-----------------------------
-| 1  | Commitment                 | Willingness to do what it takes to make the venture work |
-| 2  | Determination             | Persistence and resilience when faced with obstacles |
-| 3  | Opportunity Orientation   | Constantly looking for opportunities |
-| 4  | Initiative                | Acting without being told |
-| 5  | Responsibility            | Willingness to be accountable for decisions |
-| 6  | Risk Tolerance            | Comfort with uncertainty and calculated risk |
-| 7  | Feedback Seeking          | Openness to input and guidance |
-| 8  | Goal Setting              | Ability to define and pursue goals clearly |
-| 9  | Self-Efficacy             | Belief in your ability to influence outcomes |
-| 10 | Persistence               | Staying with a task or goal despite difficulty |
-| 11 | Vision                    | Ability to imagine future possibilities clearly |
-| 12 | Self-Confidence           | Belief in your ability to achieve success |
-| 13 | Internal Locus of Control | Belief that you can shape your own future |
-| 14 | Creativity                | Ability to generate novel ideas |
-| 15 | Resourcefulness           | Making the most of what’s available |
-| 16 | Adaptability              | Willingness to change course when needed |
-| 17 | Proactivity               | Taking charge rather than waiting |
-| 18 | Leadership                | Ability to guide, influence, and support others |
-| 19 | Communication             | Effectively conveying and receiving information |
-| 20 | Teamwork                  | Willingness to collaborate and support a team |
-| 21 | Problem-Solving           | Diagnosing and resolving challenges effectively |
-| 22 | Time Management           | Using time effectively and efficiently |
-| 23 | Decision-Making           | Making timely, informed decisions |
-| 24 | Integrity                 | Honesty and consistency in actions and values |
-| 25 | Passion                   | Strong interest and enthusiasm |
-| 26 | Initiative                | Willingness to begin projects independently |
-| 27 | Customer Orientation      | Focus on understanding and serving others’ needs |
-| 28 | Financial Literacy        | Understanding financial concepts and budgets |
-| 29 | Strategic Thinking        | Ability to plan for the long term |
-| 30 | Networking                | Building and maintaining productive relationships |
-| 31 | Resilience                | Bouncing back from setbacks |
-| 32 | Learning Orientation      | Eagerness to gain new knowledge and skills |
-| 33 | Open-Mindedness           | Willingness to consider new ideas and perspectives |
-| 34 | Patience                  | Staying calm and persistent over time |
-| 35 | Negotiation               | Reaching agreements that benefit all parties |
-| 36 | Conflict Management       | Navigating disagreement constructively |
-| 37 | Work Ethic                | Dedication to producing high-quality work |
-| 38 | Enthusiasm                | Positivity and energy you bring to your work |
-| 39 | Confidence in Others      | Willingness to trust and delegate |
-| 40 | Empathy                   | Understanding and sharing others’ perspectives |
-| 41 | Focus                     | Ability to concentrate on tasks and goals |
-| 42 | Follow-Through            | Completing what you start |
+| Characteristic |
+|----------------|
+| Ability to get along well with people |
+| Ability to influence others |
+| Ability to learn from mistakes |
+| Ability to make decisions quickly |
+| Ability to take calculated risks |
+| Ability to trust workers |
+| Accuracy, thoroughness |
+| Aggressiveness |
+| Capacity for enjoyment |
+| Commitment |
+| Confidence |
+| Cooperativeness |
+| Courage |
+| Creativity |
+| Dynamism, leadership |
+| Efficacy |
+| Egotism |
+| Energy, diligence |
+| Flexibility |
+| Foresight |
+| Honesty, integrity |
+| Imagination |
+| Independence |
+| Initiative |
+| Intelligence |
+| Maturity, balance |
+| Need to achieve |
+| Optimism |
+| Orientation to clear goals |
+| Perceptiveness |
+| Perseverance, determination |
+| Pleasant personality |
+| Positive response to challenges |
+| Sense of power |
+| Profit orientation |
+| Resourcefulness |
+| Responsiveness to suggestions/criticism |
+| Responsibility |
+| Sensitivity to others |
+| Time competence, efficiency |
+| Toleration for ambiguity |
+| Versatility |
 :::
 
 ::: {.callout-note icon=false title="Source"}
-Adapted from Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (11th ed.). Cengage Learning.
+Adapted from Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (12th ed.). Cengage Learning.
 :::
 
 ## Why It Matters
