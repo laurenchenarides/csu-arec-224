@@ -1,5 +1,5 @@
 ---
-title: Podcast
+title: From Listener to Producer
 format: 
   html: 
     theme: cosmo
@@ -10,8 +10,6 @@ format:
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
-
-## From Listener to Producer
 
 In **Week 2**, you listened to *The Podcase* by Patrick J. McGinnis and John Lafkas (2020), where they interviewed Luke Holden of Luke’s Lobster. You got to hear a real founder reflect on the risks, decisions, and grit it took to build a business.
 

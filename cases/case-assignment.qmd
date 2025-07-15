@@ -33,7 +33,7 @@ Make sure to check the schedule below to match your slot with the corresponding 
 
 ### Weekly Case Study Assignments
 
-[*Refer back to course schedule for corresponding dates.*](schedule.qmd)
+[*Refer back to course schedule for corresponding dates.*](../2025/schedule.qmd)
   
 | Week | Case Study | Fishbowl Team | Observer Team |
 |------|------------|----------------|----------------|

@@ -18,25 +18,25 @@ website:
         href: 2025/schedule.qmd
       # - text: Lectures
       #   href: lectures.qmd
-      - text: Case Studies
+      - text: "Case Studies"
         menu:                           
         - text: Access Coursepack
           href: cases/coursepack.qmd
         - text: "Weekly Assignments & Signups"
           href: cases/case-assignment.qmd
-        - text: "Case Discussion Roles"
+        - text: "Case Study Roles"
           href: cases/case-roles.qmd
-        - text: How We Use Case Studies
+        - text: "How We Use Case Studies"
           href: cases/case-method.qmd 
-      - text: Case Competition
+      - text: "Case Competition"
         href: cases/case-competition.qmd                
-      - text: Podcast Project
+      - text: "Podcast Project"
         href: podcast/podcast-instructions.qmd                
-      - text: Mentors
+      - text: "Mentors"
         menu:                           
         - text: "Meet the 2025 Cohort"
           href: mentors/mentors.qmd
-        - text: "Student Guide to Mentor Work"
+        - text: "Student Guide"
           href: mentors/eidp.qmd
         - text: "Mentor Guide & Timeline"
           href: mentors/mentor-instructions.qmd

@@ -11,8 +11,6 @@ format:
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-## Overview
-
 This is not a Shark Tank-style pitch. Instead, you'll develop a business case grounded in your mentor’s entrepreneurial experience.
 
 Your goal is to present a real-world decision or dilemma they’ve faced—or one they could realistically face—framed in a way that invites critical thinking and discussion, much like the case studies we’ve covered throughout the semester. The emphasis is on clarity, depth, and relevance.

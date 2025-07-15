@@ -1,5 +1,5 @@
 ---
-title: Case Discussion Roles
+title: Case Study Roles
 format: 
   html: 
     theme: cosmo

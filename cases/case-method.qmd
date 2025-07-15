@@ -1,5 +1,5 @@
 ---
-title: The Case Method
+title: Why Case Studies?
 format: 
   html: 
     theme: cosmo
@@ -11,8 +11,6 @@ format:
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
-
-## Why Case Studies?
 
 What’s the most efficient way to learn? **From experience.**
 

@@ -1,5 +1,5 @@
 ---
-title: Entrepreneurial-Individual Development Plan (E-IDP)
+title: Building an Entrepreneurial-Individual Development Plan (E-IDP)
 format: 
   html: 
     theme: cosmo
@@ -11,13 +11,11 @@ format:
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-## What Is the E-IDP?
+A core component of this course is supporting your development as a professional. The Entrepreneurial Individual Development Plan (E-IDP) is designed to help you identify specific areas for growth, set goals, and reflect on your progress throughout the semester.
 
-The Entrepreneurial Individual Development Plan (E-IDP) is a professional growth tool you’ll use throughout this course. Think of it like a workplace development plan: you’ll identify a few key areas to focus on, set goals, and track your progress with input from a mentor.
+Similar to an individual development plan in a workplace setting, the E-IDP provides a structured way to track how your entrepreneurial mindset and skills evolve over time. Your mentor will also contribute by offering formative feedback based on their interactions with you.
 
-Entrepreneurship isn’t just about launching a business—it’s about developing a mindset and skillset that can be applied in any career. The E-IDP gives you space to:
-
-You will use the E-IDP to:
+Entrepreneurship in this course is broadly defined—not limited to launching a business, but focused on building competencies that are relevant in many professional contexts. The E-IDP will help you:
 
 - Reflect on your entrepreneurial strengths and growth areas
 - Track your development throughout the semester

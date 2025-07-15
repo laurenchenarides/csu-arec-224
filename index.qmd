@@ -37,7 +37,7 @@ My goal is to help you **connect what you're learning to real decisions and real
 Let's build something meaningful together.
 
 ::: {.figure}
-![Image quote: "The best way to predict the future is to invent it."](https://scontent-den2-1.xx.fbcdn.net/v/t51.75761-15/465823672_18089867422509818_4597754773044375533_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=102&ccb=1-7&_nc_sid=127cfc&_nc_ohc=8lFXKUDnrJsQ7kNvwGLHm8X&_nc_oc=AdkgElylkUec3_GJ5KIWgwDYUKBaVaCeRl47QFLcog4c51Tdz6T63IaZmQCMfG7gJvA&_nc_zt=23&_nc_ht=scontent-den2-1.xx&_nc_gid=KFcRm5NZHeicU21NWW1bEQ&oh=00_AfNgvUaXZ-ieXgJ4XX1B9CCVSfQiQtgQzjc8wjg5MDFJ-Q&oe=686CB851)
+![Image quote: "The best way to predict the future is to invent it."](images/quote.jpg)
 
 *Although this quote is often attributed to Peter Drucker—and occasionally to Abraham Lincoln—there is no reliable evidence linking it to either. The earliest known use is from Dennis Gabor’s 1963 book* *Inventing the Future*, *and it was later popularized by Alan Kay.*  
 [Quote Investigator](https://quoteinvestigator.com/2012/09/27/invent-the-future/)
@@ -54,7 +54,7 @@ This course redesign would not have been possible without the generous support a
 
 - [**Jessica Hartung**](https://jessicahartung.com/), for her mentorship and guidance in shaping the vision and structure of this course  
 - [**CSU TILT**](https://tilt.colostate.edu/tilt-faculty-research-fellowship/), for awarding the 2025 Faculty Research Fellowship and supporting innovative teaching  
-- [**Our mentor cohort**](2025/mentors.qmd), for generously offering their time, experience, and encouragement to our students  
+- [**Our mentor cohort**](mentors/mentors.qmd), for generously offering their time, experience, and encouragement to our students  
 - [**Dr. Aryn Baxter**](https://agsci.colostate.edu/directory/bio/?user=1165) and [**Dr. Jenny Bennett**](https://agsci.colostate.edu/directory/bio/?user=1170), for their thoughtful feedback and contributions to the course’s design and integrity  
 
 ## How to help  
