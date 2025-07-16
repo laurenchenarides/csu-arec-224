@@ -34,11 +34,11 @@ Over the semester, you'll apply and strengthen those characteristics through spe
 
 For example:
 
-- If you identify communication as a characteristic to develop, the podcast interview is a real-world opportunity to practice that.
+- If you identify *communication* as a characteristic to develop, the podcast interview is a real-world opportunity to practice that.
 
-- If your focus is teamwork, the weekly case studies and final business pitch will give you direct experience navigating collaboration.
+- If your focus is *team building*, the weekly case studies and final business case presentation will give you direct experience navigating collaboration.
 
-- If you're working on resourcefulness or creativity, you’ll stretch those muscles through problem-solving during the business case design.
+- If you're working on *creativity*, you’ll stretch those muscles through problem-solving during the business case design.
 
 The activities may be the same across the class, but the lens through which you grow will differ depending on the characteristics you choose to focus on. That's where the E-IDP and your mentor come in. Your mentor can help you unpack how your characteristics are showing up in action and where you might refine or redirect your efforts.
 
@@ -60,11 +60,11 @@ In the same way, your entrepreneurial characteristics—the ones you identify in
 
 For example:
 
-- If your characteristic is initiative, you might push yourself to take the lead in your team’s business pitch development.
+- If your characteristic is *personal agency*, you might push yourself to take the lead in the development of your team’s business case presentation.
 
-- If your focus is adaptability, you’ll strengthen that by navigating challenges during the weekly case study discussions.
+- If your focus is *problem solving*, you’ll strengthen that by navigating challenges during the weekly case study discussions.
 
-- If you choose communication, you’ll grow that skill during the podcast interview, where you'll need to prepare, listen deeply, and respond thoughtfully.
+- If you choose *communication*, you’ll grow that skill during the podcast interview, where you'll need to prepare, listen deeply, and respond thoughtfully.
 
 Your characteristics give context and focus to your growth, just like they did for Jordan. The E-IDP helps you track that growth, and your mentor helps you reflect on it.
 :::
@@ -103,7 +103,7 @@ This table connects entrepreneurial characteristics to the specific activities y
 | Opportunity Orientation     | Focuses on opportunity rather than resources; always scanning for possibilities. | Identifies a new angle or challenge in the case that others might miss. | Frames the business case around an unmet market need. | Uses the podcast to spotlight a mentor's insight that others might overlook. |
 | Persistent Problem Solving  | Tackles tough problems with a methodical, realistic approach; doesn’t quit easily. | Breaks down a messy or ambiguous case dilemma into solvable components. | Iterates on a business idea that wasn’t working and comes back stronger. | Adapts when an interview doesn't go as planned (e.g., awkward question, off-topic guest). |
 | Seeking Feedback            | Actively looks for input to improve performance; learns from critique. | Asks thoughtful questions during peer reviews and incorporates suggestions. | Takes mentor or instructor feedback seriously and uses it to refine the presentation. | Shares draft questions and welcomes team feedback to improve flow and focus. |
-| Internal Locus of Control   | Believes success comes from personal responsibility and effort, not luck. | Owns their role in a group project—even if things go wrong—and makes improvements. | Steps up to lead part of the paroject rather than waiting for direction. | Volunteers to manage post-production or write the episode summary without being asked. |
+| Personal Agency (Internal Locus of Control)   | Believes success comes from personal responsibility and effort, not luck. | Owns their role in a group project—even if things go wrong—and makes improvements. | Steps up to lead part of the project rather than waiting for direction. | Volunteers to manage post-production or write the episode summary without being asked. |
 | Tolerance for Ambiguity     | Comfortable operating under uncertainty or limited structure. | Makes confident decisions even with partial information. | Stays focused and productive when the business idea feels unclear. | Interviews a guest from a different background or industry, embracing unpredictability. |
 | Calculated Risk Taking      | Makes strategic, informed decisions about when to take a risk, not reckless. | Proposes a bold case solution after weighing tradeoffs. | Suggests a pivot in the business idea after identifying market gaps. | Takes a chance on interviewing a less conventional guest to offer a fresh perspective. |
 | High Energy Level           | Demonstrates consistent drive and enthusiasm to sustain effort over time.     | Shows consistent participation, takes initiative in group tasks, and keeps team momentum up.         | Maintains intensity and enthusiasm through multiple iterations/drafts of the business presentation.               | Brings energy and curiosity to the interview, actively engages with the guest and generates follow-ups. |
@@ -111,7 +111,8 @@ This table connects entrepreneurial characteristics to the specific activities y
 | Vision                      | Has a clear sense of purpose or long-term direction. | Frames the case in terms of long-term consequences and strategy. | Builds a story for the business case presentation around a future-oriented mission. | Designs the podcast with a storytelling arc and mission in mind. |
 | Passion                     | Demonstrates deep emotional investment in the work. | Shows enthusiasm during class discussion, invests energy into write-up. | Brings contagious energy to the business case presentation. | Curates thoughtful, engaging questions to spark an interactive conversation. |
 | Team Building               | Builds strong, motivated teams; values others' strengths. | Mediates conflict or reassigns tasks to ensure all voices are heard. | Creates a clear delegation plan and keeps the team motivated. | Makes sure each team member has a clear podcast role and supports each other. |
-| Entrepreneurial Coachability | Seeks, integrates, and learns from feedback to grow. | Revises work based on mentor or peer input. | Asks clarifying questions during feedback sessions and adjusts strategy. | Adapts podcast approach after receiving critique from peers or the mentor. |
+| Communication               | Effectively conveys ideas and actively listens in professional settings                    | Clearly articulates your team's recommendation during the fishbowl discussion                      | Delivers a concise, compelling story to audience                                                         | Conducts a structured, respectful interview that draws out relatable insights                            |
+| Entrepreneurial Coachability | Seeks, integrates, and learns from failures, setbacks, or feedback to grow. | Revises work based on mentor or peer input. | Asks clarifying questions during feedback sessions and adjusts strategy. | Adapts podcast approach after receiving critique from peers or the mentor. |
 | Entrepreneurial Hustle      | Acts with urgency and creativity to solve immediate problems. | Takes initiative to move the team forward under time pressure. | Reaches out to external audiences to test assumptions while preparing the presentation. | Resolves a last-minute tech issue or integrates hard-to-get information to bring the episode to life. |
 
 
