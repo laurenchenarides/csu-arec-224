@@ -11,20 +11,69 @@ format:
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-A core component of this course is supporting your development as a professional. The Entrepreneurial Individual Development Plan (E-IDP) is designed to help you identify specific areas for growth, set goals, and reflect on your progress throughout the semester.
+A core component of this course is supporting your development as a professional. Entrepreneurship in this course is broadly defined—not limited to launching a business, but focused on building competencies that are relevant in many professional contexts.
 
-Similar to an individual development plan in a workplace setting, the E-IDP provides a structured way to track how your entrepreneurial mindset and skills evolve over time. Your mentor will also contribute by offering formative feedback based on their interactions with you.
+The Entrepreneurial-Individual Development Plan (E-IDP) is designed to help you identify specific areas for growth, set goals, and reflect on your progress throughout the semester. Similar to an individual development plan in a workplace setting, the E-IDP provides a structured way to track how your entrepreneurial mindset and skills evolve over time. Your mentor will also contribute by offering formative feedback based on their interactions with you.
 
-Entrepreneurship in this course is broadly defined—not limited to launching a business, but focused on building competencies that are relevant in many professional contexts. The E-IDP will help you:
+The E-IDP will help you:
 
 - Reflect on your entrepreneurial strengths and growth areas
 - Track your development throughout the semester
 - Receive feedback from your mentor based on real-world interaction
 - Notice patterns in how you work and learn
 
-Your mentor will also use the E-IDP to support your development by giving you feedback on your development mid-semester and at the end of the semester. You’ll each be working from the same set of 42 entrepreneurial characteristics (listed below).
+Your mentor will also use the E-IDP to support your development by giving you feedback on your development mid-semester and at the end of the semester. You’ll each be working from the same set of entrepreneurial characteristics (listed below).
 
 👉 [View Mentor Instructions](mentor-instructions.qmd) to understand what they'll see.
+
+## Context and Setting
+
+You'll begin the E-IDP by identifying a few entrepreneurial **characteristics** that resonate with you. These are not technical skills, but qualities that influence how you work: things like adaptability, initiative, or perseverance.
+
+Over the semester, you'll apply and strengthen those characteristics through specific activities in the course. Each one offers an opportunity to translate your mindset into tangible action—what we often refer to as *skill building*.
+
+For example:
+
+- If you identify communication as a characteristic to develop, the podcast interview is a real-world opportunity to practice that.
+
+- If your focus is teamwork, the weekly case studies and final business pitch will give you direct experience navigating collaboration.
+
+- If you're working on resourcefulness or creativity, you’ll stretch those muscles through problem-solving during the business case design.
+
+The activities may be the same across the class, but the lens through which you grow will differ depending on the characteristics you choose to focus on. That's where the E-IDP and your mentor come in. Your mentor can help you unpack how your characteristics are showing up in action and where you might refine or redirect your efforts.
+
+:::{.callout-note icon=false title="The Jordan Analogy: How Characteristics Drive Skill"}
+
+Just like in sports, success in entrepreneurship—and in this course—isn't just about having talent. It's about how you develop and apply it.
+
+Take Michael Jordan as an example. He became one of the greatest basketball players not just because he could shoot well or run fast, but because of the characteristics that shaped how he practiced and played:
+
+- Competitiveness pushed him to train harder than anyone else.
+
+- Resilience helped him bounce back from failure (like not making his high school varsity team).
+
+- Leadership allowed him to inspire and elevate his team.
+
+These characteristics guided the development of his skills—like footwork, timing, court vision—and made him better at applying those skills under pressure.
+
+In the same way, your entrepreneurial characteristics—the ones you identify in your E-IDP—will shape how you approach and improve your skills throughout this course.
+
+For example:
+
+- If your characteristic is initiative, you might push yourself to take the lead in your team’s business pitch development.
+
+- If your focus is adaptability, you’ll strengthen that by navigating challenges during the weekly case study discussions.
+
+- If you choose communication, you’ll grow that skill during the podcast interview, where you'll need to prepare, listen deeply, and respond thoughtfully.
+
+Your characteristics give context and focus to your growth, just like they did for Jordan. The E-IDP helps you track that growth, and your mentor helps you reflect on it.
+:::
+
+**Final Thought**
+
+It’s not just about completing the assignments—it’s about becoming more aware of how you work, where you're growing, and how to carry those gains into your future career.
+
+Your entrepreneurial journey in this course will be shaped by how **characteristics + skills + practice** come together. The more intention you bring to that process, the more you’ll get out of it.
 
 ## Instructions: How to use the E-IDP
 
@@ -32,7 +81,7 @@ You’ll focus on just **three** characteristics that feel meaningful or relevan
 
 | Week | What You'll Do         |
 |--------|-----------------------------|
-| 1  | Choose 3 characteristics. Complete your baseline self-assessment **in Canvas** and explain why you chose them. |
+| 1  | Choose 3 characteristics. Complete your baseline self-assessment in **Canvas** and explain why you chose them. |
 | 8  | Your mentor will complete a brief check-in assessment on your progress. You’ll review their feedback and update your E-IDP. |
 | 16  | Complete a final self-assessment and write a short reflection on how you’ve grown. |
 
@@ -41,9 +90,37 @@ You don’t need to be "good" at something to choose it. You might pick somethin
 
 ## Entrepreneurial Characteristics
 
-The table below includes 42 personal characteristics associated with entrepreneurial success. These are drawn from Kuratko's *Entrepreneurship: Theory, Process, and Practice* (12th Edition). You’ll use these to guide your self-assessments and reflection.
+The table below includes commonly cited characteristics associated with entrepreneurial success. These are drawn from several sources, including the course textbook, *Entrepreneurship: Theory, Process, and Practice* (Kuratko, 12th Edition). You’ll use these to guide your self-assessments and reflection.
 
-:::{.callout-note icon=false title="Choose Your Growth Areas" collapse=true}
+**How to Read the Table**
+
+This table connects entrepreneurial characteristics to the specific activities you'll complete in this course. Each row represents a *characteristic* and shows how that trait might show up as a *skill* in different contexts: analyzing a case study, developing a case presentation, or producing a podcast. You don’t have to master every characteristic, but this framework can help you become more aware of your strengths and growth areas. As you move through the semester, use this table to reflect on how you’re engaging, not just what you’re doing—these are the habits that will carry forward into your future career.
+
+| Characteristic | Description | Case Study Example | Case Competition Example | Podcast Example |
+|---------------|-----------------------------|---------------------|---------------------|---------------------|
+| Determination and Perseverance | Total dedication to success, overcoming obstacles and setbacks, unwavering commitment to succeed. | Pushes through a tough case with limited information, revises submission after critical feedback. | Rebounds from a failed pitch or team conflict to produce a strong final concept. | Follows through on editing and publishing the episode even with technical issues. |
+| Drive to Achieve            | A strong desire to compete, to excel against self-imposed standards, to pursue challenging goals. | Sets personal goals for improvement and strives to exceed rubric expectations. | Builds a creative, well-researched pitch that aims beyond the baseline requirements. | Prepares extensively for the interview and produces polished show notes. |
+| Opportunity Orientation     | Focuses on opportunity rather than resources; always scanning for possibilities. | Identifies a new angle or challenge in the case that others might miss. | Frames the business concept around an unmet market need. | Uses the podcast to spotlight a mentor insight that others might overlook. |
+| Persistent Problem Solving  | Tackles tough problems with a methodical, realistic approach; doesn’t quit easily. | Breaks down a messy or ambiguous case dilemma into solvable components. | Iterates on a business model that wasn’t working and comes back stronger. | Adapts when an interview doesn't go as planned (e.g., awkward question, off-topic guest). |
+| Seeking Feedback            | Actively looks for input to improve performance; learns from critique. | Asks thoughtful questions during peer reviews and incorporates suggestions. | Takes mentor or instructor feedback seriously and uses it to refine the pitch. | Shares draft questions and welcomes team feedback to improve flow and focus. |
+| Internal Locus of Control   | Believes success comes from personal responsibility and effort, not luck. | Owns their role in a group project—even if things go wrong—and makes improvements. | Steps up to lead part of the business plan rather than waiting for direction. | Volunteers to manage post-production or write the episode summary without being asked. |
+| Tolerance for Ambiguity     | Comfortable operating under uncertainty or limited structure. | Makes confident decisions even with partial information. | Stays focused and productive when the business idea feels unsettled. | Interviews a guest from a different background or industry, embracing unpredictability. |
+| Calculated Risk Taking      | Makes strategic, informed decisions about when to take a risk, not reckless. | Proposes a bold case solution after weighing tradeoffs. | Suggests a pivot in the business idea after identifying market gaps. | Takes a chance on interviewing a less conventional guest to offer a fresh perspective. |
+| High Energy Level           | Demonstrates consistent drive, physical stamina, and enthusiasm to sustain effort over time.     | Shows consistent participation, takes initiative in group tasks, and keeps team momentum up.         | Maintains intensity and enthusiasm through multiple iterations of the business model.               | Brings energy and curiosity to the interview, actively engages with the guest and generates follow-ups. |
+| Creativity and Innovativeness | Generates original ideas and sees possibilities others may not. | Comes up with an unusual solution to the case that reframes the challenge. | Develops a unique business model or product design. | Experiments with creative formats or questions in the podcast interview. |
+| Vision                      | Has a clear sense of purpose or long-term direction. | Frames the case in terms of long-term consequences and strategy. | Builds a business model around a future-oriented mission. | Designs the podcast with a storytelling arc and mission in mind. |
+| Passion                     | Demonstrates deep emotional investment in the work. | Shows enthusiasm during class discussion, invests energy into write-up. | Brings contagious energy to the pitch presentation. | Curates thoughtful, engaging questions to spark a dynamic conversation. |
+| Team Building               | Builds strong, motivated teams; values others' strengths. | Mediates conflict or reassigns tasks to ensure all voices are heard. | Creates a clear delegation plan and keeps the team motivated. | Makes sure each team member has a clear podcast role and supports each other. |
+| Entrepreneurial Coachability | Seeks, integrates, and learns from feedback to grow. | Revises work based on mentor or peer input. | Asks clarifying questions during feedback sessions and adjusts strategy. | Adapts podcast approach after receiving critique from peers or the mentor. |
+| Entrepreneurial Hustle      | Acts with urgency and creativity to solve immediate problems. | Takes initiative to move the team forward under time pressure. | Reaches out to potential customers or stakeholders to test assumptions. | Tracks down a hard-to-reach guest or resolves a last-minute tech issue. |
+
+
+:::{.callout-note icon=false title="Table 2.1 Characteristics Often Attributed to Entrepreneurs" collapse=true}
+
+Researchers have identified a wide range of entrepreneurial characteristics, many of which can be grouped into a smaller set of core traits, as listed above. Howard Stevenson and David Gumpert identified traits like imagination, flexibility, and risk tolerance as central to entrepreneurial thinking. William Gartner found that the literature highlights a broad and diverse set of characteristics. Meanwhile, John Hornaday reviewed multiple sources to create a widely used list of 42 traits commonly associated with entrepreneurs, summarized in the table below.
+
+For this course, we’ll focus on a selected subset of entrepreneurial characteristics drawn from across the literature. These characteristics represent a synthesis of recurring themes and serve as a foundation for your E-IDP. Although they don’t capture every trait found in studies like Hornaday’s list, they reflect core capacities that can be practiced and strengthened through your work in this class.
+
 | Characteristic |
 |----------------|
 | Ability to get along well with people |
@@ -88,16 +165,19 @@ The table below includes 42 personal characteristics associated with entrepreneu
 | Time competence, efficiency |
 | Toleration for ambiguity |
 | Versatility |
+
+: Source: Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (12th ed.). Cengage Learning.
+
 :::
 
-::: {.callout-note icon=false title="Source"}
-Adapted from Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (12th ed.). Cengage Learning.
-:::
+<!-- ::: {.callout-note icon=false title="Source"} -->
+<!-- Adapted from Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (12th ed.). Cengage Learning. -->
+<!-- ::: -->
 
-## Why It Matters
+<!-- ## Why It Matters -->
 
-Entrepreneurship is not just about starting businesses—it's about being someone who takes initiative, solves problems creatively, and works well with others to turn ideas into action.
+<!-- Entrepreneurship is not just about starting businesses—it's about being someone who takes initiative, solves problems creatively, and works well with others to turn ideas into action. -->
 
-The E-IDP is designed to help you **notice how you grow**, and give you structured support along the way.
+<!-- The E-IDP is designed to help you **notice how you grow**, and give you structured support along the way. -->
 
 
