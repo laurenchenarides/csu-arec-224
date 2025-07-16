@@ -40,6 +40,8 @@ website:
           href: mentors/eidp.qmd
         - text: "Mentor Guide & Timeline"
           href: mentors/mentor-instructions.qmd
+      # - text: "So, What's Next?"        
+      #   href: 404.qmd                
       # - text: Archive
       #   menu:
       #     - text: Fall 2025
