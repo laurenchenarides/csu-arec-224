@@ -26,6 +26,8 @@ format:
 
 Thank you for serving as a mentor in *Introduction to Agribusiness Entrepreneurship*! This course would not be what it is without your time, experience, and presence. You’ll help students gain real-world insight into entrepreneurship by sharing your story, offering feedback, and encouraging their growth.
 
+👉 [View Mentor Cohort Bios](mentors.qmd)
+
 This guide outlines your role, the timeline, and how to prepare.
 
 ## Your Role
