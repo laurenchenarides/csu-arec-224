@@ -2,7 +2,6 @@
 title: "Julie Moore"
 description: "lorem ipsum."
 categories: [tag1, tag2, tag3]
-image: "bob-welch-crop.jpg"
 format: 
   html: 
     theme: cosmo
