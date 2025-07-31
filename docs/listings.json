@@ -19,6 +19,10 @@
     ]
   },
   {
+    "listing": "/2025/students.html",
+    "items": []
+  },
+  {
     "listing": "/lectures.html",
     "items": [
       "/2025/lecture1.html",
@@ -35,9 +39,5 @@
       "/2025/lecture12.html",
       "/2025/lecture13.html"
     ]
-  },
-  {
-    "listing": "/2025/students.html",
-    "items": []
   }
 ]
