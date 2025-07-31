@@ -28,17 +28,9 @@ Your mentor will also use the E-IDP to support your development by giving you fe
 
 ## Context and Setting
 
-You'll begin the E-IDP by identifying a few entrepreneurial **characteristics** that resonate with you. These are not technical skills, but qualities that influence how you work: things like adaptability, initiative, or perseverance.
+You'll begin the E-IDP by identifying a few entrepreneurial **characteristics** that resonate with you. These are not technical skills, but qualities that influence how you work: things like vision, passion, or communication.
 
-Over the semester, you'll apply and strengthen those characteristics through specific activities in the course. Each one offers an opportunity to translate your mindset into tangible action—what we often refer to as *skill building*.
-
-For example:
-
-- If you identify *communication* as a characteristic to develop, the podcast interview is a real-world opportunity to practice that.
-
-- If your focus is *team building*, the weekly case studies and final business case presentation will give you direct experience navigating collaboration.
-
-- If you're working on *creativity*, you’ll stretch those muscles through problem-solving during the business case design.
+Over the semester, you'll apply and strengthen those characteristics through specific activities in the course. Each course activity offers an opportunity to translate your mindset into tangible action—what we often refer to as *skill building*.
 
 The activities may be the same across the class, but the lens through which you grow will differ depending on the characteristics you choose to focus on. That's where the E-IDP and your mentor come in. Your mentor can help you unpack how your characteristics are showing up in action and where you might refine or redirect your efforts.
 
@@ -66,6 +58,10 @@ For example:
 
 - If you choose *communication*, you’ll grow that skill during the podcast interview, where you'll need to prepare, listen deeply, and respond thoughtfully.
 
+- If your focus is *team building*, the weekly case studies and final business case presentation will give you direct experience navigating collaboration.
+
+- If you're working on *creativity*, you’ll stretch those muscles through problem-solving during the business case design.
+
 Your characteristics give context and focus to your growth, just like they did for Jordan. The E-IDP helps you track that growth, and your mentor helps you reflect on it.
 :::
 
@@ -75,26 +71,17 @@ It’s not just about completing the assignments—it’s about becoming more aw
 
 Your entrepreneurial journey in this course will be shaped by how **characteristics + skills + practice** come together. The more intention you bring to that process, the more you’ll get out of it.
 
-## Instructions: How to use the E-IDP
+## Instructions
 
-You’ll focus on just **three** characteristics that feel meaningful or relevant to you right now. You’ll return to these throughout the semester:
-
-| Week | What You'll Do         |
-|--------|-----------------------------|
-| 1  | Choose 3 characteristics. Complete your baseline self-assessment in **Canvas** and explain why you chose them. |
-| 8  | Your mentor will complete a brief check-in assessment on your progress. You’ll review their feedback and update your E-IDP. |
-| 16  | Complete a final self-assessment and write a short reflection on how you’ve grown. |
+Select **three** characteristics that feel meaningful or relevant to you right now. 
 
 You don’t need to be "good" at something to choose it. You might pick something you want to strengthen or explore. The goal is clarity and growth—not perfection.
 
-
-## Entrepreneurial Characteristics
+**Choosing Among the Following Entrepreneurial Characteristics**
 
 The table below includes commonly cited characteristics associated with entrepreneurial success. These are drawn from several sources, including the course textbook, *Entrepreneurship: Theory, Process, and Practice* (Kuratko, 12th Edition). You’ll use these to guide your self-assessments and reflection.
 
-**How to Read the Table**
-
-This table connects entrepreneurial characteristics to the specific activities you'll complete in this course. Each row represents a *characteristic* and shows how that trait might show up as a *skill* in different contexts: analyzing a case study, developing a case presentation, or producing a podcast. You don’t have to master every characteristic, but this framework can help you become more aware of your strengths and growth areas. As you move through the semester, use this table to reflect on how you’re engaging, not just what you’re doing—these are the habits that will carry forward into your future career.
+Each row represents a *characteristic* and shows how that trait might show up as a *skill* in different contexts: analyzing a case study, developing a case presentation, or producing a podcast. You don’t have to master every characteristic, but this framework can help you become more aware of your strengths and growth areas. As you move through the semester, use this table to reflect on how you’re engaging, not just what you’re doing—these are the habits that will carry forward into your future career.
 
 | Characteristic | Description | Case Study Example | Case Competition Example | Podcast Example |
 |---------------|-----------------------------|---------------------|---------------------|---------------------|
@@ -170,6 +157,18 @@ For this course, we’ll focus on a selected subset of entrepreneurial character
 : Source: Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (12th ed.). Cengage Learning.
 
 :::
+
+## Timeline
+
+You’ll return to your chosen characteristics throughout the semester:
+
+| Week | What You'll Do         |
+|--------|-----------------------------|
+| 2  | Choose 3 characteristics. Complete your baseline self-assessment in **Qualtrics** and explain why you chose them. |
+| 8  | Your mentor will complete a brief check-in assessment on your progress. You’ll review their feedback and update your E-IDP. |
+| 16  | Complete a final self-assessment and write a short reflection on how you’ve grown. |
+
+
 
 <!-- ::: {.callout-note icon=false title="Source"} -->
 <!-- Adapted from Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (12th ed.). Cengage Learning. -->

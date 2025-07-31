@@ -26,21 +26,24 @@ format:
 
 Thank you for serving as a mentor in *Introduction to Agribusiness Entrepreneurship*! This course would not be what it is without your time, experience, and presence. You’ll help students gain real-world insight into entrepreneurship by sharing your story, offering feedback, and encouraging their growth.
 
-👉 [View Mentor Cohort Bios](mentors.qmd)
+👉 [View the Mentor Cohort, Class of 2025!](mentors.qmd)
 
 This guide outlines your role, the timeline, and how to prepare.
 
-## Your Role
+## What is Your Role as a Mentor?
 
-You’ll be paired with a small group of students (a "pod" of four students) who will:
+At the start of the semester, you’ll be matched with a small group (or, "pod") of at most four students. 
+
+Your interactions with your pod will directly inform several major assignments throughout the course. By getting to know you and learning from your journey, students will complete the following:
 
 - Interview you in a student-produced podcast (recorded on campus)
-- Prepare a business case concept based on your story
-- Present the business case concept at the end-of-semester competition <br>
-  *Think of this as a "story-telling" event about your entrepreneurial journey—framed around a real dilemma or decision point that students explored and built into a formal case study.*
+- Develop a business case concept based on your experience, including a real dilemma or decision point
+- Present the case at the end-of-semester competition <br>
+  *Think of this as a storytelling event—your entrepreneurial journey becomes the foundation for a formal case study that students analyze, refine, and present as a team.*
 
+Your story, insights, and challenges will serve as inspiration and real-world context for their learning.
 
-## Time Commitment
+## What is the Time Commitment?
 
 As a mentor, we ask that you engage with your student pod at four key points during the semester:
 
@@ -58,66 +61,27 @@ As a mentor, we ask that you engage with your student pod at four key points dur
   
 We also welcome additional engagement if your schedule allows—this could include site visits, virtual Q&A, or informal chats. If you're open to hosting a visit (by your pod or even the full class), please let us know and we’ll help coordinate.
 
-## Timeline of Activities
+### Timeline of Activities
 
-The course runs from **August 25 to December 14, 2025**, and follows a weekly schedule. Weeks are numbered based on the academic calendar. You can refer to the [Course Schedule](../2025/schedule.qmd) for specific dates associated with each week.
+The course runs from **August 25 to December 14, 2025**, and follows a weekly schedule. 
 
 The table below outlines major milestones involving mentor-student engagement, along with expectations for both mentors and students.
 
-| Week | Activity | Mentor Action | Student Role |
-|------|----------|---------------|---------------|
-| 1    | Course Launch | – | Students begin learning about case studies, podcasting, and interviewing |
-| 2    | Initial Contact | Respond to students' outreach and confirm an intro meeting time | Initiate contact with mentor and schedule an intro meeting (virtual or in-person) |
-| 3–4  | First Pod Meeting | Join 30–45 min check-in; share background and answer questions | Conduct first pod meeting; prepare questions and document key insights |
-| 4–6  | Podcast Interview | Attend a 30–40 min recorded podcast session at CSU studio | Host and produce podcast episode featuring mentor’s story |
-| 8    | Mid-Semester Feedback | Submit short feedback form for each student in your pod | Receive and reflect on mentor feedback for E-IDP refinement |
-| 12–13 | Second Pod Meeting | Join second 30–45 min check-in; provide guidance on business case direction | Present progress on business concept and solicit mentor input |
-| 16   | Final Competition | Attend and watch student presentations; submit final feedback form | Present final business case inspired by mentor story |
-
+| Week     | Dates                  | Activity                | Mentor Action                                               | Student Role                                                                 |
+|----------|------------------------|--------------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------|
+| 1        | Aug 25–29              | Course Launch            | –                                                            | Students begin learning about case studies, podcasting, and interviewing      |
+| 2        | Sep 1–5               | Initial Contact          | Respond to students' outreach and confirm an intro meeting time | Initiate contact with mentor and schedule an intro meeting                    |
+| 3–4      | Sep 8–19              | First Pod Meeting        | Join 30–45 min check-in; share background and answer questions | Conduct first pod meeting; prepare questions and document key insights        |
+| 4–6      | Sep 15–Oct 3          | Podcast Interview        | Attend a 30–40 min recorded podcast session at CSU studio     | Host and produce podcast episode featuring mentor’s story                     |
+| 8        | Oct 13–17             | Mid-Semester Feedback    | Submit short feedback form for each student in your pod       | Receive and reflect on mentor feedback for E-IDP refinement                   |
+| 12–13    | Nov 10–21             | Second Pod Meeting       | Join second 30–45 min check-in; provide guidance on business case direction | Present progress on business concept and solicit mentor input |
+| 16       | Dec 11              | Final Competition        | Attend and watch student presentations; submit final feedback form | Present final business case inspired by mentor story                          |
+: Feel free to visit the [Course Schedule](../2025/schedule.qmd) to check out what the students will be learning each week.
 
 We’ll coordinate scheduling via email and provide reminders.
 
 
-
-## Preparing for Your Interview
-
-The podcast interview will be student-led and conversational. You don’t need to prepare a script, but here are suggested prompts they may explore:
-
-- What problem did you set out to solve?
-- What was your “aha” moment—or was it gradual?
-- What challenges did you face early on?
-- What business model did you choose and why?
-- How did you define success?
-- What advice would you give your younger self?
-- How do you see your business evolving?
-
-You’re welcome to share lessons, numbers, pivots, and surprises—anything that brings your story to life.
-
-
-
-## Supporting Your Pod
-
-After your introductory meeting, you’ll meet your student group twice—once mid-semester and once as they prepare for final case presentations. These are informal 30–45 minute virtual or in-person sessions.
-
-Students may ask for your perspective on:
-
-- Customer needs
-- Market trends
-- Growth strategies
-- Communication and branding
-- Your feedback on their evolving business idea
-
-You don’t need to “grade” anything—your role is to guide, challenge, and encourage.
-
-### Guiding Student Growth: Your Role in the "E-IDP"
-
-Each student is building an [**Entrepreneurial Individual Development Plan (E-IDP)**](eidp.qmd) throughout the semester. This plan helps them reflect on and strengthen key entrepreneurial skills—ranging from creativity and persistence to opportunity recognition and team leadership.
-
-At **Week 7**, we’ll ask you to submit a short feedback form (3 questions) based on your interactions so far. This is not an evaluation—it’s a chance to offer encouragement and suggestions for growth. We’ll ask for a second round of feedback after the final case presentations in **Week 16**.
-
-Your perspective helps make this learning experience more real and more personal for each student.
-
-## Final Case Competition
+## Save the Date: Final Case Competition
 
 At the end of the semester, students will present their business concepts (inspired by your story) in a class-wide competition. You’ll be invited to attend as a guest and cheer them on.
 
@@ -135,7 +99,47 @@ Click the link above to download and open the calendar invite.
 
 👉 [View Case Competion Assignment](../cases/case-competition.qmd) to see what they're expected to prepare.
 
-## Travel Reimbursement
+## FAQs
+
+### How Can You Prepare for Your Podcast Interview?
+
+The podcast interview will be student-led and conversational. You don’t need to prepare a script, but here are suggested prompts they may explore:
+
+- What problem did you set out to solve?
+- What was your “aha” moment—or was it gradual?
+- What challenges did you face early on?
+- What business model did you choose and why?
+- How did you define success?
+- What advice would you give your younger self?
+- How do you see your business evolving?
+
+You’re welcome to share lessons, numbers, pivots, and surprises—anything that brings your story to life.
+
+
+### How Can You Support Your Pod?
+
+After your introductory meeting, you’ll meet your student group twice—once mid-semester and once as they prepare for final case presentations. These are informal 30–45 minute virtual or in-person sessions.
+
+Students may ask for your perspective on:
+
+- Customer needs
+- Market trends
+- Growth strategies
+- Communication and branding
+- Your feedback on their evolving business idea
+
+You don’t need to “grade” anything—your role is to guide, challenge, and encourage.
+
+#### Guiding Student Growth: Your Role in the "E-IDP"
+
+Each student is building an [**Entrepreneurial Individual Development Plan (E-IDP)**](eidp.qmd) throughout the semester. This plan helps them reflect on and strengthen key entrepreneurial skills—ranging from creativity and persistence to opportunity recognition and team leadership.
+
+At **Week 7**, we’ll ask you to submit a short feedback form (3 questions) based on your interactions so far. This is not an evaluation—it’s a chance to offer encouragement and suggestions for growth. We’ll ask for a second round of feedback after the final case presentations in **Week 16**.
+
+Your perspective helps make this learning experience more real and more personal for each student.
+
+
+### How Can You Submit for Travel Reimbursement?
 
 If you travel to Fort Collins to participate in the podcast interview or final case competition, we can reimburse you for travel-related expenses.
 
@@ -150,7 +154,7 @@ To process a reimbursement, you’ll need to complete a CSU vendor request form.
 
 Be sure to save any receipts for expenses you’d like reimbursed.
 
-## Questions?
+## Other Questions?
 
 Please reach out anytime to:
 
