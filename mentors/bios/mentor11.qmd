@@ -1,7 +1,7 @@
 ---
 title: "Julie Moore"
-description: "lorem ipsum."
-categories: [tag1, tag2, tag3]
+description: "Bridging the gap between beef, nutrition, and education through decades of industry leadership."
+categories: [Beef Industry, Public Engagement, Nutrition Communication]
 format: 
   html: 
     theme: cosmo
@@ -10,19 +10,38 @@ format:
     link-external-newwindow: true
 ---
 
+![](julie-moore.jpg){fig-align="left" width=300}
 
-**Background:** 
+**Background:** Julie grew up on a diversified farm and ranch in Nebraska and holds degrees in Food Science, Human Nutrition, and Meat Science from the University of Nebraska–Lincoln and Colorado State University. She started her career working in beef processing and product quality roles at Monfort, Inc. and a Burger King patty supplier before moving into education and public engagement with the beef industry. Julie was honored in 2023 with CSU’s *Impacts Through Partnership Award* for her contributions to agriculture through public engagement.
 
-**Current Ventures:** 
+**Current Ventures:**  Julie joined the Colorado Beef Council in 1997 and currently serves as Vice President of Operations. For over two decades, she led the Council’s Nutrition and Education efforts, helping consumers, educators, and policymakers understand beef’s role in nutrition and agriculture. She has designed statewide programs, coordinated major events like the National Western Stock Show, and partnered with educators through the Beef Grant Program. Her work has also supported cross-sector partnerships—from public health to farm-to-school initiatives.
 
-**Expertise:** 
+**Expertise:** Public-facing ag education, beef industry communication, event planning, nutrition outreach, marketing, and coalition-building. Julie is especially skilled at translating technical information into approachable messages for diverse audiences.
 
-**Student Experience:** 
+**Student Experience:** Students working with Julie will gain exposure to marketing, education, and strategic partnerships in the beef industry. She brings experience managing large-scale programs and communicating with both health professionals and producers. Julie is excited to help students explore how agriculture, nutrition, and public outreach intersect.
 
-**Fun Fact:** 
+**Fun Fact:** Julie and her husband own bison. She is still the “beef girl”, but enjoys the community of bison producers in the Rocky Mountain region.
 
 ## Additional Resources
 
+
+```{=html}
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+
+  <a href="www.cobeef.com" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Colorado Beef Council
+  </a>
+
+  <a href="https://www.facebook.com/cobeef" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Colorado Beef Council (Facebook)
+  </a>
+
+  <a href="https://www.facebook.com/rockriverbison" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Rock River Bison (Facebook)
+  </a>
+
+</div>
+```
 
 <br>
 
