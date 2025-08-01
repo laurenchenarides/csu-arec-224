@@ -1,7 +1,7 @@
 ---
 title: "Scott McClure"
-description: "lorem ipsum."
-categories: [tag1, tag2, tag3]
+description: "Engineer-turned-entrepreneur helping teams turn good ideas into valuable products."
+categories: [Market Validation, Technology Integration, Financial Planning]
 format: 
   html: 
     theme: cosmo
@@ -11,15 +11,15 @@ format:
 ---
 
 
-**Background:** 
+**Background:** Scott's background is in Product Management, where his job was to understand what engineers can build and what customers will pay for. Scott has delivered products to market in the printing, data storage, and data security sectors, with experience spanning Dow 30 companies, Fortune 500 firms, and pre-revenue startups. Later in life, he transitioned to entrepreneurship, running real estate and retail automotive businesses that grew to over $3M in annual revenue. He is a graduate of CSU in Engineering and earned his MBA from CU.
 
-**Current Ventures:** 
+**Current Ventures:** As the founder of VOC-E, Scott helps emerging technology teams translate engineering into customer value—shaping product messaging, demos, training materials, and financial strategies that move ideas from concept to market. His work includes market validation, technology integration, and financial planning, always centered on the question: “*What’s the benefit, and who’s willing to pay for it?*”
 
-**Expertise:** 
+**Expertise:** Product strategy, cross-functional team leadership, business model design, data security, and startup-to-scale operations. Scott is especially skilled at aligning technical and customer-facing teams around shared goals.
 
-**Student Experience:** 
+**Student Experience:** Students working with Scott will gain insight into real-world product development—how to validate an idea, build a compelling case, and communicate across technical and business lines. He’s also deeply reflective about what makes teams work: listening, curiosity, and collaboration.
 
-**Fun Fact:** 
+**Fun Fact:** A self-described business “alchemist,” Scott once pitched StorageTek’s CEO on a product strategy that extended a $300M business by a decade. He’s renovated homes, built companies, and now mentors the next generation of builders.
 
 ## Additional Resources
 
