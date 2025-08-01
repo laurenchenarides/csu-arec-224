@@ -30,6 +30,17 @@ Thank you for serving as a mentor in *Introduction to Agribusiness Entrepreneurs
 
 This guide outlines your role, the timeline, and how to prepare.
 
+
+## Video Walkthrough
+
+In this video, I walk you through the course website, giving an overview of the semester.
+
+{{< video https://youtu.be/X-hhXjtMr2A
+    title="Mentors: Semester Plan Overview"
+    aspect-ratio="21x9" 
+>}}
+
+
 ## What is Your Role as a Mentor?
 
 At the start of the semester, you’ll be matched with a small group (or, "pod") of at most four students. 

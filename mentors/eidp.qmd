@@ -71,6 +71,17 @@ It’s not just about completing the assignments—it’s about becoming more aw
 
 Your entrepreneurial journey in this course will be shaped by how **characteristics + skills + practice** come together. The more intention you bring to that process, the more you’ll get out of it.
 
+## Why Inner Work Matters
+
+Before you chart a career path—or even decide which opportunities to pursue—it helps to pause and ask: What do I actually want? In this short clip, Will Ahmed, founder of WHOOP, explains how most people get it backwards: they look outward first for answers before doing the inner work of understanding what they truly care about.
+
+{{< video https://youtu.be/mmmHNH8QPeA
+    title="Interview with Will Ahmed, founder of Whoop"
+    aspect-ratio="21x9" 
+>}}
+
+The E-IDP is designed to help you flip that script. It’s a tool for tuning into your values and goals—so you can move outward with more clarity and confidence.
+
 ## Instructions
 
 Select **three** characteristics that feel meaningful or relevant to you right now. 
@@ -167,7 +178,6 @@ You’ll return to your chosen characteristics throughout the semester:
 | 2  | Choose 3 characteristics. Complete your baseline self-assessment in **Qualtrics** and explain why you chose them. |
 | 8  | Your mentor will complete a brief check-in assessment on your progress. You’ll review their feedback and update your E-IDP. |
 | 16  | Complete a final self-assessment and write a short reflection on how you’ve grown. |
-
 
 
 <!-- ::: {.callout-note icon=false title="Source"} -->
