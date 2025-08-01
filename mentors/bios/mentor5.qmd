@@ -1,5 +1,5 @@
 ---
-title: "Adam Washcoll"
+title: "Adam Wascholl"
 description: "Helping small farms grow through smart financial systems."
 categories: [tax strategy, financial planning, service-based]
 format: 
