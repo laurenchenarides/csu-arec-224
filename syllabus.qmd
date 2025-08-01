@@ -30,25 +30,29 @@ format:
 
 **Department of Agricultural and Resource Economics**
 
-**Course Name**: [AREC 280-A1/224](https://colostate.instructure.com/courses/212872) (212872), Introduction to Agribusiness Entrepreneurship
+**Course Name**: Introduction to Agribusiness Entrepreneurship
+
+**Course Number:** [AREC 280-A1/224](https://colostate.instructure.com/courses/212872) (212872) 
 
 **Time**: 8:00 AM - 9:15 AM T R
 
-**Instructor**: Lauren Chenarides
-
-**Email**: <Lauren.Chenarides@colostate.edu>	
-
 **Location**: Clark C 248
 
-**Term:** August 25 -- December 14, 2025
+**Term:** August 25 -- December 19, 2025
 
-**Teaching Assistant (TA):** Diya Khatiwada
+::: {.callout-note icon=false title="Contact Information"}
+**Instructor**: Dr. Lauren Chenarides
 
-**TA Email**: <dikshya.khatiwada@colostate.edu>	
+**Email**: <Lauren.Chenarides@colostate.edu>	
 
 **Office Hours:** T 11-noon; Th 2-3 pm
 
 **Office Location:** Nutrien 201
+
+**Teaching Assistant (TA):** Diya Khatiwada
+
+**TA Email**: <dikshya.khatiwada@colostate.edu>	
+:::
 
 ## Course Links
 
@@ -74,7 +78,7 @@ This course draws on two primary sources:
 Both the textbook and case studies are required for full participation in the course. Additional readings and materials may be posted online throughout the semester.
  
 
-## Grading
+## Assignments & Grading
 
 Final grades will be calculated as follows:
 
