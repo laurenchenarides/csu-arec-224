@@ -1,0 +1,40 @@
+---
+title: "Entrepreneurial Coachability"
+description: "Seeks, integrates, and learns from failures, setbacks, or feedback to grow."
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+## Vignette
+
+Entrepreneurial coachability is about seeing feedback not as criticism, but as fuel for growth. It’s the willingness to listen carefully, ask clarifying questions, and make real changes based on what you’ve learned—whether the input comes from a mentor, a peer, or a failed attempt.
+
+In our class, coachability might look like revising your case analysis after receiving peer feedback. In the podcast, you might rework your script or interview style after team suggestions. During the business competition, you might regroup with your mentor’s critique in mind and pivot your strategy.
+
+Being coachable doesn’t mean blindly accepting every comment—it means staying open to learning and adjusting to improve your work.
+
+## Design Your Practice Plan
+
+Here’s a simple way to design your own action plan for this characteristic:
+
+**Prompt:**
+
+This semester, I want to practice *entrepreneurial coachability* by [specific behavior you will try] during [case study / podcast / business competition]. To do this well, I’ll prepare by [how you’ll get ready], and I’ll reflect on how it went by [how you’ll track your growth or seek feedback].
+
+**Examples:**
+
+- I want to practice entrepreneurial coachability by revising my case write-up based on team input. I’ll prepare by asking specific questions about my argument. I’ll reflect by noting how the revisions changed the final outcome.
+
+- I want to practice entrepreneurial coachability by sharing a podcast draft early with my team. I’ll prepare by identifying parts I’m unsure about. I’ll reflect by writing down what I learned from their feedback.
+
+- I want to practice entrepreneurial coachability by adjusting our pitch strategy after mentor feedback. I’ll prepare by taking notes during the session. I’ll reflect by reviewing how our final pitch evolved.
+
+After trying your plan, return to your E-IDP and reflect: What worked? What felt uncomfortable? What would you try next time?
+
+::: footer
+Navigate to: [Your E-IDP](../eidp.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::

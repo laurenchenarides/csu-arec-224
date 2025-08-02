@@ -23,13 +23,15 @@ You only need to sign up for **one Fishbowl week**—your Observer role will be 
 
 [See Role Expectations](case-roles.qmd)
 
-### Sign Up for Your Fishbowl Week
+::: {.callout-important title="Sign Up for Your Fishbowl Week"}
 
 Please sign up for **one Fishbowl slot** using the link below:
 
-👉 [Sign up here on Signup Genius](https://www.signupgenius.com/go/your-custom-link)
+👉 [Sign up here on Signup Genius](https://www.signupgenius.com/go/10C0548AEAA22A2F9C07-57758873-case)
 
-Make sure to check the schedule below to match your slot with the corresponding case study.
+Be sure to check the schedule below to match your slot with the corresponding case study (fishbowl week). The following week is when you will be expected to serve as the observer team.
+:::
+
 
 ### Weekly Case Study Assignments
 

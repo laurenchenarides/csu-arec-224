@@ -1,0 +1,38 @@
+---
+title: "Entrepreneurial Hustle"
+description: "Acts with urgency and creativity to solve immediate problems."
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+## Vignette
+
+Entrepreneurial hustle is the drive to make things happen—even when conditions aren’t perfect. It means acting fast, thinking creatively, and doing what it takes to push forward when time or resources are limited.
+
+In our class, hustle might show up when you jump in to solve a case-related task no one else has claimed. In the podcast, it might mean troubleshooting tech issues or tracking down a hard-to-reach guest. During the business competition, you might take initiative to test assumptions or revise your strategy quickly before a pitch.
+
+Hustle isn’t just energy—it’s action. It’s the willingness to roll up your sleeves and move the project forward.
+
+## Design Your Practice Plan
+
+**Prompt:**
+
+This semester, I want to practice *entrepreneurial hustle* by [specific behavior you will try] during [case study / podcast / business competition]. To do this well, I’ll prepare by [how you’ll get ready], and I’ll reflect on how it went by [how you’ll track your growth or seek feedback].
+
+**Examples:**
+
+- I want to practice entrepreneurial hustle by taking the lead on last-minute edits to our case submission. I’ll prepare by learning our formatting tools ahead of time. I’ll reflect by asking teammates if my work helped meet the deadline.
+
+- I want to practice entrepreneurial hustle by fixing technical issues before our podcast goes live. I’ll prepare by watching a tutorial on editing. I’ll reflect by asking listeners if the sound quality improved.
+
+- I want to practice entrepreneurial hustle by emailing five potential mentors to help shape our pitch. I’ll prepare by drafting a clear message. I’ll reflect by noting how quickly I got responses and how they helped shape our idea.
+
+After trying your plan, return to your E-IDP and reflect: What worked? What felt uncomfortable? What would you try next time?
+
+::: footer
+Navigate to: [Your E-IDP](../eidp.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::

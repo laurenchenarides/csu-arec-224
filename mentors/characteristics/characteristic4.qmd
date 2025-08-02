@@ -1,0 +1,41 @@
+---
+title: "Determination and Perseverance"
+description: "Total dedication to success, overcoming obstacles and setbacks, unwavering commitment to succeed."
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+## Vignette
+
+Determination and perseverance are often what separate ideas from impact. They’re the grit behind the late-night revisions, the bounce-back after a rough critique, and the choice to keep showing up when things don’t go as planned. Entrepreneurs succeed not because things are easy, but because they stay the course.
+
+In our class, this characteristic might show up when you revise your case submission after difficult peer feedback, rather than brushing it off. It might mean pushing through a team conflict or a disappointing practice run to deliver a strong business pitch in the final round. Or it could be sticking with your podcast episode even after a recording glitch or an unresponsive guest.
+
+Determination doesn’t mean never struggling—it means choosing to try again with purpose. It’s about staying focused on what matters and learning how to persist with clarity and care.
+
+## Design Your Practice Plan
+
+Here’s a simple way to design your own action plan for this characteristic:
+
+**Prompt:**
+
+This semester, I want to practice *determination and perseverance* by [specific behavior you will try] during [case study / podcast / business competition]. To do this well, I’ll prepare by [how you’ll get ready], and I’ll reflect on how it went by [how you’ll track your growth or seek feedback].
+
+**Examples:**
+
+- I want to practice determination and perseverance by sticking with a tough case even if it’s confusing at first. I’ll prepare by scheduling time to talk through it with my team. I’ll reflect by journaling about how I approached the hard parts.
+
+- I want to practice determination and perseverance by seeing my podcast episode through even if we have tech issues. I’ll prepare by building in time for re-recording. I’ll reflect by writing about what I learned from managing the setbacks.
+
+- I want to practice determination and perseverance by leading my team through revisions after a weak practice pitch. I’ll prepare by setting a plan and checking in with teammates. I’ll reflect by asking for feedback from the mentor on what improved.
+
+
+After trying your plan, return to your E-IDP and reflect: What worked? What felt uncomfortable? What would you try next time?
+
+::: footer
+Navigate to: [Your E-IDP](../eidp.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::

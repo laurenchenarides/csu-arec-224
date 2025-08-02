@@ -1,0 +1,38 @@
+---
+title: "Opportunity Orientation"
+description: "Focuses on opportunity rather than resources; always scanning for possibilities."
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+## Vignette
+
+Opportunity orientation is about looking for potential instead of getting stuck on limitations. Entrepreneurs with this mindset see challenges as doors to something new—and they actively look for unmet needs or ideas others haven’t noticed yet.
+
+In our class, this might show up when you reframe a case challenge to uncover a hidden opportunity. In the podcast, it might mean recognizing a surprising insight in something your guest says. In the business competition, it might be identifying a gap in the market and crafting your solution around it.
+
+Being opportunity-oriented helps you stay curious, creative, and forward-looking.
+
+## Design Your Practice Plan
+
+**Prompt:**
+
+This semester, I want to practice *opportunity orientation* by [specific behavior you will try] during [case study / podcast / business competition]. To do this well, I’ll prepare by [how you’ll get ready], and I’ll reflect on how it went by [how you’ll track your growth or seek feedback].
+
+**Examples:**
+
+- I want to practice opportunity orientation by proposing an alternative take on the case problem. I’ll prepare by asking, “What’s missing from this story?” I’ll reflect by sharing my idea with the group and noting their reactions.
+
+- I want to practice opportunity orientation by pulling out an overlooked insight from a podcast guest’s story. I’ll prepare by listening for themes and patterns. I’ll reflect by noting what surprised me and whether it added value.
+
+- I want to practice opportunity orientation by framing our pitch around a market opportunity others aren’t focusing on. I’ll prepare by researching industry trends. I’ll reflect by asking judges whether our angle stood out.
+
+After trying your plan, return to your E-IDP and reflect: What worked? What felt uncomfortable? What would you try next time?
+
+::: footer
+Navigate to: [Your E-IDP](../eidp.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::

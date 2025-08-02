@@ -1,0 +1,38 @@
+---
+title: "Seeking Feedback"
+description: "Actively looks for input to improve performance; learns from critique."
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+## Vignette
+
+Seeking feedback is more than being open to input—it’s actively looking for it. Entrepreneurs who do this well ask thoughtful questions, listen carefully, and take steps to improve based on what they hear.
+
+In our class, it might look like asking your team how your case contribution landed. In the podcast, it could mean requesting edits from your guest or peers. In the business competition, it might mean using instructor comments to sharpen your message before the final pitch.
+
+Good feedback can change everything—but only if you go out and ask for it.
+
+## Design Your Practice Plan
+
+**Prompt:**
+
+This semester, I want to practice *seeking feedback* by [specific behavior you will try] during [case study / podcast / business competition]. To do this well, I’ll prepare by [how you’ll get ready], and I’ll reflect on how it went by [how you’ll track your growth or seek feedback].
+
+**Examples:**
+
+- I want to practice seeking feedback by checking in with my group after each case assignment. I’ll prepare by asking two specific questions. I’ll reflect by noting trends in their responses.
+
+- I want to practice seeking feedback by sharing my podcast script with the team for review. I’ll prepare by noting areas where I’m unsure. I’ll reflect by tracking how I revised the script.
+
+- I want to practice seeking feedback by reviewing our business pitch with our mentor and instructor. I’ll prepare by summarizing where we’d like input. I’ll reflect by noting which suggestions we used and why.
+
+After trying your plan, return to your E-IDP and reflect: What worked? What felt uncomfortable? What would you try next time?
+
+::: footer
+Navigate to: [Your E-IDP](../eidp.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::

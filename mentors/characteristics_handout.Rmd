@@ -1,0 +1,25 @@
+---
+title: "Entrepreneurial Characteristics Handout"
+subtitle: "Introduction to Agribusiness Entrepreneurship"
+output: pdf_document
+---
+
+| Characteristic                              | Description                                                                                       |
+|:--------------------------------------------|:--------------------------------------------------------------------------------------------------|
+| Calculated Risk Taking                      | Makes strategic, informed decisions about when to take a risk, not reckless.                      |
+| Communication                               | Effectively conveys ideas and actively listens in professional settings.                          |
+| Creativity and Innovativeness               | Generates original ideas and sees possibilities others may not.                                   |
+| Determination and Perseverance              | Total dedication to success, overcoming obstacles and setbacks, unwavering commitment to succeed. |
+| Drive to Achieve                            | A strong desire to compete, to excel against self-imposed standards, to pursue challenging goals. |
+| Entrepreneurial Coachability                | Seeks, integrates, and learns from failures, setbacks, or feedback to grow.                       |
+| Entrepreneurial Hustle                      | Acts with urgency and creativity to solve immediate problems.                                     |
+| High Energy Level                           | Demonstrates consistent drive and enthusiasm to sustain effort over time.                         |
+| Opportunity Orientation                     | Focuses on opportunity rather than resources; always scanning for possibilities.                  |
+| Passion                                     | Demonstrates deep emotional investment in the work.                                               |
+| Persistent Problem Solving                  | Tackles tough problems with a methodical, realistic approach; doesn’t quit easily.                |
+| Personal Agency (Internal Locus of Control) | Believes success comes from personal responsibility and effort, not luck.                         |
+| Seeking Feedback                            | Actively looks for input to improve performance; learns from critique.                            |
+| Team Building                               | Builds strong, motivated teams; values others' strengths.                                         |
+| Tolerance for Ambiguity                     | Comfortable operating under uncertainty or limited structure.                                     |
+| Vision                                      | Has a clear sense of purpose or long-term direction.                                              |
+

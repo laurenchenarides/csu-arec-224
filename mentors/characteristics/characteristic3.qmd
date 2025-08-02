@@ -1,0 +1,41 @@
+---
+title: "Creativity and Innovativeness"
+description: "Generates original ideas and sees possibilities others may not."
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+## Vignette
+
+Entrepreneurship thrives on fresh thinking. Creativity and innovativeness allow you to reimagine possibilities, question assumptions, and design something that didn’t exist before. Whether it’s the spark of a new idea or the confidence to try a different approach, your ability to innovate will shape how you contribute in class—and beyond.
+
+In our class, creativity might emerge during the case study when you reframe a problem and offer a unique solution that no one else considered. In the podcast, you might try an unconventional interview structure or experiment with audio storytelling. During the business case competition, you could propose a product or service that breaks the mold—not just viable, but exciting and different.
+
+Original ideas often start as uncertain ones. But with a willingness to explore and iterate, your creativity becomes a powerful tool to solve problems and inspire others.
+
+## Design Your Practice Plan
+
+Here’s a simple way to design your own action plan for this characteristic:
+
+**Prompt:**
+
+This semester, I want to practice *creativity and innovativeness* by [specific behavior you will try] during [case study / podcast / business competition]. To do this well, I’ll prepare by [how you’ll get ready], and I’ll reflect on how it went by [how you’ll track your growth or seek feedback].
+
+**Examples:**
+
+- I want to practice creativity and innovativeness by proposing a nontraditional solution to a case problem. I’ll prepare by brainstorming with my team and studying past examples. I’ll reflect by asking peers if our idea felt fresh and viable.
+
+- I want to practice creativity and innovativeness by designing a podcast segment that includes storytelling or sound effects. I’ll prepare by researching formats and writing a detailed script. I’ll reflect by listening back and getting peer input on how it felt.
+
+- I want to practice creativity and innovativeness by pitching an impactful presentation that conveys the material in a new way. I’ll prepare by incorporating visuals that highlight important trends. I’ll reflect by asking my mentor if the idea stretched their thinking.
+
+
+After trying your plan, return to your E-IDP and reflect: What worked? What felt uncomfortable? What would you try next time?
+
+::: footer
+Navigate to: [Your E-IDP](../eidp.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::

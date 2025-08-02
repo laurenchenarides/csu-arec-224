@@ -19,8 +19,25 @@
     ]
   },
   {
-    "listing": "/2025/students.html",
-    "items": []
+    "listing": "/mentors/eidp.html",
+    "items": [
+      "/mentors/characteristics/characteristic1.html",
+      "/mentors/characteristics/characteristic2.html",
+      "/mentors/characteristics/characteristic3.html",
+      "/mentors/characteristics/characteristic4.html",
+      "/mentors/characteristics/characteristic5.html",
+      "/mentors/characteristics/characteristic6.html",
+      "/mentors/characteristics/characteristic7.html",
+      "/mentors/characteristics/characteristic8.html",
+      "/mentors/characteristics/characteristic9.html",
+      "/mentors/characteristics/characteristic10.html",
+      "/mentors/characteristics/characteristic11.html",
+      "/mentors/characteristics/characteristic12.html",
+      "/mentors/characteristics/characteristic13.html",
+      "/mentors/characteristics/characteristic14.html",
+      "/mentors/characteristics/characteristic15.html",
+      "/mentors/characteristics/characteristic16.html"
+    ]
   },
   {
     "listing": "/lectures.html",
@@ -39,5 +56,9 @@
       "/2025/lecture12.html",
       "/2025/lecture13.html"
     ]
+  },
+  {
+    "listing": "/2025/students.html",
+    "items": []
   }
 ]

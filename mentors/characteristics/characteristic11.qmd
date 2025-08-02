@@ -1,0 +1,38 @@
+---
+title: "Persistent Problem Solving"
+description: "Tackles tough problems with a methodical, realistic approach; doesn’t quit easily."
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+## Vignette
+
+Persistent problem solving is about staying with a challenge long enough to work through it—even when it's frustrating or messy. It means breaking big problems into smaller pieces and trying different approaches until you find what works.
+
+In our class, this might show up when you face a case with incomplete or conflicting data. In the podcast, it might mean adjusting your questions mid-interview to keep things on track. In the business competition, it might mean iterating on your idea until it clicks.
+
+The key is resilience: staying engaged when things don’t come easy.
+
+## Design Your Practice Plan
+
+**Prompt:**
+
+This semester, I want to practice *persistent problem solving* by [specific behavior you will try] during [case study / podcast / business competition]. To do this well, I’ll prepare by [how you’ll get ready], and I’ll reflect on how it went by [how you’ll track your growth or seek feedback].
+
+**Examples:**
+
+- I want to practice persistent problem solving by breaking down our case into smaller parts and assigning roles. I’ll prepare by drawing out a visual map of the challenge. I’ll reflect by noting whether the strategy helped clarify the path forward.
+
+- I want to practice persistent problem solving by redirecting our podcast interview when it goes off-topic. I’ll prepare by planning fallback questions. I’ll reflect by noting what worked and what I might do differently next time.
+
+- I want to practice persistent problem solving by finding a new angle on our pitch after hitting a wall. I’ll prepare by seeking outside feedback. I’ll reflect by comparing early and final versions of our concept.
+
+After trying your plan, return to your E-IDP and reflect: What worked? What felt uncomfortable? What would you try next time?
+
+::: footer
+Navigate to: [Your E-IDP](../eidp.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::

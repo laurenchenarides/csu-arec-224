@@ -1,0 +1,39 @@
+---
+title: "Calculated Risk Taking"
+description: "Makes strategic, informed decisions about when to take a risk, not reckless."
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+## Vignette
+
+In any entrepreneurial journey, moments will arise when you face uncertainty: Do you pitch the unconventional idea? Do you steer your team in a new direction? Do you speak up when the outcome isn't guaranteed? Practicing calculated risk taking means knowing when to push beyond the familiar—and how to do it with purpose.
+
+In our class, this might look like proposing a bold but well-supported recommendation during the fishbowl discussion, even if it challenges the mainstream interpretation. Or it could mean suggesting a podcast guest whose perspective is unconventional, but whose insights could add depth to the conversation. During the business case competition, it might mean identifying a key uncertainty in the market and strategically pivoting your concept—balancing ambition with a clear rationale.
+
+These are not reckless moves; they are thoughtful decisions made by weighing tradeoffs, preparing carefully, and reflecting after the fact. That’s how entrepreneurs grow—and how you’ll grow this semester.
+
+## Design Your Practice Plan
+
+Here’s a simple way to design your own action plan for this characteristic:
+
+**Prompt:**
+
+This semester, I want to practice *calculated risk taking* by [specific behavior you will try] during [case study / podcast / business competition]. To do this well, I’ll prepare by [how you’ll get ready], and I’ll reflect on how it went by [how you’ll track your growth or seek feedback].
+
+**Examples:**
+
+- I want to practice calculated risk taking by proposing an unconventional case solution during the fishbowl. I’ll prepare by researching alternative perspectives. I'll reflect by asking peers if the risk added value to the discussion.
+
+- I want to practice calculated risk taking by choosing a podcast guest who’s outside my comfort zone. I’ll prepare by drafting a strong question list. I'll reflect by reviewing how well I adapted during the interview.
+
+
+After trying your plan, return to your E-IDP and reflect: What worked? What felt uncomfortable? What would you try next time?
+
+::: footer
+Navigate to: [Your E-IDP](../eidp.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::

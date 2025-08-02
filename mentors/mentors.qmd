@@ -16,7 +16,6 @@ listing:
   feed: false
   fields: [title, description, categories]
 
-#page-layout: full
 page-navigation: false
 title-block-banner: false
 repo-actions: false

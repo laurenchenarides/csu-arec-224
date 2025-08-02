@@ -32,6 +32,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -67,6 +69,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-characteristics .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-characteristics'] = new List('listing-characteristics', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GG4GM3TPXK"></script>
 
 <script type="text/javascript">
@@ -77,6 +108,35 @@ gtag('js', new Date());
 gtag('config', 'G-GG4GM3TPXK', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="Building an Entrepreneurial-Individual Development Plan (E-IDP) – Ag Entrepreneurship">
@@ -289,12 +349,256 @@ The Jordan Analogy: How Characteristics Drive Skill
 </section>
 <section id="instructions" class="level2">
 <h2 class="anchored" data-anchor-id="instructions">Instructions</h2>
-<p>Select <strong>three</strong> characteristics that feel meaningful or relevant to you right now.</p>
+<p>Select <strong>three</strong> characteristics among those listed below that feel meaningful or relevant to you right now.</p>
+<p>This list includes commonly cited characteristics associated with entrepreneurial success. These are drawn from several sources, including the course textbook, <em>Entrepreneurship: Theory, Process, and Practice</em> (Kuratko, 12th Edition). You’ll use these to guide your self-assessments and reflection.</p>
 <p>You don’t need to be “good” at something to choose it. You might pick something you want to strengthen or explore. The goal is clarity and growth—not perfection.</p>
-<p><strong>Choosing Among the Following Entrepreneurial Characteristics</strong></p>
-<p>The table below includes commonly cited characteristics associated with entrepreneurial success. These are drawn from several sources, including the course textbook, <em>Entrepreneurship: Theory, Process, and Practice</em> (Kuratko, 12th Edition). You’ll use these to guide your self-assessments and reflection.</p>
+<div id="listing-characteristics" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1754142766181" data-listing-reading-time-sort="2" data-listing-word-count-sort="313">
+<a href="../mentors/characteristics/characteristic1.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Calculated Risk Taking
+</h5>
+<div class="card-text listing-description">
+Makes strategic, informed decisions about when to take a risk, not reckless.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1754142865086" data-listing-reading-time-sort="2" data-listing-word-count-sort="338">
+<a href="../mentors/characteristics/characteristic2.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Communication
+</h5>
+<div class="card-text listing-description">
+Effectively conveys ideas and actively listens in professional settings.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1754142620938" data-listing-reading-time-sort="2" data-listing-word-count-sort="350">
+<a href="../mentors/characteristics/characteristic3.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Creativity and Innovativeness
+</h5>
+<div class="card-text listing-description">
+Generates original ideas and sees possibilities others may not.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1754142726064" data-listing-reading-time-sort="2" data-listing-word-count-sort="353">
+<a href="../mentors/characteristics/characteristic4.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Determination and Perseverance
+</h5>
+<div class="card-text listing-description">
+Total dedication to success, overcoming obstacles and setbacks, unwavering commitment to succeed.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1754145253835" data-listing-reading-time-sort="2" data-listing-word-count-sort="350">
+<a href="../mentors/characteristics/characteristic5.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Drive to Achieve
+</h5>
+<div class="card-text listing-description">
+A strong desire to compete, to excel against self-imposed standards, to pursue challenging goals.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1754145639732" data-listing-reading-time-sort="2" data-listing-word-count-sort="298">
+<a href="../mentors/characteristics/characteristic6.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Entrepreneurial Coachability
+</h5>
+<div class="card-text listing-description">
+Seeks, integrates, and learns from failures, setbacks, or feedback to grow.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1754145638537" data-listing-reading-time-sort="2" data-listing-word-count-sort="294">
+<a href="../mentors/characteristics/characteristic7.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Entrepreneurial Hustle
+</h5>
+<div class="card-text listing-description">
+Acts with urgency and creativity to solve immediate problems.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1754145636033" data-listing-reading-time-sort="2" data-listing-word-count-sort="276">
+<a href="../mentors/characteristics/characteristic8.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+High Energy Level
+</h5>
+<div class="card-text listing-description">
+Demonstrates consistent drive and enthusiasm to sustain effort over time.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1754145634350" data-listing-reading-time-sort="2" data-listing-word-count-sort="282">
+<a href="../mentors/characteristics/characteristic9.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Opportunity Orientation
+</h5>
+<div class="card-text listing-description">
+Focuses on opportunity rather than resources; always scanning for possibilities.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1754145633202" data-listing-reading-time-sort="2" data-listing-word-count-sort="267">
+<a href="../mentors/characteristics/characteristic10.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Passion
+</h5>
+<div class="card-text listing-description">
+Demonstrates deep emotional investment in the work.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1754145631995" data-listing-reading-time-sort="2" data-listing-word-count-sort="285">
+<a href="../mentors/characteristics/characteristic11.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Persistent Problem Solving
+</h5>
+<div class="card-text listing-description">
+Tackles tough problems with a methodical, realistic approach; doesn’t quit easily.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1754145630843" data-listing-reading-time-sort="2" data-listing-word-count-sort="286">
+<a href="../mentors/characteristics/characteristic12.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Personal Agency
+</h5>
+<div class="card-text listing-description">
+Believes success comes from personal responsibility and effort, not luck.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1754145629949" data-listing-reading-time-sort="2" data-listing-word-count-sort="268">
+<a href="../mentors/characteristics/characteristic13.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Seeking Feedback
+</h5>
+<div class="card-text listing-description">
+Actively looks for input to improve performance; learns from critique.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1754145628927" data-listing-reading-time-sort="2" data-listing-word-count-sort="201">
+<a href="../mentors/characteristics/characteristic14.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Team Building
+</h5>
+<div class="card-text listing-description">
+Builds strong, motivated teams; values others’ strengths.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1754145627417" data-listing-reading-time-sort="2" data-listing-word-count-sort="282">
+<a href="../mentors/characteristics/characteristic15.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Tolerance for Ambiguity
+</h5>
+<div class="card-text listing-description">
+Comfortable operating under uncertainty or limited structure.
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="15" data-listing-file-modified-sort="1754145625204" data-listing-reading-time-sort="2" data-listing-word-count-sort="266">
+<a href="../mentors/characteristics/characteristic16.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Vision
+</h5>
+<div class="card-text listing-description">
+Has a clear sense of purpose or long-term direction.
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled" title="Entrepreneurial Characteristics for E-IDP (summarized)">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Entrepreneurial Characteristics for E-IDP (summarized)
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
 <p>Each row represents a <em>characteristic</em> and shows how that trait might show up as a <em>skill</em> in different contexts: analyzing a case study, developing a case presentation, or producing a podcast. You don’t have to master every characteristic, but this framework can help you become more aware of your strengths and growth areas. As you move through the semester, use this table to reflect on how you’re engaging, not just what you’re doing—these are the habits that will carry forward into your future career.</p>
+<p><a href="characteristics_handout.pdf">Download PDF here</a></p>
 <table class="caption-top table">
+<caption>Source: Kuratko, D. F. (2023). <em>Entrepreneurship: Theory, Process, and Practice</em> (12th ed.). Cengage Learning.</caption>
 <colgroup>
 <col style="width: 14%">
 <col style="width: 27%">
@@ -313,95 +617,11 @@ The Jordan Analogy: How Characteristics Drive Skill
 </thead>
 <tbody>
 <tr class="odd">
-<td>Determination and Perseverance</td>
-<td>Total dedication to success, overcoming obstacles and setbacks, unwavering commitment to succeed.</td>
-<td>Works through a tough case with limited information, revises submission after feedback.</td>
-<td>Rebounds from a presentation that didn’t go well or team conflict to produce a strong final submission.</td>
-<td>Follows through on editing and publishing the episode even with technical issues.</td>
-</tr>
-<tr class="even">
-<td>Drive to Achieve</td>
-<td>A strong desire to compete, to excel against self-imposed standards, to pursue challenging goals.</td>
-<td>Sets personal goals for improvement and strives to exceed rubric expectations.</td>
-<td>Builds a creative, well-researched presentation that aims beyond the baseline requirements.</td>
-<td>Prepares extensively for the interview and produces polished show notes.</td>
-</tr>
-<tr class="odd">
-<td>Opportunity Orientation</td>
-<td>Focuses on opportunity rather than resources; always scanning for possibilities.</td>
-<td>Identifies a new angle or challenge in the case that others might miss.</td>
-<td>Frames the business case around an unmet market need.</td>
-<td>Uses the podcast to spotlight a mentor’s insight that others might overlook.</td>
-</tr>
-<tr class="even">
-<td>Persistent Problem Solving</td>
-<td>Tackles tough problems with a methodical, realistic approach; doesn’t quit easily.</td>
-<td>Breaks down a messy or ambiguous case dilemma into solvable components.</td>
-<td>Iterates on a business idea that wasn’t working and comes back stronger.</td>
-<td>Adapts when an interview doesn’t go as planned (e.g., awkward question, off-topic guest).</td>
-</tr>
-<tr class="odd">
-<td>Seeking Feedback</td>
-<td>Actively looks for input to improve performance; learns from critique.</td>
-<td>Asks thoughtful questions during peer reviews and incorporates suggestions.</td>
-<td>Takes mentor or instructor feedback seriously and uses it to refine the presentation.</td>
-<td>Shares draft questions and welcomes team feedback to improve flow and focus.</td>
-</tr>
-<tr class="even">
-<td>Personal Agency (Internal Locus of Control)</td>
-<td>Believes success comes from personal responsibility and effort, not luck.</td>
-<td>Owns their role in a group project—even if things go wrong—and makes improvements.</td>
-<td>Steps up to lead part of the project rather than waiting for direction.</td>
-<td>Volunteers to manage post-production or write the episode summary without being asked.</td>
-</tr>
-<tr class="odd">
-<td>Tolerance for Ambiguity</td>
-<td>Comfortable operating under uncertainty or limited structure.</td>
-<td>Makes confident decisions even with partial information.</td>
-<td>Stays focused and productive when the business idea feels unclear.</td>
-<td>Interviews a guest from a different background or industry, embracing unpredictability.</td>
-</tr>
-<tr class="even">
 <td>Calculated Risk Taking</td>
 <td>Makes strategic, informed decisions about when to take a risk, not reckless.</td>
 <td>Proposes a bold case solution after weighing tradeoffs.</td>
 <td>Suggests a pivot in the business idea after identifying market gaps.</td>
 <td>Takes a chance on interviewing a less conventional guest to offer a fresh perspective.</td>
-</tr>
-<tr class="odd">
-<td>High Energy Level</td>
-<td>Demonstrates consistent drive and enthusiasm to sustain effort over time.</td>
-<td>Shows consistent participation, takes initiative in group tasks, and keeps team momentum up.</td>
-<td>Maintains intensity and enthusiasm through multiple iterations/drafts of the business presentation.</td>
-<td>Brings energy and curiosity to the interview, actively engages with the guest and generates follow-ups.</td>
-</tr>
-<tr class="even">
-<td>Creativity and Innovativeness</td>
-<td>Generates original ideas and sees possibilities others may not.</td>
-<td>Comes up with an unusual solution to the case that reframes the challenge.</td>
-<td>Develops a unique business case presentation.</td>
-<td>Experiments with creative formats or questions in the podcast interview.</td>
-</tr>
-<tr class="odd">
-<td>Vision</td>
-<td>Has a clear sense of purpose or long-term direction.</td>
-<td>Frames the case in terms of long-term consequences and strategy.</td>
-<td>Builds a story for the business case presentation around a future-oriented mission.</td>
-<td>Designs the podcast with a storytelling arc and mission in mind.</td>
-</tr>
-<tr class="even">
-<td>Passion</td>
-<td>Demonstrates deep emotional investment in the work.</td>
-<td>Shows enthusiasm during class discussion, invests energy into write-up.</td>
-<td>Brings contagious energy to the business case presentation.</td>
-<td>Curates thoughtful, engaging questions to spark an interactive conversation.</td>
-</tr>
-<tr class="odd">
-<td>Team Building</td>
-<td>Builds strong, motivated teams; values others’ strengths.</td>
-<td>Mediates conflict or reassigns tasks to ensure all voices are heard.</td>
-<td>Creates a clear delegation plan and keeps the team motivated.</td>
-<td>Makes sure each team member has a clear podcast role and supports each other.</td>
 </tr>
 <tr class="even">
 <td>Communication</td>
@@ -411,174 +631,157 @@ The Jordan Analogy: How Characteristics Drive Skill
 <td>Conducts a structured, respectful interview that draws out relatable insights</td>
 </tr>
 <tr class="odd">
+<td>Creativity and Innovativeness</td>
+<td>Generates original ideas and sees possibilities others may not.</td>
+<td>Comes up with an unusual solution to the case that reframes the challenge.</td>
+<td>Develops a unique business case presentation.</td>
+<td>Experiments with creative formats or questions in the podcast interview.</td>
+</tr>
+<tr class="even">
+<td>Determination and Perseverance</td>
+<td>Total dedication to success, overcoming obstacles and setbacks, unwavering commitment to succeed.</td>
+<td>Works through a tough case with limited information, revises submission after feedback.</td>
+<td>Rebounds from a presentation that didn’t go well or team conflict to produce a strong final submission.</td>
+<td>Follows through on editing and publishing the episode even with technical issues.</td>
+</tr>
+<tr class="odd">
+<td>Drive to Achieve</td>
+<td>A strong desire to compete, to excel against self-imposed standards, to pursue challenging goals.</td>
+<td>Sets personal goals for improvement and strives to exceed rubric expectations.</td>
+<td>Builds a creative, well-researched presentation that aims beyond the baseline requirements.</td>
+<td>Prepares extensively for the interview and produces polished show notes.</td>
+</tr>
+<tr class="even">
 <td>Entrepreneurial Coachability</td>
 <td>Seeks, integrates, and learns from failures, setbacks, or feedback to grow.</td>
 <td>Revises work based on mentor or peer input.</td>
 <td>Asks clarifying questions during feedback sessions and adjusts strategy.</td>
 <td>Adapts podcast approach after receiving critique from peers or the mentor.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Entrepreneurial Hustle</td>
 <td>Acts with urgency and creativity to solve immediate problems.</td>
 <td>Takes initiative to move the team forward under time pressure.</td>
 <td>Reaches out to external audiences to test assumptions while preparing the presentation.</td>
 <td>Resolves a last-minute tech issue or integrates hard-to-get information to bring the episode to life.</td>
 </tr>
-</tbody>
-</table>
-<div class="callout callout-style-default callout-note no-icon callout-titled" title="Table 2.1 Characteristics Often Attributed to Entrepreneurs">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Table 2.1 Characteristics Often Attributed to Entrepreneurs
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-2" class="callout-2-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<p>Researchers have identified a wide range of entrepreneurial characteristics, many of which can be grouped into a smaller set of core traits, as listed above. Howard Stevenson and David Gumpert identified traits like imagination, flexibility, and risk tolerance as central to entrepreneurial thinking. William Gartner found that the literature highlights a broad and diverse set of characteristics. Meanwhile, John Hornaday reviewed multiple sources to create a widely used list of 42 traits commonly associated with entrepreneurs, summarized in the table below.</p>
-<p>For this course, we’ll focus on a selected subset of entrepreneurial characteristics drawn from across the literature. These characteristics represent a synthesis of recurring themes and serve as a foundation for your E-IDP. Although they don’t capture every trait found in studies like Hornaday’s list, they reflect core capacities that can be practiced and strengthened through your work in this class.</p>
-<table class="caption-top table">
-<caption>Source: Kuratko, D. F. (2023). <em>Entrepreneurship: Theory, Process, and Practice</em> (12th ed.). Cengage Learning.</caption>
-<thead>
-<tr class="header">
-<th>Characteristic</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Ability to get along well with people</td>
-</tr>
 <tr class="even">
-<td>Ability to influence others</td>
+<td>High Energy Level</td>
+<td>Demonstrates consistent drive and enthusiasm to sustain effort over time.</td>
+<td>Shows consistent participation, takes initiative in group tasks, and keeps team momentum up.</td>
+<td>Maintains intensity and enthusiasm through multiple iterations/drafts of the business presentation.</td>
+<td>Brings energy and curiosity to the interview, actively engages with the guest and generates follow-ups.</td>
 </tr>
 <tr class="odd">
-<td>Ability to learn from mistakes</td>
+<td>Opportunity Orientation</td>
+<td>Focuses on opportunity rather than resources; always scanning for possibilities.</td>
+<td>Identifies a new angle or challenge in the case that others might miss.</td>
+<td>Frames the business case around an unmet market need.</td>
+<td>Uses the podcast to spotlight a mentor’s insight that others might overlook.</td>
 </tr>
 <tr class="even">
-<td>Ability to make decisions quickly</td>
+<td>Passion</td>
+<td>Demonstrates deep emotional investment in the work.</td>
+<td>Shows enthusiasm during class discussion, invests energy into write-up.</td>
+<td>Brings contagious energy to the business case presentation.</td>
+<td>Curates thoughtful, engaging questions to spark an interactive conversation.</td>
 </tr>
 <tr class="odd">
-<td>Ability to take calculated risks</td>
+<td>Persistent Problem Solving</td>
+<td>Tackles tough problems with a methodical, realistic approach; doesn’t quit easily.</td>
+<td>Breaks down a messy or ambiguous case dilemma into solvable components.</td>
+<td>Iterates on a business idea that wasn’t working and comes back stronger.</td>
+<td>Adapts when an interview doesn’t go as planned (e.g., awkward question, off-topic guest).</td>
 </tr>
 <tr class="even">
-<td>Ability to trust workers</td>
+<td>Personal Agency (Internal Locus of Control)</td>
+<td>Believes success comes from personal responsibility and effort, not luck.</td>
+<td>Owns their role in a group project—even if things go wrong—and makes improvements.</td>
+<td>Steps up to lead part of the project rather than waiting for direction.</td>
+<td>Volunteers to manage post-production or write the episode summary without being asked.</td>
 </tr>
 <tr class="odd">
-<td>Accuracy, thoroughness</td>
+<td>Seeking Feedback</td>
+<td>Actively looks for input to improve performance; learns from critique.</td>
+<td>Asks thoughtful questions during peer reviews and incorporates suggestions.</td>
+<td>Takes mentor or instructor feedback seriously and uses it to refine the presentation.</td>
+<td>Shares draft questions and welcomes team feedback to improve flow and focus.</td>
 </tr>
 <tr class="even">
-<td>Aggressiveness</td>
+<td>Team Building</td>
+<td>Builds strong, motivated teams; values others’ strengths.</td>
+<td>Mediates conflict or reassigns tasks to ensure all voices are heard.</td>
+<td>Creates a clear delegation plan and keeps the team motivated.</td>
+<td>Makes sure each team member has a clear podcast role and supports each other.</td>
 </tr>
 <tr class="odd">
-<td>Capacity for enjoyment</td>
+<td>Tolerance for Ambiguity</td>
+<td>Comfortable operating under uncertainty or limited structure.</td>
+<td>Makes confident decisions even with partial information.</td>
+<td>Stays focused and productive when the business idea feels unclear.</td>
+<td>Interviews a guest from a different background or industry, embracing unpredictability.</td>
 </tr>
 <tr class="even">
-<td>Commitment</td>
-</tr>
-<tr class="odd">
-<td>Confidence</td>
-</tr>
-<tr class="even">
-<td>Cooperativeness</td>
-</tr>
-<tr class="odd">
-<td>Courage</td>
-</tr>
-<tr class="even">
-<td>Creativity</td>
-</tr>
-<tr class="odd">
-<td>Dynamism, leadership</td>
-</tr>
-<tr class="even">
-<td>Efficacy</td>
-</tr>
-<tr class="odd">
-<td>Egotism</td>
-</tr>
-<tr class="even">
-<td>Energy, diligence</td>
-</tr>
-<tr class="odd">
-<td>Flexibility</td>
-</tr>
-<tr class="even">
-<td>Foresight</td>
-</tr>
-<tr class="odd">
-<td>Honesty, integrity</td>
-</tr>
-<tr class="even">
-<td>Imagination</td>
-</tr>
-<tr class="odd">
-<td>Independence</td>
-</tr>
-<tr class="even">
-<td>Initiative</td>
-</tr>
-<tr class="odd">
-<td>Intelligence</td>
-</tr>
-<tr class="even">
-<td>Maturity, balance</td>
-</tr>
-<tr class="odd">
-<td>Need to achieve</td>
-</tr>
-<tr class="even">
-<td>Optimism</td>
-</tr>
-<tr class="odd">
-<td>Orientation to clear goals</td>
-</tr>
-<tr class="even">
-<td>Perceptiveness</td>
-</tr>
-<tr class="odd">
-<td>Perseverance, determination</td>
-</tr>
-<tr class="even">
-<td>Pleasant personality</td>
-</tr>
-<tr class="odd">
-<td>Positive response to challenges</td>
-</tr>
-<tr class="even">
-<td>Sense of power</td>
-</tr>
-<tr class="odd">
-<td>Profit orientation</td>
-</tr>
-<tr class="even">
-<td>Resourcefulness</td>
-</tr>
-<tr class="odd">
-<td>Responsiveness to suggestions/criticism</td>
-</tr>
-<tr class="even">
-<td>Responsibility</td>
-</tr>
-<tr class="odd">
-<td>Sensitivity to others</td>
-</tr>
-<tr class="even">
-<td>Time competence, efficiency</td>
-</tr>
-<tr class="odd">
-<td>Toleration for ambiguity</td>
-</tr>
-<tr class="even">
-<td>Versatility</td>
+<td>Vision</td>
+<td>Has a clear sense of purpose or long-term direction.</td>
+<td>Frames the case in terms of long-term consequences and strategy.</td>
+<td>Builds a story for the business case presentation around a future-oriented mission.</td>
+<td>Designs the podcast with a storytelling arc and mission in mind.</td>
 </tr>
 </tbody>
 </table>
 </div>
 </div>
 </div>
+<!-- :::{.callout-note icon=false title="Table 2.1 Characteristics Often Attributed to Entrepreneurs" collapse=true} -->
+<!-- Researchers have identified a wide range of entrepreneurial characteristics, many of which can be grouped into a smaller set of core traits, as listed above. Howard Stevenson and David Gumpert identified traits like imagination, flexibility, and risk tolerance as central to entrepreneurial thinking. William Gartner found that the literature highlights a broad and diverse set of characteristics. Meanwhile, John Hornaday reviewed multiple sources to create a widely used list of 42 traits commonly associated with entrepreneurs, summarized in the table below. -->
+<!-- For this course, we’ll focus on a selected subset of entrepreneurial characteristics drawn from across the literature. These characteristics represent a synthesis of recurring themes and serve as a foundation for your E-IDP. Although they don’t capture every trait found in studies like Hornaday’s list, they reflect core capacities that can be practiced and strengthened through your work in this class. -->
+<!-- | Characteristic | -->
+<!-- |----------------| -->
+<!-- | Ability to get along well with people | -->
+<!-- | Ability to influence others | -->
+<!-- | Ability to learn from mistakes | -->
+<!-- | Ability to make decisions quickly | -->
+<!-- | Ability to take calculated risks | -->
+<!-- | Ability to trust workers | -->
+<!-- | Accuracy, thoroughness | -->
+<!-- | Aggressiveness | -->
+<!-- | Capacity for enjoyment | -->
+<!-- | Commitment | -->
+<!-- | Confidence | -->
+<!-- | Cooperativeness | -->
+<!-- | Courage | -->
+<!-- | Creativity | -->
+<!-- | Dynamism, leadership | -->
+<!-- | Efficacy | -->
+<!-- | Egotism | -->
+<!-- | Energy, diligence | -->
+<!-- | Flexibility | -->
+<!-- | Foresight | -->
+<!-- | Honesty, integrity | -->
+<!-- | Imagination | -->
+<!-- | Independence | -->
+<!-- | Initiative | -->
+<!-- | Intelligence | -->
+<!-- | Maturity, balance | -->
+<!-- | Need to achieve | -->
+<!-- | Optimism | -->
+<!-- | Orientation to clear goals | -->
+<!-- | Perceptiveness | -->
+<!-- | Perseverance, determination | -->
+<!-- | Pleasant personality | -->
+<!-- | Positive response to challenges | -->
+<!-- | Sense of power | -->
+<!-- | Profit orientation | -->
+<!-- | Resourcefulness | -->
+<!-- | Responsiveness to suggestions/criticism | -->
+<!-- | Responsibility | -->
+<!-- | Sensitivity to others | -->
+<!-- | Time competence, efficiency | -->
+<!-- | Toleration for ambiguity | -->
+<!-- | Versatility | -->
+<!-- : Source: Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (12th ed.). Cengage Learning. -->
+<!-- ::: -->
 </section>
 <section id="timeline" class="level2">
 <h2 class="anchored" data-anchor-id="timeline">Timeline</h2>
@@ -615,6 +818,7 @@ Table 2.1 Characteristics Often Attributed to Entrepreneurs
 <!-- ## Why It Matters -->
 <!-- Entrepreneurship is not just about starting businesses—it's about being someone who takes initiative, solves problems creatively, and works well with others to turn ideas into action. -->
 <!-- The E-IDP is designed to help you **notice how you grow**, and give you structured support along the way. -->
+
 
 
 </section>

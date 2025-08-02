@@ -1,0 +1,38 @@
+---
+title: "Vision"
+description: "Has a clear sense of purpose or long-term direction."
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+## Vignette
+
+Vision is your ability to connect today’s actions to tomorrow’s impact. It’s about working with purpose, imagining what’s possible, and helping others see it too.
+
+In our class, this might show up when you interpret a case through a long-term strategic lens. In the podcast, it might mean designing an episode with a clear message or theme. In the business competition, it could involve pitching an idea that’s rooted in a deeper mission.
+
+Vision gives meaning to the work—it answers the “why.”
+
+## Design Your Practice Plan
+
+**Prompt:**
+
+This semester, I want to practice *vision* by [specific behavior you will try] during [case study / podcast / business competition]. To do this well, I’ll prepare by [how you’ll get ready], and I’ll reflect on how it went by [how you’ll track your growth or seek feedback].
+
+**Examples:**
+
+- I want to practice vision by framing our case analysis around the long-term effects of the company’s decision. I’ll prepare by researching industry trends. I’ll reflect by noting how the big-picture lens shaped our recommendations.
+
+- I want to practice vision by designing a podcast episode around a central message. I’ll prepare by outlining the key theme ahead of time. I’ll reflect by seeing whether listeners picked up on the story arc.
+
+- I want to practice vision by building our pitch around a future-oriented mission. I’ll prepare by aligning our solution with broader social or environmental goals. I’ll reflect by noting whether our audience connected with the bigger picture.
+
+After trying your plan, return to your E-IDP and reflect: What worked? What felt uncomfortable? What would you try next time?
+
+::: footer
+Navigate to: [Your E-IDP](../eidp.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::
