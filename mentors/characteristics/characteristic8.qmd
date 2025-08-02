@@ -34,5 +34,5 @@ This semester, I want to practice *high energy level* by [specific behavior you 
 After trying your plan, return to your E-IDP and reflect: What worked? What felt uncomfortable? What would you try next time?
 
 ::: footer
-Navigate to: [Your E-IDP](../eidp.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+Navigate to: All [Characteristics](https://laurenchenarides.github.io/csu-arec-224/mentors/eidp.html#instructions) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
 :::

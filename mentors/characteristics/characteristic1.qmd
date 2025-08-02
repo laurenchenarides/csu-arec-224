@@ -11,15 +11,13 @@ format:
 
 ## Vignette
 
-In any entrepreneurial journey, moments will arise when you face uncertainty: Do you pitch the unconventional idea? Do you steer your team in a new direction? Do you speak up when the outcome isn't guaranteed? Practicing calculated risk taking means knowing when to push beyond the familiar—and how to do it with purpose.
+Calculated risk taking is about stepping outside your comfort zone—not impulsively, but intentionally. It means recognizing moments when a bold move could lead to deeper insight, stronger impact, or meaningful progress—and being willing to act when the potential reward outweighs the risk.
 
-In our class, this might look like proposing a bold but well-supported recommendation during the fishbowl discussion, even if it challenges the mainstream interpretation. Or it could mean suggesting a podcast guest whose perspective is unconventional, but whose insights could add depth to the conversation. During the business case competition, it might mean identifying a key uncertainty in the market and strategically pivoting your concept—balancing ambition with a clear rationale.
+In our class, this might look like proposing a surprising solution during a case discussion that challenges the dominant view. In the podcast, it might mean inviting a guest with a controversial or unfamiliar perspective and preparing for a nuanced conversation. In the business competition, it might be pivoting your idea midstream to pursue a more ambitious opportunity—based on clear reasoning and a thoughtful plan.
 
-These are not reckless moves; they are thoughtful decisions made by weighing tradeoffs, preparing carefully, and reflecting after the fact. That’s how entrepreneurs grow—and how you’ll grow this semester.
+Taking a calculated risk means you've done the work: you've weighed your options, anticipated possible outcomes, and are prepared to adapt. It’s not about being reckless. It’s about being brave, prepared, and willing to grow.
 
 ## Design Your Practice Plan
-
-Here’s a simple way to design your own action plan for this characteristic:
 
 **Prompt:**
 
@@ -27,13 +25,14 @@ This semester, I want to practice *calculated risk taking* by [specific behavior
 
 **Examples:**
 
-- I want to practice calculated risk taking by proposing an unconventional case solution during the fishbowl. I’ll prepare by researching alternative perspectives. I'll reflect by asking peers if the risk added value to the discussion.
+- I want to practice calculated risk taking by presenting a nontraditional interpretation of the case in our fishbowl discussion. I’ll prepare by finding evidence to support my position. I’ll reflect by asking my peers how it changed the conversation.
 
-- I want to practice calculated risk taking by choosing a podcast guest who’s outside my comfort zone. I’ll prepare by drafting a strong question list. I'll reflect by reviewing how well I adapted during the interview.
+- I want to practice calculated risk taking by interviewing a podcast guest whose background or viewpoint is outside my usual interests. I’ll prepare by researching the topic and planning thoughtful questions. I’ll reflect by noting how I adapted during the conversation and what I learned.
 
+- I want to practice calculated risk taking by presenting a business case that pushes beyond the original scope of our team’s plan. I’ll prepare by identifying the risks and how to mitigate them. I’ll reflect by tracking how the judges and audience responded.
 
 After trying your plan, return to your E-IDP and reflect: What worked? What felt uncomfortable? What would you try next time?
 
 ::: footer
-Navigate to: [Your E-IDP](../eidp.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+Navigate to: All [Characteristics](https://laurenchenarides.github.io/csu-arec-224/mentors/eidp.html#instructions) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
 :::
