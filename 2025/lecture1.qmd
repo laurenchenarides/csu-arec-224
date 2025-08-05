@@ -77,9 +77,9 @@ Source: @kuratko2024
 - 1.11. Define the key concepts in entrepreneurship.
 
 
-## Some Interesting Statistics About U.S. Entrepreneurial Activity
+## Some Interesting Statistics About U.S. Entrepreneurial Activity (1/2)
 
-Guess before the number appears! 🧠💡
+<small>Guess before the number appears!</small>
 
 - **How many entrepreneurs are there in the U.S.?**  
 
@@ -99,6 +99,11 @@ Guess before the number appears! 🧠💡
 ::: {.fragment}  
   25%
 :::
+
+
+## Some Interesting Statistics About U.S. Entrepreneurial Activity (2/2)
+
+<small>Guess before the number appears!</small>
 
 - **What is the average age someone starts their first business?**  
 
@@ -123,8 +128,6 @@ Guess before the number appears! 🧠💡
 ::: {.fragment}  
   50%
 :::
-
-
 ## Entrepreneurs are Breakthrough Innovators
 
 ::: {.columns}
@@ -137,11 +140,12 @@ Guess before the number appears! 🧠💡
 
 ::: {.column width="50%"}
 
+<small>This semester, you'll be matched with an industry mentor. [Read about the mentors here](https://laurenchenarides.github.io/csu-arec-224/mentors/mentors.html).</small>
+
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="../images/mentor-collage.png" style="max-width: 100%; max-height: 750px;" />
 </div>
 
-<small>This semester, you'll be matched with an industry mentor. [Read about the mentors here](https://laurenchenarides.github.io/csu-arec-224/mentors/mentors.html).</small>
 :::
 
 :::
@@ -218,7 +222,9 @@ Guess before the number appears! 🧠💡
 
 ## Why Economists are Interested in Entrepreneurship
 
-New ventures can change the market structure by shifting supply or introducing entirely new supply curves. This affects:
+New ventures can change the market structure by shifting supply or introducing entirely new supply curves, as well as generate demand. 
+
+This happens via:
 
 - Market entry and exit
 - Pricing and competition
@@ -226,9 +232,17 @@ New ventures can change the market structure by shifting supply or introducing e
 
 <!-- TODO: Add discussion/examples of supply curve shifts in ag/food sectors -->
 
+::: {.callout-note icon=false title="Entrepreneurial Firms’ Economic Impact"}
+
+Entrepreneurial firms make two indispensable contributions to an economy:
+
+- They are an integral part of the renewal process that pervades and defines market economies.
+- They are fundamental mechanism by which millions enter the economic and social mainstream of society.
+:::
+
 ## Entrepreneurship: A Mindset
 
-- Entrepreneurship is more than the mere creation of business. 
+Entrepreneurship is more than the mere creation of business. 
 
 It is a *mindset* where one:
 
@@ -273,118 +287,46 @@ Source: @enetwork2017mindset
 
 ## A Summary Description of Entrepreneurship
 
-According to Robert C. Ronstadt, entrepreneurship is...
+**Entrepreneurship** is...
 
-- The dynamic process of creating incremental wealth.
+- The dynamic process of creating incremental wealth through vision, change, and creation
 - This wealth is created by individuals who assume major risks in terms of equity, time, and/or career commitment of providing value for a product or service.
 - The product or service itself may or may not be new or unique, but the entrepreneur must somehow infuse value by securing and allocating the necessary skills and resources.
 
+::: {.callout-note icon=false title="Ingredients of Entrepreneurship"}
 
-## An Integrated Definition of Entrepreneurship
+What does it take to be an entrepreneur?
 
-- A dynamic process of vision, change, and creation
-- Essential ingredients include:
-  - Willingness to take calculated risks—in terms of time, equity, or career
-  - Ability to formulate an effective venture team
-  - Creative skill to marshal needed resources
-  - Fundamental skills of building a solid business plan
-  - Vision to recognize opportunity where others see chaos, contradiction, and confusion
-
+- Willingness to take calculated risks—in terms of time, equity, or career
+- Ability to formulate an effective venture team
+- Creative skill to marshal needed resources
+- Fundamental skills of building a solid business plan
+- Vision to recognize opportunity where others see chaos, contradiction, and confusion
+:::
 
 ## Myth: Most Entrepreneurial Initiatives Fail
 
 - *add data from the Kauffman Indicators of Entrepreneurship* [PLACEHOLDER] Focus on food and ag industries.
 
 
-## Group Activity 1-1
-
-- Divide class into groups of two or three.
-- Each group should select a different myth of entrepreneurship. Then look to find an example consistent with the myth and an example that refutes the myth.
-- Share your examples and insights with the class.
-
 
 ## Approaches to Entrepreneurship
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="../images/01frameworks.png" style="max-width: 100%; max-height: 750px;" />
+</div>
 
+::: {.callout-note icon=false title="A Framework-of-Frameworks Approach"}
+This image from the textbook lays out a “Framework-of-Frameworks” — basically, it maps out how different schools of thought and process models fit into the larger study of entrepreneurship. You’ll see that it brings together both macro and micro perspectives:
 
-## A Framework-of-Frameworks Approach
+On the **macro side**, it includes external influences like culture, capital access, and economic conditions (i.e., things outside the entrepreneur’s control).
 
+On the **micro side**, it focuses on internal traits and strategic thinking—things like personal motivation, opportunity recognition, and business planning.
 
+It also includes **process-based** approaches that look at how ventures are formed and evolve over time, emphasizing inputs (like team or resources) and outcomes (like growth or innovation).
 
-## Entrepreneurial Schools-of-Thought Approach
-
-
-
-## Macro View: External Locus of Control
-
-- Environmental School of Thought
-- Considers the external factors that affect a potential entrepreneur’s lifestyle.
-- Financial/Capital School of Thought
-- Is based on the capital-seeking process—the search for seed and growth capital.
-- Displacement School of Thought
-- Alienation drives entrepreneurial pursuits.
-- Political displacement (laws, policies, and regulations)
-- Cultural displacement (preclusion of social groups)
-- Economic displacement (economic variations)
-
-
-## Financial Analysis Emphasis
-
-
-
-## Micro View: Internal Locus of Control (1 of 2)
-
-- Entrepreneurial Trait School of Thought
-- Focuses on identifying traits common to successful entrepreneurs.
-- Achievement, creativity, determination, and technical knowledge
-- Venture Opportunity School of Thought
-- Focuses on the opportunity aspect of venture development.
-- Corridor principle: New pathways or opportunities will arise that lead entrepreneurs in different directions.
-
-
-## Micro View: Internal Locus of Control (2 of 2)
-
-- Strategic Formulation School of Thought
-- Emphasizes the planning process in successful venture development.
-- Strategic formulation is a leveraging of unique elements:
-- Unique markets—mountain versus mountain gap strategies
-- Unique people—great chef strategies
-- Unique products—better widget strategies
-- Unique resources—water well strategies
-
-
-## Process Approaches to Entrepreneurship (1 of 3)
-
-- Integrative Approach
-- Built around the concepts of input to the entrepreneurial process and outcomes from the entrepreneurial process.
-- Focuses on the entrepreneurial process itself and identifies five key elements that contribute to the process.
-- Provides a comprehensive picture regarding the nature of entrepreneurship that can be applied at different levels.
-
-
-## Integrative Model of Entrepreneurial Inputs and Outcomes
-
-
-
-## Process Approaches to Entrepreneurship (2 of 3)
-
-- Dynamic States Approach
-- Stresses dependency of venture on environment and the interaction of:
-- The dominant logic of the firm
-- The business model
-- Value creation
-
-
-## Dynamic States Approach
-
-
-
-## Process Approaches to Entrepreneurship (3 of 3)
-
-- Framework-of-Frameworks Approach
-- Offers a more dynamic view of entrepreneurship.
-- Allows for the profession to move forward.
-- Identifies the static and dynamic elements of new theories, typologies, or frameworks of importance.
-
+<small>*Rather than detailing each school here, I encourage you to read the corresponding sections in the textbook. It’s helpful to reference when you start noticing how entrepreneurs are influenced by both their personal traits and their environment — and when we explore business cases later in the semester.*</small>
+:::
 
 ## The Entrepreneurial Revolution
 
@@ -397,23 +339,24 @@ According to Robert C. Ronstadt, entrepreneurship is...
 ## Types of Entrepreneurs
 
 - Millennipreneurs: under age 35
-- Success based on positive social or environmental impact
+  - Success based on positive social or environmental impact
 - Ultrapreneurs: focus on environmental and social concerns.
 - Serialpreneurs: have four or more operating companies.
 - Boomerpreneurs: age 55 or older
-- Believe their business has had a positive social impact.
+  - Believe their business has had a positive social impact.
 
 
 ## The Impact of Entrepreneurial Ventures in the United States
 
-- Declined in pandemic, in 2021, large growth in new business applications
+- The number of business declined by over 20% during the pandemic
+- However, in 2021, large growth in new business applications
 - Now more than 31 million entrepreneurs
 - Nearly 1.3 million women-owned businesses, growing faster than total businesses.
 - Number of Latino business owners grew 34 percent.
 - Asian entrepreneurs run 10 percent of all businesses.
 
 
-## Group Activity 1-2
+## Group Activity 1-1
 
 - The COVID-19 pandemic created and destroyed small businesses.
 - Working in groups of two or three, find examples of small businesses that did well in the pandemic. Why?
@@ -428,33 +371,17 @@ According to Robert C. Ronstadt, entrepreneurship is...
 - U.S. leadership in entrepreneurship education at both the undergraduate and graduate levels.
 - A high percentage of individuals with professional, technological, or business degrees who are likely to become entrepreneurs.
 
-## Legacy of Entrepreneurial Firms
-
-- Entrepreneurial components of the U.S. economy:
-- Large firms have increased profitability by returning to their “core competencies” through restructuring and downsizing.
-- New entrepreneurial companies have been blossoming in new technologies and new markets.
-- Thousands of smaller firms established by women, minorities, and immigrants have strengthened the economy.
-
-
-## Entrepreneurial Firms’ Economic Impact
-
-- Entrepreneurial firms make two indispensable contributions to an economy:
-- They are an integral part of the renewal process that pervades and defines market economies.
-- They are the essential mechanism by which millions enter the economic and social mainstream of society.
-
 
 ## Twenty-First-Century Trends in Entrepreneurship Research (1 of 2)
 
-- Major Research Themes:
 - Venture financing including venture capital and angel capital financing and other financing techniques strengthened in the 1990s.
 - Corporate entrepreneurship and the need for entrepreneurial cultures have drawn increased attention.
-- Social entrepreneurship has unprecedented strength within the new generation of entrepreneurs.
+- Social entrepreneurship has unprecedented strength within the new generation of entrepreneurs.
 - Entrepreneurial cognition is providing new insights into the psychological aspects of the entrepreneurial process.
 
 
 ## Twenty-First-Century Trends in Entrepreneurship Research (2 of 2)
 
-- Major Research Themes:
 - Women and minority entrepreneurs appear to face obstacles and difficulties different from those that other entrepreneurs face.
 - The global entrepreneurial movement is increasing.
 - Family businesses have become a stronger focus of research.
@@ -483,16 +410,6 @@ According to Robert C. Ronstadt, entrepreneurship is...
 ::: footer
 Source: @fortune_usnews_entrepreneurship
 :::
-
-## The Future Trajectory of Entrepreneurship: The Entrepreneurial Mindset
-
-- Trajectories in Reassessing Entrepreneurship Education:
-- Why Teach Entrepreneurship—A Clear Purpose
-- What Is Taught in Entrepreneurship—The Content
-- How Entrepreneurship Is Taught—The Delivery Mechanism
-- Organizing Entrepreneurship—The Structure
-- Outcomes of Teaching Entrepreneurship—The Metrics
-- Leadership of Entrepreneurship Programs—Academic Entrepreneurs
 
 
 ## Key Entrepreneurship Concepts (1 of 3)
