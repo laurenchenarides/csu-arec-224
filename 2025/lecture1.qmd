@@ -1,10 +1,10 @@
 ---
-title: "Lecture 1 Introduction: Grand Challenges"
-description-meta: "Introduction to energy and climate policy"
-author: "Gang He"
-date: September 9, 2024
+title: "Lecture 1"
+description-meta: "Introduction to Entrepreneurship"
+author: "Dr. Lauren Chenarides"
+date: August 26, 2025
 date-format: long
-image: "/images/economy-environment-energy.jpeg"
+image: "/images/01entrepreneur.png"
 format:
   revealjs:
     theme: white
@@ -15,321 +15,531 @@ format:
     citations-hover: true
     auto-stretch: true
     r-fit-text: true
-    center: true
+    center: false
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-policy/>
+    footer: <https://laurenchenarides.github.io/csu-arec-224/>
 ---
 
-![](/images/423ppm.png){fig-align="center"}
+## Welcome
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+Hello! I'm Dr. Chenarides.
+
+This is **AREC 280-A1/224 Introduction to Agribusiness Entrepreneurship** (3 credits).
+
+We meet **T & Th 8:00 am--9: 15 am**.
+
+::: {.fragment}
+I started my first business in 2016. 👉 
+:::
+
+:::
+
+::: {.column width="50%"}
+::: {.fragment}
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="../images/best-local.png" style="max-width: 100%; max-height: 750px;" />
+</div>
+
+:::
+:::
+
+:::
+
+## What to Expect
+
+[Course website](https://laurenchenarides.github.io/csu-arec-224/)
+
+## Lecture 1: Introduction to Entrepreneurship
+
+- Chapter 1: Entrepreneurship: Evolutionary Development—Revolutionary Impact
 
 ::: footer
-Source: [NOAA](https://gml.noaa.gov/ccgg/trends/gl_trend.html)
+Source: @kuratko2024
 :::
 
----
+## Chapter Objectives
 
-## Welcome and icebreaker
+- 1.1 Identify the major types of entrepreneurial ventures.
+- 1.2 Examine the historical development of entrepreneurship.
+- 1.3 Summarize the myths of entrepreneurship.
+- 1.4 Define the major schools of entrepreneurial thought.
+- 1.5 Explain the process and framework approaches to the study of entrepreneurship.
+- 1.6 Paraphrase a comprehensive definition of entrepreneurship.
+- 1.7 Examine the entrepreneurial revolution taking place today.
+- 1.8 Illustrate today’s entrepreneurial environment.
+- 1.9 Outline the trends in entrepreneurship research.
+- 1.10 Examine the future trajectory of entrepreneurship.
+- 1.11. Define the key concepts in entrepreneurship.
 
--   Rose: "something that is working well or something positive"
--   Thorn: "something that isn't working or something negative"
--   Bud: "an area of opportunity or idea yet to be explored"
 
-## What brings you here?
+## Some Interesting Statistics About U.S. Entrepreneurial Activity
 
--   Concerned topics?
--   Motivations?
--   Dream jobs?
+Guess before the number appears! 🧠💡
 
-## Not fast enough
+- **How many entrepreneurs are there in the U.S.?**  
 
-::: columns
+::: {.fragment}  
+  31 million  
+:::
+
+- **What percent of adults have started at least one business?**  
+
+::: {.fragment}  
+  55%  
+:::
+
+
+- **What percent have started two or more businesses?**  
+
+::: {.fragment}  
+  25%
+:::
+
+- **What is the average age someone starts their first business?**  
+
+::: {.fragment}  
+  42
+:::
+
+- **How many women-owned businesses exist?**  
+
+::: {.fragment}  
+  13 million (as of 2021)
+:::
+
+- **What percent of Black business owners are women?**  
+
+::: {.fragment}  
+  35% (vs. 27% overall)
+:::
+
+- **What percent of women-owned businesses are owned by women of color?**  
+
+::: {.fragment}  
+  50%
+:::
+
+
+## Entrepreneurs are Breakthrough Innovators
+
+::: {.columns}
+
 ::: {.column width="50%"}
-![](/images/20240622-economist-cover-solar.avif){fig-align="center" width=50%}
+- Recognize opportunities where others see chaos, contradiction, or confusion.
+- Are aggressive catalysts for change within the marketplace.
+- Challenge the unknown and continuously create breakthroughs for the future.
 :::
 
 ::: {.column width="50%"}
-![](/images/green-power-gap.png){fig-align="center"}
-:::
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="../images/mentor-collage.png" style="max-width: 100%; max-height: 750px;" />
+</div>
+
+<small>This semester, you'll be matched with an industry mentor. [Read about the mentors here](https://laurenchenarides.github.io/csu-arec-224/mentors/mentors.html).</small>
 :::
 
-How the exponential growth of solar will change the energy sector and the economy?
+:::
+
+## Entrepreneurs: Distinctive Journeys
+
+::: {.columns}
+
+::: {.column width="50%"}
+**Small-Business Owners**
+
+- Manage their businesses by expecting stable sales, profits, and growth.
+- *Stability*
+:::
+
+::: {.column width="50%"}
+**Entrepreneurs**
+
+- Focus their efforts on innovation, profitability, and sustainable growth.
+- *Growth*
+:::
+
+:::
+
+## Major Types of Entrepreneurial Ventures
+
+- Survival ventures
+- Lifestyle ventures
+- Managed growth ventures
+- Aggressive growth ventures
+
+## Survival ventures
+
+<!-- TODO: Add sector-specific examples of each venture type (e.g., survival, lifestyle, managed growth, aggressive growth) in food and agriculture -->
+
+## Lifestyle ventures
+
+
+## Managed growth ventures
+
+
+## Aggressive growth ventures
+
+
+## Gazelles
+
+- A business establishment with at least 20 percent sales growth in each year for 5 years, starting with a base of at least $100,000 in annual sales.
+- Gazelles as leaders in innovation:
+  - Median growth of 450 percent
+  - Top-performing 1 percent of companies account for about 40 percent of jobs.
+  - Gazelles make up less than 1 percent of all businesses and account for 10 percent of net new jobs.
+
+
+## Mythology Associated with Gazelles
+
+- Gazelles are the goal of all entrepreneurs.
+- Gazelles receive venture capital.
+- Gazelles were never mice.
+- Gazelles are high tech.
+- Gazelles are global.
+
+
+## Unicorns
+
+- A pre-IPO (private) tech start-up company with a $1 billion market value.
+- In 2023, 1,191 start-ups were unicorns.
+
+:::{.callout-note icon=false title="Decacorns and Hectacorns"}
+- A “decacorn”
+  - Start-ups with a $10 billion or more market value.
+  - Examples: Facebook, Uber (taxis), and Airbnb (hotels)
+- A “hectacorn” is valued at $100 billion or more.
+:::
+
+## Why Economists are Interested in Entrepreneurship
+
+New ventures can change the market structure by shifting supply or introducing entirely new supply curves. This affects:
+
+- Market entry and exit
+- Pricing and competition
+- Consumer access and innovation
+
+<!-- TODO: Add discussion/examples of supply curve shifts in ag/food sectors -->
+
+## Entrepreneurship: A Mindset
+
+- Entrepreneurship is more than the mere creation of business. 
+
+It is a *mindset* where one:
+
+- Seeks opportunities.
+- Takes risks beyond security.
+- Has the tenacity to push an idea through to reality.
+
+**Entrepreneurship is an integrated concept that permeates an individual’s business in an innovative manner.**
+
+
+## The Entrepreneurial Process: Employee vs. Entrepreneur Mindset
+
+- Becoming on entrepreneur is less about the money, the commitment, or the support and **more about the mindset.** 
+
+- It revolves around shifting from an employee mindset to an entrepreneur mindset. 
+
+**The more a person can change their mindset from employee to entrepreneur, the more they will be able to find satisfaction in entrepreneurship.**
+
+:::{.callout-note icon=false title="The Entrepreneurial Mindset Transformation"}
+- Entrepreneurship is more than just creating a business; it is an actual spiritual and emotional transformation that takes you from on established way of thinking to a new, groundbreaking mentality. 
+
+- An entrepreneur must get comfortable with being uncomfortable and be able to deal with fear. 
+
+- Entrepreneurship, in whatever capacity or form it shows itself in, is risky and fear inducing. 
+
+- It does not matter if you are selling lemonade in your backyard as a kid, writing your first book, or hustling to market your brand after hours. 
+
+:::
+
 
 ::: footer
-Source: [The Economist](https://www.economist.com/leaders/2024/06/20/the-exponential-growth-of-solar-power-will-change-the-world), [Green Power Gap](https://www.rockefellerfoundation.org/report/the-green-power-gap/)
+Source: @enetwork2017mindset
 :::
 
-## Why PAF9199?
 
--   Policy matters
-    -   Technology innovation
-    -   Social change
-    -   Research
-    -   Jobs
--   Clean energy transition to achieve climate goals
+## The Evolution of Entrepreneurship
 
-## Organization
+- Entrepreneur is derived from the French *entreprendre*, meaning “to undertake.”
+- The entrepreneur is **one who undertakes** to organize, manage, and assume the risks of a business.
+- Although no single definition of entrepreneur exists and no one profile can represent today’s entrepreneurs, research is providing an increasingly sharper focus on the subject.
 
--   Syllabus
--   Brightspace
--   Course website: <https://drganghe.github.io/energy-climate-policy/>
--   Policy responses (10): 30%
--   Assignments (4): 20%
--   Proposal: 10%
--   Final presentations: 20%
--   Policy memo: 20%
 
-## Climate guest speakers{.smaller}
+## A Summary Description of Entrepreneurship
 
--   9/16 – Richard Morse: Renewable energy investments
--   9/23 – Shirley Gallagher: My Sustainable Journey and the skills used to contribute to climate solutions
--   9/30 – Kaifang Luo: Clean technology deployment and impact
--   10/7 – Simi George: Storage and regulation
--   10/15 – Maryam Mozafari: Transitioning from fossil fuels to renewable energy
--   10/21 – Fabio Passaro: Steel & cement sectors’ decarbonization
--   10/28 – Liqun Peng: Power sector decarbonization
--   11/4 – Samuel Vaillancourt: Gold mining decarbonization
--   11/11 – Bharathi Esakkimuthu: Climate career options and essential skills
--   11/18 – Mohsen Fatemi: City government implementation
+According to Robert C. Ronstadt, entrepreneurship is...
+
+- The dynamic process of creating incremental wealth.
+- This wealth is created by individuals who assume major risks in terms of equity, time, and/or career commitment of providing value for a product or service.
+- The product or service itself may or may not be new or unique, but the entrepreneur must somehow infuse value by securing and allocating the necessary skills and resources.
+
+
+## An Integrated Definition of Entrepreneurship
+
+- A dynamic process of vision, change, and creation
+- Essential ingredients include:
+  - Willingness to take calculated risks—in terms of time, equity, or career
+  - Ability to formulate an effective venture team
+  - Creative skill to marshal needed resources
+  - Fundamental skills of building a solid business plan
+  - Vision to recognize opportunity where others see chaos, contradiction, and confusion
+
+
+## Myth: Most Entrepreneurial Initiatives Fail
+
+- *add data from the Kauffman Indicators of Entrepreneurship* [PLACEHOLDER] Focus on food and ag industries.
+
+
+## Group Activity 1-1
+
+- Divide class into groups of two or three.
+- Each group should select a different myth of entrepreneurship. Then look to find an example consistent with the myth and an example that refutes the myth.
+- Share your examples and insights with the class.
+
+
+## Approaches to Entrepreneurship
+
+
+
+## A Framework-of-Frameworks Approach
+
+
+
+## Entrepreneurial Schools-of-Thought Approach
+
+
+
+## Macro View: External Locus of Control
+
+- Environmental School of Thought
+- Considers the external factors that affect a potential entrepreneur’s lifestyle.
+- Financial/Capital School of Thought
+- Is based on the capital-seeking process—the search for seed and growth capital.
+- Displacement School of Thought
+- Alienation drives entrepreneurial pursuits.
+- Political displacement (laws, policies, and regulations)
+- Cultural displacement (preclusion of social groups)
+- Economic displacement (economic variations)
+
+
+## Financial Analysis Emphasis
+
+
+
+## Micro View: Internal Locus of Control (1 of 2)
+
+- Entrepreneurial Trait School of Thought
+- Focuses on identifying traits common to successful entrepreneurs.
+- Achievement, creativity, determination, and technical knowledge
+- Venture Opportunity School of Thought
+- Focuses on the opportunity aspect of venture development.
+- Corridor principle: New pathways or opportunities will arise that lead entrepreneurs in different directions.
+
+
+## Micro View: Internal Locus of Control (2 of 2)
+
+- Strategic Formulation School of Thought
+- Emphasizes the planning process in successful venture development.
+- Strategic formulation is a leveraging of unique elements:
+- Unique markets—mountain versus mountain gap strategies
+- Unique people—great chef strategies
+- Unique products—better widget strategies
+- Unique resources—water well strategies
+
+
+## Process Approaches to Entrepreneurship (1 of 3)
+
+- Integrative Approach
+- Built around the concepts of input to the entrepreneurial process and outcomes from the entrepreneurial process.
+- Focuses on the entrepreneurial process itself and identifies five key elements that contribute to the process.
+- Provides a comprehensive picture regarding the nature of entrepreneurship that can be applied at different levels.
+
+
+## Integrative Model of Entrepreneurial Inputs and Outcomes
+
+
+
+## Process Approaches to Entrepreneurship (2 of 3)
+
+- Dynamic States Approach
+- Stresses dependency of venture on environment and the interaction of:
+- The dominant logic of the firm
+- The business model
+- Value creation
+
+
+## Dynamic States Approach
+
+
+
+## Process Approaches to Entrepreneurship (3 of 3)
+
+- Framework-of-Frameworks Approach
+- Offers a more dynamic view of entrepreneurship.
+- Allows for the profession to move forward.
+- Identifies the static and dynamic elements of new theories, typologies, or frameworks of importance.
+
+
+## The Entrepreneurial Revolution
+
+- Entrepreneurship is the symbol of business tenacity and achievement.
+- Entrepreneurs were the pioneers of today’s business successes.
+- In post-pandemic world, entrepreneurs will continue to be critical contributors to economic growth through:
+- leadership, management, innovation, research and development effectiveness, job creation, competitiveness, productivity, and formation of new industry.
+
+
+## Types of Entrepreneurs
+
+- Millennipreneurs: under age 35
+- Success based on positive social or environmental impact
+- Ultrapreneurs: focus on environmental and social concerns.
+- Serialpreneurs: have four or more operating companies.
+- Boomerpreneurs: age 55 or older
+- Believe their business has had a positive social impact.
+
+
+## The Impact of Entrepreneurial Ventures in the United States
+
+- Declined in pandemic, in 2021, large growth in new business applications
+- Now more than 31 million entrepreneurs
+- Nearly 1.3 million women-owned businesses, growing faster than total businesses.
+- Number of Latino business owners grew 34 percent.
+- Asian entrepreneurs run 10 percent of all businesses.
+
+
+## Group Activity 1-2
+
+- The COVID-19 pandemic created and destroyed small businesses.
+- Working in groups of two or three, find examples of small businesses that did well in the pandemic. Why?
+- Share what you found with the class.
+
+
+## Entrepreneurial Ventures in the United States
+
+- Reasons for the exceptional entrepreneurial activity in the United States include:
+- A national culture that supports risk-taking and -seeking opportunities.
+- Americans’ alertness to unexploited economic opportunity and a low fear of failure.
+- U.S. leadership in entrepreneurship education at both the undergraduate and graduate levels.
+- A high percentage of individuals with professional, technological, or business degrees who are likely to become entrepreneurs.
+
+## Legacy of Entrepreneurial Firms
+
+- Entrepreneurial components of the U.S. economy:
+- Large firms have increased profitability by returning to their “core competencies” through restructuring and downsizing.
+- New entrepreneurial companies have been blossoming in new technologies and new markets.
+- Thousands of smaller firms established by women, minorities, and immigrants have strengthened the economy.
+
+
+## Entrepreneurial Firms’ Economic Impact
+
+- Entrepreneurial firms make two indispensable contributions to an economy:
+- They are an integral part of the renewal process that pervades and defines market economies.
+- They are the essential mechanism by which millions enter the economic and social mainstream of society.
+
+
+## Twenty-First-Century Trends in Entrepreneurship Research (1 of 2)
+
+- Major Research Themes:
+- Venture financing including venture capital and angel capital financing and other financing techniques strengthened in the 1990s.
+- Corporate entrepreneurship and the need for entrepreneurial cultures have drawn increased attention.
+- Social entrepreneurship has unprecedented strength within the new generation of entrepreneurs.
+- Entrepreneurial cognition is providing new insights into the psychological aspects of the entrepreneurial process.
+
+
+## Twenty-First-Century Trends in Entrepreneurship Research (2 of 2)
+
+- Major Research Themes:
+- Women and minority entrepreneurs appear to face obstacles and difficulties different from those that other entrepreneurs face.
+- The global entrepreneurial movement is increasing.
+- Family businesses have become a stronger focus of research.
+- Entrepreneurial education has become one of the hottest topics in business and engineering schools throughout the world.
+
+
+## The Entrepreneurial Process: The Best Business Schools for Entrepreneurship
+
+- The Best Graduate Programs in Entrepreneurship
+- Indiana University, Bloomington**
+- Stanford University
+- Harvard University
+- Massachusetts Institute of Technology
+- University of California, Berkeley**
+- Babson College
+- *Where does CSU Rank???*
+- The Best Undergraduate Programs in Entrepreneurship
+- Indiana University, Bloomington**
+- University of Pennsylvania
+- University of Southern California
+- University of California, Berkeley**
+- Babson College
+- *Where does CSU Rank???*
+- **denotes public university
 
 ::: footer
-Learn more: <https://drganghe.github.io/climate-guest-speakers/>
+Source: @fortune_usnews_entrepreneurship
 :::
 
-## Contents
-
-::: columns
-::: {.column width="30%"}
--   Climate change
-    -   Impact
-    -   Mitigation
-    -   Adaption
-    -   Governance
-:::
+## The Future Trajectory of Entrepreneurship: The Entrepreneurial Mindset
 
-::: {.column width="40%"}
--   Energy systems
-    -   Supply
-    -   Demand
-    -   Economics
-    -   Technology
-:::
+- Trajectories in Reassessing Entrepreneurship Education:
+- Why Teach Entrepreneurship—A Clear Purpose
+- What Is Taught in Entrepreneurship—The Content
+- How Entrepreneurship Is Taught—The Delivery Mechanism
+- Organizing Entrepreneurship—The Structure
+- Outcomes of Teaching Entrepreneurship—The Metrics
+- Leadership of Entrepreneurship Programs—Academic Entrepreneurs
 
-::: {.column width="30%"}
--   Tools/skills
-    -   Data analysis
-    -   Economic analysis
-    -   Energy-economy-environment (nexus)
-:::
-:::
 
-## A five points "climate haiku"
+## Key Entrepreneurship Concepts (1 of 3)
 
-::: columns
-::: {.column width="50%"}
-1.  It's warming
-2.  It's us
-3.  We're sure
-4.  It's bad
-5.  **We can fix it**
-:::
+- Entrepreneurship
+- A process of innovation and new-venture creation through four major dimensions—individual, organizational, environmental, and process—that is aided by collaborative networks in government, education, and institutions.
+- Entrepreneur
+- A catalyst for economic change who uses purposeful searching, careful planning, and sound judgment when carrying out the entrepreneurial process.
 
-::: {.column width="50%"}
-![](/images/climate-curriculum.png){fig-align="center"}
-:::
-:::
 
-::: footer
-Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
-:::
+## Key Entrepreneurship Concepts (2 of 3)
 
-## An analytical approach
+- Entrepreneurial Discipline
+- It makes little or no difference who or what the entrepreneur is—whether a business or a nonbusiness public service organization, whether a governmental or nongovernmental institution.
+- The rules are much the same and so are the kinds of innovation and where to look for them.
 
-Data-driven, evidence-based, energy and climate policy
 
-Using analytic tool to answer questions such as:
+## Key Entrepreneurship Concepts (3 of 3)
 
--   What will be the climate future if we do nothing?
--   What technology to invest to achieve our climate goal?
--   What will be the impact to carbon emission of IRA?
--   How NYS/NYC could achieve its climate goals?
+- Entrepreneurial Leadership
+- Combines two capacities of the pursuit of innovation:
+- Capacity to lead
+- Capacity to risk
+- Leadership is measured in:
+  - Sense of opportunity
+  - Drive to innovate
+  - Capacity for accomplishment
+  - One of the most significant phrases in the twenty-first century.
 
-## Two quotes about models
 
-::: columns
-::: {.column width="50%"}
-George Box:
+## Summary
 
->All models are wrong, but some are useful.
-:::
+- 1.1 Identify the major types of entrepreneurial ventures.
+- 1.2 Examine the historical development of entrepreneurship.
+- 1.3 Summarize the myths of entrepreneurship.
+- 1.4 Define the major schools of entrepreneurial thought.
+- 1.5 Explain the process and framework approaches to the study of entrepreneurship.
+- 1.6 Paraphrase a comprehensive definition of entrepreneurship.
+- 1.7 Examine the entrepreneurial revolution taking place today.
+- 1.8 Illustrate today’s entrepreneurial environment.
+- 1.9 Outline the trends in entrepreneurship research.
+- 1.10 Examine the future trajectory of entrepreneurship.
+- 1.11. Define the key concepts in entrepreneurship.
 
-::: {.column width="50%"}
-Albert Einstein:
 
->Everything should be made as simple as possible, but not simpler.
-:::
-:::
 
 
-## Models can be useful
-
--   Prediction/Projection
--   Simulation
--   Optimization
--   Control
--   Stochastic/dynamic
--   Policy: Scenarios
-
-Models help us think
-
-## Modeling is hard
-
-::: columns
-::: {.column width="50%"}
-![](/images/EIA-coal-consumption-forecasts.png){fig-align="center"}
-:::
-
-::: {.column width="50%"}
-![](/images/WEO-PV-projections.png){fig-align="center"}
-:::
-:::
-
-## Why?
-
--   **Risk**: System structural change could break our core data and assumptions that are based on historical experience. Example: shale gas revolution.
-
--   **Uncertainty**: The exact timing and character of pivotal events and technology changes is unpredictable. Example: renewables cost changes, fussion.
-
-::: footer
-Read more from [Jon Koomey](https://www.slideshare.net/jgkoomey/past-performance-is-no-guide-to-future-returns-why-we-cant-accurately-forecast-the-future)
-:::
-
-## Why: climate and energy systems are both complicated
-
-![](/images/us-energy-infrastructure.png){fig-align="center"}
-
-::: footer
-Source: [EIA](https://www.eia.gov/state/maps.php)
-:::
-
-## The Energy Trillemma: Balancing trade-offs
-
-::: columns
-::: {.column width="50%"}
-![](/images/world-energy-trilemma-2021.png){fig-align="center"}
-:::
-
-::: {.column width="50%"}
-::: r-fit-text
-**Energy security**: Ensure reliable energy supply
-
-**Energy equity**: Provide universal access to reliable, affordable, and abundant energy
-
-**Environmental Sustainability**: Avoid environmental harm or climate impact
-
-Those goals sometimes conflict with each other, and decisions has to make trade-offs between them
-:::
-:::
-:::
-
-::: footer
-Source: [World Energy Council](https://www.worldenergy.org/transition-toolkit/world-energy-trilemma-index)
-:::
-
-## Energy, economy, and environment
-
-::: columns
-::: {.column width="50%"}
-![](/images/economy-environment-energy.jpeg){fig-align="center"}
-:::
-
-::: {.column width="50%"}
-**Economy**: Decent living? Growth? Degrowth?
-
-**Environment**: Emissions, ecosystems constraints/goals
-
-**Energy**: Work within constraints
-:::
-:::
-
-::: footer
-Source: [ICMA](https://icma.org/articles/article/growing-green-economy)
-:::
-
-## Energy great achievement
-
-![](/images/energy-great-achievement.png){fig-align="center"}
-
-::: footer
-Source: [National Academies](http://www.greatachievements.org/)
-:::
-
-## Energy grand challenges: SDGs
-
-![](/images/un-sdg.png){fig-align="center"}
-
-::: footer
-Source: [UN](https://www.un.org/sustainabledevelopment/sustainable-development-goals/)
-:::
-
-## Energy grand challenges: net-zero
-
-![](/images/iea-net-zero.png){fig-align="center"}
-
-::: footer
-Source: @iea_net_2021
-:::
-
-## Modeling can be useful/insightful (an example)
-
--   Build the structure
--   Demonstrate the relation
--   Visualize the changes
--   Inform the impacts
-
-## Renewables are achieving grid parity: a structural change
-
-![](/images/irena-re-costs-2021.png){fig-align="center"}
-
-::: footer
-Source: @irena_renewable_2021
-:::
-
-## Implications are profound
-
-::: columns
-::: {.column width="50%"}
-<br> ![](/images/accelerate-re-china.png){fig-align="center"}
-:::
-
-::: {.column width="50%"}
-![](/images/re-costs-and-ccs.jpg){fig-align="center"}
-:::
-:::
-
-::: footer
-Source: @he_rapid_2020, @grant_cost_2021
-:::
-
-## End with two quotes {.smaller}
-
-::: columns
-::: {.column width="50%"}
-Bill Hogan:
-
-> It is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.
-:::
-
-::: {.column width="50%"}
-Huntington, Weyant, Sweeney "Modeling for insights, not numbers":
-
-> The primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections --i.e. numbers -- they can produce for any given scenario.
-:::
-:::
-
-::: footer
-Source: @hogan_energy_2002, @huntington_modeling_1982
-:::
 
 ------------------------------------------------------------------------
 
@@ -339,5 +549,5 @@ Source: @hogan_energy_2002, @huntington_modeling_1982
 :::
 
 ::: footer
-Back to Title [Slide](lecture1.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](lecture1.qmd), All [Lectures](schedule.qmd), or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
 :::

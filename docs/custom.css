@@ -8,6 +8,7 @@ font-size: 64px;
 /* source: https://github.com/hakimel/reveal.js/issues/1897 */
 .reveal h2 {
 text-align: center;
+font-size: 1.5em !important;  /* You can adjust this size */
 }
 
 
