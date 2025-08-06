@@ -9,7 +9,7 @@ repo-actions: false
 
 | Week | Date       | Day | Topic                                                | Textbook Reading  (Quiz Basis)  |
 |------|------------|-----|------------------------------------------------------|----------------------------|
-| 1    | 8/26       | T   | [Introduction to Entrepreneurship](lecture1.qmd)     | Chapter 01                 |
+| 1    | 8/26       | T   | [Introduction to Entrepreneurship](docs/2025/gate1.html)     | Chapter 01                 |
 | 1    | 8/28       | R   | Case Study: Roberto (2022), *Case Companion*         |                            |
 | 2    | 9/2        | T   | Entrepreneurial Mindset                              | Chapters 02 & 03           |
 | 2    | 9/4        | R   | Case Study: McGinnis & Lafkas (2020), *Stirring the Lobster Pot* |                |
