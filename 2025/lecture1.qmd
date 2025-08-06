@@ -188,7 +188,7 @@ I started my first business in 2016. 👉
 These ventures are started out of necessity and usually generate just enough income to support the entrepreneur and their household.
 
 ::: {.placeholder}
-![Placeholder: Early photo of La Piadina food truck or street vendor setup at a local Fort Collins market.](../images/survival_placeholder.jpg)
+![Early photo of La Piadina food truck in Fort Collins.](../images/01piadina.png){.uniform-image}
 :::
 
 
@@ -209,7 +209,7 @@ These ventures prioritize personal goals over business growth, often aligning wi
 Income is stable and sufficient, but growth is not the main objective.
 
 ::: {.placeholder}
-![Placeholder: Local farm stand or pasture-raised egg operation in Northern Colorado.](../images/lifestyle_placeholder.jpg)
+![Jodar farms is a local farm servicing residents and businesses in Northern Colorado.](../images/01jodar.png){.uniform-image}
 :::
 
 ## Example: **Jodar Farms** 
@@ -224,7 +224,7 @@ Supports a lifestyle of land stewardship, food quality, and local identity.
 These businesses aim for moderate and steady growth, often by formalizing operations and expanding reach.
 
 ::: {.placeholder}
-![Placeholder: Branded packaging or interior of a Snooze location with emphasis on local vibe and consistent operations.](../images/managed_placeholder.jpg)
+![Snooze has consistent branding across locations, with emphasis on local vibe and consistent operations.](../images/01snooze.png){.uniform-image}
 :::
 
 ## Example: **Snooze, an A.M. Eatery** 
@@ -236,7 +236,6 @@ Combines professional management and expansion with intentional values (e.g., wa
 Uses operational scale but avoids a “fast food” model.
 
 
-
 ## Aggressive Growth Venture
 
 These are high-growth, scalable businesses that often seek venture capital or rapid market expansion.
@@ -244,7 +243,7 @@ These are high-growth, scalable businesses that often seek venture capital or ra
 Emphasizes innovation, rapid scaling, and market disruption.
 
 ::: {.placeholder}
-![Placeholder: High-tech vertical farm or AI-controlled ag facility.](../images/aggressive_placeholder.jpg)
+![Plenty is an example of a high-tech vertical farm facility.](../images/01plenty.png){.uniform-image}
 :::
 
 ## Example: **Plenty** 
@@ -282,6 +281,65 @@ Backed by SoftBank, Jeff Bezos, and others; positioned to disrupt traditional ag
   - Examples: Facebook, Uber (taxis), and Airbnb (hotels)
 - A “hectacorn” is valued at $100 billion or more.
 :::
+
+
+## The Case of Plenty
+
+Plenty filed for Chapter 11 bankruptcy. 
+
+::: {.fragment}
+<small>However, after raising $1B in funding, Plenty filed for bankruptcy in March 2025.</small>
+```{=html}
+<iframe src="https://techcrunch.com/2025/03/24/vertical-farming-company-plenty-files-for-bankruptcy-after-raising-nearly-1b/" width="100%" height="400px"></iframe>
+```
+:::
+
+
+## What Bankruptcy Means for Plenty
+
+| **What it Means**         | **Details**                                                                 |
+|---------------------------|------------------------------------------------------------------------------|
+| **Out of cash**           | Plenty can no longer meet its financial obligations (e.g., rent, salaries, supplier payments). |
+| **Court protection**      | Bankruptcy gives the company legal protection from creditors while it reorganizes its finances. |
+| **Restructuring**         | The company may sell off assets, renegotiate contracts, lay off workers, or change its business model. |
+| **Debts frozen**          | Debt collection is paused, giving the company time to develop a recovery or liquidation plan. |
+| **Equity holders lose**   | Investors (like SoftBank, Bezos Expeditions) may lose most or all of their investment. |
+
+
+## What It Tells Us About Agribusiness Startups
+
+Plenty raised nearly **$1 billion** in venture capital and still went bankrupt. That highlights:
+
+- **High capital intensity**: Vertical farming requires massive investment in infrastructure, energy, and automation.  
+- **Scale ≠ success**: Being a “unicorn” (valued over $1B) doesn’t guarantee product-market fit or profitability.  
+- **Unit economics matter**: If the cost to grow and deliver produce exceeds what consumers will pay, it’s not sustainable.  
+- **Supply chain complexity**: Even with tech and AI, perishable products and logistics remain challenging.  
+- **Vulnerability to macro forces**: Energy costs, inflation, labor, and competition can undermine a well-funded startup.
+
+
+::: {,notes}
+Plenty's bankruptcy shows how even highly funded, high-tech ventures in agriculture face fundamental economic realities. It's not enough to raise money — entrepreneurs need sustainable business models. In this case, vertical farming promised disruption, but its costs and logistics may have outpaced its revenues.
+:::
+
+
+## Do Most Entrepreneurial Initiatives Fail? 
+
+Data from the [*Kauffman Indicators of Entrepreneurship*](https://indicators.kauffman.org/) shows that in the state of Colorado, the startup early survival rate is **81.95%**, compared to the national average of **81.70%**.
+
+```{=html}
+<iframe src="https://indicators.kauffman.org/state/colorado" width="100%" height="400px"></iframe>
+```
+
+
+## Number of New Businesses in Agriculture (NAICS 11)
+
+[PLACEHOLDER] Focus on food and ag industries.
+
+
+## Number of New Businesses in Retail Trade (NAICS 44-45)
+
+[PLACEHOLDER] Focus on food and ag industries.
+
 
 ## Why Economists are Interested in Entrepreneurship
 
@@ -367,23 +425,6 @@ What does it take to be an entrepreneur?
 - Vision to recognize opportunity where others see chaos, contradiction, and confusion
 :::
 
-## Do Most Entrepreneurial Initiatives Fail? 
-
-Data from the [*Kauffman Indicators of Entrepreneurship*](https://indicators.kauffman.org/) shows that in the state of Colorado, the startup early survival rate is **81.95%**, compared to the national average of **81.70%**.
-
-```{=html}
-<iframe src="https://indicators.kauffman.org/state/colorado" width="100%" height="400px"></iframe>
-```
-
-
-## Number of New Businesses in Agriculture (NAICS 11)
-
-[PLACEHOLDER] Focus on food and ag industries.
-
-
-## Number of New Businesses in Retail Trade (NAICS 44-45)
-
-[PLACEHOLDER] Focus on food and ag industries.
 
 
 ## Approaches to Entrepreneurship

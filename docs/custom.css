@@ -80,3 +80,8 @@ ul.share-buttons{
   display: none;
 }
 
+.uniform-image {
+  width: 60%;
+  max-height: 400px;
+  object-fit: contain;
+}
