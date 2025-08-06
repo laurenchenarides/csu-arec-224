@@ -23,32 +23,12 @@ format:
 
 ## Welcome
 
-::: {.columns}
-
-::: {.column width="50%"}
-
 Hello! I'm Dr. Chenarides.
 
 This is **AREC 280-A1/224 Introduction to Agribusiness Entrepreneurship** (3 credits).
 
 We meet **T & Th 8:00 am--9: 15 am**.
 
-::: {.fragment}
-I started my first business in 2016. 👉 
-:::
-
-:::
-
-::: {.column width="50%"}
-::: {.fragment}
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="../images/best-local.png" style="max-width: 100%; max-height: 750px;" />
-</div>
-
-:::
-:::
-
-:::
 
 ## What to Expect
 
@@ -122,6 +102,28 @@ Source: @kuratko2024
 ::: {.fragment}  
   50%
 :::
+
+## One More Interesting Statistic
+
+::: {.columns}
+
+::: {.column width="40%"}
+I started my first business in 2016. 👉 
+:::
+
+::: {.column width="60%"}
+
+::: {.fragment}
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="../images/best-local.png" style="max-width: 100%; max-height: 750px;" />
+</div>
+:::
+
+:::
+
+:::
+
+
 ## Entrepreneurs are Breakthrough Innovators
 
 ::: {.columns}
@@ -143,6 +145,7 @@ Source: @kuratko2024
 :::
 
 :::
+
 
 ## Entrepreneurs: Distinctive Journeys
 
@@ -175,17 +178,19 @@ Source: @kuratko2024
 
 These ventures are started out of necessity and usually generate just enough income to support the entrepreneur and their household.
 
-Represents a grassroots approach to entrepreneurship, often with family labor and a bootstrapped budget.
+::: {.placeholder}
+![Placeholder: Early photo of La Piadina food truck or street vendor setup at a local Fort Collins market.](../images/survival_placeholder.jpg)
+:::
+
 
 ## Example: **La Piadina** 
 
 Started as a food truck serving Italian flatbreads in Fort Collins, launched by two founders with a passion for bringing Romagna-style street food to the area. Initially operated with limited staff and resources, focusing on local events and markets.
 
+Represents a grassroots approach to entrepreneurship, often with family labor and a bootstrapped budget.
+
 Over time, the business grew into a permanent brick-and-mortar location — a transition that many survival ventures aspire to.
 
-::: {.placeholder}
-![Placeholder: Early photo of La Piadina food truck or street vendor setup at a local Fort Collins market.](../images/survival_placeholder.jpg)
-:::
 
 
 ## Lifestyle Venture
@@ -194,21 +199,24 @@ These ventures prioritize personal goals over business growth, often aligning wi
 
 Income is stable and sufficient, but growth is not the main objective.
 
+::: {.placeholder}
+![Placeholder: Local farm stand or pasture-raised egg operation in Northern Colorado.](../images/lifestyle_placeholder.jpg)
+:::
+
 ## Example: **Jodar Farms** 
 
 A pasture-raised poultry and egg farm just outside Fort Collins, selling direct-to-consumer and at local farmers’ markets. Focuses on sustainable practices and local relationships over aggressive scaling.
 
 Supports a lifestyle of land stewardship, food quality, and local identity.
 
-::: {.placeholder}
-![Placeholder: Local farm stand or pasture-raised egg operation in Northern Colorado.](../images/lifestyle_placeholder.jpg)
-:::
-
 
 ## Managed Growth Venture
 
 These businesses aim for moderate and steady growth, often by formalizing operations and expanding reach.
 
+::: {.placeholder}
+![Placeholder: Branded packaging or interior of a Snooze location with emphasis on local vibe and consistent operations.](../images/managed_placeholder.jpg)
+:::
 
 ## Example: **Snooze, an A.M. Eatery** 
 
@@ -218,9 +226,6 @@ Combines professional management and expansion with intentional values (e.g., wa
 
 Uses operational scale but avoids a “fast food” model.
 
-::: {.placeholder}
-![Placeholder: Branded packaging or interior of a Snooze location with emphasis on local vibe and consistent operations.](../images/managed_placeholder.jpg)
-:::
 
 
 ## Aggressive Growth Venture
@@ -229,18 +234,18 @@ These are high-growth, scalable businesses that often seek venture capital or ra
 
 Emphasizes innovation, rapid scaling, and market disruption.
 
+::: {.placeholder}
+![Placeholder: High-tech vertical farm or AI-controlled ag facility.](../images/aggressive_placeholder.jpg)
+:::
+
 ## Example: **Plenty** 
 
 A vertical farming startup based in San Francisco using robotics and AI to grow leafy greens in indoor controlled environments.
 
 Backed by SoftBank, Jeff Bezos, and others; positioned to disrupt traditional ag supply chains.
 
-::: {.placeholder}
-![Placeholder: High-tech vertical farm or AI-controlled ag facility.](../images/aggressive_placeholder.jpg)
-:::
 
-
-## Gazelles
+## Special Case of Agressive Growth Ventures: *Gazelles*
 
 - A business establishment with at least 20 percent sales growth in each year for 5 years, starting with a base of at least $100,000 in annual sales.
 - Gazelles as leaders in innovation:
@@ -249,16 +254,15 @@ Backed by SoftBank, Jeff Bezos, and others; positioned to disrupt traditional ag
   - Gazelles make up less than 1 percent of all businesses and account for 10 percent of net new jobs.
 
 
-## Mythology Associated with Gazelles
-
+::: {.callout-note icon=false title="Mythology Associated with Gazelles"}
 - Gazelles are the goal of all entrepreneurs.
 - Gazelles receive venture capital.
 - Gazelles were never mice.
 - Gazelles are high tech.
 - Gazelles are global.
+:::
 
-
-## Unicorns
+## Special Case of Agressive Growth Ventures: *Unicorns*
 
 - A pre-IPO (private) tech start-up company with a $1 billion market value.
 - In 2023, 1,191 start-ups were unicorns.
@@ -354,10 +358,23 @@ What does it take to be an entrepreneur?
 - Vision to recognize opportunity where others see chaos, contradiction, and confusion
 :::
 
-## Myth: Most Entrepreneurial Initiatives Fail
+## Do Most Entrepreneurial Initiatives Fail? 
 
-- *add data from the Kauffman Indicators of Entrepreneurship* [PLACEHOLDER] Focus on food and ag industries.
+Data from the [*Kauffman Indicators of Entrepreneurship*](https://indicators.kauffman.org/) shows that in the state of Colorado, the startup early survival rate is **81.95%**, compared to the national average of **81.70%**.
 
+```{=html}
+<iframe src="https://indicators.kauffman.org/state/colorado" width="100%" height="400px"></iframe>
+```
+
+
+## Number of New Businesses in Agriculture (NAICS 11)
+
+[PLACEHOLDER] Focus on food and ag industries.
+
+
+## Number of New Businesses in Retail Trade (NAICS 44-45)
+
+[PLACEHOLDER] Focus on food and ag industries.
 
 
 ## Approaches to Entrepreneurship
@@ -415,11 +432,12 @@ It also includes **process-based** approaches that look at how ventures are form
 
 ## Entrepreneurial Ventures in the United States
 
-- Reasons for the exceptional entrepreneurial activity in the United States include:
-- A national culture that supports risk-taking and -seeking opportunities.
-- Americans’ alertness to unexploited economic opportunity and a low fear of failure.
-- U.S. leadership in entrepreneurship education at both the undergraduate and graduate levels.
-- A high percentage of individuals with professional, technological, or business degrees who are likely to become entrepreneurs.
+Reasons for the exceptional entrepreneurial activity in the United States include:
+
+  - A national culture that supports risk-taking and -seeking opportunities.
+  - Americans’ alertness to unexploited economic opportunity and a low fear of failure.
+  - U.S. leadership in entrepreneurship education at both the undergraduate and graduate levels.
+  - A high percentage of individuals with professional, technological, or business degrees who are likely to become entrepreneurs.
 
 
 ## Twenty-First-Century Trends in Entrepreneurship Research (1 of 2)
@@ -438,66 +456,48 @@ It also includes **process-based** approaches that look at how ventures are form
 - Entrepreneurial education has become one of the hottest topics in business and engineering schools throughout the world.
 
 
-## The Entrepreneurial Process: The Best Business Schools for Entrepreneurship
+<!-- ## The Entrepreneurial Process: The Best Business Schools for Entrepreneurship -->
 
-- The Best Graduate Programs in Entrepreneurship
-- Indiana University, Bloomington**
-- Stanford University
-- Harvard University
-- Massachusetts Institute of Technology
-- University of California, Berkeley**
-- Babson College
-- *Where does CSU Rank???*
-- The Best Undergraduate Programs in Entrepreneurship
-- Indiana University, Bloomington**
-- University of Pennsylvania
-- University of Southern California
-- University of California, Berkeley**
-- Babson College
-- *Where does CSU Rank???*
-- **denotes public university
+<!-- - The Best Graduate Programs in Entrepreneurship -->
+<!-- - Indiana University, Bloomington** -->
+<!-- - Stanford University -->
+<!-- - Harvard University -->
+<!-- - Massachusetts Institute of Technology -->
+<!-- - University of California, Berkeley** -->
+<!-- - Babson College -->
+<!-- - *Where does CSU Rank???* -->
+<!-- - The Best Undergraduate Programs in Entrepreneurship -->
+<!-- - Indiana University, Bloomington** -->
+<!-- - University of Pennsylvania -->
+<!-- - University of Southern California -->
+<!-- - University of California, Berkeley** -->
+<!-- - Babson College -->
+<!-- - *Where does CSU Rank???* -->
+<!-- - **denotes public university -->
 
-::: footer
-Source: @fortune_usnews_entrepreneurship
-:::
-
-
-## Key Entrepreneurship Concepts (1 of 3)
-
-- Entrepreneurship
-- A process of innovation and new-venture creation through four major dimensions—individual, organizational, environmental, and process—that is aided by collaborative networks in government, education, and institutions.
-- Entrepreneur
-- A catalyst for economic change who uses purposeful searching, careful planning, and sound judgment when carrying out the entrepreneurial process.
+<!-- ::: footer -->
+<!-- Source: @fortune_usnews_entrepreneurship -->
+<!-- ::: -->
 
 
-## Key Entrepreneurship Concepts (2 of 3)
+## Key Entrepreneurship Concepts
 
-- Entrepreneurial Discipline
-- It makes little or no difference who or what the entrepreneur is—whether a business or a nonbusiness public service organization, whether a governmental or nongovernmental institution.
-- The rules are much the same and so are the kinds of innovation and where to look for them.
-
-
-## Key Entrepreneurship Concepts (3 of 3)
-
-- Entrepreneurial Leadership
-- Combines two capacities of the pursuit of innovation:
-- Capacity to lead
-- Capacity to risk
-- Leadership is measured in:
-  - Sense of opportunity
-  - Drive to innovate
-  - Capacity for accomplishment
-  - One of the most significant phrases in the twenty-first century.
+| **Concept**               | **Important Takeaways** |
+|-----------------|------------------------------------|
+| **Entrepreneurship**      | A process of innovation and new-venture creation across four dimensions — individual, organizational, environmental, and process — supported by networks in government, education, and institutions. |
+| **Entrepreneur**          | A catalyst for economic change who relies on purposeful searching, careful planning, and sound judgment in executing the entrepreneurial process. |
+| **Entrepreneurial Discipline** | The core principles of entrepreneurship apply across sectors — business, nonprofit, public or private. The types of innovation and where to find them are largely consistent. |
+| **Entrepreneurial Leadership** | Involves both the capacity to lead and the willingness to take risks. Measured through opportunity recognition, drive to innovate, and ability to accomplish goals. Increasingly important in the 21st century. |
 
 
 ## Summary
 
 - 1.1 Identify the major types of entrepreneurial ventures.
-- 1.2 Examine the historical development of entrepreneurship.
-- 1.3 Summarize the myths of entrepreneurship.
-- 1.4 Define the major schools of entrepreneurial thought.
-- 1.5 Explain the process and framework approaches to the study of entrepreneurship.
-- 1.6 Paraphrase a comprehensive definition of entrepreneurship.
+- 1.2 Examine the historical development of entrepreneurship.
+- 1.3 Summarize the myths of entrepreneurship.
+- 1.4 Define the major schools of entrepreneurial thought.
+- 1.5 Explain the process and framework approaches to the study of entrepreneurship.
+- 1.6 Paraphrase a comprehensive definition of entrepreneurship.
 - 1.7 Examine the entrepreneurial revolution taking place today.
 - 1.8 Illustrate today’s entrepreneurial environment.
 - 1.9 Outline the trends in entrepreneurship research.
