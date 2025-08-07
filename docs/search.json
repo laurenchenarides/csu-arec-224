@@ -466,91 +466,91 @@
     "href": "2025/readings.html#lecture-1",
     "title": "Readings",
     "section": "Lecture 1",
-    "text": "Lecture 1\n\nIEA “Net Zero by 2050” (International Energy Agency, 2021), https://www.iea.org/reports/net-zero-by-2050.\nIRENA “Renewable Power Generation Costs in 2021” (Abu Dhabi: International Renewable Energy Agency, July 2021), https://www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021.\nGang He et al. “Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System,” Nature Communications 11, no. 1 (May 19, 2020): 2486, https://doi.org/10.1038/s41467-020-16184-x.\nNeil Grant et al. “Cost Reductions in Renewables Can Substantially Erode the Value of Carbon Capture and Storage in Mitigation Pathways,” One Earth 4, no. 11 (November 19, 2021): 1588–1601, https://doi.org/10.1016/j.oneear.2021.10.024.\nWilliam W. Hogan “Energy Modeling for Policy Studies,” Operations Research 50, no. 1 (February 1, 2002): 89–95, https://doi.org/10.1287/opre.50.1.89.17803.\nHillard G Huntington, John P Weyant, and James L Sweeney “Modeling for Insights, Not Numbers: The Experiences of the Energy Modeling Forum,” Omega 10, no. 5 (1982): 449–62, https://doi.org/10.1016/0305-0483(82)90002-0."
+    "text": "Lecture 1\n\niea_net_2021?\nirena_renewable_2021?\nhe_rapid_2020?\ngrant_cost_2021?\nhogan_energy_2002?\nhuntington_modeling_1982?"
   },
   {
     "objectID": "2025/readings.html#lecture-2",
     "href": "2025/readings.html#lecture-2",
     "title": "Readings",
     "section": "Lecture 2",
-    "text": "Lecture 2\n\nIPCC Climate Change 2021: The Physical Science Basis. Contribution of Working Group i to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, Book, ed. V. Masson-Delmotte et al. (Cambridge, UK; New York, NY, USA: Cambridge University Press, 2021), https://doi.org/10.1017/9781009157896.\nWeston A Hermann “Quantifying Global Exergy Resources,” Energy 31, no. 12 (2006): 1685–1702, https://www.sciencedirect.com/science/article/abs/pii/S0360544205001805.\nJonathan Koomey et al. “Defining a Standard Metric for Electricity Savings,” Environmental Research Letters 5, no. 1 (2010): 014017, https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014017.\nDavid Fridley et al. “Impacts of China’s 2010 to 2013 Mandatory Product Energy Efficiency Standards: A Retrospective and Prospective Look” (ACEEE, 2016), https://www.aceee.org/files/proceedings/2016/data/papers/5_131.pdf.\nJordan Macknick “Energy and CO2 Emission Data Uncertainties,” Carbon Management 2, no. 2 (April 1, 2011): 189–205, https://doi.org/10.4155/cmt.11.10.\nJames Hansen, Makiko Sato, and Reto Ruedy “Perception of Climate Change,” Proceedings of the National Academy of Sciences 109, no. 37 (September 2012): E2415–23, https://doi.org/10.1073/pnas.1205276109."
+    "text": "Lecture 2\n\nIPCC_2021_WGI?\nhermann2006quantifying?\nkoomey2010defining?\nfridley2016impacts?\nmacknick_energy_2011?\nhansen_perception_2012?"
   },
   {
     "objectID": "2025/readings.html#lecture-3",
     "href": "2025/readings.html#lecture-3",
     "title": "Readings",
     "section": "Lecture 3",
-    "text": "Lecture 3\n\nTamma A Carleton and Solomon M Hsiang “Social and Economic Impacts of Climate,” Science 353, no. 6304 (2016): aad9837, https://doi.org/10.1126/science.aad9837.\nJames E. Neumann et al. “Climate Damage Functions for Estimating the Economic Impacts of Climate Change in the United States,” Review of Environmental Economics and Policy 14, no. 1 (January 2020): 25–43, https://doi.org/10.1093/reep/rez021.\nValuing Climate Changes: Updating Estimation of the Social Cost of Carbon Dioxide (Washington, D.C.: National Academies Press, 2017), https://doi.org/10.17226/24651.\nSolomon M. Hsiang, Marshall Burke, and Edward Miguel “Quantifying the Influence of Climate on Human Conflict,” Science, August 2013, https://doi.org/10.1126/science.1235367.\nSeleshi G Yalew et al. “Impacts of Climate Change on Energy Systems in Global and Regional Scenarios,” Nature Energy 5, no. 10 (2020): 794–802, https://doi.org/10.1038/s41560-020-0664-z.\nLaibao Liu et al. “Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems,” Nature Energy 8, no. 8 (August 2023): 870–80, https://doi.org/10.1038/s41560-023-01304-w.\nPaul R. Ehrlich and John P. Holdren “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171, no. 3977 (March 1971): 1212–17, https://doi.org/10.1126/science.171.3977.1212.\nYoichi Kaya and Keiichi Yokobori, eds. Environment, Energy, and Economy: Strategies for Sustainable (Tokyo: United Nations Univ, 1997), https://archive.unu.edu/unupress/unupbooks/uu17ee/uu17ee00.htm.\nStephen Pacala and Robert Socolow “Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies,” Science 305, no. 5686 (2004): 968–72, https://doi.org/10.1126/science.1100103.\nKevin Rennert et al. “Comprehensive Evidence Implies a Higher Social Cost of CO2,” Nature, 2022, 1–3, https://doi.org/10.1038/s41586-022-05224-9.\nSarah C. Armitage, Noël Bakhtian, and Adam B. Jaffe “Innovation Market Failures and the Design of New Climate Policy Instruments,” Working Paper, Working Paper Series (National Bureau of Economic Research, August 2023), https://doi.org/10.3386/w31622."
+    "text": "Lecture 3\n\ncarleton2016social?\nneumann_climate_2020?\nupdating_scc_2017?\nhsiang_quantifying_2013?\nyalew2020impacts?\nliu_climate_2023?\nehrlich_impact_1971?\nkaya_environment_1997?\npacala2004stabilization?\nrennert2022comprehensive?\narmitage_innovation_2023?"
   },
   {
     "objectID": "2025/readings.html#lecture-4",
     "href": "2025/readings.html#lecture-4",
     "title": "Readings",
     "section": "Lecture 4",
-    "text": "Lecture 4\n\nVaclav Smil Energy: A Beginner’s Guide (Simon; Schuster, 2017), https://vaclavsmil.com/2017/02/21/energy-a-beginners-guide-beginners-guides-2nd-edition/.\nIEA “Net Zero by 2050.”\nBMWi “An Electricity Market for Germany’s Energy Transition: White Paper by the Federal Ministry for Economic Affairs and Energy” (Federal Ministry for Economic Affairs; Energy, July 2015), https://www.bmwk.de/Redaktion/EN/Publikationen/whitepaper-electricity-market.html."
+    "text": "Lecture 4\n\nsmil2017energy?\niea_net_2021?\nbmwi_electricity_2015?"
   },
   {
     "objectID": "2025/readings.html#lecture-5",
     "href": "2025/readings.html#lecture-5",
     "title": "Readings",
     "section": "Lecture 5",
-    "text": "Lecture 5\n\nMartin L Weitzman “Gamma Discounting,” American Economic Review 91, no. 1 (2001): 260–71, https://www.aeaweb.org/articles?id=10.1257/aer.91.1.260.\nK. Arrow et al. “Determining Benefits and Costs for Future Generations,” Science 341, no. 6144 (July 26, 2013): 349–50, https://doi.org/10.1126/science.1235665.\nLouis E. Yelle “The Learning Curve: Historical Review and Comprehensive Survey,” Decision Sciences 10, no. 2 (1979): 302–28, https://doi.org/10.1111/j.1540-5915.1979.tb00026.x.\nArnulf Grübler, Nebojša Nakićenović, and David G Victor “Dynamics of Energy Technologies and Global Change,” Energy Policy 27, no. 5 (May 1999): 247–80, https://doi.org/10.1016/S0301-4215(98)00067-6.\nGoksin Kavlak, James McNerney, and Jessika E. Trancik “Evaluating the Causes of Cost Reduction in Photovoltaic Modules,” Energy Policy 123 (December 1, 2018): 700–710, https://doi.org/10.1016/j.enpol.2018.08.015.\nMagdalena M. Klemun et al. “Mechanisms of Hardware and Soft Technology Evolution and the Implications for Solar Energy Cost Trends,” Nature Energy 8, no. 8 (August 1, 2023): 827–38, https://doi.org/10.1038/s41560-023-01286-9.\nArnulf Grubler “The Costs of the French Nuclear Scale-up: A Case of Negative Learning by Doing,” Energy Policy 38, no. 9 (2010): 5174–88, https://doi.org/10.1016/j.enpol.2010.05.003.\nJohn Helveston, Gang He, and Michael Davidson “Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains,” Nature 612, no. 7938 (2022): 83–87, https://doi.org/10.1038/s41586-022-05316-6."
+    "text": "Lecture 5\n\nweitzman2001gamma?\narrow_determining_2013?\nyelle_learning_1979?\ngrubler_dynamics_1999?\nkavlak_evaluating_2018?\nKlemun2023Mechanisms?\nGRUBLER20105174?\nhelveston_he_davidson_2022?"
   },
   {
     "objectID": "2025/readings.html#lecture-6",
     "href": "2025/readings.html#lecture-6",
     "title": "Readings",
     "section": "Lecture 6",
-    "text": "Lecture 6\n\nLukas G. Swan and V. Ismet Ugursal “Modeling of End-Use Energy Consumption in the Residential Sector: A Review of Modeling Techniques,” Renewable and Sustainable Energy Reviews 13, no. 8 (2009): 1819–35, https://doi.org/https://doi.org/10.1016/j.rser.2008.09.033.\nPaul R Ehrlich and John P Holdren “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171, no. 3977 (1971): 1212–17, https://doi.org/10.1097/00006254-197111000-00014.\nJiang Lin, Gang He, and Alexandria Yuan “Economic Rebalancing and Electricity Demand in China,” The Electricity Journal 29, no. 3 (2016): 48–54, https://doi.org/10.1016/j.tej.2016.03.010.\nSeverin Borenstein “A Microeconomic Framework for Evaluating Energy Efficiency Rebound and Some Implications,” The Energy Journal 36, no. 1 (2015), https://doi.org/10.5547/01956574.36.1.1.\nPaul E Brockway et al. “Energy Efficiency and Economy-Wide Rebound Effects: A Review of the Evidence and Its Implications,” Renewable and Sustainable Energy Reviews 141 (2021): 110781, https://doi.org/10.1016/j.rser.2021.110781.\nDonella H Meadows et al. “The Limits to Growth,” in Green Planet Blues (Routledge, 2018), 25–29.\nNarasimha D Rao and Jihoon Min “Decent Living Standards: Material Prerequisites for Human Wellbeing,” Social Indicators Research 138, no. 1 (2018): 225–44, https://doi.org/10.1007/s11205-017-1650-0.\nTao Hong and Shu Fan “Probabilistic Electric Load Forecasting: A Tutorial Review,” International Journal of Forecasting 32, no. 3 (2016): 914–38, https://doi.org/10.1016/j.ijforecast.2015.11.011."
+    "text": "Lecture 6\n\nswan2009modeling?\nehrlich1971impact?\nlin2016economic?\nborenstein2015microeconomic?\nbrockway2021energy?\nmeadows2018limits?\nrao2018decent?\nhong2016probabilistic?"
   },
   {
     "objectID": "2025/readings.html#lecture-7",
     "href": "2025/readings.html#lecture-7",
     "title": "Readings",
     "section": "Lecture 7",
-    "text": "Lecture 7\n\nGilbert M Masters Renewable and Efficient Electric Power Systems (John Wiley & Sons, 2013).\nMike H Bergin et al. “Large Reductions in Solar Energy Production Due to Dust and Particulate Air Pollution,” Environmental Science & Technology Letters 4, no. 8 (2017): 339–44.\nShi Chen et al. “Deploying Solar Photovoltaic Energy First in Carbon-Intensive Regions Brings Gigatons More Carbon Mitigations to 2060,” Communications Earth & Environment 4 (October 11, 2023): 369, https://doi.org/10.1038/s43247-023-01006-x.\nLiu et al. “Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems.”\nKoomey et al. “Defining a Standard Metric for Electricity Savings.”\nJacqueline A. Dowling et al. “Role of Long-Duration Energy Storage in Variable Renewable Electricity Systems,” Joule 4, no. 9 (September 2020): 1907–28, https://doi.org/10.1016/j.joule.2020.07.007."
+    "text": "Lecture 7\n\nmasters2013renewable?\nbergin2017large?\nchen2023deploying?\nliu_climate_2023?\nkoomey2010defining?\ndowling_role_2020?"
   },
   {
     "objectID": "2025/readings.html#lecture-8",
     "href": "2025/readings.html#lecture-8",
     "title": "Readings",
     "section": "Lecture 8",
-    "text": "Lecture 8\n\nKenneth Gillingham, Richard G Newell, and Karen Palmer “Energy Efficiency Economics and Policy,” Annu. Rev. Resour. Econ. 1, no. 1 (2009): 597–620, https://doi.org/10.1146/annurev.resource.102308.124234.\nGillingham Kenneth, Wagner Gernot, et al. “Energy Policy: The Rebound Effect Is Overplayed,” Nature 493 (2013): 475–76, https://doi.org/10.1038/493475a.\nIEA “Net Zero by 2050.”\nRichard H. Thaler and Cass R. Sunstein Nudge (Yale University Press, 2021), https://yalebooks.yale.edu/book/9780300262285/nudge/."
+    "text": "Lecture 8\n\ngillingham2009energy?\ngillingham2013energy?\niea_net_2021?\nthalerNudge2021?"
   },
   {
     "objectID": "2025/readings.html#lecture-9",
     "href": "2025/readings.html#lecture-9",
     "title": "Readings",
     "section": "Lecture 9",
-    "text": "Lecture 9\n\nPeter Alstone, Dimitry Gershenson, and Daniel M Kammen “Decentralized Energy Systems for Clean Electricity Access,” Nature Climate Change 5, no. 4 (2015): 305–14, https://doi.org/10.1038/nclimate2512.\nG. He and D. G. Victor “Experiences and Lessons from China’s Success in Providing Electricity for All,” Resources, Conservation and Recycling 122 (2017): 335–38, https://doi.org/10.1016/j.resconrec.2017.03.011.\nKirsten Jenkins et al. “Energy Justice: A Conceptual Review,” Energy Research & Social Science 11 (2016): 174–82, https://doi.org/10.1016/j.erss.2015.10.004.\nDeborah A Sunter, Sergio Castellanos, and Daniel M Kammen “Disparities in Rooftop Photovoltaics Deployment in the United States by Race and Ethnicity,” Nature Sustainability 2, no. 1 (2019): 71–76, https://doi.org/10.1038/s41893-018-0204-z.\nShuchen Cong et al. “Unveiling Hidden Energy Poverty Using the Energy Equity Gap,” Nature Communications 13, no. 1 (2022): 1–12, https://doi.org/10.1038/s41467-022-30146-5.\nAmory B. Lovins “Energy Strategy: The Road Not Taken,” Foreign Affairs 55 (1976): 65, https://rmi.org/insight/energy-strategy-the-road-not-taken.\nMark Z. Jacobson et al. “Low-Cost Solution to the Grid Reliability Problem with 100% Penetration of Intermittent Wind, Water, and Solar for All Purposes,” Proceedings of the National Academy of Sciences 112, no. 49 (December 8, 2015): 15060–65, https://doi.org/10.1073/pnas.1510028112.\nChristopher T. M. Clack et al. “Evaluation of a Proposal for Reliable Low-Cost Grid Power with 100% Wind, Water, and Solar,” Proceedings of the National Academy of Sciences, June 19, 2017, 201610381, https://doi.org/10.1073/pnas.1610381114.\nRyna Yiyun Cui et al. “A Plant-by-Plant Strategy for High-Ambition Coal Power Phaseout in China,” Nature Communications 12, no. 1 (2021): 1–10, https://doi.org/10.1038/s41467-021-21786-0.\nGang He et al. “Enabling a Rapid and Just Transition Away from Coal in China,” One Earth 3, no. 2 (2020): 187–94, https://doi.org/10.1016/j.oneear.2020.07.012.\nHuihuang Wu et al. “Fewer Than 15% of Coal Power Plant Workers in China Can Easily Shift to Green Jobs by 2060,” One Earth, November 6, 2024, https://doi.org/10.1016/j.oneear.2024.10.006.\nYacob Mulugetta et al. “Africa Needs Context-Relevant Evidence to Shape Its Clean Energy Future,” Nature Energy, 2022, 1–8, https://doi.org/10.1038/s41560-022-01152-0."
+    "text": "Lecture 9\n\nalstone2015decentralized?\nHe2017efa?\njenkins2016energy?\nsunter2019disparities?\ncong2022unveiling?\nlovins_energy_1976?\njacobson_low-cost_2015?\nclack_evaluation_2017?\ncui2021plant?\nhe2020enabling?\nwuFewer15Coal2024?\nmulugetta2022africa?"
   },
   {
     "objectID": "2025/readings.html#lecture-10",
     "href": "2025/readings.html#lecture-10",
     "title": "Readings",
     "section": "Lecture 10",
-    "text": "Lecture 10\n\nIEA “Energy and Air Pollution: World Energy Outlook Special Report 2016,” 2016, https://www.iea.org/reports/energy-and-air-pollution.\nJos Lelieveld et al. “The Contribution of Outdoor Air Pollution Sources to Premature Mortality on a Global Scale,” Nature 525, no. 7569 (2015): 367–71, https://doi.org/10.1038/nature15371.\nQiang Zhang et al. “Transboundary Health Impacts of Transported Global Air Pollution and International Trade,” Nature 543, no. 7647 (2017): 705–9, https://doi.org/10.1038/nature21712.\nIEA “Water Energy Nexus Excerpt from the World Energy Outlook 2016,” 2016, https://www.iea.org/reports/water-energy-nexus.\nChao Zhang et al. “Long-Term Transition of China’s Power Sector Under Carbon Neutrality Target and Water Withdrawal Constraint,” Journal of Cleaner Production 329 (2021): 129765, https://doi.org/10.1016/j.jclepro.2021.129765.\nJessica Loveringa et al. “Land-Use Intensity of Electricity Production and Tomorrow’s Energy Landscape,” PLoS ONE 17 (2022): 7, https://doi.org/10.1371/journal.pone.0270155.\nThomas Matte et al. “NPCC4: Climate Change and New York City’s Health Risk,” Annals of the New York Academy of Sciences 1539, no. 1 (2024): 185–240, https://doi.org/10.1111/nyas.15115.\nMarina Romanello et al. “The 2024 Report of the Lancet Countdown on Health and Climate Change: Facing Record-Breaking Threats from Delayed Action,” The Lancet 0, no. 0 (October 29, 2024), https://doi.org/10.1016/S0140-6736(24)01822-1.\nJenna F. Tipaldo, Deborah Balk, and Lori M. Hunter “A Framework for Ageing and Health Vulnerabilities in a Changing Climate,” Nature Climate Change, October 25, 2024, 1–11, https://doi.org/10.1038/s41558-024-02156-2."
+    "text": "Lecture 10\n\niea2016airpollution?\nlelieveld2015contribution?\nzhang2017transboundary?\niea2016energywater?\nzhang2021long?\nloveringa2022land?\nmatteNPCC4ClimateChange2024?\nromanello2024ReportLancet2024?\ntipaldoFrameworkAgeingHealth2024?"
   },
   {
     "objectID": "2025/readings.html#lecture-11",
     "href": "2025/readings.html#lecture-11",
     "title": "Readings",
     "section": "Lecture 11",
-    "text": "Lecture 11\n\nD. A. Tirpak Gupta S. “Policies, Instruments and Co-Operative Arrangements,” Book Section, in Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, ed. P. R. Bosch B. Metz O. R. Davidson (Cambridge, United Kingdom; New York, NY, USA: Cambridge University Press, 2007), 747–96, https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg3-chapter13-2.pdf.\nArmitage, Bakhtian, and Jaffe “Innovation Market Failures and the Design of New Climate Policy Instruments.”\nEhrlich and Holdren “Impact of Population Growth.”\nKaya and Yokobori Environment, Energy, and Economy.\nPacala and Socolow “Stabilization Wedges.”\nRennert et al. “Comprehensive Evidence Implies a Higher Social Cost of CO2.”\nRobert N. Stavins “The Relative Merits of Carbon Pricing Instruments: Taxes Versus Trading,” Review of Environmental Economics and Policy 16, no. 1 (January 2022): 62–82, https://doi.org/10.1086/717773.\nAnnika Stechemesser et al. “Climate Policies That Achieved Major Emission Reductions: Global Evidence from Two Decades,” Science 385, no. 6711 (August 23, 2024): 884–92, https://doi.org/10.1126/science.adl6547."
+    "text": "Lecture 11\n\nIPCC_2007_WGIII_Ch_13?\narmitage_innovation_2023?\nehrlich_impact_1971?\nkaya_environment_1997?\npacala2004stabilization?\nrennert2022comprehensive?\nstavinsRelativeMeritsCarbon2022?\nstechemesserClimatePoliciesThat2024?"
   },
   {
     "objectID": "2025/readings.html#lecture-12",
     "href": "2025/readings.html#lecture-12",
     "title": "Readings",
     "section": "Lecture 12",
-    "text": "Lecture 12\n\nMekyung Lee and Gang He “An Empirical Analysis of Applications of Artificial Intelligence Algorithms in Wind Power Technology Innovation During 1980–2017,” Journal of Cleaner Production 297 (2021): 126536, https://doi.org/10.1016/j.jclepro.2021.126536.\nJiafan Yu et al. “DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deployment Database in the United States,” Joule 2, no. 12 (2018): 2605–17, https://doi.org/10.1016/j.joule.2018.11.021.\nL Kruitwagen et al. “A Global Inventory of Photovoltaic Solar Energy Generating Units,” Nature 598, no. 7882 (2021): 604–10, https://doi.org/10.1038/s41586-021-03957-7.\nNathan Ratledge et al. “Using Machine Learning to Assess the Livelihood Impact of Electricity Access,” Nature 611, no. 7936 (2022): 491–95, https://doi.org/10.1038/s41586-022-05322-8.\nDavid Rolnick et al. “Tackling Climate Change with Machine Learning,” ACM Computing Surveys (CSUR) 55, no. 2 (2022): 1–96, https://doi.org/10.1145/3485128.\nLynn H Kaack et al. “Aligning Artificial Intelligence with Climate Change Mitigation,” Nature Climate Change, 2022, 1–10, https://doi.org/10.1038/s41558-022-01377-7.\nJosiah Johnston et al. “Switch 2.0: A Modern Platform for Planning High-Renewable Power Systems,” SoftwareX 10 (2019): 100251, https://doi.org/10.1016/j.softx.2019.100251.\nHe et al. “Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System.”"
+    "text": "Lecture 12\n\nlee2021empirical?\nyu2018deepsolar?\nkruitwagen2021global?\nratledge2022using?\nrolnick2022tackling?\nkaack2022aligning?\njohnston2019switch?\nhe_rapid_2020?"
   },
   {
     "objectID": "2025/readings.html#lecture-13",
     "href": "2025/readings.html#lecture-13",
     "title": "Readings",
     "section": "Lecture 13",
-    "text": "Lecture 13\n\nPaul P Craig, Ashok Gadgil, and Jonathan G Koomey “What Can History Teach Us? A Retrospective Examination of Long-Term Energy Forecasts for the United States,” Annual Review of Energy and the Environment 27, no. 1 (2002): 83–118, https://doi.org/10.1146/annurev.energy.27.122001.083425.\nG. Supran, S. Rahmstorf, and N. Oreskes “Assessing ExxonMobil’s Global Warming Projections,” Science 379, no. 6628 (January 2023): eabk0063, https://doi.org/10.1126/science.abk0063.\nZeke Hausfather et al. “Evaluating the Performance of Past Climate Model Projections,” Geophysical Research Letters 47, no. 1 (2020): e2019GL085378, https://doi.org/10.1029/2019GL085378.\nMacknick “Energy and CO2 Emission Data Uncertainties.”\nJames S Hodges, James A Dewar, et al. “Is It You or Your Model Talking?: A Framework for Model Validation” (Rand Santa Monica, CA, 1992), https://www.rand.org/pubs/reports/R4114.html.\nWei Peng et al. “Climate Policy Models Need to Get Real about People—Here’s How” (Nature Publishing Group, 2021), https://doi.org/10.1038/d41586-021-01500-2.\nWei Peng et al. “The Surprisingly Inexpensive Cost of State-Driven Emission Control Strategies,” Nature Climate Change 11, no. 9 (2021): 738–45, https://doi.org/10.1038/s41558-021-01128-0.\nAndrea Saltelli et al. “Five Ways to Ensure That Models Serve Society: A Manifesto” (Nature Publishing Group, 2020), https://doi.org/10.1038/d41586-020-01812-9."
+    "text": "Lecture 13\n\ncraig2002what?\nsupran_assessing_2023?\nhausfather2020evaluating?\nmacknick_energy_2011?\nhodges1992you?\npeng2021climate?\npeng2021surprisingly?\nsaltelli2020five?"
   },
   {
     "objectID": "2025/lecture8.html#sample-analytic-questions",
@@ -585,7 +585,7 @@
     "href": "2025/lecture8.html#energy-efficiency-gap",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Energy efficiency gap",
-    "text": "Energy efficiency gap\n\n\nSource: Gillingham, Newell, and Palmer (2009)"
+    "text": "Energy efficiency gap\n\n\nSource: (gillingham2009energy?)"
   },
   {
     "objectID": "2025/lecture8.html#information",
@@ -606,14 +606,14 @@
     "href": "2025/lecture8.html#behavior-change-in-nze",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Behavior change in NZE",
-    "text": "Behavior change in NZE\n\n\nSource: IEA (2021)"
+    "text": "Behavior change in NZE\n\n\nSource: (iea_net_2021?)"
   },
   {
     "objectID": "2025/lecture8.html#key-behavior-change-for-nze",
     "href": "2025/lecture8.html#key-behavior-change-for-nze",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Key behavior change for NZE",
-    "text": "Key behavior change for NZE\n\n\nSource: IEA (2021)"
+    "text": "Key behavior change for NZE\n\n\nSource: (iea_net_2021?)"
   },
   {
     "objectID": "2025/lecture8.html#complexity-of-human-behavior",
@@ -662,7 +662,7 @@
     "href": "2025/lecture8.html#rebound-might-be-overplayed",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "Rebound might be overplayed",
-    "text": "Rebound might be overplayed\n\n\nSource: Kenneth, Gernot, et al. (2013)"
+    "text": "Rebound might be overplayed\n\n\nSource: (gillingham2013energy?)"
   },
   {
     "objectID": "2025/lecture8.html#focus-on-welfare",
@@ -690,7 +690,7 @@
     "href": "2025/lecture8.html#references",
     "title": "Lecture 8 Energy Efficiency, Behavior, and Sustainable Consumption",
     "section": "",
-    "text": "References\n\n\nGillingham, Kenneth, Richard G Newell, and Karen Palmer. 2009. “Energy Efficiency Economics and Policy.” Annu. Rev. Resour. Econ. 1 (1): 597–620. https://doi.org/10.1146/annurev.resource.102308.124234.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency. https://www.iea.org/reports/net-zero-by-2050.\n\n\nKenneth, Gillingham, Wagner Gernot, et al. 2013. “Energy Policy: The Rebound Effect Is Overplayed.” Nature 493: 475–76. https://doi.org/10.1038/493475a.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "2025/lecture6.html#sample-analytic-questions",
@@ -718,14 +718,14 @@
     "href": "2025/lecture6.html#top-down-vs-bottom-up",
     "title": "Lecture 6 Energy Demand",
     "section": "Top-down vs bottom-up",
-    "text": "Top-down vs bottom-up\n\n\nSource: Swan and Ugursal (2009)"
+    "text": "Top-down vs bottom-up\n\n\nSource: (swan2009modeling?)"
   },
   {
     "objectID": "2025/lecture6.html#ipat",
     "href": "2025/lecture6.html#ipat",
     "title": "Lecture 6 Energy Demand",
     "section": "IPAT",
-    "text": "IPAT\n\n\\(I=P\\times A\\times T\\)\n\nWhere,\n\\(I\\) = Impact\n\\(P\\) = Population\n\\(A\\) = Aflluence\n\\(T\\) = Technology\n\n\n\nRead more: Ehrlich and Holdren (1971), John Holdren A brief history of “IPAT”"
+    "text": "IPAT\n\n\\(I=P\\times A\\times T\\)\n\nWhere,\n\\(I\\) = Impact\n\\(P\\) = Population\n\\(A\\) = Aflluence\n\\(T\\) = Technology\n\n\n\nRead more: (ehrlich1971impact?), John Holdren A brief history of “IPAT”"
   },
   {
     "objectID": "2025/lecture6.html#population",
@@ -739,7 +739,7 @@
     "href": "2025/lecture6.html#economy-gdp",
     "title": "Lecture 6 Energy Demand",
     "section": "Economy (GDP)",
-    "text": "Economy (GDP)\n\n\nRead more: Lin, He, and Yuan (2016)"
+    "text": "Economy (GDP)\n\n\nRead more: (lin2016economic?)"
   },
   {
     "objectID": "2025/lecture6.html#energy-intensity",
@@ -767,7 +767,7 @@
     "href": "2025/lecture6.html#energy-efficiency---first-fuel",
     "title": "Lecture 6 Energy Demand",
     "section": "Energy efficiency - “First Fuel”",
-    "text": "Energy efficiency - “First Fuel”\n\n \n\n\nRead more: IEA, IEA (2021)"
+    "text": "Energy efficiency - “First Fuel”\n\n \n\n\nRead more: IEA, (iea_net_2021?)"
   },
   {
     "objectID": "2025/lecture6.html#adoption-curve",
@@ -781,21 +781,21 @@
     "href": "2025/lecture6.html#rebound",
     "title": "Lecture 6 Energy Demand",
     "section": "Rebound",
-    "text": "Rebound\n\n\nRead more: CarbonBrief, Borenstein (2015), Brockway et al. (2021)"
+    "text": "Rebound\n\n\nRead more: CarbonBrief, (borenstein2015microeconomic?), (brockway2021energy?)"
   },
   {
     "objectID": "2025/lecture6.html#limit-to-growth-degrowth-green-growth",
     "href": "2025/lecture6.html#limit-to-growth-degrowth-green-growth",
     "title": "Lecture 6 Energy Demand",
     "section": "Limit to growth, degrowth, green growth",
-    "text": "Limit to growth, degrowth, green growth\n\n\nRead more: Meadows et al. (2018), 50-year argument"
+    "text": "Limit to growth, degrowth, green growth\n\n\nRead more: (meadows2018limits?), 50-year argument"
   },
   {
     "objectID": "2025/lecture6.html#decent-living",
     "href": "2025/lecture6.html#decent-living",
     "title": "Lecture 6 Energy Demand",
     "section": "Decent living",
-    "text": "Decent living\n\n\nRead more: Rao and Min (2018)"
+    "text": "Decent living\n\n\nRead more: (rao2018decent?)"
   },
   {
     "objectID": "2025/lecture6.html#human-behavior---demand-response",
@@ -816,7 +816,7 @@
     "href": "2025/lecture6.html#load-forecasting",
     "title": "Lecture 6 Energy Demand",
     "section": "Load forecasting",
-    "text": "Load forecasting\n\n\nSource: Hong and Fan (2016)"
+    "text": "Load forecasting\n\n\nSource: (hong2016probabilistic?)"
   },
   {
     "objectID": "2025/lecture6.html#load-forecast",
@@ -837,7 +837,7 @@
     "href": "2025/lecture6.html#references",
     "title": "Lecture 6 Energy Demand",
     "section": "",
-    "text": "References\n\n\nBorenstein, Severin. 2015. “A Microeconomic Framework for Evaluating Energy Efficiency Rebound and Some Implications.” The Energy Journal 36 (1). https://doi.org/10.5547/01956574.36.1.1.\n\n\nBrockway, Paul E, Steve Sorrell, Gregor Semieniuk, Matthew Kuperus Heun, and Victor Court. 2021. “Energy Efficiency and Economy-Wide Rebound Effects: A Review of the Evidence and Its Implications.” Renewable and Sustainable Energy Reviews 141: 110781. https://doi.org/10.1016/j.rser.2021.110781.\n\n\nEhrlich, Paul R, and John P Holdren. 1971. “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171 (3977): 1212–17. https://doi.org/10.1097/00006254-197111000-00014.\n\n\nHong, Tao, and Shu Fan. 2016. “Probabilistic Electric Load Forecasting: A Tutorial Review.” International Journal of Forecasting 32 (3): 914–38. https://doi.org/10.1016/j.ijforecast.2015.11.011.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency. https://www.iea.org/reports/net-zero-by-2050.\n\n\nLin, Jiang, Gang He, and Alexandria Yuan. 2016. “Economic Rebalancing and Electricity Demand in China.” The Electricity Journal 29 (3): 48–54. https://doi.org/10.1016/j.tej.2016.03.010.\n\n\nMeadows, Donella H, Dennis L Meadows, Jørgen Randers, and William W Behrens. 2018. “The Limits to Growth.” In Green Planet Blues, 25–29. Routledge.\n\n\nRao, Narasimha D, and Jihoon Min. 2018. “Decent Living Standards: Material Prerequisites for Human Wellbeing.” Social Indicators Research 138 (1): 225–44. https://doi.org/10.1007/s11205-017-1650-0.\n\n\nSwan, Lukas G., and V. Ismet Ugursal. 2009. “Modeling of End-Use Energy Consumption in the Residential Sector: A Review of Modeling Techniques.” Renewable and Sustainable Energy Reviews 13 (8): 1819–35. https://doi.org/https://doi.org/10.1016/j.rser.2008.09.033.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "2025/lecture4.html#energy-systems",
@@ -858,7 +858,7 @@
     "href": "2025/lecture4.html#energy-and-their-conversions",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Energy and their conversions",
-    "text": "Energy and their conversions\n\n\nSource: Smil (2017)"
+    "text": "Energy and their conversions\n\n\nSource: (smil2017energy?)"
   },
   {
     "objectID": "2025/lecture4.html#global-energy-flow",
@@ -921,7 +921,7 @@
     "href": "2025/lecture4.html#electrify-eveything-net-zero",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Electrify eveything, net zero",
-    "text": "Electrify eveything, net zero\n\n\n\nSource: IEA, IEA (2021)"
+    "text": "Electrify eveything, net zero\n\n\n\nSource: IEA, (iea_net_2021?)"
   },
   {
     "objectID": "2025/lecture4.html#energy-efficiency",
@@ -935,14 +935,14 @@
     "href": "2025/lecture4.html#electric-efficiency-vs-fossil-efficiency",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Electric efficiency vs fossil efficiency",
-    "text": "Electric efficiency vs fossil efficiency\n\n\nSource: BMWi (2015)"
+    "text": "Electric efficiency vs fossil efficiency\n\n\nSource: (bmwi_electricity_2015?)"
   },
   {
     "objectID": "2025/lecture4.html#milestones-for-long-term-energy-transition",
     "href": "2025/lecture4.html#milestones-for-long-term-energy-transition",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "Milestones for long-term energy transition",
-    "text": "Milestones for long-term energy transition\n\n\nSource: IEA (2021)"
+    "text": "Milestones for long-term energy transition\n\n\nSource: (iea_net_2021?)"
   },
   {
     "objectID": "2025/lecture4.html#nys-climate-leadership-and-community-protection-act",
@@ -991,7 +991,7 @@
     "href": "2025/lecture4.html#references",
     "title": "Lecture 4 Energy Systems Overview",
     "section": "",
-    "text": "References\n\n\nBMWi. 2015. “An Electricity Market for Germany’s Energy Transition: White Paper by the Federal Ministry for Economic Affairs and Energy.” Federal Ministry for Economic Affairs; Energy. https://www.bmwk.de/Redaktion/EN/Publikationen/whitepaper-electricity-market.html.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency. https://www.iea.org/reports/net-zero-by-2050.\n\n\nSmil, Vaclav. 2017. Energy: A Beginner’s Guide. Simon; Schuster. https://vaclavsmil.com/2017/02/21/energy-a-beginners-guide-beginners-guides-2nd-edition/.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "2025/lecture2.html#section",
@@ -1061,7 +1061,7 @@
     "href": "2025/lecture2.html#energy-stock-and-flow",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Energy stock and flow",
-    "text": "Energy stock and flow\n\n\nSource: Hermann (2006)"
+    "text": "Energy stock and flow\n\n\nSource: (hermann2006quantifying?)"
   },
   {
     "objectID": "2025/lecture2.html#energy-vs.-power",
@@ -1103,21 +1103,21 @@
     "href": "2025/lecture2.html#defining-a-rosenfeld-plant",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Defining a Rosenfeld Plant",
-    "text": "Defining a Rosenfeld Plant\n\n500 MW\nc.f.: 70%\nT&D losss: 7%\n\nResults:\n\n3 TWh/year\n\n3 MtCO2/year\nNYC electricity use: ~4 TWh/year\n\n\nSource: Koomey et al. (2010)"
+    "text": "Defining a Rosenfeld Plant\n\n500 MW\nc.f.: 70%\nT&D losss: 7%\n\nResults:\n\n3 TWh/year\n\n3 MtCO2/year\nNYC electricity use: ~4 TWh/year\n\n\nSource: (koomey2010defining?)"
   },
   {
     "objectID": "2025/lecture2.html#comparing-with-the-three-gorges-dam",
     "href": "2025/lecture2.html#comparing-with-the-three-gorges-dam",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Comparing with the Three Gorges Dam",
-    "text": "Comparing with the Three Gorges Dam\n\n\nSource: Fridley et al. (2016)"
+    "text": "Comparing with the Three Gorges Dam\n\n\nSource: (fridley2016impacts?)"
   },
   {
     "objectID": "2025/lecture2.html#common-sources-of-energy-and-climate-data",
     "href": "2025/lecture2.html#common-sources-of-energy-and-climate-data",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Common sources of energy and climate data",
-    "text": "Common sources of energy and climate data\n\n\nEnergy:\n- IEA (OECD)\n- EIA\n- UN\n- WB\n- BP Statistical Review of World Energy\n\nClimate:\n- NASA\n- NCAR\n- EUCCI\n- UNEP\n- NOAA\n\nCarbon:\n- CDIAC (Carbon Dioxide Information Analysis Center)\n- EDGAR (emissions database for global atmospheric research system)\n- Carbon Budget Project\n- Carbon Monitor\n\n\nSource: Macknick (2011)"
+    "text": "Common sources of energy and climate data\n\n\nEnergy:\n- IEA (OECD)\n- EIA\n- UN\n- WB\n- BP Statistical Review of World Energy\n\nClimate:\n- NASA\n- NCAR\n- EUCCI\n- UNEP\n- NOAA\n\nCarbon:\n- CDIAC (Carbon Dioxide Information Analysis Center)\n- EDGAR (emissions database for global atmospheric research system)\n- Carbon Budget Project\n- Carbon Monitor\n\n\nSource: (macknick_energy_2011?)"
   },
   {
     "objectID": "2025/lecture2.html#data-quality",
@@ -1180,7 +1180,7 @@
     "href": "2025/lecture2.html#warmer-and-warmer",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Warmer and Warmer",
-    "text": "Warmer and Warmer\n\n\nSource: Koomey and Monroe (2022)"
+    "text": "Warmer and Warmer\n\n\nSource: (koomey_solving_2022?)"
   },
   {
     "objectID": "2025/lecture2.html#climate-spireal",
@@ -1194,7 +1194,7 @@
     "href": "2025/lecture2.html#temprature-anomaly-distribution",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "Temprature anomaly distribution",
-    "text": "Temprature anomaly distribution\n\n\nSource: Hansen, Sato, and Ruedy (2012)"
+    "text": "Temprature anomaly distribution\n\n\nSource: (hansen_perception_2012?)"
   },
   {
     "objectID": "2025/lecture2.html#human-vs-nature",
@@ -1243,7 +1243,7 @@
     "href": "2025/lecture2.html#references",
     "title": "Lecture 2 Make Sense of Numbers and Fundamentals",
     "section": "",
-    "text": "References\n\n\nFridley, David, Nina Z Khanna, Nan Zhou, and Michael McNeil. 2016. “Impacts of China’s 2010 to 2013 Mandatory Product Energy Efficiency Standards: A Retrospective and Prospective Look.” In. ACEEE. https://www.aceee.org/files/proceedings/2016/data/papers/5_131.pdf.\n\n\nHansen, James, Makiko Sato, and Reto Ruedy. 2012. “Perception of Climate Change.” Proceedings of the National Academy of Sciences 109 (37): E2415–23. https://doi.org/10.1073/pnas.1205276109.\n\n\nHermann, Weston A. 2006. “Quantifying Global Exergy Resources.” Energy 31 (12): 1685–1702. https://www.sciencedirect.com/science/article/abs/pii/S0360544205001805.\n\n\nKoomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al. 2010. “Defining a Standard Metric for Electricity Savings.” Environmental Research Letters 5 (1): 014017. https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014017.\n\n\nKoomey, Jonathan, and Ian Monroe. 2022. Solving Climate Change: A Guide for Learners and Leaders. IOP Publishing. https://iopscience.iop.org/book/mono/978-0-7503-4032-8.\n\n\nMacknick, Jordan. 2011. “Energy and CO2 Emission Data Uncertainties.” Carbon Management 2 (2): 189–205. https://doi.org/10.4155/cmt.11.10.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "2025/lecture12.html#sample-analytic-questions",
@@ -1278,14 +1278,14 @@
     "href": "2025/lecture12.html#aartifitial-intelligence-machine-learning-and-deep-learning",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Aartifitial intelligence, machine learning, and deep learning",
-    "text": "Aartifitial intelligence, machine learning, and deep learning\n\n\nRead more: Lee and He (2021)"
+    "text": "Aartifitial intelligence, machine learning, and deep learning\n\n\nRead more: (lee2021empirical?)"
   },
   {
     "objectID": "2025/lecture12.html#ai-algorithms",
     "href": "2025/lecture12.html#ai-algorithms",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "AI Algorithms",
-    "text": "AI Algorithms\n\n\nRead more: Lee and He (2021)"
+    "text": "AI Algorithms\n\n\nRead more: (lee2021empirical?)"
   },
   {
     "objectID": "2025/lecture12.html#how-ai-has-transformed-our-society",
@@ -1306,7 +1306,7 @@
     "href": "2025/lecture12.html#deep-solar",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Deep solar",
-    "text": "Deep solar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: Yu et al. (2018)"
+    "text": "Deep solar\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: (yu2018deepsolar?)"
   },
   {
     "objectID": "2025/lecture12.html#ai-to-improve-wind-perfomance",
@@ -1327,28 +1327,28 @@
     "href": "2025/lecture12.html#global-inventory-of-solar-pv",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Global inventory of solar PV",
-    "text": "Global inventory of solar PV\n\n\nSource: Kruitwagen et al. (2021)"
+    "text": "Global inventory of solar PV\n\n\nSource: (kruitwagen2021global?)"
   },
   {
     "objectID": "2025/lecture12.html#machine-learning-for-electricity-access",
     "href": "2025/lecture12.html#machine-learning-for-electricity-access",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Machine learning for electricity access",
-    "text": "Machine learning for electricity access\n\n\nSource: Ratledge et al. (2022)"
+    "text": "Machine learning for electricity access\n\n\nSource: (ratledge2022using?)"
   },
   {
     "objectID": "2025/lecture12.html#ai-for-climate-solutions",
     "href": "2025/lecture12.html#ai-for-climate-solutions",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "AI for climate solutions",
-    "text": "AI for climate solutions\n\n\nSource: Rolnick et al. (2022)"
+    "text": "AI for climate solutions\n\n\nSource: (rolnick2022tackling?)"
   },
   {
     "objectID": "2025/lecture12.html#ai-for-ghg-mitigation",
     "href": "2025/lecture12.html#ai-for-ghg-mitigation",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "AI for GHG mitigation",
-    "text": "AI for GHG mitigation\n\n\nSource: Kaack et al. (2022)"
+    "text": "AI for GHG mitigation\n\n\nSource: (kaack2022aligning?)"
   },
   {
     "objectID": "2025/lecture12.html#ai-and-data-center-power-consumption",
@@ -1439,7 +1439,7 @@
     "href": "2025/lecture12.html#load-factor-and-load-curves",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Load factor and load curves",
-    "text": "Load factor and load curves\n\\(LF=\\frac{Energy\\ consumed}{Energy\\ at\\ peak\\ demand}=\\frac{Average\\ power}{Peak\\ power\\ demand}\\)\nA low load factor means a “peaky” load shape\n\n\nSource: Masters (2013)"
+    "text": "Load factor and load curves\n\\(LF=\\frac{Energy\\ consumed}{Energy\\ at\\ peak\\ demand}=\\frac{Average\\ power}{Peak\\ power\\ demand}\\)\nA low load factor means a “peaky” load shape\n\n\nSource: (masters2013renewable?)"
   },
   {
     "objectID": "2025/lecture12.html#supply-curve-and-dispatch",
@@ -1474,14 +1474,14 @@
     "href": "2025/lecture12.html#model-comparison",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Model comparison",
-    "text": "Model comparison\n\n\nSource: Johnston et al. (2019)"
+    "text": "Model comparison\n\n\nSource: (johnston2019switch?)"
   },
   {
     "objectID": "2025/lecture12.html#switch-model-as-an-example",
     "href": "2025/lecture12.html#switch-model-as-an-example",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "SWITCH Model as an example",
-    "text": "SWITCH Model as an example\n\n\nSource: Johnston et al. (2019)"
+    "text": "SWITCH Model as an example\n\n\nSource: (johnston2019switch?)"
   },
   {
     "objectID": "2025/lecture12.html#key-questions-in-model-selection",
@@ -1495,7 +1495,7 @@
     "href": "2025/lecture12.html#typical-output-capacitygeneration-mix",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "Typical output: capacity/generation mix",
-    "text": "Typical output: capacity/generation mix\n\n\nSource: He et al. (2020)"
+    "text": "Typical output: capacity/generation mix\n\n\nSource: (he_rapid_2020?)"
   },
   {
     "objectID": "2025/lecture12.html#typical-output-transmission-expansions",
@@ -1530,7 +1530,7 @@
     "href": "2025/lecture12.html#references",
     "title": "Lecture 12 AI, Big Data for Energy and Climate and Power Sector Decarbonization",
     "section": "",
-    "text": "References\n\n\nHe, Gang, Jiang Lin, Froylan Sifuentes, Xu Liu, Nikit Abhyankar, and Amol Phadke. 2020. “Rapid Cost Decrease of Renewables and Storage Accelerates the Decarbonization of China’s Power System.” Nature Communications 11 (1): 2486. https://doi.org/10.1038/s41467-020-16184-x.\n\n\nJohnston, Josiah, Rodrigo Henriquez-Auba, Benjamı́n Maluenda, and Matthias Fripp. 2019. “Switch 2.0: A Modern Platform for Planning High-Renewable Power Systems.” SoftwareX 10: 100251. https://doi.org/10.1016/j.softx.2019.100251.\n\n\nKaack, Lynn H, Priya L Donti, Emma Strubell, George Kamiya, Felix Creutzig, and David Rolnick. 2022. “Aligning Artificial Intelligence with Climate Change Mitigation.” Nature Climate Change, 1–10. https://doi.org/10.1038/s41558-022-01377-7.\n\n\nKruitwagen, L, KT Story, J Friedrich, L Byers, S Skillman, and C Hepburn. 2021. “A Global Inventory of Photovoltaic Solar Energy Generating Units.” Nature 598 (7882): 604–10. https://doi.org/10.1038/s41586-021-03957-7.\n\n\nLee, Mekyung, and Gang He. 2021. “An Empirical Analysis of Applications of Artificial Intelligence Algorithms in Wind Power Technology Innovation During 1980–2017.” Journal of Cleaner Production 297: 126536. https://doi.org/10.1016/j.jclepro.2021.126536.\n\n\nMasters, Gilbert M. 2013. Renewable and Efficient Electric Power Systems. John Wiley & Sons.\n\n\nRatledge, Nathan, Gabe Cadamuro, Brandon de la Cuesta, Matthieu Stigler, and Marshall Burke. 2022. “Using Machine Learning to Assess the Livelihood Impact of Electricity Access.” Nature 611 (7936): 491–95. https://doi.org/10.1038/s41586-022-05322-8.\n\n\nRolnick, David, Priya L Donti, Lynn H Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran, Andrew Slavin Ross, et al. 2022. “Tackling Climate Change with Machine Learning.” ACM Computing Surveys (CSUR) 55 (2): 1–96. https://doi.org/10.1145/3485128.\n\n\nYu, Jiafan, Zhecheng Wang, Arun Majumdar, and Ram Rajagopal. 2018. “DeepSolar: A Machine Learning Framework to Efficiently Construct a Solar Deployment Database in the United States.” Joule 2 (12): 2605–17. https://doi.org/10.1016/j.joule.2018.11.021.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "2025/lecture10.html#sample-analytic-questions",
@@ -1551,70 +1551,70 @@
     "href": "2025/lecture10.html#example-sources-of-energy-related-air-pollution",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Example sources of energy related air pollution",
-    "text": "Example sources of energy related air pollution\n\n\nSource: IEA (2016a)"
+    "text": "Example sources of energy related air pollution\n\n\nSource: (iea2016airpollution?)"
   },
   {
     "objectID": "2025/lecture10.html#pollution-by-energy-sector",
     "href": "2025/lecture10.html#pollution-by-energy-sector",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Pollution by energy sector",
-    "text": "Pollution by energy sector\n\n\nSource: IEA (2016a)"
+    "text": "Pollution by energy sector\n\n\nSource: (iea2016airpollution?)"
   },
   {
     "objectID": "2025/lecture10.html#air-pollution-and-human-health-analytic-framework",
     "href": "2025/lecture10.html#air-pollution-and-human-health-analytic-framework",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Air pollution and human health analytic framework",
-    "text": "Air pollution and human health analytic framework\n\n\nSource: IEA (2016a)"
+    "text": "Air pollution and human health analytic framework\n\n\nSource: (iea2016airpollution?)"
   },
   {
     "objectID": "2025/lecture10.html#energy-related-pm-emissions-by-sector-and-region",
     "href": "2025/lecture10.html#energy-related-pm-emissions-by-sector-and-region",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Energy related PM emissions by sector and region",
-    "text": "Energy related PM emissions by sector and region\n\n\nSource: IEA (2016a)"
+    "text": "Energy related PM emissions by sector and region\n\n\nSource: (iea2016airpollution?)"
   },
   {
     "objectID": "2025/lecture10.html#air-pollution-standards-aqi",
     "href": "2025/lecture10.html#air-pollution-standards-aqi",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Air pollution standards (AQI)",
-    "text": "Air pollution standards (AQI)\n\n\nSource: IEA (2016a)"
+    "text": "Air pollution standards (AQI)\n\n\nSource: (iea2016airpollution?)"
   },
   {
     "objectID": "2025/lecture10.html#typical-power-plant-emission-control-system",
     "href": "2025/lecture10.html#typical-power-plant-emission-control-system",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Typical power plant emission control system",
-    "text": "Typical power plant emission control system\n\n\nSource: IEA (2016a)"
+    "text": "Typical power plant emission control system\n\n\nSource: (iea2016airpollution?)"
   },
   {
     "objectID": "2025/lecture10.html#pollution-mitigation-technologies-and-efficiencies",
     "href": "2025/lecture10.html#pollution-mitigation-technologies-and-efficiencies",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Pollution mitigation technologies and efficiencies",
-    "text": "Pollution mitigation technologies and efficiencies\n\n\nSource: IEA (2016a)"
+    "text": "Pollution mitigation technologies and efficiencies\n\n\nSource: (iea2016airpollution?)"
   },
   {
     "objectID": "2025/lecture10.html#outdoor-air-pollution-and-premature-mortality",
     "href": "2025/lecture10.html#outdoor-air-pollution-and-premature-mortality",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Outdoor air pollution and premature mortality",
-    "text": "Outdoor air pollution and premature mortality\n\n\nSource: Lelieveld et al. (2015)"
+    "text": "Outdoor air pollution and premature mortality\n\n\nSource: (lelieveld2015contribution?)"
   },
   {
     "objectID": "2025/lecture10.html#trade-air-pollution-and-premature-mortality",
     "href": "2025/lecture10.html#trade-air-pollution-and-premature-mortality",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Trade, air pollution, and premature mortality",
-    "text": "Trade, air pollution, and premature mortality\n\n\nSource: Q. Zhang et al. (2017)"
+    "text": "Trade, air pollution, and premature mortality\n\n\nSource: (zhang2017transboundary?)"
   },
   {
     "objectID": "2025/lecture10.html#energy-sector-accounts-18-global-water-withdrawal",
     "href": "2025/lecture10.html#energy-sector-accounts-18-global-water-withdrawal",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Energy sector accounts ~1/8 global water withdrawal",
-    "text": "Energy sector accounts ~1/8 global water withdrawal\n\n\nSource: IEA (2016b)"
+    "text": "Energy sector accounts ~1/8 global water withdrawal\n\n\nSource: (iea2016energywater?)"
   },
   {
     "objectID": "2025/lecture10.html#water-withdrawal-vs.-water-consumption",
@@ -1628,7 +1628,7 @@
     "href": "2025/lecture10.html#renewables-save-water",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Renewables save water",
-    "text": "Renewables save water\n\n\nSource: IEA (2016b)"
+    "text": "Renewables save water\n\n\nSource: (iea2016energywater?)"
   },
   {
     "objectID": "2025/lecture10.html#dry-cooling-makes-a-big-difference",
@@ -1642,14 +1642,14 @@
     "href": "2025/lecture10.html#water-energy-carbon-nexus",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Water-energy-carbon nexus",
-    "text": "Water-energy-carbon nexus\n\n\nSource: C. Zhang et al. (2021)"
+    "text": "Water-energy-carbon nexus\n\n\nSource: (zhang2021long?)"
   },
   {
     "objectID": "2025/lecture10.html#land-use-intensity",
     "href": "2025/lecture10.html#land-use-intensity",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Land use intensity",
-    "text": "Land use intensity\n\n\nSource: Loveringa et al. (2022)"
+    "text": "Land use intensity\n\n\nSource: (loveringa2022land?)"
   },
   {
     "objectID": "2025/lecture10.html#multiple-uses-of-land-co-benefits",
@@ -1663,21 +1663,21 @@
     "href": "2025/lecture10.html#nyc-climate-and-health",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "NYC climate and health",
-    "text": "NYC climate and health\n\n\nSource: Matte et al. (2024)"
+    "text": "NYC climate and health\n\n\nSource: (matteNPCC4ClimateChange2024?)"
   },
   {
     "objectID": "2025/lecture10.html#lancet-countdown-climate-and-health",
     "href": "2025/lecture10.html#lancet-countdown-climate-and-health",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Lancet countdown climate and health",
-    "text": "Lancet countdown climate and health\n\n\nSource: Romanello et al. (2024)"
+    "text": "Lancet countdown climate and health\n\n\nSource: (romanello2024ReportLancet2024?)"
   },
   {
     "objectID": "2025/lecture10.html#aging-climate-and-health",
     "href": "2025/lecture10.html#aging-climate-and-health",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "Aging, climate, and health",
-    "text": "Aging, climate, and health\n\n\nSource: Tipaldo, Balk, and Hunter (2024)"
+    "text": "Aging, climate, and health\n\n\nSource: (tipaldoFrameworkAgeingHealth2024?)"
   },
   {
     "objectID": "2025/lecture10.html#summary",
@@ -1691,7 +1691,7 @@
     "href": "2025/lecture10.html#references",
     "title": "Lecture 10 Energy, Environment, Climate, and Human Health",
     "section": "",
-    "text": "References\n\n\nIEA. 2016a. “Energy and Air Pollution: World Energy Outlook Special Report 2016.” https://www.iea.org/reports/energy-and-air-pollution.\n\n\n———. 2016b. “Water Energy Nexus Excerpt from the World Energy Outlook 2016.” https://www.iea.org/reports/water-energy-nexus.\n\n\nLelieveld, Jos, John S Evans, Mohammed Fnais, Despina Giannadaki, and Andrea Pozzer. 2015. “The Contribution of Outdoor Air Pollution Sources to Premature Mortality on a Global Scale.” Nature 525 (7569): 367–71. https://doi.org/10.1038/nature15371.\n\n\nLoveringa, Jessica, Marian Swaina, Linus Blomqvista, Rebecca R Hernandezb, and Jessica Lovering. 2022. “Land-Use Intensity of Electricity Production and Tomorrow’s Energy Landscape.” PLoS ONE 17: 7. https://doi.org/10.1371/journal.pone.0270155.\n\n\nMatte, Thomas, Kathryn Lane, Jenna F. Tipaldo, Janice Barnes, Kim Knowlton, Emily Torem, Gowri Anand, et al. 2024. “NPCC4: Climate Change and New York City’s Health Risk.” Annals of the New York Academy of Sciences 1539 (1): 185–240. https://doi.org/10.1111/nyas.15115.\n\n\nRomanello, Marina, Maria Walawender, Shih-Che Hsu, Annalyse Moskeland, Yasna Palmeiro-Silva, Daniel Scamman, Zakari Ali, et al. 2024. “The 2024 Report of the Lancet Countdown on Health and Climate Change: Facing Record-Breaking Threats from Delayed Action.” The Lancet 0 (0). https://doi.org/10.1016/S0140-6736(24)01822-1.\n\n\nTipaldo, Jenna F., Deborah Balk, and Lori M. Hunter. 2024. “A Framework for Ageing and Health Vulnerabilities in a Changing Climate.” Nature Climate Change, October, 1–11. https://doi.org/10.1038/s41558-024-02156-2.\n\n\nZhang, Chao, Gang He, Josiah Johnston, and Lijin Zhong. 2021. “Long-Term Transition of China’s Power Sector Under Carbon Neutrality Target and Water Withdrawal Constraint.” Journal of Cleaner Production 329: 129765. https://doi.org/10.1016/j.jclepro.2021.129765.\n\n\nZhang, Qiang, Xujia Jiang, Dan Tong, Steven J Davis, Hongyan Zhao, Guannan Geng, Tong Feng, et al. 2017. “Transboundary Health Impacts of Transported Global Air Pollution and International Trade.” Nature 543 (7647): 705–9. https://doi.org/10.1038/nature21712.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "2025/hw4.html",
@@ -1785,165 +1785,291 @@
     "text": "Footnotes\n\n\nhttps://www.nei.org/CorporateSite/media/filefolder/resources/reports-and-briefs/2023-Costs-in-Context_r1.pdf↩︎\nhttps://www.politico.com/news/2024/04/19/new-york-offshore-wind-canceled-00153319↩︎"
   },
   {
-    "objectID": "2025/lecture1.html#welcome-and-icebreaker",
-    "href": "2025/lecture1.html#welcome-and-icebreaker",
+    "objectID": "2025/lecture1.html#welcome",
+    "href": "2025/lecture1.html#welcome",
     "title": "Lecture 1",
-    "section": "Welcome and icebreaker",
-    "text": "Welcome and icebreaker\n\nRose: “something that is working well or something positive”\nThorn: “something that isn’t working or something negative”\nBud: “an area of opportunity or idea yet to be explored”"
+    "section": "Welcome",
+    "text": "Welcome\nHello! I’m Dr. Chenarides.\nThis is AREC 280-A1/224 Introduction to Agribusiness Entrepreneurship (3 credits).\nWe meet T & Th 8:00 am–9: 15 am."
   },
   {
-    "objectID": "2025/lecture1.html#what-brings-you-here",
-    "href": "2025/lecture1.html#what-brings-you-here",
+    "objectID": "2025/lecture1.html#what-to-expect",
+    "href": "2025/lecture1.html#what-to-expect",
     "title": "Lecture 1",
-    "section": "What brings you here?",
-    "text": "What brings you here?\n\nConcerned topics?\nMotivations?\nDream jobs?"
+    "section": "What to Expect",
+    "text": "What to Expect\nCourse website"
   },
   {
-    "objectID": "2025/lecture1.html#not-fast-enough",
-    "href": "2025/lecture1.html#not-fast-enough",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Not fast enough",
-    "text": "Not fast enough\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHow the exponential growth of solar will change the energy sector and the economy?\n\nSource: The Economist, Green Power Gap"
+    "objectID": "2025/lecture1.html#lecture-1-introduction-to-entrepreneurship",
+    "href": "2025/lecture1.html#lecture-1-introduction-to-entrepreneurship",
+    "title": "Lecture 1",
+    "section": "Lecture 1: Introduction to Entrepreneurship",
+    "text": "Lecture 1: Introduction to Entrepreneurship\nTextbook Reading (Quiz Basis)  Chapter 1. Entrepreneurship: Evolutionary Development—Revolutionary Impact\n\nSource: Kuratko (2024)"
   },
   {
-    "objectID": "2025/lecture1.html#why-paf9199",
-    "href": "2025/lecture1.html#why-paf9199",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Why PAF9199?",
-    "text": "Why PAF9199?\n\nPolicy matters\n\nTechnology innovation\nSocial change\nResearch\nJobs\n\nClean energy transition to achieve climate goals"
+    "objectID": "2025/lecture1.html#chapter-objectives",
+    "href": "2025/lecture1.html#chapter-objectives",
+    "title": "Lecture 1",
+    "section": "Chapter Objectives",
+    "text": "Chapter Objectives\n\n1.1 Identify the major types of entrepreneurial ventures.\n1.2 Examine the historical development of entrepreneurship.\n1.3 Summarize the myths of entrepreneurship.\n1.4 Define the major schools of entrepreneurial thought.\n1.5 Explain the process and framework approaches to the study of entrepreneurship.\n1.6 Paraphrase a comprehensive definition of entrepreneurship.\n1.7 Examine the entrepreneurial revolution taking place today.\n1.8 Illustrate today’s entrepreneurial environment.\n1.9 Outline the trends in entrepreneurship research.\n1.10 Examine the future trajectory of entrepreneurship.\n1.11. Define the key concepts in entrepreneurship."
   },
   {
-    "objectID": "2025/lecture1.html#organization",
-    "href": "2025/lecture1.html#organization",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Organization",
-    "text": "Organization\n\nSyllabus\nBrightspace\nCourse website: https://drganghe.github.io/energy-climate-policy/\nPolicy responses (10): 30%\nAssignments (4): 20%\nProposal: 10%\nFinal presentations: 20%\nPolicy memo: 20%"
+    "objectID": "2025/lecture1.html#some-interesting-statistics-about-u.s.-entrepreneurial-activity-12",
+    "href": "2025/lecture1.html#some-interesting-statistics-about-u.s.-entrepreneurial-activity-12",
+    "title": "Lecture 1",
+    "section": "Some Interesting Statistics About U.S. Entrepreneurial Activity (1/2)",
+    "text": "Some Interesting Statistics About U.S. Entrepreneurial Activity (1/2)\nGuess before the number appears!\n\nHow many entrepreneurs are there in the U.S.?\n\n\n31 million\n\n\nWhat percent of adults have started at least one business?\n\n\n55%\n\n\nWhat percent have started two or more businesses?\n\n\n25%"
   },
   {
-    "objectID": "2025/lecture1.html#climate-guest-speakers",
-    "href": "2025/lecture1.html#climate-guest-speakers",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Climate guest speakers",
-    "text": "Climate guest speakers\n\n9/16 – Richard Morse: Renewable energy investments\n9/23 – Shirley Gallagher: My Sustainable Journey and the skills used to contribute to climate solutions\n9/30 – Kaifang Luo: Clean technology deployment and impact\n10/7 – Simi George: Storage and regulation\n10/15 – Maryam Mozafari: Transitioning from fossil fuels to renewable energy\n10/21 – Fabio Passaro: Steel & cement sectors’ decarbonization\n10/28 – Liqun Peng: Power sector decarbonization\n11/4 – Samuel Vaillancourt: Gold mining decarbonization\n11/11 – Bharathi Esakkimuthu: Climate career options and essential skills\n11/18 – Mohsen Fatemi: City government implementation\n\n\nLearn more: https://drganghe.github.io/climate-guest-speakers/"
+    "objectID": "2025/lecture1.html#some-interesting-statistics-about-u.s.-entrepreneurial-activity-22",
+    "href": "2025/lecture1.html#some-interesting-statistics-about-u.s.-entrepreneurial-activity-22",
+    "title": "Lecture 1",
+    "section": "Some Interesting Statistics About U.S. Entrepreneurial Activity (2/2)",
+    "text": "Some Interesting Statistics About U.S. Entrepreneurial Activity (2/2)\nGuess before the number appears!\n\nWhat is the average age someone starts their first business?\n\n\n42\n\n\nHow many women-owned businesses exist?\n\n\n13 million (as of 2021)\n\n\nWhat percent of women-owned businesses are owned by women of color?\n\n\n50%"
   },
   {
-    "objectID": "2025/lecture1.html#contents",
-    "href": "2025/lecture1.html#contents",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Contents",
-    "text": "Contents\n\n\n\nClimate change\n\nImpact\nMitigation\nAdaption\nGovernance\n\n\n\n\nEnergy systems\n\nSupply\nDemand\nEconomics\nTechnology\n\n\n\n\nTools/skills\n\nData analysis\nEconomic analysis\nEnergy-economy-environment (nexus)"
+    "objectID": "2025/lecture1.html#one-more-interesting-statistic",
+    "href": "2025/lecture1.html#one-more-interesting-statistic",
+    "title": "Lecture 1",
+    "section": "One More Interesting Statistic",
+    "text": "One More Interesting Statistic\n\n\nI started my first business in 2016. 👉"
   },
   {
-    "objectID": "2025/lecture1.html#a-five-points-climate-haiku",
-    "href": "2025/lecture1.html#a-five-points-climate-haiku",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "A five points “climate haiku”",
-    "text": "A five points “climate haiku”\n\n\n\nIt’s warming\nIt’s us\nWe’re sure\nIt’s bad\nWe can fix it\n\n\n\n\n\n\n\n\n\nSource: Kimberly A Nicholas"
+    "objectID": "2025/lecture1.html#entrepreneurs-are-breakthrough-innovators",
+    "href": "2025/lecture1.html#entrepreneurs-are-breakthrough-innovators",
+    "title": "Lecture 1",
+    "section": "Entrepreneurs are Breakthrough Innovators",
+    "text": "Entrepreneurs are Breakthrough Innovators\n\n\n\nRecognize opportunities where others see chaos, contradiction, or confusion.\nAre aggressive catalysts for change within the marketplace.\nChallenge the unknown and continuously create breakthroughs for the future.\n\n\nThis semester, you’ll be matched with an industry mentor. Read about the mentors here."
   },
   {
-    "objectID": "2025/lecture1.html#an-analytical-approach",
-    "href": "2025/lecture1.html#an-analytical-approach",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "An analytical approach",
-    "text": "An analytical approach\nData-driven, evidence-based, energy and climate policy\nUsing analytic tool to answer questions such as:\n\nWhat will be the climate future if we do nothing?\nWhat technology to invest to achieve our climate goal?\nWhat will be the impact to carbon emission of IRA?\nHow NYS/NYC could achieve its climate goals?"
+    "objectID": "2025/lecture1.html#entrepreneurs-distinctive-journeys",
+    "href": "2025/lecture1.html#entrepreneurs-distinctive-journeys",
+    "title": "Lecture 1",
+    "section": "Entrepreneurs: Distinctive Journeys",
+    "text": "Entrepreneurs: Distinctive Journeys\n\n\nSmall-Business Owners\n\nManage their businesses by expecting stable sales, profits, and growth.\nStability\n\n\nEntrepreneurs\n\nFocus their efforts on innovation, profitability, and sustainable growth.\nGrowth"
   },
   {
-    "objectID": "2025/lecture1.html#two-quotes-about-models",
-    "href": "2025/lecture1.html#two-quotes-about-models",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Two quotes about models",
-    "text": "Two quotes about models\n\n\nGeorge Box:\n\nAll models are wrong, but some are useful.\n\n\nAlbert Einstein:\n\nEverything should be made as simple as possible, but not simpler."
+    "objectID": "2025/lecture1.html#major-types-of-entrepreneurial-ventures",
+    "href": "2025/lecture1.html#major-types-of-entrepreneurial-ventures",
+    "title": "Lecture 1",
+    "section": "Major Types of Entrepreneurial Ventures",
+    "text": "Major Types of Entrepreneurial Ventures\n\nSurvival ventures\nLifestyle ventures\nManaged growth ventures\nAggressive growth ventures"
   },
   {
-    "objectID": "2025/lecture1.html#models-can-be-useful",
-    "href": "2025/lecture1.html#models-can-be-useful",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Models can be useful",
-    "text": "Models can be useful\n\nPrediction/Projection\nSimulation\nOptimization\nControl\nStochastic/dynamic\nPolicy: Scenarios\n\nModels help us think"
+    "objectID": "2025/lecture1.html#survival-venture",
+    "href": "2025/lecture1.html#survival-venture",
+    "title": "Lecture 1",
+    "section": "Survival Venture",
+    "text": "Survival Venture\nThese ventures are started out of necessity and usually generate just enough income to support the entrepreneur and their household.\n\n\n\n\nEarly photo of La Piadina food truck in Fort Collins."
   },
   {
-    "objectID": "2025/lecture1.html#modeling-is-hard",
-    "href": "2025/lecture1.html#modeling-is-hard",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Modeling is hard",
-    "text": "Modeling is hard"
+    "objectID": "2025/lecture1.html#example-la-piadina",
+    "href": "2025/lecture1.html#example-la-piadina",
+    "title": "Lecture 1",
+    "section": "Example: La Piadina",
+    "text": "Example: La Piadina\nStarted as a food truck serving Italian flatbreads in Fort Collins, launched by two founders with a passion for bringing Romagna-style street food to the area. Initially operated with limited staff and resources, focusing on local events and markets.\nRepresents a grassroots approach to entrepreneurship, often with family labor and a bootstrapped budget.\nOver time, the business grew into a permanent brick-and-mortar location — a transition that many survival ventures aspire to."
   },
   {
-    "objectID": "2025/lecture1.html#why",
-    "href": "2025/lecture1.html#why",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Why?",
-    "text": "Why?\n\nRisk: System structural change could break our core data and assumptions that are based on historical experience. Example: shale gas revolution.\nUncertainty: The exact timing and character of pivotal events and technology changes is unpredictable. Example: renewables cost changes, fussion.\n\n\nRead more from Jon Koomey"
+    "objectID": "2025/lecture1.html#lifestyle-venture",
+    "href": "2025/lecture1.html#lifestyle-venture",
+    "title": "Lecture 1",
+    "section": "Lifestyle Venture",
+    "text": "Lifestyle Venture\nThese ventures prioritize personal goals over business growth, often aligning with a preferred way of living.\nIncome is stable and sufficient, but growth is not the main objective.\n\n\n\n\nJodar farms is a local farm servicing residents and businesses in Northern Colorado."
   },
   {
-    "objectID": "2025/lecture1.html#why-climate-and-energy-systems-are-both-complicated",
-    "href": "2025/lecture1.html#why-climate-and-energy-systems-are-both-complicated",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Why: climate and energy systems are both complicated",
-    "text": "Why: climate and energy systems are both complicated\n\n\nSource: EIA"
+    "objectID": "2025/lecture1.html#example-jodar-farms",
+    "href": "2025/lecture1.html#example-jodar-farms",
+    "title": "Lecture 1",
+    "section": "Example: Jodar Farms",
+    "text": "Example: Jodar Farms\nA pasture-raised poultry and egg farm just outside Fort Collins, selling direct-to-consumer and at local farmers’ markets. Focuses on sustainable practices and local relationships over aggressive scaling.\nSupports a lifestyle of land stewardship, food quality, and local identity."
   },
   {
-    "objectID": "2025/lecture1.html#the-energy-trillemma-balancing-trade-offs",
-    "href": "2025/lecture1.html#the-energy-trillemma-balancing-trade-offs",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "The Energy Trillemma: Balancing trade-offs",
-    "text": "The Energy Trillemma: Balancing trade-offs\n\n\n\n\n\n\n\n\n\nEnergy security: Ensure reliable energy supply\nEnergy equity: Provide universal access to reliable, affordable, and abundant energy\nEnvironmental Sustainability: Avoid environmental harm or climate impact\nThose goals sometimes conflict with each other, and decisions has to make trade-offs between them\n\n\n\nSource: World Energy Council"
+    "objectID": "2025/lecture1.html#managed-growth-venture",
+    "href": "2025/lecture1.html#managed-growth-venture",
+    "title": "Lecture 1",
+    "section": "Managed Growth Venture",
+    "text": "Managed Growth Venture\nThese businesses aim for moderate and steady growth, often by formalizing operations and expanding reach.\n\n\n\n\nSnooze has consistent branding across locations, with emphasis on local vibe and consistent operations."
   },
   {
-    "objectID": "2025/lecture1.html#energy-economy-and-environment",
-    "href": "2025/lecture1.html#energy-economy-and-environment",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Energy, economy, and environment",
-    "text": "Energy, economy, and environment\n\n\n\n\n\n\n\n\nEconomy: Decent living? Growth? Degrowth?\nEnvironment: Emissions, ecosystems constraints/goals\nEnergy: Work within constraints\n\n\nSource: ICMA"
+    "objectID": "2025/lecture1.html#example-snooze-an-a.m.-eatery",
+    "href": "2025/lecture1.html#example-snooze-an-a.m.-eatery",
+    "title": "Lecture 1",
+    "section": "Example: Snooze, an A.M. Eatery",
+    "text": "Example: Snooze, an A.M. Eatery\nFounded in Denver as a single breakfast spot and grew into a regional chain with sustainability commitments and community engagement baked into its business model.\nCombines professional management and expansion with intentional values (e.g., waste reduction, local sourcing).\nUses operational scale but avoids a “fast food” model."
   },
   {
-    "objectID": "2025/lecture1.html#energy-great-achievement",
-    "href": "2025/lecture1.html#energy-great-achievement",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Energy great achievement",
-    "text": "Energy great achievement\n\n\nSource: National Academies"
+    "objectID": "2025/lecture1.html#aggressive-growth-venture",
+    "href": "2025/lecture1.html#aggressive-growth-venture",
+    "title": "Lecture 1",
+    "section": "Aggressive Growth Venture",
+    "text": "Aggressive Growth Venture\nThese are high-growth, scalable businesses that often seek venture capital or rapid market expansion.\nEmphasizes innovation, rapid scaling, and market disruption.\n\n\n\n\nPlenty is an example of a high-tech vertical farm facility."
   },
   {
-    "objectID": "2025/lecture1.html#energy-grand-challenges-sdgs",
-    "href": "2025/lecture1.html#energy-grand-challenges-sdgs",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Energy grand challenges: SDGs",
-    "text": "Energy grand challenges: SDGs\n\n\nSource: UN"
+    "objectID": "2025/lecture1.html#example-plenty",
+    "href": "2025/lecture1.html#example-plenty",
+    "title": "Lecture 1",
+    "section": "Example: Plenty",
+    "text": "Example: Plenty\nA vertical farming startup based in San Francisco using robotics and AI to grow leafy greens in indoor controlled environments.\nBacked by SoftBank, Jeff Bezos, and others; positioned to disrupt traditional ag supply chains."
   },
   {
-    "objectID": "2025/lecture1.html#energy-grand-challenges-net-zero",
-    "href": "2025/lecture1.html#energy-grand-challenges-net-zero",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Energy grand challenges: net-zero",
-    "text": "Energy grand challenges: net-zero\n\n\nSource: IEA (2021)"
+    "objectID": "2025/lecture1.html#special-case-of-agressive-growth-ventures-gazelles",
+    "href": "2025/lecture1.html#special-case-of-agressive-growth-ventures-gazelles",
+    "title": "Lecture 1",
+    "section": "Special Case of Agressive Growth Ventures: Gazelles",
+    "text": "Special Case of Agressive Growth Ventures: Gazelles\n\nA business establishment with at least 20 percent sales growth in each year for 5 years, starting with a base of at least $100,000 in annual sales.\nGazelles as leaders in innovation:\n\nMedian growth of 450 percent\nTop-performing 1 percent of companies account for about 40 percent of jobs.\nGazelles make up less than 1 percent of all businesses and account for 10 percent of net new jobs.\n\n\n\n\n\n\nMythology Associated with Gazelles\n\n\n\nGazelles are the goal of all entrepreneurs.\nGazelles receive venture capital.\nGazelles were never mice.\nGazelles are high tech.\nGazelles are global."
   },
   {
-    "objectID": "2025/lecture1.html#modeling-can-be-usefulinsightful-an-example",
-    "href": "2025/lecture1.html#modeling-can-be-usefulinsightful-an-example",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Modeling can be useful/insightful (an example)",
-    "text": "Modeling can be useful/insightful (an example)\n\nBuild the structure\nDemonstrate the relation\nVisualize the changes\nInform the impacts"
+    "objectID": "2025/lecture1.html#special-case-of-agressive-growth-ventures-unicorns",
+    "href": "2025/lecture1.html#special-case-of-agressive-growth-ventures-unicorns",
+    "title": "Lecture 1",
+    "section": "Special Case of Agressive Growth Ventures: Unicorns",
+    "text": "Special Case of Agressive Growth Ventures: Unicorns\n\nA pre-IPO (private) tech start-up company with a $1 billion market value.\nIn 2023, 1,191 start-ups were unicorns.\n\n\n\n\n\nDecacorns and Hectacorns\n\n\n\nA “decacorn”\n\nStart-ups with a $10 billion or more market value.\nExamples: Facebook, Uber (taxis), and Airbnb (hotels)\n\nA “hectacorn” is valued at $100 billion or more."
   },
   {
-    "objectID": "2025/lecture1.html#renewables-are-achieving-grid-parity-a-structural-change",
-    "href": "2025/lecture1.html#renewables-are-achieving-grid-parity-a-structural-change",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Renewables are achieving grid parity: a structural change",
-    "text": "Renewables are achieving grid parity: a structural change\n\n\nSource: IRENA (2021)"
+    "objectID": "2025/lecture1.html#the-case-of-plenty",
+    "href": "2025/lecture1.html#the-case-of-plenty",
+    "title": "Lecture 1",
+    "section": "The Case of Plenty",
+    "text": "The Case of Plenty\nAfter raising $1B in funding, Plenty filed for bankruptcy in March 2025.\n\nHowever, the company has re-emerged after company restructuring (as of May 2025)."
   },
   {
-    "objectID": "2025/lecture1.html#implications-are-profound",
-    "href": "2025/lecture1.html#implications-are-profound",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "Implications are profound",
-    "text": "Implications are profound\n\n\n \n\n\n\n\n\n\n\n\nSource: He et al. (2020), Grant et al. (2021)"
+    "objectID": "2025/lecture1.html#what-bankruptcy-means-for-plenty",
+    "href": "2025/lecture1.html#what-bankruptcy-means-for-plenty",
+    "title": "Lecture 1",
+    "section": "What Bankruptcy Means for Plenty",
+    "text": "What Bankruptcy Means for Plenty\n\n\n\n\n\n\n\nWhat it Means\nDetails\n\n\n\n\nOut of cash\nPlenty can no longer meet its financial obligations (e.g., rent, salaries, supplier payments).\n\n\nCourt protection\nBankruptcy gives the company legal protection from creditors while it reorganizes its finances.\n\n\nDebts frozen\nDebt collection is paused, giving the company time to develop a recovery or liquidation plan.\n\n\nEquity holders lose\nInvestors (like SoftBank, Bezos Expeditions) may lose most or all of their investment.\n\n\nRestructuring\nThe company may sell off assets, renegotiate contracts, lay off workers, or change its business model."
   },
   {
-    "objectID": "2025/lecture1.html#end-with-two-quotes",
-    "href": "2025/lecture1.html#end-with-two-quotes",
-    "title": "Lecture 1 Introduction: Grand Challenges",
-    "section": "End with two quotes",
-    "text": "End with two quotes\n\n\nBill Hogan:\n\nIt is not the individual results of a model that are so important; it is the improved user appreciation of the policy problem that is the greatest contribution of modeling.\n\n\nHuntington, Weyant, Sweeney “Modeling for insights, not numbers”:\n\nThe primary goal of policy modeling should be the insights quantitative models can provide, not the precise-looking projections –i.e. numbers – they can produce for any given scenario.\n\n\n\nSource: Hogan (2002), Huntington, Weyant, and Sweeney (1982)"
+    "objectID": "2025/lecture1.html#what-it-tells-us-about-agribusiness-startups",
+    "href": "2025/lecture1.html#what-it-tells-us-about-agribusiness-startups",
+    "title": "Lecture 1",
+    "section": "What It Tells Us About Agribusiness Startups",
+    "text": "What It Tells Us About Agribusiness Startups\nPlenty raised nearly $1 billion in venture capital and still went bankrupt. That highlights:\n\nHigh capital intensity: Vertical farming requires massive investment in infrastructure, energy, and automation.\n\nScale ≠ success: Being a “unicorn” (valued over $1B) doesn’t guarantee product-market fit or profitability.\n\nUnit economics matter: If the cost to grow and deliver produce exceeds what consumers will pay, it’s not sustainable.\n\nSupply chain complexity: Even with tech and AI, perishable products and logistics remain challenging.\n\nVulnerability to macro forces: Energy costs, inflation, labor, and competition can undermine a well-funded startup.\n\n\nPlenty’s bankruptcy shows how even highly funded, high-tech ventures in agriculture face fundamental economic realities. It’s not enough to raise money — entrepreneurs need sustainable business models. In this case, vertical farming promised disruption, but its costs and logistics may have outpaced its revenues."
+  },
+  {
+    "objectID": "2025/lecture1.html#do-most-entrepreneurial-initiatives-fail",
+    "href": "2025/lecture1.html#do-most-entrepreneurial-initiatives-fail",
+    "title": "Lecture 1",
+    "section": "Do Most Entrepreneurial Initiatives Fail?",
+    "text": "Do Most Entrepreneurial Initiatives Fail?\nData from the Kauffman Indicators of Entrepreneurship shows that in the state of Colorado, the startup early survival rate is 81.95%, compared to the national average of 81.70%."
+  },
+  {
+    "objectID": "2025/lecture1.html#number-of-new-businesses-in-agriculture-naics-11",
+    "href": "2025/lecture1.html#number-of-new-businesses-in-agriculture-naics-11",
+    "title": "Lecture 1",
+    "section": "Number of New Businesses in Agriculture (NAICS 11)",
+    "text": "Number of New Businesses in Agriculture (NAICS 11)\n[PLACEHOLDER] Focus on food and ag industries."
+  },
+  {
+    "objectID": "2025/lecture1.html#number-of-new-businesses-in-retail-trade-naics-44-45",
+    "href": "2025/lecture1.html#number-of-new-businesses-in-retail-trade-naics-44-45",
+    "title": "Lecture 1",
+    "section": "Number of New Businesses in Retail Trade (NAICS 44-45)",
+    "text": "Number of New Businesses in Retail Trade (NAICS 44-45)\n[PLACEHOLDER] Focus on food and ag industries."
+  },
+  {
+    "objectID": "2025/lecture1.html#why-economists-are-interested-in-entrepreneurship",
+    "href": "2025/lecture1.html#why-economists-are-interested-in-entrepreneurship",
+    "title": "Lecture 1",
+    "section": "Why Economists are Interested in Entrepreneurship",
+    "text": "Why Economists are Interested in Entrepreneurship\nNew ventures can change the market structure by shifting supply or introducing entirely new supply curves, as well as generate demand.\nThis happens via:\n\nMarket entry and exit\nPricing and competition\nConsumer access and innovation\n\n\n\n\n\n\nEntrepreneurial Firms’ Economic Impact\n\n\nEntrepreneurial firms make two indispensable contributions to an economy:\n\nThey are an integral part of the renewal process that pervades and defines market economies.\nThey are fundamental mechanism by which millions enter the economic and social mainstream of society."
+  },
+  {
+    "objectID": "2025/lecture1.html#entrepreneurship-a-mindset",
+    "href": "2025/lecture1.html#entrepreneurship-a-mindset",
+    "title": "Lecture 1",
+    "section": "Entrepreneurship: A Mindset",
+    "text": "Entrepreneurship: A Mindset\nEntrepreneurship is more than the mere creation of business.\nIt is a mindset where one:\n\nSeeks opportunities.\nTakes risks beyond security.\nHas the tenacity to push an idea through to reality.\n\nEntrepreneurship is an integrated concept that permeates an individual’s business in an innovative manner."
+  },
+  {
+    "objectID": "2025/lecture1.html#the-entrepreneurial-process-employee-vs.-entrepreneur-mindset",
+    "href": "2025/lecture1.html#the-entrepreneurial-process-employee-vs.-entrepreneur-mindset",
+    "title": "Lecture 1",
+    "section": "The Entrepreneurial Process: Employee vs. Entrepreneur Mindset",
+    "text": "The Entrepreneurial Process: Employee vs. Entrepreneur Mindset\n\nBecoming on entrepreneur is less about the money, the commitment, or the support and more about the mindset.\nIt revolves around shifting from an employee mindset to an entrepreneur mindset.\n\nThe more a person can change their mindset from employee to entrepreneur, the more they will be able to find satisfaction in entrepreneurship.\n\n\n\n\nThe Entrepreneurial Mindset Transformation\n\n\n\nEntrepreneurship is more than just creating a business; it is an actual spiritual and emotional transformation that takes you from on established way of thinking to a new, groundbreaking mentality.\nAn entrepreneur must get comfortable with being uncomfortable and be able to deal with fear.\nEntrepreneurship, in whatever capacity or form it shows itself in, is risky and fear inducing.\nIt does not matter if you are selling lemonade in your backyard as a kid, writing your first book, or hustling to market your brand after hours.\n\n\n\n\n\n\nSource: E. Network (2017)"
+  },
+  {
+    "objectID": "2025/lecture1.html#the-evolution-of-entrepreneurship",
+    "href": "2025/lecture1.html#the-evolution-of-entrepreneurship",
+    "title": "Lecture 1",
+    "section": "The Evolution of Entrepreneurship",
+    "text": "The Evolution of Entrepreneurship\n\nEntrepreneur is derived from the French entreprendre, meaning “to undertake.”\nThe entrepreneur is one who undertakes to organize, manage, and assume the risks of a business.\nAlthough no single definition of entrepreneur exists and no one profile can represent today’s entrepreneurs, research is providing an increasingly sharper focus on the subject."
+  },
+  {
+    "objectID": "2025/lecture1.html#a-summary-description-of-entrepreneurship",
+    "href": "2025/lecture1.html#a-summary-description-of-entrepreneurship",
+    "title": "Lecture 1",
+    "section": "A Summary Description of Entrepreneurship",
+    "text": "A Summary Description of Entrepreneurship\nEntrepreneurship is…\n\nThe dynamic process of creating incremental wealth through vision, change, and creation\nThis wealth is created by individuals who assume major risks in terms of equity, time, and/or career commitment of providing value for a product or service.\nThe product or service itself may or may not be new or unique, but the entrepreneur must somehow infuse value by securing and allocating the necessary skills and resources.\n\n\n\n\n\nIngredients of Entrepreneurship\n\n\nWhat does it take to be an entrepreneur?\n\nWillingness to take calculated risks—in terms of time, equity, or career\nAbility to formulate an effective venture team\nCreative skill to marshal needed resources\nFundamental skills of building a solid business plan\nVision to recognize opportunity where others see chaos, contradiction, and confusion"
+  },
+  {
+    "objectID": "2025/lecture1.html#approaches-to-entrepreneurship",
+    "href": "2025/lecture1.html#approaches-to-entrepreneurship",
+    "title": "Lecture 1",
+    "section": "Approaches to Entrepreneurship",
+    "text": "Approaches to Entrepreneurship\n\n\n\n\n\n\n\nA Framework-of-Frameworks Approach\n\n\nThis image from the textbook lays out a “Framework-of-Frameworks” — basically, it maps out how different schools of thought and process models fit into the larger study of entrepreneurship. You’ll see that it brings together both macro and micro perspectives:\nOn the macro side, it includes external influences like culture, capital access, and economic conditions (i.e., things outside the entrepreneur’s control).\nOn the micro side, it focuses on internal traits and strategic thinking—things like personal motivation, opportunity recognition, and business planning.\nIt also includes process-based approaches that look at how ventures are formed and evolve over time, emphasizing inputs (like team or resources) and outcomes (like growth or innovation).\nRather than detailing each school here, I encourage you to read the corresponding sections in the textbook. It’s helpful to reference when you start noticing how entrepreneurs are influenced by both their personal traits and their environment — and when we explore business cases later in the semester."
+  },
+  {
+    "objectID": "2025/lecture1.html#the-entrepreneurial-revolution",
+    "href": "2025/lecture1.html#the-entrepreneurial-revolution",
+    "title": "Lecture 1",
+    "section": "The Entrepreneurial Revolution",
+    "text": "The Entrepreneurial Revolution\n\nEntrepreneurship is the symbol of business tenacity and achievement.\nEntrepreneurs were the pioneers of today’s business successes.\nIn post-pandemic world, entrepreneurs will continue to be critical contributors to economic growth through:\nleadership, management, innovation, research and development effectiveness, job creation, competitiveness, productivity, and formation of new industry."
+  },
+  {
+    "objectID": "2025/lecture1.html#types-of-entrepreneurs",
+    "href": "2025/lecture1.html#types-of-entrepreneurs",
+    "title": "Lecture 1",
+    "section": "Types of Entrepreneurs",
+    "text": "Types of Entrepreneurs\n\nMillennipreneurs: under age 35\n\nSuccess based on positive social or environmental impact\n\nUltrapreneurs: focus on environmental and social concerns.\nSerialpreneurs: have four or more operating companies.\nBoomerpreneurs: age 55 or older\n\nBelieve their business has had a positive social impact."
+  },
+  {
+    "objectID": "2025/lecture1.html#the-impact-of-entrepreneurial-ventures-in-the-united-states",
+    "href": "2025/lecture1.html#the-impact-of-entrepreneurial-ventures-in-the-united-states",
+    "title": "Lecture 1",
+    "section": "The Impact of Entrepreneurial Ventures in the United States",
+    "text": "The Impact of Entrepreneurial Ventures in the United States\n\nThe number of business declined by over 20% during the pandemic\nHowever, in 2021, large growth in new business applications\nNow more than 31 million entrepreneurs\nNearly 1.3 million women-owned businesses, growing faster than total businesses.\nNumber of Latino business owners grew 34 percent.\nAsian entrepreneurs run 10 percent of all businesses."
+  },
+  {
+    "objectID": "2025/lecture1.html#group-activity-1-1",
+    "href": "2025/lecture1.html#group-activity-1-1",
+    "title": "Lecture 1",
+    "section": "Group Activity 1-1",
+    "text": "Group Activity 1-1\n\nThe COVID-19 pandemic created and destroyed small businesses.\nWorking in groups of two or three, find examples of small businesses that did well in the pandemic. Why?\nShare what you found with the class."
+  },
+  {
+    "objectID": "2025/lecture1.html#entrepreneurial-ventures-in-the-united-states",
+    "href": "2025/lecture1.html#entrepreneurial-ventures-in-the-united-states",
+    "title": "Lecture 1",
+    "section": "Entrepreneurial Ventures in the United States",
+    "text": "Entrepreneurial Ventures in the United States\nReasons for the exceptional entrepreneurial activity in the United States include:\n\nA national culture that supports risk-taking and -seeking opportunities.\nAmericans’ alertness to unexploited economic opportunity and a low fear of failure.\nU.S. leadership in entrepreneurship education at both the undergraduate and graduate levels.\nA high percentage of individuals with professional, technological, or business degrees who are likely to become entrepreneurs."
+  },
+  {
+    "objectID": "2025/lecture1.html#twenty-first-century-trends-in-entrepreneurship-research-1-of-2",
+    "href": "2025/lecture1.html#twenty-first-century-trends-in-entrepreneurship-research-1-of-2",
+    "title": "Lecture 1",
+    "section": "Twenty-First-Century Trends in Entrepreneurship Research (1 of 2)",
+    "text": "Twenty-First-Century Trends in Entrepreneurship Research (1 of 2)\n\nVenture financing including venture capital and angel capital financing and other financing techniques strengthened in the 1990s.\nCorporate entrepreneurship and the need for entrepreneurial cultures have drawn increased attention.\nSocial entrepreneurship has unprecedented strength within the new generation of entrepreneurs.\nEntrepreneurial cognition is providing new insights into the psychological aspects of the entrepreneurial process."
+  },
+  {
+    "objectID": "2025/lecture1.html#twenty-first-century-trends-in-entrepreneurship-research-2-of-2",
+    "href": "2025/lecture1.html#twenty-first-century-trends-in-entrepreneurship-research-2-of-2",
+    "title": "Lecture 1",
+    "section": "Twenty-First-Century Trends in Entrepreneurship Research (2 of 2)",
+    "text": "Twenty-First-Century Trends in Entrepreneurship Research (2 of 2)\n\nWomen and minority entrepreneurs appear to face obstacles and difficulties different from those that other entrepreneurs face.\nThe global entrepreneurial movement is increasing.\nFamily businesses have become a stronger focus of research.\nEntrepreneurial education has become one of the hottest topics in business and engineering schools throughout the world."
+  },
+  {
+    "objectID": "2025/lecture1.html#key-entrepreneurship-concepts",
+    "href": "2025/lecture1.html#key-entrepreneurship-concepts",
+    "title": "Lecture 1",
+    "section": "Key Entrepreneurship Concepts",
+    "text": "Key Entrepreneurship Concepts\n\n\n\n\n\n\n\nConcept\nImportant Takeaways\n\n\n\n\nEntrepreneurship\nA process of innovation and new-venture creation across four dimensions — individual, organizational, environmental, and process — supported by networks in government, education, and institutions.\n\n\nEntrepreneur\nA catalyst for economic change who relies on purposeful searching, careful planning, and sound judgment in executing the entrepreneurial process.\n\n\nEntrepreneurial Discipline\nThe core principles of entrepreneurship apply across sectors — business, nonprofit, public or private. The types of innovation and where to find them are largely consistent.\n\n\nEntrepreneurial Leadership\nInvolves both the capacity to lead and the willingness to take risks. Measured through opportunity recognition, drive to innovate, and ability to accomplish goals. Increasingly important in the 21st century."
+  },
+  {
+    "objectID": "2025/lecture1.html#summary",
+    "href": "2025/lecture1.html#summary",
+    "title": "Lecture 1",
+    "section": "Summary",
+    "text": "Summary\n\n1.1 Identify the major types of entrepreneurial ventures.\n1.2 Examine the historical development of entrepreneurship.\n1.3 Summarize the myths of entrepreneurship.\n1.4 Define the major schools of entrepreneurial thought.\n1.5 Explain the process and framework approaches to the study of entrepreneurship.\n1.6 Paraphrase a comprehensive definition of entrepreneurship.\n1.7 Examine the entrepreneurial revolution taking place today.\n1.8 Illustrate today’s entrepreneurial environment.\n1.9 Outline the trends in entrepreneurship research.\n1.10 Examine the future trajectory of entrepreneurship.\n1.11. Define the key concepts in entrepreneurship."
   },
   {
     "objectID": "2025/lecture1.html#references",
@@ -1985,21 +2111,21 @@
     "href": "2025/lecture11.html#ipat",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "IPAT",
-    "text": "IPAT\n\\(I(mpact) = P(opulation) \\times A(ffluence) \\times T(echnology)\\)\n\\(I(mpact) = \\frac{P(opulation) \\times A(ffluence)}{T(echnology)}\\)\n\nTechnology: renewable energy, energy efficiency, innovations\n\n\nSource: Ehrlich and Holdren (1971)"
+    "text": "IPAT\n\\(I(mpact) = P(opulation) \\times A(ffluence) \\times T(echnology)\\)\n\\(I(mpact) = \\frac{P(opulation) \\times A(ffluence)}{T(echnology)}\\)\n\nTechnology: renewable energy, energy efficiency, innovations\n\n\nSource: (ehrlich_impact_1971?)"
   },
   {
     "objectID": "2025/lecture11.html#kaya-identify",
     "href": "2025/lecture11.html#kaya-identify",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "Kaya identify",
-    "text": "Kaya identify\n\n\n\\(F=P \\times \\frac{G}{P} \\times \\frac{E}{G} \\times \\frac{F}{E}\\)\n\nWhere:\n\nF: global CO2 emissions from human sources\nP: global population\nG: world GDP\nE: global energy consumption\n\nAnd:\n\nG/P: GDP per capita\nE/G: energy intensity of the GDP\nF/E: emission intensity of energy\n\n\n\n\n\n\n\n\n\n\nSource: Kaya and Yokobori (1997), Kaya Identity: drivers of CO₂ emissions in the World"
+    "text": "Kaya identify\n\n\n\\(F=P \\times \\frac{G}{P} \\times \\frac{E}{G} \\times \\frac{F}{E}\\)\n\nWhere:\n\nF: global CO2 emissions from human sources\nP: global population\nG: world GDP\nE: global energy consumption\n\nAnd:\n\nG/P: GDP per capita\nE/G: energy intensity of the GDP\nF/E: emission intensity of energy\n\n\n\n\n\n\n\n\n\n\nSource: (kaya_environment_1997?), Kaya Identity: drivers of CO₂ emissions in the World"
   },
   {
     "objectID": "2025/lecture11.html#climate-wedges",
     "href": "2025/lecture11.html#climate-wedges",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "Climate wedges",
-    "text": "Climate wedges\n\n\nSource: Pacala and Socolow (2004)"
+    "text": "Climate wedges\n\n\nSource: (pacala2004stabilization?)"
   },
   {
     "objectID": "2025/lecture11.html#the-mckinsey-cost-curve",
@@ -2034,21 +2160,21 @@
     "href": "2025/lecture11.html#scc-updates",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "SCC updates",
-    "text": "SCC updates\n\n\nSource: RFF, Rennert et al. (2022)"
+    "text": "SCC updates\n\n\nSource: RFF, (rennert2022comprehensive?)"
   },
   {
     "objectID": "2025/lecture11.html#tax-vs-cap-and-trade",
     "href": "2025/lecture11.html#tax-vs-cap-and-trade",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "Tax vs Cap and Trade",
-    "text": "Tax vs Cap and Trade\n\n\nSimilarities:\n\nAchieve carbon emission reduction\n\nAbatement costs\n\nInternational competitiveness\n\nRaising revenue\n\nSocial costs\n\nDistributional impacts\n\n\nDifferences:\n\nTransaction costs\n\nPerformance under uncertainty\n\nLinkages\nPrice volatility\n\nInteraction with complementary policies\n\nMarket manipulation\n\nAdministrative requirements\n\n\n\nSource: Read more: Stavins (2022)"
+    "text": "Tax vs Cap and Trade\n\n\nSimilarities:\n\nAchieve carbon emission reduction\n\nAbatement costs\n\nInternational competitiveness\n\nRaising revenue\n\nSocial costs\n\nDistributional impacts\n\n\nDifferences:\n\nTransaction costs\n\nPerformance under uncertainty\n\nLinkages\nPrice volatility\n\nInteraction with complementary policies\n\nMarket manipulation\n\nAdministrative requirements\n\n\n\nSource: Read more: (stavinsRelativeMeritsCarbon2022?)"
   },
   {
     "objectID": "2025/lecture11.html#what-works-whats-not",
     "href": "2025/lecture11.html#what-works-whats-not",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "What works what’s not",
-    "text": "What works what’s not\n\nCarbon tax vs. subsides\n\nRegulations vs markets\n\nConsidering\n\n\nSocietal acceptance\n\nPolitical feasibility\n\n\n\nSource: Read more: Armitage, Bakhtian, and Jaffe (2023)"
+    "text": "What works what’s not\n\nCarbon tax vs. subsides\n\nRegulations vs markets\n\nConsidering\n\n\nSocietal acceptance\n\nPolitical feasibility\n\n\n\nSource: Read more: (armitage_innovation_2023?)"
   },
   {
     "objectID": "2025/lecture11.html#best-practices",
@@ -2062,28 +2188,28 @@
     "href": "2025/lecture11.html#policy-instruments",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "Policy instruments",
-    "text": "Policy instruments\n\n\nSource: Armitage, Bakhtian, and Jaffe (2023)"
+    "text": "Policy instruments\n\n\nSource: (armitage_innovation_2023?)"
   },
   {
     "objectID": "2025/lecture11.html#type-of-instruments",
     "href": "2025/lecture11.html#type-of-instruments",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "Type of instruments",
-    "text": "Type of instruments\n\nRegulations and Standards\n\nTaxes and Charges\n\nTradable Permits\nVoluntary Agreements\n\nSubsidies and Incentives\n\nInforamtion Instruments\n\nR&DD\n\nNon-Climate Policies (Cobenefits)\n\n\nSource: Gupta (2007)"
+    "text": "Type of instruments\n\nRegulations and Standards\n\nTaxes and Charges\n\nTradable Permits\nVoluntary Agreements\n\nSubsidies and Incentives\n\nInforamtion Instruments\n\nR&DD\n\nNon-Climate Policies (Cobenefits)\n\n\nSource: (IPCC_2007_WGIII_Ch_13?)"
   },
   {
     "objectID": "2025/lecture11.html#what-policies-work",
     "href": "2025/lecture11.html#what-policies-work",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "What policies work",
-    "text": "What policies work\n\n\nSource: Stechemesser et al. (2024)"
+    "text": "What policies work\n\n\nSource: (stechemesserClimatePoliciesThat2024?)"
   },
   {
     "objectID": "2025/lecture11.html#references",
     "href": "2025/lecture11.html#references",
     "title": "Lecture 11 Climate Policy Responses",
     "section": "",
-    "text": "References\n\n\nArmitage, Sarah C., Noël Bakhtian, and Adam B. Jaffe. 2023. “Innovation Market Failures and the Design of New Climate Policy Instruments.” Working Paper. Working Paper Series. National Bureau of Economic Research. https://doi.org/10.3386/w31622.\n\n\nEhrlich, Paul R., and John P. Holdren. 1971. “Impact of Population Growth: Complacency Concerning This Component of Man’s Predicament Is Unjustified and Counterproductive.” Science 171 (3977): 1212–17. https://doi.org/10.1126/science.171.3977.1212.\n\n\nGupta, D. A. Tirpak, S. 2007. “Policies, Instruments and Co-Operative Arrangements.” Book Section. In Climate Change 2007: Mitigation. Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, edited by P. R. Bosch B. Metz O. R. Davidson, 747–96. Cambridge, United Kingdom; New York, NY, USA: Cambridge University Press. https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg3-chapter13-2.pdf.\n\n\nKaya, Yoichi, and Keiichi Yokobori, eds. 1997. Environment, Energy, and Economy: Strategies for Sustainable. Tokyo: United Nations Univ. https://archive.unu.edu/unupress/unupbooks/uu17ee/uu17ee00.htm.\n\n\nPacala, Stephen, and Robert Socolow. 2004. “Stabilization Wedges: Solving the Climate Problem for the Next 50 Years with Current Technologies.” Science 305 (5686): 968–72. https://doi.org/10.1126/science.1100103.\n\n\nRennert, Kevin, Frank Errickson, Brian C Prest, Lisa Rennels, Richard G Newell, William Pizer, Cora Kingdon, et al. 2022. “Comprehensive Evidence Implies a Higher Social Cost of CO2.” Nature, 1–3. https://doi.org/10.1038/s41586-022-05224-9.\n\n\nStavins, Robert N. 2022. “The Relative Merits of Carbon Pricing Instruments: Taxes Versus Trading.” Review of Environmental Economics and Policy 16 (1): 62–82. https://doi.org/10.1086/717773.\n\n\nStechemesser, Annika, Nicolas Koch, Ebba Mark, Elina Dilger, Patrick Klösel, Laura Menicacci, Daniel Nachtigall, et al. 2024. “Climate Policies That Achieved Major Emission Reductions: Global Evidence from Two Decades.” Science 385 (6711): 884–92. https://doi.org/10.1126/science.adl6547.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "2025/lecture13.html#sample-analytic-questions",
@@ -2097,7 +2223,7 @@
     "href": "2025/lecture13.html#projections-went-off",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Projections went off",
-    "text": "Projections went off\n\n\nSource: Craig, Gadgil, and Koomey (2002)"
+    "text": "Projections went off\n\n\nSource: (craig2002what?)"
   },
   {
     "objectID": "2025/lecture13.html#iea-underestimates-solar-and-wind",
@@ -2111,14 +2237,14 @@
     "href": "2025/lecture13.html#science-models-are-in-better-positions",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Science models are in better positions",
-    "text": "Science models are in better positions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: Inside Climate News, Supran, Rahmstorf, and Oreskes (2023), Hausfather et al. (2020)"
+    "text": "Science models are in better positions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRead more: Inside Climate News, (supran_assessing_2023?), (hausfather2020evaluating?)"
   },
   {
     "objectID": "2025/lecture13.html#conditions-for-model-robustness",
     "href": "2025/lecture13.html#conditions-for-model-robustness",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Conditions for model robustness",
-    "text": "Conditions for model robustness\nModels can be accurate when they describe systems that\n\nare observable and measurable\n\nexhibit constancy of structure over time\n\nexhibit constancy across variations in conditions not specified in the model\n\npermit the collection of ample data\n\n\nRead more: Hodges, Dewar, et al. (1992)"
+    "text": "Conditions for model robustness\nModels can be accurate when they describe systems that\n\nare observable and measurable\n\nexhibit constancy of structure over time\n\nexhibit constancy across variations in conditions not specified in the model\n\npermit the collection of ample data\n\n\nRead more: (hodges1992you?)"
   },
   {
     "objectID": "2025/lecture13.html#social-economic-structural-changes",
@@ -2160,7 +2286,7 @@
     "href": "2025/lecture13.html#incoporating-political-economy",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Incoporating political economy",
-    "text": "Incoporating political economy\n\n\n\nExamples\n\nRisk averse investors\n\nSubsidies or taxes\n\nCarbon lock-in\n\nUnequal costs and benefits of climate polices accrue to different groups\n\nPublic opinion\n\nConfidence in political institutions\n\nTrade and investments\n\nCompetence of goverment\n\n\n\n\n\n\n\n\n\n\nSource: Peng, Iyer, Bosetti, et al. (2021), Peng, Iyer, Binsted, et al. (2021)"
+    "text": "Incoporating political economy\n\n\n\nExamples\n\nRisk averse investors\n\nSubsidies or taxes\n\nCarbon lock-in\n\nUnequal costs and benefits of climate polices accrue to different groups\n\nPublic opinion\n\nConfidence in political institutions\n\nTrade and investments\n\nCompetence of goverment\n\n\n\n\n\n\n\n\n\n\nSource: (peng2021climate?), (peng2021surprisingly?)"
   },
   {
     "objectID": "2025/lecture13.html#why-a-model-in-the-first-place",
@@ -2209,7 +2335,7 @@
     "href": "2025/lecture13.html#ensure-model-for-society",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Ensure model for society",
-    "text": "Ensure model for society\n\nMind the assumptions\n\nMind the hubris\n\nMind the framing\n\nMind the consequences\n\nMind the unknowns\n\nQuestions not answers\n\n\nRead more: Saltelli et al. (2020)"
+    "text": "Ensure model for society\n\nMind the assumptions\n\nMind the hubris\n\nMind the framing\n\nMind the consequences\n\nMind the unknowns\n\nQuestions not answers\n\n\nRead more: (saltelli2020five?)"
   },
   {
     "objectID": "2025/lecture13.html#summary",
@@ -2230,7 +2356,7 @@
     "href": "2025/lecture13.html#energy-grand-challenges-net-zero",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Energy grand challenges: net-zero",
-    "text": "Energy grand challenges: net-zero\n\n\nSource: IEA (2021)"
+    "text": "Energy grand challenges: net-zero\n\n\nSource: (iea_net_2021?)"
   },
   {
     "objectID": "2025/lecture13.html#a-five-points-climate-haiku",
@@ -2251,7 +2377,7 @@
     "href": "2025/lecture13.html#common-sources-of-energy-and-climate-data",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Common sources of energy and climate data",
-    "text": "Common sources of energy and climate data\n\n\nEnergy:\n- IEA (OECD)\n- EIA\n- UN\n- WB\n- BP Statistical Review of World Energy\n\nClimate:\n- NASA\n- NCAR\n- EUCCI\n- UNEP\n- NOAA\n\nCarbon:\n- CDIAC (Carbon Dioxide Information Analysis Center)\n- EDGAR (emissions database for global atmospheric research system)\n- Carbon Budget Project\n- Carbon Monitor\n\n\nSource: Macknick (2011)"
+    "text": "Common sources of energy and climate data\n\n\nEnergy:\n- IEA (OECD)\n- EIA\n- UN\n- WB\n- BP Statistical Review of World Energy\n\nClimate:\n- NASA\n- NCAR\n- EUCCI\n- UNEP\n- NOAA\n\nCarbon:\n- CDIAC (Carbon Dioxide Information Analysis Center)\n- EDGAR (emissions database for global atmospheric research system)\n- Carbon Budget Project\n- Carbon Monitor\n\n\nSource: (macknick_energy_2011?)"
   },
   {
     "objectID": "2025/lecture13.html#human-component-is-the-major-driver-of-warming",
@@ -2272,7 +2398,7 @@
     "href": "2025/lecture13.html#kaya-identify",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Kaya identify",
-    "text": "Kaya identify\n\n\n\\(F=P \\times \\frac{G}{P} \\times \\frac{E}{G} \\times \\frac{F}{E}\\)\n\nWhere:\n\nF: global CO2 emissions from human sources\nP: global population\nG: world GDP\nE: global energy consumption\n\nAnd:\n\nG/P: GDP per capita\nE/G: energy intensity of the GDP\nF/E: emission intensity of energy\n\n\n\n\n\n\n\n\n\n\nSource: Kaya and Yokobori (1997), Kaya Identity: drivers of CO₂ emissions in the World"
+    "text": "Kaya identify\n\n\n\\(F=P \\times \\frac{G}{P} \\times \\frac{E}{G} \\times \\frac{F}{E}\\)\n\nWhere:\n\nF: global CO2 emissions from human sources\nP: global population\nG: world GDP\nE: global energy consumption\n\nAnd:\n\nG/P: GDP per capita\nE/G: energy intensity of the GDP\nF/E: emission intensity of energy\n\n\n\n\n\n\n\n\n\n\nSource: (kaya_environment_1808?), Kaya Identity: drivers of CO₂ emissions in the World"
   },
   {
     "objectID": "2025/lecture13.html#risks-and-resilience",
@@ -2314,7 +2440,7 @@
     "href": "2025/lecture13.html#defining-a-rosenfeld-plant",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "Defining a Rosenfeld Plant",
-    "text": "Defining a Rosenfeld Plant\n\n500 MW\nc.f.: 70%\nT&D losss: 7%\n\nResults:\n\n3 TWh/year\n\n3 MtCO2/year\nNYC electricity use: ~4 TWh/year\n\n\nSource: Koomey et al. (2010)"
+    "text": "Defining a Rosenfeld Plant\n\n500 MW\nc.f.: 70%\nT&D losss: 7%\n\nResults:\n\n3 TWh/year\n\n3 MtCO2/year\nNYC electricity use: ~4 TWh/year\n\n\nSource: (koomey2010defining?)"
   },
   {
     "objectID": "2025/lecture13.html#p-n-junction",
@@ -2405,7 +2531,7 @@
     "href": "2025/lecture13.html#references",
     "title": "Lecture 13 Policy Analysis Uncertainties, Review and Summary",
     "section": "",
-    "text": "References\n\n\nCraig, Paul P, Ashok Gadgil, and Jonathan G Koomey. 2002. “What Can History Teach Us? A Retrospective Examination of Long-Term Energy Forecasts for the United States.” Annual Review of Energy and the Environment 27 (1): 83–118. https://doi.org/10.1146/annurev.energy.27.122001.083425.\n\n\nHausfather, Zeke, Henri F Drake, Tristan Abbott, and Gavin A Schmidt. 2020. “Evaluating the Performance of Past Climate Model Projections.” Geophysical Research Letters 47 (1): e2019GL085378. https://doi.org/10.1029/2019GL085378.\n\n\nHodges, James S, James A Dewar, et al. 1992. “Is It You or Your Model Talking?: A Framework for Model Validation.” Rand Santa Monica, CA. https://www.rand.org/pubs/reports/R4114.html.\n\n\nIEA. 2021. “Net Zero by 2050.” International Energy Agency. https://www.iea.org/reports/net-zero-by-2050.\n\n\nKaya, Yoichi, and Keiichi Yokobori, eds. 1997. Environment, Energy, and Economy: Strategies for Sustainable. Tokyo: United Nations Univ. https://archive.unu.edu/unupress/unupbooks/uu17ee/uu17ee00.htm.\n\n\nKoomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al. 2010. “Defining a Standard Metric for Electricity Savings.” Environmental Research Letters 5 (1): 014017. https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014017.\n\n\nMacknick, Jordan. 2011. “Energy and CO2 Emission Data Uncertainties.” Carbon Management 2 (2): 189–205. https://doi.org/10.4155/cmt.11.10.\n\n\nPeng, Wei, Gokul Iyer, Matthew Binsted, Jennifer Marlon, Leon Clarke, James A Edmonds, and David G Victor. 2021. “The Surprisingly Inexpensive Cost of State-Driven Emission Control Strategies.” Nature Climate Change 11 (9): 738–45. https://doi.org/10.1038/s41558-021-01128-0.\n\n\nPeng, Wei, Gokul Iyer, Valentina Bosetti, Vaibhav Chaturvedi, James Edmonds, Allen A Fawcett, Stéphane Hallegatte, David G Victor, Detlef van Vuuren, and John Weyant. 2021. “Climate Policy Models Need to Get Real about People—Here’s How.” Nature Publishing Group. https://doi.org/10.1038/d41586-021-01500-2.\n\n\nSaltelli, Andrea, Gabriele Bammer, Isabelle Bruno, Erica Charters, Monica Di Fiore, Emmanuel Didier, Wendy Nelson Espeland, et al. 2020. “Five Ways to Ensure That Models Serve Society: A Manifesto.” Nature Publishing Group. https://doi.org/10.1038/d41586-020-01812-9.\n\n\nSupran, G., S. Rahmstorf, and N. Oreskes. 2023. “Assessing ExxonMobil’s Global Warming Projections.” Science 379 (6628): eabk0063. https://doi.org/10.1126/science.abk0063.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "2025/lecture3.html#a-five-points-climate-haiku",
@@ -2454,35 +2580,35 @@
     "href": "2025/lecture3.html#social-economic-impacts",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "Social economic impacts",
-    "text": "Social economic impacts\n\n\nSource: Carleton and Hsiang (2016)"
+    "text": "Social economic impacts\n\n\nSource: (carleton2016social?)"
   },
   {
     "objectID": "2025/lecture3.html#climate-damage-function",
     "href": "2025/lecture3.html#climate-damage-function",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "Climate damage function",
-    "text": "Climate damage function\n\\(Economic\\ Damage=f(\\Delta temperature)\\)\n\nIt could be negative or positive\nIntegrated Assessment Models/Economic models\n\nDICE/RICE\nFUND\nPAGE\n\n\n\nRead more: Neumann et al. (2020), Valuing Climate Changes: Updating Estimation of the Social Cost of Carbon Dioxide (2017)"
+    "text": "Climate damage function\n\\(Economic\\ Damage=f(\\Delta temperature)\\)\n\nIt could be negative or positive\nIntegrated Assessment Models/Economic models\n\nDICE/RICE\nFUND\nPAGE\n\n\n\nRead more: (neumann_climate_2020?), (updating_scc_2017?)"
   },
   {
     "objectID": "2025/lecture3.html#climate-change-and-conflicts",
     "href": "2025/lecture3.html#climate-change-and-conflicts",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "Climate change and conflicts",
-    "text": "Climate change and conflicts\n\n\nRead more: Hsiang, Burke, and Miguel (2013)"
+    "text": "Climate change and conflicts\n\n\nRead more: (hsiang_quantifying_2013?)"
   },
   {
     "objectID": "2025/lecture3.html#climate-change-affects-energy-system",
     "href": "2025/lecture3.html#climate-change-affects-energy-system",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "Climate change affects energy system",
-    "text": "Climate change affects energy system\n\n\nSource: Yalew et al. (2020)"
+    "text": "Climate change affects energy system\n\n\nSource: (yalew2020impacts?)"
   },
   {
     "objectID": "2025/lecture3.html#climate-impact-to-renewable-supply-demand-match",
     "href": "2025/lecture3.html#climate-impact-to-renewable-supply-demand-match",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "Climate impact to renewable supply-demand match",
-    "text": "Climate impact to renewable supply-demand match\n\n\nSource: Liu et al. (2023)"
+    "text": "Climate impact to renewable supply-demand match\n\n\nSource: (liu_climate_2023?)"
   },
   {
     "objectID": "2025/lecture3.html#nys-climate-impacts-assessment",
@@ -2517,7 +2643,7 @@
     "href": "2025/lecture3.html#references",
     "title": "Lecture 3 Climate Impact Assessments",
     "section": "",
-    "text": "References\n\n\nCarleton, Tamma A, and Solomon M Hsiang. 2016. “Social and Economic Impacts of Climate.” Science 353 (6304): aad9837. https://doi.org/10.1126/science.aad9837.\n\n\nHsiang, Solomon M., Marshall Burke, and Edward Miguel. 2013. “Quantifying the Influence of Climate on Human Conflict.” Science, August. https://doi.org/10.1126/science.1235367.\n\n\nLiu, Laibao, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. “Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems.” Nature Energy 8 (8): 870–80. https://doi.org/10.1038/s41560-023-01304-w.\n\n\nNeumann, James E., Jacqueline Willwerth, Jeremy Martinich, James McFarland, Marcus C. Sarofim, and Gary Yohe. 2020. “Climate Damage Functions for Estimating the Economic Impacts of Climate Change in the United States.” Review of Environmental Economics and Policy 14 (1): 25–43. https://doi.org/10.1093/reep/rez021.\n\n\nValuing Climate Changes: Updating Estimation of the Social Cost of Carbon Dioxide. 2017. Washington, D.C.: National Academies Press. https://doi.org/10.17226/24651.\n\n\nYalew, Seleshi G, Michelle TH van Vliet, David EHJ Gernaat, Fulco Ludwig, Ariel Miara, Chan Park, Edward Byers, et al. 2020. “Impacts of Climate Change on Energy Systems in Global and Regional Scenarios.” Nature Energy 5 (10): 794–802. https://doi.org/10.1038/s41560-020-0664-z.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "2025/lecture5.html#sample-analytic-questions",
@@ -2573,7 +2699,7 @@
     "href": "2025/lecture5.html#declining-discounting",
     "title": "Lecture 5 Energy Project Economics",
     "section": "Declining discounting",
-    "text": "Declining discounting\n\n\nSource: Weitzman (2001), Arrow et al. (2013)"
+    "text": "Declining discounting\n\n\nSource: (weitzman2001gamma?), (arrow_determining_2013?)"
   },
   {
     "objectID": "2025/lecture5.html#lcoe",
@@ -2601,21 +2727,21 @@
     "href": "2025/lecture5.html#learning-curve",
     "title": "Lecture 5 Energy Project Economics",
     "section": "Learning curve",
-    "text": "Learning curve\n\n\n\n\n\n\n\n\nEmpircial relations between unit costs and cumulative production.\n\n\\(Y = aX^b\\)\n\\(Pr=2^{b}\\)\n\\(Lr=1-Pr=1-2^{b}\\)\n\n\nY: Unit costs\na: Cost of first unit\nX: Units\nb: Slope of the learning curve\nPr: Progress ratio\nLr: Learing rate\n\n\n\nSource: Yelle (1979)"
+    "text": "Learning curve\n\n\n\n\n\n\n\n\nEmpircial relations between unit costs and cumulative production.\n\n\\(Y = aX^b\\)\n\\(Pr=2^{b}\\)\n\\(Lr=1-Pr=1-2^{b}\\)\n\n\nY: Unit costs\na: Cost of first unit\nX: Units\nb: Slope of the learning curve\nPr: Progress ratio\nLr: Learing rate\n\n\n\nSource: (yelle_learning_1979?)"
   },
   {
     "objectID": "2025/lecture5.html#learning-of-differrent-technologies",
     "href": "2025/lecture5.html#learning-of-differrent-technologies",
     "title": "Lecture 5 Energy Project Economics",
     "section": "Learning of differrent technologies",
-    "text": "Learning of differrent technologies\n\n\nSource: Grübler, Nakićenović, and Victor (1999)"
+    "text": "Learning of differrent technologies\n\n\nSource: (grubler_dynamics_1999?)"
   },
   {
     "objectID": "2025/lecture5.html#drivers-of-learning",
     "href": "2025/lecture5.html#drivers-of-learning",
     "title": "Lecture 5 Energy Project Economics",
     "section": "Drivers of learning",
-    "text": "Drivers of learning\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Kavlak, McNerney, and Trancik (2018), Klemun et al. (2023)"
+    "text": "Drivers of learning\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: (kavlak_evaluating_2018?), (Klemun2023Mechanisms?)"
   },
   {
     "objectID": "2025/lecture5.html#source-of-learning",
@@ -2636,28 +2762,28 @@
     "href": "2025/lecture5.html#why-nuclear-costs-are-going-up",
     "title": "Lecture 5 Energy Project Economics",
     "section": "Why nuclear costs are going up?",
-    "text": "Why nuclear costs are going up?\n\n\nSource: Grubler (2010)"
+    "text": "Why nuclear costs are going up?\n\n\nSource: (GRUBLER20105174?)"
   },
   {
     "objectID": "2025/lecture5.html#role-of-global-supply-chain-in-pv",
     "href": "2025/lecture5.html#role-of-global-supply-chain-in-pv",
     "title": "Lecture 5 Energy Project Economics",
     "section": "Role of global supply chain in PV",
-    "text": "Role of global supply chain in PV\n\n\nSource: Helveston, He, and Davidson (2022)"
+    "text": "Role of global supply chain in PV\n\n\nSource: (helveston_he_davidson_2022?)"
   },
   {
     "objectID": "2025/lecture5.html#summary",
     "href": "2025/lecture5.html#summary",
     "title": "Lecture 5 Energy Project Economics",
     "section": "Summary",
-    "text": "Summary\n\nProject economics is useful for basic cost-benefit analysis\n\nGetting the price (discounting) right\n\nUnderstanding technology dynamics will help to model future projections\n\nAware of the limitations\n\n\nRead more: Grübler, Nakićenović, and Victor (1999)"
+    "text": "Summary\n\nProject economics is useful for basic cost-benefit analysis\n\nGetting the price (discounting) right\n\nUnderstanding technology dynamics will help to model future projections\n\nAware of the limitations\n\n\nRead more: (grubler_dynamics_1999?)"
   },
   {
     "objectID": "2025/lecture5.html#references",
     "href": "2025/lecture5.html#references",
     "title": "Lecture 5 Energy Project Economics",
     "section": "",
-    "text": "References\n\n\nArrow, K., M. Cropper, C. Gollier, B. Groom, G. Heal, R. Newell, W. Nordhaus, et al. 2013. “Determining Benefits and Costs for Future Generations.” Science 341 (6144): 349–50. https://doi.org/10.1126/science.1235665.\n\n\nGrubler, Arnulf. 2010. “The Costs of the French Nuclear Scale-up: A Case of Negative Learning by Doing.” Energy Policy 38 (9): 5174–88. https://doi.org/10.1016/j.enpol.2010.05.003.\n\n\nGrübler, Arnulf, Nebojša Nakićenović, and David G Victor. 1999. “Dynamics of Energy Technologies and Global Change.” Energy Policy 27 (5): 247–80. https://doi.org/10.1016/S0301-4215(98)00067-6.\n\n\nHelveston, John, Gang He, and Michael Davidson. 2022. “Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains.” Nature 612 (7938): 83–87. https://doi.org/10.1038/s41586-022-05316-6.\n\n\nKavlak, Goksin, James McNerney, and Jessika E. Trancik. 2018. “Evaluating the Causes of Cost Reduction in Photovoltaic Modules.” Energy Policy 123 (December): 700–710. https://doi.org/10.1016/j.enpol.2018.08.015.\n\n\nKlemun, Magdalena M., Goksin Kavlak, James McNerney, and Jessika E. Trancik. 2023. “Mechanisms of Hardware and Soft Technology Evolution and the Implications for Solar Energy Cost Trends.” Nature Energy 8 (8): 827–38. https://doi.org/10.1038/s41560-023-01286-9.\n\n\nWeitzman, Martin L. 2001. “Gamma Discounting.” American Economic Review 91 (1): 260–71. https://www.aeaweb.org/articles?id=10.1257/aer.91.1.260.\n\n\nYelle, Louis E. 1979. “The Learning Curve: Historical Review and Comprehensive Survey.” Decision Sciences 10 (2): 302–28. https://doi.org/10.1111/j.1540-5915.1979.tb00026.x.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "2025/lecture7.html#solar",
@@ -2720,7 +2846,7 @@
     "href": "2025/lecture7.html#key-corrections",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Key corrections",
-    "text": "Key corrections\n\nSolar position at any time of day: altitude angle, latitude, zaimuth angle, hour angle\n\nRadiation: direct beam, diffusion, reflected\n\nTracking: fixed, 1-axis, 2-axis\n\n\nRead more: Masters (2013)"
+    "text": "Key corrections\n\nSolar position at any time of day: altitude angle, latitude, zaimuth angle, hour angle\n\nRadiation: direct beam, diffusion, reflected\n\nTracking: fixed, 1-axis, 2-axis\n\n\nRead more: (masters2013renewable?)"
   },
   {
     "objectID": "2025/lecture7.html#the-quest-for-efficiency",
@@ -2741,14 +2867,14 @@
     "href": "2025/lecture7.html#air-pollution-and-dust",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Air pollution and dust",
-    "text": "Air pollution and dust\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Bergin et al. (2017)"
+    "text": "Air pollution and dust\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: (bergin2017large?)"
   },
   {
     "objectID": "2025/lecture7.html#prioritize-solar-installation",
     "href": "2025/lecture7.html#prioritize-solar-installation",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Prioritize solar installation",
-    "text": "Prioritize solar installation\n\n\nSource: Chen et al. (2023)"
+    "text": "Prioritize solar installation\n\n\nSource: (chen2023deploying?)"
   },
   {
     "objectID": "2025/lecture7.html#solar-thermal-csp",
@@ -2769,14 +2895,14 @@
     "href": "2025/lecture7.html#betzs-law-59.3",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Betz’s law: 59.3%",
-    "text": "Betz’s law: 59.3%\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Masters (2013)"
+    "text": "Betz’s law: 59.3%\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: (masters2013renewable?)"
   },
   {
     "objectID": "2025/lecture7.html#average-power",
     "href": "2025/lecture7.html#average-power",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Average power",
-    "text": "Average power\n\n\n\n\n\n\n\n\nRayleigh (a special type of Weibull) distribution\n\\(f(v)=\\frac{2v}{c^2}\\exp [-(\\frac{v}{c})^2]\\)\n\\(\\bar{P}=\\frac{6}{\\pi}\\cdot \\frac{1}{2}\\rho \\pi r^2 (\\bar{v})^3=1.91P\\)\nUse average power when dealing with average wind speed\n\n\nRead more: Masters (2013)"
+    "text": "Average power\n\n\n\n\n\n\n\n\nRayleigh (a special type of Weibull) distribution\n\\(f(v)=\\frac{2v}{c^2}\\exp [-(\\frac{v}{c})^2]\\)\n\\(\\bar{P}=\\frac{6}{\\pi}\\cdot \\frac{1}{2}\\rho \\pi r^2 (\\bar{v})^3=1.91P\\)\nUse average power when dealing with average wind speed\n\n\nRead more: (masters2013renewable?)"
   },
   {
     "objectID": "2025/lecture7.html#power-curve",
@@ -2790,7 +2916,7 @@
     "href": "2025/lecture7.html#important-corrections",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Important corrections",
-    "text": "Important corrections\n\nTemperature: \\(\\rho = \\frac{P\\times M.W. \\times 10^{-3}}{RT}=\\frac{1 atm\\times 28.97 g/mol \\times 10^{-3}kg/g}{8.2056\\times 10^{-5}m^3\\cdot atm/(K\\cdot mol)\\times(273.15+T)K}\\)\n\nAltitude: \\(P=P_0 e^{-1.185\\times 10^{-4}H}\\) (H is elevation in meters)\n\nTower height: \\(\\frac{v}{v_0}=(\\frac{H}{H_0})^\\alpha\\) (\\(\\alpha\\) is the friction coefficient)\n\n\nRead more: Masters (2013)"
+    "text": "Important corrections\n\nTemperature: \\(\\rho = \\frac{P\\times M.W. \\times 10^{-3}}{RT}=\\frac{1 atm\\times 28.97 g/mol \\times 10^{-3}kg/g}{8.2056\\times 10^{-5}m^3\\cdot atm/(K\\cdot mol)\\times(273.15+T)K}\\)\n\nAltitude: \\(P=P_0 e^{-1.185\\times 10^{-4}H}\\) (H is elevation in meters)\n\nTower height: \\(\\frac{v}{v_0}=(\\frac{H}{H_0})^\\alpha\\) (\\(\\alpha\\) is the friction coefficient)\n\n\nRead more: (masters2013renewable?)"
   },
   {
     "objectID": "2025/lecture7.html#class-of-wind-resources",
@@ -2846,7 +2972,7 @@
     "href": "2025/lecture7.html#climate-change-impact",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Climate change impact",
-    "text": "Climate change impact\n\n\nSource: Liu et al. (2023)"
+    "text": "Climate change impact\n\n\nSource: (liu_climate_2023?)"
   },
   {
     "objectID": "2025/lecture7.html#pros-and-cons",
@@ -2944,7 +3070,7 @@
     "href": "2025/lecture7.html#updating-an-rosenfeld-plant",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Updating an Rosenfeld Plant?",
-    "text": "Updating an Rosenfeld Plant?\n\n\n\n\n2010\n2021\n\n\n\n\nSize (MW)\n500\n940\n\n\nCapacity Factor\n70%\n43%\n\n\n\n\n\n\n\nGeneration (TWh/yr)\n~ 3\n~ 3.6\n\n\nEmissions (Mt/yr)\n~ 3\n~ 3.5\n\n\n\n\nNYC electricity use in 2020: ~4 TWh/year\n\n\nSource: Koomey et al. (2010)"
+    "text": "Updating an Rosenfeld Plant?\n\n\n\n\n2010\n2021\n\n\n\n\nSize (MW)\n500\n940\n\n\nCapacity Factor\n70%\n43%\n\n\n\n\n\n\n\nGeneration (TWh/yr)\n~ 3\n~ 3.6\n\n\nEmissions (Mt/yr)\n~ 3\n~ 3.5\n\n\n\n\nNYC electricity use in 2020: ~4 TWh/year\n\n\nSource: (koomey2010defining?)"
   },
   {
     "objectID": "2025/lecture7.html#nuclear",
@@ -3021,7 +3147,7 @@
     "href": "2025/lecture7.html#long-duration-storage",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "Long duration storage",
-    "text": "Long duration storage\n\n\nSource: Dowling et al. (2020)"
+    "text": "Long duration storage\n\n\nSource: (dowling_role_2020?)"
   },
   {
     "objectID": "2025/lecture7.html#summary",
@@ -3035,7 +3161,7 @@
     "href": "2025/lecture7.html#references",
     "title": "Lecture 7 Energy Conversion Technologies",
     "section": "",
-    "text": "References\n\n\nBergin, Mike H, Chinmay Ghoroi, Deepa Dixit, James J Schauer, and Drew T Shindell. 2017. “Large Reductions in Solar Energy Production Due to Dust and Particulate Air Pollution.” Environmental Science & Technology Letters 4 (8): 339–44.\n\n\nChen, Shi, Xi Lu, Chris P. Nielsen, Michael B. McElroy, Gang He, Shaohui Zhang, Kebin He, Xiu Yang, Fang Zhang, and Jimin Hao. 2023. “Deploying Solar Photovoltaic Energy First in Carbon-Intensive Regions Brings Gigatons More Carbon Mitigations to 2060.” Communications Earth & Environment 4 (October): 369. https://doi.org/10.1038/s43247-023-01006-x.\n\n\nDowling, Jacqueline A., Katherine Z. Rinaldi, Tyler H. Ruggles, Steven J. Davis, Mengyao Yuan, Fan Tong, Nathan S. Lewis, and Ken Caldeira. 2020. “Role of Long-Duration Energy Storage in Variable Renewable Electricity Systems.” Joule 4 (9): 1907–28. https://doi.org/10.1016/j.joule.2020.07.007.\n\n\nKoomey, Jonathan, Hashem Akbari, Carl Blumstein, Marilyn Brown, Richard Brown, Chris Calwell, Sheryl Carter, et al. 2010. “Defining a Standard Metric for Electricity Savings.” Environmental Research Letters 5 (1): 014017. https://iopscience.iop.org/article/10.1088/1748-9326/5/1/014017.\n\n\nLiu, Laibao, Gang He, Mengxi Wu, Gang Liu, Haoran Zhang, Ying Chen, Jiashu Shen, and Shuangcheng Li. 2023. “Climate Change Impacts on Planned Supply–Demand Match in Global Wind and Solar Energy Systems.” Nature Energy 8 (8): 870–80. https://doi.org/10.1038/s41560-023-01304-w.\n\n\nMasters, Gilbert M. 2013. Renewable and Efficient Electric Power Systems. John Wiley & Sons.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "2025/lecture9.html#sample-analytic-questions",
@@ -3049,14 +3175,14 @@
     "href": "2025/lecture9.html#energy-poverty-and-sdg",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Energy poverty and SDG",
-    "text": "Energy poverty and SDG\n\n\nRead more: Alstone, Gershenson, and Kammen (2015)"
+    "text": "Energy poverty and SDG\n\n\nRead more: (alstone2015decentralized?)"
   },
   {
     "objectID": "2025/lecture9.html#energy-access-and-hdi",
     "href": "2025/lecture9.html#energy-access-and-hdi",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Energy access and HDI",
-    "text": "Energy access and HDI\n\n\nRead more: Alstone, Gershenson, and Kammen (2015)"
+    "text": "Energy access and HDI\n\n\nRead more: (alstone2015decentralized?)"
   },
   {
     "objectID": "2025/lecture9.html#energy-poverty-and-gender-equity",
@@ -3098,7 +3224,7 @@
     "href": "2025/lecture9.html#chinas-electricity-for-all",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "China’s electricity for all",
-    "text": "China’s electricity for all\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: G. He and Victor (2017)"
+    "text": "China’s electricity for all\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: (He2017efa?)"
   },
   {
     "objectID": "2025/lecture9.html#energy-justice",
@@ -3112,21 +3238,21 @@
     "href": "2025/lecture9.html#ej-conceptual-questions",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "EJ conceptual questions",
-    "text": "EJ conceptual questions\n\n\nSource: Jenkins et al. (2016)"
+    "text": "EJ conceptual questions\n\n\nSource: (jenkins2016energy?)"
   },
   {
     "objectID": "2025/lecture9.html#rooftop-solar-by-race-and-ethnicity",
     "href": "2025/lecture9.html#rooftop-solar-by-race-and-ethnicity",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Rooftop solar by race and ethnicity",
-    "text": "Rooftop solar by race and ethnicity\n\n\nSource: Sunter, Castellanos, and Kammen (2019)"
+    "text": "Rooftop solar by race and ethnicity\n\n\nSource: (sunter2019disparities?)"
   },
   {
     "objectID": "2025/lecture9.html#the-energy-equity-gap",
     "href": "2025/lecture9.html#the-energy-equity-gap",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "The energy equity gap",
-    "text": "The energy equity gap\n\n\nSource: Cong et al. (2022)"
+    "text": "The energy equity gap\n\n\nSource: (cong2022unveiling?)"
   },
   {
     "objectID": "2025/lecture9.html#justice-40",
@@ -3182,7 +3308,7 @@
     "href": "2025/lecture9.html#soft-path-vs.-hard-path",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Soft path vs. hard path",
-    "text": "Soft path vs. hard path\n\n\n\nCentral, large scale, incresing supply/demand\nFossil, nuclear\n\nFlexible, resilient, sustainable, and benign\nRenewable energy, energy efficiency, matching in scale and quality to the end use need\n\n\nSource: Lovins (1976)"
+    "text": "Soft path vs. hard path\n\n\n\nCentral, large scale, incresing supply/demand\nFossil, nuclear\n\nFlexible, resilient, sustainable, and benign\nRenewable energy, energy efficiency, matching in scale and quality to the end use need\n\n\nSource: (lovins_energy_1976?)"
   },
   {
     "objectID": "2025/lecture9.html#drivers-of-energy-transition",
@@ -3196,7 +3322,7 @@
     "href": "2025/lecture9.html#reneables-a-debate",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "100% reneables: a debate",
-    "text": "100% reneables: a debate\n\n\n100% renewables (wind, water, solar) for all purposes?\n\nResources, technology, economic ready\n\nHuge benefits\n\n\n100% renewable not viable/necesssary?\n\nModeling errors\n\nImplausible assumptions\n\nNeed better modeling\n\nEnergy transition is difficult, broad technology portfolio is needed\n\n\nSource: Jacobson et al. (2015), Clack et al. (2017)"
+    "text": "100% reneables: a debate\n\n\n100% renewables (wind, water, solar) for all purposes?\n\nResources, technology, economic ready\n\nHuge benefits\n\n\n100% renewable not viable/necesssary?\n\nModeling errors\n\nImplausible assumptions\n\nNeed better modeling\n\nEnergy transition is difficult, broad technology portfolio is needed\n\n\nSource: (jacobson_low-cost_2015?), (clack_evaluation_2017?)"
   },
   {
     "objectID": "2025/lecture9.html#changing-perspectives-of-renewables",
@@ -3266,14 +3392,14 @@
     "href": "2025/lecture9.html#china-phasing-out-coal",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "China: phasing out coal",
-    "text": "China: phasing out coal\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhasing out coal yields huge (water savings, avoided pre-matual death, and health) co-benefits, however, need to address employment impact and welfare redistribution\n\n\nSource: Cui et al. (2021), Gang He et al. (2020)"
+    "text": "China: phasing out coal\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhasing out coal yields huge (water savings, avoided pre-matual death, and health) co-benefits, however, need to address employment impact and welfare redistribution\n\n\nSource: (cui2021plant?), (he2020enabling?)"
   },
   {
     "objectID": "2025/lecture9.html#china-fewer-than-15-of-coal-power-workers-transition-to-green-jobs",
     "href": "2025/lecture9.html#china-fewer-than-15-of-coal-power-workers-transition-to-green-jobs",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "China: Fewer than 15% of coal power workers transition to green jobs",
-    "text": "China: Fewer than 15% of coal power workers transition to green jobs\n\n\n\nA coal power worker needs to travel 194 (178–242) km on average to access a green job.\n\nOnly 11%–14% of existing coal power workers will transition to green jobs by 2060.\n\n\n\nSource: Wu et al. (2024)"
+    "text": "China: Fewer than 15% of coal power workers transition to green jobs\n\n\n\nA coal power worker needs to travel 194 (178–242) km on average to access a green job.\n\nOnly 11%–14% of existing coal power workers will transition to green jobs by 2060.\n\n\n\nSource: (wuFewer15Coal2024?)"
   },
   {
     "objectID": "2025/lecture9.html#bazil-role-of-hydro-and-biofuel",
@@ -3287,7 +3413,7 @@
     "href": "2025/lecture9.html#africa-the-fogotten-billion",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "Africa: the fogotten billion",
-    "text": "Africa: the fogotten billion\n\n\nSource: Mulugetta et al. (2022)"
+    "text": "Africa: the fogotten billion\n\n\nSource: (mulugetta2022africa?)"
   },
   {
     "objectID": "2025/lecture9.html#ukraine-crisis-an-accerlerator",
@@ -3315,7 +3441,7 @@
     "href": "2025/lecture9.html#references",
     "title": "Lecture 9 Energy access, justice, and transition",
     "section": "",
-    "text": "References\n\n\nAlstone, Peter, Dimitry Gershenson, and Daniel M Kammen. 2015. “Decentralized Energy Systems for Clean Electricity Access.” Nature Climate Change 5 (4): 305–14. https://doi.org/10.1038/nclimate2512.\n\n\nClack, Christopher T. M., Staffan A. Qvist, Jay Apt, Morgan Bazilian, Adam R. Brandt, Ken Caldeira, Steven J. Davis, et al. 2017. “Evaluation of a Proposal for Reliable Low-Cost Grid Power with 100% Wind, Water, and Solar.” Proceedings of the National Academy of Sciences, June, 201610381. https://doi.org/10.1073/pnas.1610381114.\n\n\nCong, Shuchen, Destenie Nock, Yueming Lucy Qiu, and Bo Xing. 2022. “Unveiling Hidden Energy Poverty Using the Energy Equity Gap.” Nature Communications 13 (1): 1–12. https://doi.org/10.1038/s41467-022-30146-5.\n\n\nCui, Ryna Yiyun, Nathan Hultman, Diyang Cui, Haewon McJeon, Sha Yu, Morgan R Edwards, Arijit Sen, et al. 2021. “A Plant-by-Plant Strategy for High-Ambition Coal Power Phaseout in China.” Nature Communications 12 (1): 1–10. https://doi.org/10.1038/s41467-021-21786-0.\n\n\nHe, Gang, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang. 2020. “Enabling a Rapid and Just Transition Away from Coal in China.” One Earth 3 (2): 187–94. https://doi.org/10.1016/j.oneear.2020.07.012.\n\n\nHe, G., and D. G. Victor. 2017. “Experiences and Lessons from China’s Success in Providing Electricity for All.” Resources, Conservation and Recycling 122: 335–38. https://doi.org/10.1016/j.resconrec.2017.03.011.\n\n\nJacobson, Mark Z., Mark A. Delucchi, Mary A. Cameron, and Bethany A. Frew. 2015. “Low-Cost Solution to the Grid Reliability Problem with 100% Penetration of Intermittent Wind, Water, and Solar for All Purposes.” Proceedings of the National Academy of Sciences 112 (49): 15060–65. https://doi.org/10.1073/pnas.1510028112.\n\n\nJenkins, Kirsten, Darren McCauley, Raphael Heffron, Hannes Stephan, and Robert Rehner. 2016. “Energy Justice: A Conceptual Review.” Energy Research & Social Science 11: 174–82. https://doi.org/10.1016/j.erss.2015.10.004.\n\n\nLovins, Amory B. 1976. “Energy Strategy: The Road Not Taken.” Foreign Affairs 55: 65. https://rmi.org/insight/energy-strategy-the-road-not-taken.\n\n\nMulugetta, Yacob, Youba Sokona, Philipp A Trotter, Samuel Fankhauser, Jessica Omukuti, Lucas Somavilla Croxatto, Bjarne Steffen, et al. 2022. “Africa Needs Context-Relevant Evidence to Shape Its Clean Energy Future.” Nature Energy, 1–8. https://doi.org/10.1038/s41560-022-01152-0.\n\n\nSunter, Deborah A, Sergio Castellanos, and Daniel M Kammen. 2019. “Disparities in Rooftop Photovoltaics Deployment in the United States by Race and Ethnicity.” Nature Sustainability 2 (1): 71–76. https://doi.org/10.1038/s41893-018-0204-z.\n\n\nWu, Huihuang, Junfeng Liu, Xiurong Hu, Gang He, Yuhan Zhou, Xian Wang, Ying Liu, Jianmin Ma, and Shu Tao. 2024. “Fewer Than 15% of Coal Power Plant Workers in China Can Easily Shift to Green Jobs by 2060.” One Earth, November. https://doi.org/10.1016/j.oneear.2024.10.006.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   },
   {
     "objectID": "2025/schedule.html",
@@ -3785,544 +3911,5 @@
     "title": "From Listener to Producer",
     "section": "How You’ll Be Graded",
     "text": "How You’ll Be Graded\nYour podcase will be evaluated based on:\n\n\n\n\n\n\n\n\nCriteria\nPoints\nDescription\n\n\n\n\nDepth of research + prep\n25\nEvidence of thoughtful background research, preparation, and familiarity with the mentor’s work and industry.\n\n\nInterview quality + flow\n25\nQuestions are clear and engaging; conversation flows naturally and professionally; follow-ups deepen the discussion.\n\n\nInsightful show notes\n25\nNotes accurately summarize the episode, highlight key takeaways, and are clearly written for an external audience.\n\n\nTeam coordination & clarity\n25\nAll team members contribute meaningfully; roles are clear; final product is cohesive and well-organized.\n\n\n\nTotal: 100 points (10% of final grade)\n\nThe best podcasts don’t just talk—they tell a story, highlight decisions, and leave the listener thinking differently. Let’s make something worth sharing."
-  },
-  {
-    "objectID": "2025/lecture1.html#entrepreneurship-theory-process-practice-12e",
-    "href": "2025/lecture1.html#entrepreneurship-theory-process-practice-12e",
-    "title": "Lecture 1",
-    "section": "Entrepreneurship: Theory, Process, Practice, 12e",
-    "text": "Entrepreneurship: Theory, Process, Practice, 12e\n\nChapter 1: Entrepreneurship: Evolutionary Development—Revolutionary Impact\n\n\nSource: Kuratko (2024)"
-  },
-  {
-    "objectID": "2025/lecture1.html#chapter-objectives",
-    "href": "2025/lecture1.html#chapter-objectives",
-    "title": "Lecture 1",
-    "section": "Chapter Objectives",
-    "text": "Chapter Objectives\n\n1.1 Identify the major types of entrepreneurial ventures.\n1.2 Examine the historical development of entrepreneurship.\n1.3 Summarize the myths of entrepreneurship.\n1.4 Define the major schools of entrepreneurial thought.\n1.5 Explain the process and framework approaches to the study of entrepreneurship.\n1.6 Paraphrase a comprehensive definition of entrepreneurship.\n1.7 Examine the entrepreneurial revolution taking place today.\n1.8 Illustrate today’s entrepreneurial environment.\n1.9 Outline the trends in entrepreneurship research.\n1.10 Examine the future trajectory of entrepreneurship.\n1.11. Define the key concepts in entrepreneurship."
-  },
-  {
-    "objectID": "2025/lecture1.html#some-interesting-statistics-about-u.s.-entrepreneurial-activity",
-    "href": "2025/lecture1.html#some-interesting-statistics-about-u.s.-entrepreneurial-activity",
-    "title": "Lecture 1",
-    "section": "Some Interesting Statistics About U.S. Entrepreneurial Activity",
-    "text": "Some Interesting Statistics About U.S. Entrepreneurial Activity\nGuess before the number appears!\n\nHow many entrepreneurs are there in the U.S.?\n\n\n31 million\n\n\nWhat percent of adults have started at least one business?\n\n\n55%\n\n\nWhat percent have started two or more businesses?\n\n\n25%\n\n\nWhat is the average age someone starts their first business?\n\n\n42\n\n\nHow many women-owned businesses exist?\n\n\n13 million (as of 2021)\n\n\nWhat percent of Black business owners are women?\n\n\n35% (vs. 27% overall)\n\n\nWhat percent of women-owned businesses are owned by women of color?\n\n\n50%"
-  },
-  {
-    "objectID": "2025/lecture1.html#entrepreneursbreakthrough-innovators",
-    "href": "2025/lecture1.html#entrepreneursbreakthrough-innovators",
-    "title": "Lecture 1",
-    "section": "Entrepreneurs—Breakthrough Innovators",
-    "text": "Entrepreneurs—Breakthrough Innovators\n\nEntrepreneurs\nRecognize opportunities where others see chaos, contradiction, or confusion.\nAre aggressive catalysts for change within the marketplace.\nChallenge the unknown and continuously create breakthroughs for the future."
-  },
-  {
-    "objectID": "2025/lecture1.html#entrepreneurs-a-typology-of-distinctive-journeys",
-    "href": "2025/lecture1.html#entrepreneurs-a-typology-of-distinctive-journeys",
-    "title": "Lecture 1",
-    "section": "Entrepreneurs: A Typology of Distinctive Journeys",
-    "text": "Entrepreneurs: A Typology of Distinctive Journeys\n\n\nSmall-Business Owners\n\nManage their businesses by expecting stable sales, profits, and growth.\nStability\n\n\nEntrepreneurs\n\nFocus their efforts on innovation, profitability, and sustainable growth.\nGrowth"
-  },
-  {
-    "objectID": "2025/lecture1.html#major-types-of-entrepreneurial-ventures",
-    "href": "2025/lecture1.html#major-types-of-entrepreneurial-ventures",
-    "title": "Lecture 1",
-    "section": "Major Types of Entrepreneurial Ventures",
-    "text": "Major Types of Entrepreneurial Ventures\n\nSurvival ventures\nLifestyle ventures\nManaged growth ventures\nAggressive growth ventures"
-  },
-  {
-    "objectID": "2025/lecture1.html#food-agriculture-examples",
-    "href": "2025/lecture1.html#food-agriculture-examples",
-    "title": "Lecture 1",
-    "section": "Food & Agriculture Examples",
-    "text": "Food & Agriculture Examples"
-  },
-  {
-    "objectID": "2025/lecture1.html#why-this-matters-for-economics",
-    "href": "2025/lecture1.html#why-this-matters-for-economics",
-    "title": "Lecture 1",
-    "section": "Why This Matters for Economics",
-    "text": "Why This Matters for Economics\nNew ventures can change the market structure by shifting supply or introducing entirely new supply curves. This affects:\n\nMarket entry and exit\nPricing and competition\nConsumer access and innovation"
-  },
-  {
-    "objectID": "2025/lecture1.html#entrepreneurship-a-mindset",
-    "href": "2025/lecture1.html#entrepreneurship-a-mindset",
-    "title": "Lecture 1",
-    "section": "Entrepreneurship: A Mindset",
-    "text": "Entrepreneurship: A Mindset\nEntrepreneurship is more than the mere creation of business.\nIt is a mindset where one:\n\nSeeks opportunities.\nTakes risks beyond security.\nHas the tenacity to push an idea through to reality.\n\nEntrepreneurship is an integrated concept that permeates an individual’s business in an innovative manner."
-  },
-  {
-    "objectID": "2025/lecture1.html#the-entrepreneurial-process-employee-vs.-entrepreneur-mindset",
-    "href": "2025/lecture1.html#the-entrepreneurial-process-employee-vs.-entrepreneur-mindset",
-    "title": "Lecture 1",
-    "section": "The Entrepreneurial Process: Employee vs. Entrepreneur Mindset",
-    "text": "The Entrepreneurial Process: Employee vs. Entrepreneur Mindset\n\nBecoming on entrepreneur is less about the money, the commitment, or the support and more about the mindset.\nIt revolves around shifting from an employee mindset to an entrepreneur mindset.\n\nThe more a person can change their mindset from employee to entrepreneur, the more they will be able to find satisfaction in entrepreneurship.\n\n\n\n\nThe Entrepreneurial Mindset Transformation\n\n\n\nEntrepreneurship is more than just creating a business; it is an actual spiritual and emotional transformation that takes you from on established way of thinking to a new, groundbreaking mentality.\nAn entrepreneur must get comfortable with being uncomfortable and be able to deal with fear.\nEntrepreneurship, in whatever capacity or form it shows itself in, is risky and fear inducing.\nIt does not matter if you are selling lemonade in your backyard as a kid, writing your first book, or hustling to market your brand after hours.\n\n\n\n\n\n\nSource: E. Network (2017)"
-  },
-  {
-    "objectID": "2025/lecture1.html#the-evolution-of-entrepreneurship",
-    "href": "2025/lecture1.html#the-evolution-of-entrepreneurship",
-    "title": "Lecture 1",
-    "section": "The Evolution of Entrepreneurship",
-    "text": "The Evolution of Entrepreneurship\n\nEntrepreneur is derived from the French entreprendre, meaning “to undertake.”\nThe entrepreneur is one who undertakes to organize, manage, and assume the risks of a business.\nAlthough no single definition of entrepreneur exists and no one profile can represent today’s entrepreneurs, research is providing an increasingly sharper focus on the subject."
-  },
-  {
-    "objectID": "2025/lecture1.html#a-summary-description-of-entrepreneurship",
-    "href": "2025/lecture1.html#a-summary-description-of-entrepreneurship",
-    "title": "Lecture 1",
-    "section": "A Summary Description of Entrepreneurship",
-    "text": "A Summary Description of Entrepreneurship\nEntrepreneurship is…\n\nThe dynamic process of creating incremental wealth through vision, change, and creation\nThis wealth is created by individuals who assume major risks in terms of equity, time, and/or career commitment of providing value for a product or service.\nThe product or service itself may or may not be new or unique, but the entrepreneur must somehow infuse value by securing and allocating the necessary skills and resources.\n\n\n\n\n\nIngredients of Entrepreneurship\n\n\nWhat does it take to be an entrepreneur?\n\nWillingness to take calculated risks—in terms of time, equity, or career\nAbility to formulate an effective venture team\nCreative skill to marshal needed resources\nFundamental skills of building a solid business plan\nVision to recognize opportunity where others see chaos, contradiction, and confusion"
-  },
-  {
-    "objectID": "2025/lecture1.html#an-integrated-definition-of-entrepreneurship",
-    "href": "2025/lecture1.html#an-integrated-definition-of-entrepreneurship",
-    "title": "Lecture 1",
-    "section": "An Integrated Definition of Entrepreneurship",
-    "text": "An Integrated Definition of Entrepreneurship\n\nA dynamic process of vision, change, and creation\nEssential ingredients include:\n\nWillingness to take calculated risks—in terms of time, equity, or career\nAbility to formulate an effective venture team\nCreative skill to marshal needed resources\nFundamental skills of building a solid business plan\nVision to recognize opportunity where others see chaos, contradiction, and confusion"
-  },
-  {
-    "objectID": "2025/lecture1.html#myth-most-entrepreneurial-initiatives-fail",
-    "href": "2025/lecture1.html#myth-most-entrepreneurial-initiatives-fail",
-    "title": "Lecture 1",
-    "section": "Myth: Most Entrepreneurial Initiatives Fail",
-    "text": "Myth: Most Entrepreneurial Initiatives Fail\n\nadd data from the Kauffman Indicators of Entrepreneurship [PLACEHOLDER] Focus on food and ag industries."
-  },
-  {
-    "objectID": "2025/lecture1.html#group-activity-1-1",
-    "href": "2025/lecture1.html#group-activity-1-1",
-    "title": "Lecture 1",
-    "section": "Group Activity 1-1",
-    "text": "Group Activity 1-1\n\nThe COVID-19 pandemic created and destroyed small businesses.\nWorking in groups of two or three, find examples of small businesses that did well in the pandemic. Why?\nShare what you found with the class."
-  },
-  {
-    "objectID": "2025/lecture1.html#approaches-to-entrepreneurship",
-    "href": "2025/lecture1.html#approaches-to-entrepreneurship",
-    "title": "Lecture 1",
-    "section": "Approaches to Entrepreneurship",
-    "text": "Approaches to Entrepreneurship\n\n\n\n\n\n\n\nA Framework-of-Frameworks Approach\n\n\nThis image from the textbook lays out a “Framework-of-Frameworks” — basically, it maps out how different schools of thought and process models fit into the larger study of entrepreneurship. You’ll see that it brings together both macro and micro perspectives:\nOn the macro side, it includes external influences like culture, capital access, and economic conditions (i.e., things outside the entrepreneur’s control).\nOn the micro side, it focuses on internal traits and strategic thinking—things like personal motivation, opportunity recognition, and business planning.\nIt also includes process-based approaches that look at how ventures are formed and evolve over time, emphasizing inputs (like team or resources) and outcomes (like growth or innovation).\nRather than detailing each school here, I encourage you to read the corresponding sections in the textbook. It’s helpful to reference when you start noticing how entrepreneurs are influenced by both their personal traits and their environment — and when we explore business cases later in the semester."
-  },
-  {
-    "objectID": "2025/lecture1.html#a-framework-of-frameworks-approach",
-    "href": "2025/lecture1.html#a-framework-of-frameworks-approach",
-    "title": "Lecture 1",
-    "section": "A Framework-of-Frameworks Approach",
-    "text": "A Framework-of-Frameworks Approach"
-  },
-  {
-    "objectID": "2025/lecture1.html#entrepreneurial-schools-of-thought-approach",
-    "href": "2025/lecture1.html#entrepreneurial-schools-of-thought-approach",
-    "title": "Lecture 1",
-    "section": "Entrepreneurial Schools-of-Thought Approach",
-    "text": "Entrepreneurial Schools-of-Thought Approach"
-  },
-  {
-    "objectID": "2025/lecture1.html#macro-view-external-locus-of-control",
-    "href": "2025/lecture1.html#macro-view-external-locus-of-control",
-    "title": "Lecture 1",
-    "section": "Macro View: External Locus of Control",
-    "text": "Macro View: External Locus of Control\n\nEnvironmental School of Thought\nConsiders the external factors that affect a potential entrepreneur’s lifestyle.\nFinancial/Capital School of Thought\nIs based on the capital-seeking process—the search for seed and growth capital.\nDisplacement School of Thought\nAlienation drives entrepreneurial pursuits.\nPolitical displacement (laws, policies, and regulations)\nCultural displacement (preclusion of social groups)\nEconomic displacement (economic variations)"
-  },
-  {
-    "objectID": "2025/lecture1.html#financial-analysis-emphasis",
-    "href": "2025/lecture1.html#financial-analysis-emphasis",
-    "title": "Lecture 1",
-    "section": "Financial Analysis Emphasis",
-    "text": "Financial Analysis Emphasis"
-  },
-  {
-    "objectID": "2025/lecture1.html#micro-view-internal-locus-of-control-1-of-2",
-    "href": "2025/lecture1.html#micro-view-internal-locus-of-control-1-of-2",
-    "title": "Lecture 1",
-    "section": "Micro View: Internal Locus of Control (1 of 2)",
-    "text": "Micro View: Internal Locus of Control (1 of 2)\n\nEntrepreneurial Trait School of Thought\nFocuses on identifying traits common to successful entrepreneurs.\nAchievement, creativity, determination, and technical knowledge\nVenture Opportunity School of Thought\nFocuses on the opportunity aspect of venture development.\nCorridor principle: New pathways or opportunities will arise that lead entrepreneurs in different directions."
-  },
-  {
-    "objectID": "2025/lecture1.html#micro-view-internal-locus-of-control-2-of-2",
-    "href": "2025/lecture1.html#micro-view-internal-locus-of-control-2-of-2",
-    "title": "Lecture 1",
-    "section": "Micro View: Internal Locus of Control (2 of 2)",
-    "text": "Micro View: Internal Locus of Control (2 of 2)\n\nStrategic Formulation School of Thought\nEmphasizes the planning process in successful venture development.\nStrategic formulation is a leveraging of unique elements:\nUnique markets—mountain versus mountain gap strategies\nUnique people—great chef strategies\nUnique products—better widget strategies\nUnique resources—water well strategies"
-  },
-  {
-    "objectID": "2025/lecture1.html#process-approaches-to-entrepreneurship-1-of-3",
-    "href": "2025/lecture1.html#process-approaches-to-entrepreneurship-1-of-3",
-    "title": "Lecture 1",
-    "section": "Process Approaches to Entrepreneurship (1 of 3)",
-    "text": "Process Approaches to Entrepreneurship (1 of 3)\n\nIntegrative Approach\nBuilt around the concepts of input to the entrepreneurial process and outcomes from the entrepreneurial process.\nFocuses on the entrepreneurial process itself and identifies five key elements that contribute to the process.\nProvides a comprehensive picture regarding the nature of entrepreneurship that can be applied at different levels."
-  },
-  {
-    "objectID": "2025/lecture1.html#integrative-model-of-entrepreneurial-inputs-and-outcomes",
-    "href": "2025/lecture1.html#integrative-model-of-entrepreneurial-inputs-and-outcomes",
-    "title": "Lecture 1",
-    "section": "Integrative Model of Entrepreneurial Inputs and Outcomes",
-    "text": "Integrative Model of Entrepreneurial Inputs and Outcomes"
-  },
-  {
-    "objectID": "2025/lecture1.html#process-approaches-to-entrepreneurship-2-of-3",
-    "href": "2025/lecture1.html#process-approaches-to-entrepreneurship-2-of-3",
-    "title": "Lecture 1",
-    "section": "Process Approaches to Entrepreneurship (2 of 3)",
-    "text": "Process Approaches to Entrepreneurship (2 of 3)\n\nDynamic States Approach\nStresses dependency of venture on environment and the interaction of:\nThe dominant logic of the firm\nThe business model\nValue creation"
-  },
-  {
-    "objectID": "2025/lecture1.html#dynamic-states-approach",
-    "href": "2025/lecture1.html#dynamic-states-approach",
-    "title": "Lecture 1",
-    "section": "Dynamic States Approach",
-    "text": "Dynamic States Approach"
-  },
-  {
-    "objectID": "2025/lecture1.html#process-approaches-to-entrepreneurship-3-of-3",
-    "href": "2025/lecture1.html#process-approaches-to-entrepreneurship-3-of-3",
-    "title": "Lecture 1",
-    "section": "Process Approaches to Entrepreneurship (3 of 3)",
-    "text": "Process Approaches to Entrepreneurship (3 of 3)\n\nFramework-of-Frameworks Approach\nOffers a more dynamic view of entrepreneurship.\nAllows for the profession to move forward.\nIdentifies the static and dynamic elements of new theories, typologies, or frameworks of importance."
-  },
-  {
-    "objectID": "2025/lecture1.html#the-entrepreneurial-revolution",
-    "href": "2025/lecture1.html#the-entrepreneurial-revolution",
-    "title": "Lecture 1",
-    "section": "The Entrepreneurial Revolution",
-    "text": "The Entrepreneurial Revolution\n\nEntrepreneurship is the symbol of business tenacity and achievement.\nEntrepreneurs were the pioneers of today’s business successes.\nIn post-pandemic world, entrepreneurs will continue to be critical contributors to economic growth through:\nleadership, management, innovation, research and development effectiveness, job creation, competitiveness, productivity, and formation of new industry."
-  },
-  {
-    "objectID": "2025/lecture1.html#types-of-entrepreneurs",
-    "href": "2025/lecture1.html#types-of-entrepreneurs",
-    "title": "Lecture 1",
-    "section": "Types of Entrepreneurs",
-    "text": "Types of Entrepreneurs\n\nMillennipreneurs: under age 35\n\nSuccess based on positive social or environmental impact\n\nUltrapreneurs: focus on environmental and social concerns.\nSerialpreneurs: have four or more operating companies.\nBoomerpreneurs: age 55 or older\n\nBelieve their business has had a positive social impact."
-  },
-  {
-    "objectID": "2025/lecture1.html#the-impact-of-entrepreneurial-ventures-in-the-united-states",
-    "href": "2025/lecture1.html#the-impact-of-entrepreneurial-ventures-in-the-united-states",
-    "title": "Lecture 1",
-    "section": "The Impact of Entrepreneurial Ventures in the United States",
-    "text": "The Impact of Entrepreneurial Ventures in the United States\n\nThe number of business declined by over 20% during the pandemic\nHowever, in 2021, large growth in new business applications\nNow more than 31 million entrepreneurs\nNearly 1.3 million women-owned businesses, growing faster than total businesses.\nNumber of Latino business owners grew 34 percent.\nAsian entrepreneurs run 10 percent of all businesses."
-  },
-  {
-    "objectID": "2025/lecture1.html#group-activity-1-2",
-    "href": "2025/lecture1.html#group-activity-1-2",
-    "title": "Lecture 1",
-    "section": "Group Activity 1-2",
-    "text": "Group Activity 1-2\n\nThe COVID-19 pandemic created and destroyed small businesses.\nWorking in groups of two or three, find examples of small businesses that did well in the pandemic. Why?\nShare what you found with the class."
-  },
-  {
-    "objectID": "2025/lecture1.html#entrepreneurial-ventures-in-the-united-states",
-    "href": "2025/lecture1.html#entrepreneurial-ventures-in-the-united-states",
-    "title": "Lecture 1",
-    "section": "Entrepreneurial Ventures in the United States",
-    "text": "Entrepreneurial Ventures in the United States\nReasons for the exceptional entrepreneurial activity in the United States include:\n\nA national culture that supports risk-taking and -seeking opportunities.\nAmericans’ alertness to unexploited economic opportunity and a low fear of failure.\nU.S. leadership in entrepreneurship education at both the undergraduate and graduate levels.\nA high percentage of individuals with professional, technological, or business degrees who are likely to become entrepreneurs."
-  },
-  {
-    "objectID": "2025/lecture1.html#growth-of-gazelles",
-    "href": "2025/lecture1.html#growth-of-gazelles",
-    "title": "Lecture 1",
-    "section": "Growth of Gazelles",
-    "text": "Growth of Gazelles\nA “gazelle”\n\nA business establishment with at least 20 percent sales growth in each year for 5 years, starting with a base of at least $100,000 in annual sales.\nGazelles as leaders in innovation:\nMedian growth of 450 percent\nTop-performing 1 percent of companies account for about 40 percent of jobs.\nGazelles make up less than 1 percent of all businesses and account for 10 percent of net new jobs."
-  },
-  {
-    "objectID": "2025/lecture1.html#mythology-associated-with-gazelles",
-    "href": "2025/lecture1.html#mythology-associated-with-gazelles",
-    "title": "Lecture 1",
-    "section": "Mythology Associated with Gazelles",
-    "text": "Mythology Associated with Gazelles\n\nGazelles are the goal of all entrepreneurs.\nGazelles receive venture capital.\nGazelles were never mice.\nGazelles are high tech.\nGazelles are global."
-  },
-  {
-    "objectID": "2025/lecture1.html#unicorns",
-    "href": "2025/lecture1.html#unicorns",
-    "title": "Lecture 1",
-    "section": "Unicorns",
-    "text": "Unicorns\n\nA pre-IPO (private) tech start-up company with a $1 billion market value.\nIn 2023, 1,191 start-ups were unicorns.\n\n\n\n\n\nDecacorns and Hectacorns\n\n\n\nA “decacorn”\n\nStart-ups with a $10 billion or more market value.\nExamples: Facebook, Uber (taxis), and Airbnb (hotels)\n\nA “hectacorn” is valued at $100 billion or more."
-  },
-  {
-    "objectID": "2025/lecture1.html#legacy-of-entrepreneurial-firms",
-    "href": "2025/lecture1.html#legacy-of-entrepreneurial-firms",
-    "title": "Lecture 1",
-    "section": "Legacy of Entrepreneurial Firms",
-    "text": "Legacy of Entrepreneurial Firms\n\nEntrepreneurial components of the U.S. economy:\nLarge firms have increased profitability by returning to their “core competencies” through restructuring and downsizing.\nNew entrepreneurial companies have been blossoming in new technologies and new markets.\nThousands of smaller firms established by women, minorities, and immigrants have strengthened the economy."
-  },
-  {
-    "objectID": "2025/lecture1.html#entrepreneurial-firms-economic-impact",
-    "href": "2025/lecture1.html#entrepreneurial-firms-economic-impact",
-    "title": "Lecture 1",
-    "section": "Entrepreneurial Firms’ Economic Impact",
-    "text": "Entrepreneurial Firms’ Economic Impact\n\nEntrepreneurial firms make two indispensable contributions to an economy:\nThey are an integral part of the renewal process that pervades and defines market economies.\nThey are the essential mechanism by which millions enter the economic and social mainstream of society."
-  },
-  {
-    "objectID": "2025/lecture1.html#twenty-first-century-trends-in-entrepreneurship-research-1-of-2",
-    "href": "2025/lecture1.html#twenty-first-century-trends-in-entrepreneurship-research-1-of-2",
-    "title": "Lecture 1",
-    "section": "Twenty-First-Century Trends in Entrepreneurship Research (1 of 2)",
-    "text": "Twenty-First-Century Trends in Entrepreneurship Research (1 of 2)\n\nVenture financing including venture capital and angel capital financing and other financing techniques strengthened in the 1990s.\nCorporate entrepreneurship and the need for entrepreneurial cultures have drawn increased attention.\nSocial entrepreneurship has unprecedented strength within the new generation of entrepreneurs.\nEntrepreneurial cognition is providing new insights into the psychological aspects of the entrepreneurial process."
-  },
-  {
-    "objectID": "2025/lecture1.html#twenty-first-century-trends-in-entrepreneurship-research-2-of-2",
-    "href": "2025/lecture1.html#twenty-first-century-trends-in-entrepreneurship-research-2-of-2",
-    "title": "Lecture 1",
-    "section": "Twenty-First-Century Trends in Entrepreneurship Research (2 of 2)",
-    "text": "Twenty-First-Century Trends in Entrepreneurship Research (2 of 2)\n\nWomen and minority entrepreneurs appear to face obstacles and difficulties different from those that other entrepreneurs face.\nThe global entrepreneurial movement is increasing.\nFamily businesses have become a stronger focus of research.\nEntrepreneurial education has become one of the hottest topics in business and engineering schools throughout the world."
-  },
-  {
-    "objectID": "2025/lecture1.html#the-entrepreneurial-process-the-best-business-schools-for-entrepreneurship",
-    "href": "2025/lecture1.html#the-entrepreneurial-process-the-best-business-schools-for-entrepreneurship",
-    "title": "Lecture 1",
-    "section": "The Entrepreneurial Process: The Best Business Schools for Entrepreneurship",
-    "text": "The Entrepreneurial Process: The Best Business Schools for Entrepreneurship\n\nThe Best Graduate Programs in Entrepreneurship\nIndiana University, Bloomington**\nStanford University\nHarvard University\nMassachusetts Institute of Technology\nUniversity of California, Berkeley**\nBabson College\nWhere does CSU Rank???\nThe Best Undergraduate Programs in Entrepreneurship\nIndiana University, Bloomington**\nUniversity of Pennsylvania\nUniversity of Southern California\nUniversity of California, Berkeley**\nBabson College\nWhere does CSU Rank???\n**denotes public university\n\n\nSource: Fortune Small Business, Fortune Magazine, and U.S. News & World Report (2007)"
-  },
-  {
-    "objectID": "2025/lecture1.html#the-future-trajectory-of-entrepreneurship-the-entrepreneurial-mindset",
-    "href": "2025/lecture1.html#the-future-trajectory-of-entrepreneurship-the-entrepreneurial-mindset",
-    "title": "Lecture 1",
-    "section": "The Future Trajectory of Entrepreneurship: The Entrepreneurial Mindset",
-    "text": "The Future Trajectory of Entrepreneurship: The Entrepreneurial Mindset\n\nTrajectories in Reassessing Entrepreneurship Education:\nWhy Teach Entrepreneurship—A Clear Purpose\nWhat Is Taught in Entrepreneurship—The Content\nHow Entrepreneurship Is Taught—The Delivery Mechanism\nOrganizing Entrepreneurship—The Structure\nOutcomes of Teaching Entrepreneurship—The Metrics\nLeadership of Entrepreneurship Programs—Academic Entrepreneurs"
-  },
-  {
-    "objectID": "2025/lecture1.html#key-entrepreneurship-concepts-1-of-3",
-    "href": "2025/lecture1.html#key-entrepreneurship-concepts-1-of-3",
-    "title": "Lecture 1",
-    "section": "Key Entrepreneurship Concepts (1 of 3)",
-    "text": "Key Entrepreneurship Concepts (1 of 3)\n\nEntrepreneurship\nA process of innovation and new-venture creation through four major dimensions—individual, organizational, environmental, and process—that is aided by collaborative networks in government, education, and institutions.\nEntrepreneur\nA catalyst for economic change who uses purposeful searching, careful planning, and sound judgment when carrying out the entrepreneurial process."
-  },
-  {
-    "objectID": "2025/lecture1.html#key-entrepreneurship-concepts-2-of-3",
-    "href": "2025/lecture1.html#key-entrepreneurship-concepts-2-of-3",
-    "title": "Lecture 1",
-    "section": "Key Entrepreneurship Concepts (2 of 3)",
-    "text": "Key Entrepreneurship Concepts (2 of 3)\n\nEntrepreneurial Discipline\nIt makes little or no difference who or what the entrepreneur is—whether a business or a nonbusiness public service organization, whether a governmental or nongovernmental institution.\nThe rules are much the same and so are the kinds of innovation and where to look for them."
-  },
-  {
-    "objectID": "2025/lecture1.html#key-entrepreneurship-concepts-3-of-3",
-    "href": "2025/lecture1.html#key-entrepreneurship-concepts-3-of-3",
-    "title": "Lecture 1",
-    "section": "Key Entrepreneurship Concepts (3 of 3)",
-    "text": "Key Entrepreneurship Concepts (3 of 3)\n\nEntrepreneurial Leadership\nCombines two capacities of the pursuit of innovation:\nCapacity to lead\nCapacity to risk\nLeadership is measured in:\n\nSense of opportunity\nDrive to innovate\nCapacity for accomplishment\nOne of the most significant phrases in the twenty-first century."
-  },
-  {
-    "objectID": "2025/lecture1.html#summary",
-    "href": "2025/lecture1.html#summary",
-    "title": "Lecture 1",
-    "section": "Summary",
-    "text": "Summary\n\n1.1 Identify the major types of entrepreneurial ventures.\n1.2 Examine the historical development of entrepreneurship.\n1.3 Summarize the myths of entrepreneurship.\n1.4 Define the major schools of entrepreneurial thought.\n1.5 Explain the process and framework approaches to the study of entrepreneurship.\n1.6 Paraphrase a comprehensive definition of entrepreneurship.\n1.7 Examine the entrepreneurial revolution taking place today.\n1.8 Illustrate today’s entrepreneurial environment.\n1.9 Outline the trends in entrepreneurship research.\n1.10 Examine the future trajectory of entrepreneurship.\n1.11. Define the key concepts in entrepreneurship."
-  },
-  {
-    "objectID": "2025/lecture1.html#lecture-1-introduction-to-entrepreneurship",
-    "href": "2025/lecture1.html#lecture-1-introduction-to-entrepreneurship",
-    "title": "Lecture 1",
-    "section": "Lecture 1: Introduction to Entrepreneurship",
-    "text": "Lecture 1: Introduction to Entrepreneurship\nTextbook Reading (Quiz Basis)  Chapter 1. Entrepreneurship: Evolutionary Development—Revolutionary Impact\n\nSource: Kuratko (2024)"
-  },
-  {
-    "objectID": "2025/lecture1.html#entrepreneurs-are-breakthrough-innovators",
-    "href": "2025/lecture1.html#entrepreneurs-are-breakthrough-innovators",
-    "title": "Lecture 1",
-    "section": "Entrepreneurs are Breakthrough Innovators",
-    "text": "Entrepreneurs are Breakthrough Innovators\n\n\n\nRecognize opportunities where others see chaos, contradiction, or confusion.\nAre aggressive catalysts for change within the marketplace.\nChallenge the unknown and continuously create breakthroughs for the future.\n\n\nThis semester, you’ll be matched with an industry mentor. Read about the mentors here."
-  },
-  {
-    "objectID": "2025/lecture1.html#welcome",
-    "href": "2025/lecture1.html#welcome",
-    "title": "Lecture 1",
-    "section": "Welcome",
-    "text": "Welcome\nHello! I’m Dr. Chenarides.\nThis is AREC 280-A1/224 Introduction to Agribusiness Entrepreneurship (3 credits).\nWe meet T & Th 8:00 am–9: 15 am."
-  },
-  {
-    "objectID": "2025/lecture1.html#what-to-expect",
-    "href": "2025/lecture1.html#what-to-expect",
-    "title": "Lecture 1",
-    "section": "What to Expect",
-    "text": "What to Expect\nCourse website"
-  },
-  {
-    "objectID": "2025/lecture1.html#entrepreneurs-distinctive-journeys",
-    "href": "2025/lecture1.html#entrepreneurs-distinctive-journeys",
-    "title": "Lecture 1",
-    "section": "Entrepreneurs: Distinctive Journeys",
-    "text": "Entrepreneurs: Distinctive Journeys\n\n\nSmall-Business Owners\n\nManage their businesses by expecting stable sales, profits, and growth.\nStability\n\n\nEntrepreneurs\n\nFocus their efforts on innovation, profitability, and sustainable growth.\nGrowth"
-  },
-  {
-    "objectID": "2025/lecture1.html#survival-ventures",
-    "href": "2025/lecture1.html#survival-ventures",
-    "title": "Lecture 1",
-    "section": "Survival ventures",
-    "text": "Survival ventures"
-  },
-  {
-    "objectID": "2025/lecture1.html#lifestyle-ventures",
-    "href": "2025/lecture1.html#lifestyle-ventures",
-    "title": "Lecture 1",
-    "section": "Lifestyle ventures",
-    "text": "Lifestyle ventures"
-  },
-  {
-    "objectID": "2025/lecture1.html#managed-growth-ventures",
-    "href": "2025/lecture1.html#managed-growth-ventures",
-    "title": "Lecture 1",
-    "section": "Managed growth ventures",
-    "text": "Managed growth ventures"
-  },
-  {
-    "objectID": "2025/lecture1.html#aggressive-growth-ventures",
-    "href": "2025/lecture1.html#aggressive-growth-ventures",
-    "title": "Lecture 1",
-    "section": "Aggressive growth ventures",
-    "text": "Aggressive growth ventures"
-  },
-  {
-    "objectID": "2025/lecture1.html#gazelles",
-    "href": "2025/lecture1.html#gazelles",
-    "title": "Lecture 1",
-    "section": "Gazelles",
-    "text": "Gazelles\n\nA business establishment with at least 20 percent sales growth in each year for 5 years, starting with a base of at least $100,000 in annual sales.\nGazelles as leaders in innovation:\n\nMedian growth of 450 percent\nTop-performing 1 percent of companies account for about 40 percent of jobs.\nGazelles make up less than 1 percent of all businesses and account for 10 percent of net new jobs.\n\n\n\n\n\n\nMythology Associated with Gazelles\n\n\n\nGazelles are the goal of all entrepreneurs.\nGazelles receive venture capital.\nGazelles were never mice.\nGazelles are high tech.\nGazelles are global."
-  },
-  {
-    "objectID": "2025/lecture1.html#why-economists-are-interested-in-entrepreneurship",
-    "href": "2025/lecture1.html#why-economists-are-interested-in-entrepreneurship",
-    "title": "Lecture 1",
-    "section": "Why Economists are Interested in Entrepreneurship",
-    "text": "Why Economists are Interested in Entrepreneurship\nNew ventures can change the market structure by shifting supply or introducing entirely new supply curves, as well as generate demand.\nThis happens via:\n\nMarket entry and exit\nPricing and competition\nConsumer access and innovation\n\n\n\n\n\n\nEntrepreneurial Firms’ Economic Impact\n\n\nEntrepreneurial firms make two indispensable contributions to an economy:\n\nThey are an integral part of the renewal process that pervades and defines market economies.\nThey are fundamental mechanism by which millions enter the economic and social mainstream of society."
-  },
-  {
-    "objectID": "2025/lecture1.html#some-interesting-statistics-about-u.s.-entrepreneurial-activity-12",
-    "href": "2025/lecture1.html#some-interesting-statistics-about-u.s.-entrepreneurial-activity-12",
-    "title": "Lecture 1",
-    "section": "Some Interesting Statistics About U.S. Entrepreneurial Activity (1/2)",
-    "text": "Some Interesting Statistics About U.S. Entrepreneurial Activity (1/2)\nGuess before the number appears!\n\nHow many entrepreneurs are there in the U.S.?\n\n\n31 million\n\n\nWhat percent of adults have started at least one business?\n\n\n55%\n\n\nWhat percent have started two or more businesses?\n\n\n25%"
-  },
-  {
-    "objectID": "2025/lecture1.html#some-interesting-statistics-about-u.s.-entrepreneurial-activity-22",
-    "href": "2025/lecture1.html#some-interesting-statistics-about-u.s.-entrepreneurial-activity-22",
-    "title": "Lecture 1",
-    "section": "Some Interesting Statistics About U.S. Entrepreneurial Activity (2/2)",
-    "text": "Some Interesting Statistics About U.S. Entrepreneurial Activity (2/2)\nGuess before the number appears!\n\nWhat is the average age someone starts their first business?\n\n\n42\n\n\nHow many women-owned businesses exist?\n\n\n13 million (as of 2021)\n\n\nWhat percent of women-owned businesses are owned by women of color?\n\n\n50%"
-  },
-  {
-    "objectID": "2025/lecture1.html#survival-venture",
-    "href": "2025/lecture1.html#survival-venture",
-    "title": "Lecture 1",
-    "section": "Survival Venture",
-    "text": "Survival Venture\nThese ventures are started out of necessity and usually generate just enough income to support the entrepreneur and their household.\n\n\n\n\nEarly photo of La Piadina food truck in Fort Collins."
-  },
-  {
-    "objectID": "2025/lecture1.html#lifestyle-venture",
-    "href": "2025/lecture1.html#lifestyle-venture",
-    "title": "Lecture 1",
-    "section": "Lifestyle Venture",
-    "text": "Lifestyle Venture\nThese ventures prioritize personal goals over business growth, often aligning with a preferred way of living.\nIncome is stable and sufficient, but growth is not the main objective.\n\n\n\n\nJodar farms is a local farm servicing residents and businesses in Northern Colorado."
-  },
-  {
-    "objectID": "2025/lecture1.html#managed-growth-venture",
-    "href": "2025/lecture1.html#managed-growth-venture",
-    "title": "Lecture 1",
-    "section": "Managed Growth Venture",
-    "text": "Managed Growth Venture\nThese businesses aim for moderate and steady growth, often by formalizing operations and expanding reach.\n\n\n\n\nSnooze has consistent branding across locations, with emphasis on local vibe and consistent operations."
-  },
-  {
-    "objectID": "2025/lecture1.html#aggressive-growth-venture",
-    "href": "2025/lecture1.html#aggressive-growth-venture",
-    "title": "Lecture 1",
-    "section": "Aggressive Growth Venture",
-    "text": "Aggressive Growth Venture\nThese are high-growth, scalable businesses that often seek venture capital or rapid market expansion.\nEmphasizes innovation, rapid scaling, and market disruption.\n\n\n\n\nPlenty is an example of a high-tech vertical farm facility."
-  },
-  {
-    "objectID": "2025/lecture1.html#example-la-piadina",
-    "href": "2025/lecture1.html#example-la-piadina",
-    "title": "Lecture 1",
-    "section": "Example: La Piadina",
-    "text": "Example: La Piadina\nStarted as a food truck serving Italian flatbreads in Fort Collins, launched by two founders with a passion for bringing Romagna-style street food to the area. Initially operated with limited staff and resources, focusing on local events and markets.\nRepresents a grassroots approach to entrepreneurship, often with family labor and a bootstrapped budget.\nOver time, the business grew into a permanent brick-and-mortar location — a transition that many survival ventures aspire to."
-  },
-  {
-    "objectID": "2025/lecture1.html#example-jodar-farms",
-    "href": "2025/lecture1.html#example-jodar-farms",
-    "title": "Lecture 1",
-    "section": "Example: Jodar Farms",
-    "text": "Example: Jodar Farms\nA pasture-raised poultry and egg farm just outside Fort Collins, selling direct-to-consumer and at local farmers’ markets. Focuses on sustainable practices and local relationships over aggressive scaling.\nSupports a lifestyle of land stewardship, food quality, and local identity."
-  },
-  {
-    "objectID": "2025/lecture1.html#example-snooze-an-a.m.-eatery",
-    "href": "2025/lecture1.html#example-snooze-an-a.m.-eatery",
-    "title": "Lecture 1",
-    "section": "Example: Snooze, an A.M. Eatery",
-    "text": "Example: Snooze, an A.M. Eatery\nFounded in Denver as a single breakfast spot and grew into a regional chain with sustainability commitments and community engagement baked into its business model.\nCombines professional management and expansion with intentional values (e.g., waste reduction, local sourcing).\nUses operational scale but avoids a “fast food” model."
-  },
-  {
-    "objectID": "2025/lecture1.html#example-plenty",
-    "href": "2025/lecture1.html#example-plenty",
-    "title": "Lecture 1",
-    "section": "Example: Plenty",
-    "text": "Example: Plenty\nA vertical farming startup based in San Francisco using robotics and AI to grow leafy greens in indoor controlled environments.\nBacked by SoftBank, Jeff Bezos, and others; positioned to disrupt traditional ag supply chains."
-  },
-  {
-    "objectID": "2025/lecture1.html#key-entrepreneurship-concepts",
-    "href": "2025/lecture1.html#key-entrepreneurship-concepts",
-    "title": "Lecture 1",
-    "section": "Key Entrepreneurship Concepts",
-    "text": "Key Entrepreneurship Concepts\n\n\n\n\n\n\n\nConcept\nImportant Takeaways\n\n\n\n\nEntrepreneurship\nA process of innovation and new-venture creation across four dimensions — individual, organizational, environmental, and process — supported by networks in government, education, and institutions.\n\n\nEntrepreneur\nA catalyst for economic change who relies on purposeful searching, careful planning, and sound judgment in executing the entrepreneurial process.\n\n\nEntrepreneurial Discipline\nThe core principles of entrepreneurship apply across sectors — business, nonprofit, public or private. The types of innovation and where to find them are largely consistent.\n\n\nEntrepreneurial Leadership\nInvolves both the capacity to lead and the willingness to take risks. Measured through opportunity recognition, drive to innovate, and ability to accomplish goals. Increasingly important in the 21st century."
-  },
-  {
-    "objectID": "2025/lecture1.html#one-more-interesting-statistic",
-    "href": "2025/lecture1.html#one-more-interesting-statistic",
-    "title": "Lecture 1",
-    "section": "One More Interesting Statistic",
-    "text": "One More Interesting Statistic\n\n\nI started my first business in 2016. 👉"
-  },
-  {
-    "objectID": "2025/lecture1.html#special-case-of-agressive-growth-ventures-gazelles",
-    "href": "2025/lecture1.html#special-case-of-agressive-growth-ventures-gazelles",
-    "title": "Lecture 1",
-    "section": "Special Case of Agressive Growth Ventures: Gazelles",
-    "text": "Special Case of Agressive Growth Ventures: Gazelles\n\nA business establishment with at least 20 percent sales growth in each year for 5 years, starting with a base of at least $100,000 in annual sales.\nGazelles as leaders in innovation:\n\nMedian growth of 450 percent\nTop-performing 1 percent of companies account for about 40 percent of jobs.\nGazelles make up less than 1 percent of all businesses and account for 10 percent of net new jobs.\n\n\n\n\n\n\nMythology Associated with Gazelles\n\n\n\nGazelles are the goal of all entrepreneurs.\nGazelles receive venture capital.\nGazelles were never mice.\nGazelles are high tech.\nGazelles are global."
-  },
-  {
-    "objectID": "2025/lecture1.html#special-case-of-agressive-growth-ventures-unicorns",
-    "href": "2025/lecture1.html#special-case-of-agressive-growth-ventures-unicorns",
-    "title": "Lecture 1",
-    "section": "Special Case of Agressive Growth Ventures: Unicorns",
-    "text": "Special Case of Agressive Growth Ventures: Unicorns\n\nA pre-IPO (private) tech start-up company with a $1 billion market value.\nIn 2023, 1,191 start-ups were unicorns.\n\n\n\n\n\nDecacorns and Hectacorns\n\n\n\nA “decacorn”\n\nStart-ups with a $10 billion or more market value.\nExamples: Facebook, Uber (taxis), and Airbnb (hotels)\n\nA “hectacorn” is valued at $100 billion or more."
-  },
-  {
-    "objectID": "2025/lecture1.html#do-most-entrepreneurial-initiatives-fail",
-    "href": "2025/lecture1.html#do-most-entrepreneurial-initiatives-fail",
-    "title": "Lecture 1",
-    "section": "Do Most Entrepreneurial Initiatives Fail?",
-    "text": "Do Most Entrepreneurial Initiatives Fail?\nData from the Kauffman Indicators of Entrepreneurship shows that in the state of Colorado, the startup early survival rate is 81.95%, compared to the national average of 81.70%."
-  },
-  {
-    "objectID": "2025/lecture1.html#number-of-new-businesses-in-agriculture-naics-11",
-    "href": "2025/lecture1.html#number-of-new-businesses-in-agriculture-naics-11",
-    "title": "Lecture 1",
-    "section": "Number of New Businesses in Agriculture (NAICS 11)",
-    "text": "Number of New Businesses in Agriculture (NAICS 11)\n[PLACEHOLDER] Focus on food and ag industries."
-  },
-  {
-    "objectID": "2025/lecture1.html#number-of-new-businesses-in-retail-trade-naics-44-45",
-    "href": "2025/lecture1.html#number-of-new-businesses-in-retail-trade-naics-44-45",
-    "title": "Lecture 1",
-    "section": "Number of New Businesses in Retail Trade (NAICS 44-45)",
-    "text": "Number of New Businesses in Retail Trade (NAICS 44-45)\n[PLACEHOLDER] Focus on food and ag industries."
-  },
-  {
-    "objectID": "2025/lecture1.html#the-case-of-plenty",
-    "href": "2025/lecture1.html#the-case-of-plenty",
-    "title": "Lecture 1",
-    "section": "The Case of Plenty",
-    "text": "The Case of Plenty\nAfter raising $1B in funding, Plenty filed for bankruptcy in March 2025.\n\nHowever, the company has re-emerged after company restructuring (as of May 2025)."
-  },
-  {
-    "objectID": "2025/lecture1.html#what-bankruptcy-means-for-plenty",
-    "href": "2025/lecture1.html#what-bankruptcy-means-for-plenty",
-    "title": "Lecture 1",
-    "section": "What Bankruptcy Means for Plenty",
-    "text": "What Bankruptcy Means for Plenty\n\n\n\n\n\n\n\nWhat it Means\nDetails\n\n\n\n\nOut of cash\nPlenty can no longer meet its financial obligations (e.g., rent, salaries, supplier payments).\n\n\nCourt protection\nBankruptcy gives the company legal protection from creditors while it reorganizes its finances.\n\n\nDebts frozen\nDebt collection is paused, giving the company time to develop a recovery or liquidation plan.\n\n\nEquity holders lose\nInvestors (like SoftBank, Bezos Expeditions) may lose most or all of their investment.\n\n\nRestructuring\nThe company may sell off assets, renegotiate contracts, lay off workers, or change its business model."
-  },
-  {
-    "objectID": "2025/lecture1.html#what-it-tells-us-about-agribusiness-startups",
-    "href": "2025/lecture1.html#what-it-tells-us-about-agribusiness-startups",
-    "title": "Lecture 1",
-    "section": "What It Tells Us About Agribusiness Startups",
-    "text": "What It Tells Us About Agribusiness Startups\nPlenty raised nearly $1 billion in venture capital and still went bankrupt. That highlights:\n\nHigh capital intensity: Vertical farming requires massive investment in infrastructure, energy, and automation.\n\nScale ≠ success: Being a “unicorn” (valued over $1B) doesn’t guarantee product-market fit or profitability.\n\nUnit economics matter: If the cost to grow and deliver produce exceeds what consumers will pay, it’s not sustainable.\n\nSupply chain complexity: Even with tech and AI, perishable products and logistics remain challenging.\n\nVulnerability to macro forces: Energy costs, inflation, labor, and competition can undermine a well-funded startup.\n\n\nPlenty’s bankruptcy shows how even highly funded, high-tech ventures in agriculture face fundamental economic realities. It’s not enough to raise money — entrepreneurs need sustainable business models. In this case, vertical farming promised disruption, but its costs and logistics may have outpaced its revenues."
-  },
-  {
-    "objectID": "2025/lecture1.html#access-check",
-    "href": "2025/lecture1.html#access-check",
-    "title": "Lecture 1",
-    "section": "Access Check",
-    "text": "Access Check"
   }
 ]
