@@ -1,404 +1,480 @@
 ---
-title: "Lecture 2 Make Sense of Numbers and Fundamentals"
-description-meta: "Make sense of energy and climate numbers, data sources, and climate fundamentals"
-author: "Gang He"
-date: September 16, 2024
+title: "Lecture 2"
+description-meta: "The Entrepreneurial Mindset"
+author: "Dr. Lauren Chenarides"
+date: September 2, 2026
 date-format: long
-image: "/images/boe-equations.png"
-#suppress-bibliography: true
+image: "/images/01entrepreneur.png"
+page-meta:
+  robots: noindex
 format:
   revealjs:
     theme: white
-#    embed-resources: true
     slide-number: true
     preview-links: auto
     link-external-newwindow: true
     citations-hover: true
     auto-stretch: true
     r-fit-text: true
-    center: true
+    center: false
     scrollable: true
     css: /custom.css
-    footer: <https://drganghe.github.io/energy-climate-policy/>
+    footer: <https://laurenchenarides.github.io/csu-arec-224/>
 ---
 
-## {background-color="black" background-image="/images/one-ton-co2.jpg"}
+# {background-color="black"}
+
+*\[Entrepreneurship\] is so mysterious that we cannot see it or touch it; yet we can feel it and know it exists. It cannot be mined, manufactured, or bought; yet it can be <b>discovered</b>.*
+
+## Lecture 2: The Entrepreneurial Mindset
+
+**Textbook Reading (Quiz Basis)** <br>
+Chapter 2. The Entrepreneurial Mindset in Individuals: Cognition, the Dark Side, and Ethics
+
+> Why I chose this textbook: The chapters in this book focus on learning *the discipline* of entrepreneurship.
+
+::: {.callout-note icon=false title="Lecture Agenda"}
+- Part 1: The Mindset of an Entrepreneur
+- Part 2: The Dark Side of Entrepreneurship
+- Part 3: Entrepreneurial Ethics
+:::
 
 ::: footer
-Photo by Gang He on the train to UNFCCC CoP15 conference,  Dec 6, 2009.
+Source: @kuratko2024
 :::
 
 
-## NYC's daily carbon dioxide emissions as one-tonne spheres
+## Chapter Objectives
 
-![](/images/nyc-daily-carbon-emission.jpeg){fig-align="center"}
+- 2.1 Describe the entrepreneurial mindset and entrepreneurial cognition.
+- 2.2 Identify and discuss the most commonly cited characteristics found in successful entrepreneurs.
+- 2.3 Describe the skills of entrepreneurial hustle and coachability.
+- 2.4 Identify how entrepreneurs deal with failure.
+- 2.5 Describe the entrepreneurial experience.
+- 2.6 Discuss the “dark side” of entrepreneurship.
+- 2.7 Identify and describe the different types of risk entrepreneurs face.
+- 2.8 Describe the major causes of stress for these individuals and the ways they can handle stress.
+- 2.9 Discuss the ethical dilemmas confronting entrepreneurs within a dynamic environment.
+- 2.10 Present strategies for establishing ethical responsibility and leadership.
+- 2.11 Examine entrepreneurial motivation.
 
-::: footer
-Source: [Carbon Visuals](https://www.flickr.com/photos/carbonquilt/8112404383)
+# Part 1 <br> The Mindset of an Entrepreneur
+
+## The Entrepreneurial Mindset
+
+- Among millennials, 67 percent say their goal involves starting their own business.
+
+- Among Generation Z, 53 percent hope to run their own businesses within 10 years.
+
+> This chapter takes a more psychological look at entrepreneurs and the entrepreneurial cognition.
+
+
+## Entrepreneurial Cognition
+
+To understand how entrepreneurship emerges, let's examine the science of **cognition**.
+
+::: {.callout-note icon=false title="*Definition:* Cognition"}
+Mental functions, mental processes (thoughts), and mental states of intelligent humans—attention, remembering, producing and understanding language, solving problems, and making decisions.
+:::
+
+Social Cognition Theory
+- Posits that knowledge structures (mental models of cognitions) can be ordered to optimize personal effectiveness within given situations.
+
+Entrepreneurial Cognition
+- Knowledge structures that people use to make assessments, judgments, or decisions involving opportunity evaluation, venture creation, and growth.
+
+
+## A foundation of entrepreneurial thinking is their abiity to adapt
+
+::: {.callout-note icon=false title="*Definition:* Adaptibility"}
+The ability to be dynamic, flexible, and self-regulating in one’s cognitions given dynamic and uncertain task environments.
+:::
+
+::: {.callout-note icon=false title="*Definition:* Metacognitive Model"}
+Study of the higher-order cognitive process that resulted in the entrepreneur framing a task effectually, and thus why and how a particular strategy was included in a set of alternative responses to the decision task (metacognition).
+:::
+
+## Do entrepreneurs “think” differently?
+
+Perhaps.
+
+Research is still needed to determine whether differences are attributable to a cognitive difference or originates from idiosyncratic factors or from the experience of being entrepreneurs.
+
+> Metacognition is the model used to describe the process an entrepreneur will use to frame the entrepreneurial task.
+
+
+## Who Are Entrepreneurs?
+
+::: {.fragment}
+They are optimistic, hard-driving, committed individuals who derive great satisfaction from being independent.
+:::
+
+::: {.fragment}
+They are driven by an intense commitment and determined perseverance.
+:::
+
+::: {.fragment}
+They use failure as a tool for learning.
+:::
+
+::: {.fragment}
+They have confidence to believe that they personally can make a difference in final outcomes.
 :::
 
 
-## Climate stripes
 
-![](/images/GLOBE-1850-2021-MO-barslabel.png){fig-align="center"}
+## What are Characteristics Often Associated with Entrepreneurs?
 
-::: footer
-Source: [Ed Hawkins](https://showyourstripes.info/c/globe)
+Researchers have identified a wide range of entrepreneurial characteristics, many of which can be grouped into a smaller set of core traits. 
+
+:::{.callout-note icon=false title="Table 2.1 Characteristics Often Attributed to Entrepreneurs" collapse=true}
+
+| Characteristic |
+|-----------------------------------------|
+| Ability to get along well with people |
+| Ability to influence others |
+| Ability to learn from mistakes |
+| Ability to make decisions quickly |
+| Ability to take calculated risks |
+| Ability to trust workers |
+| Accuracy, thoroughness |
+| Aggressiveness |
+| Capacity for enjoyment |
+| Commitment |
+| Confidence |
+| Cooperativeness |
+| Courage |
+| Creativity |
+| Dynamism, leadership |
+| Efficacy |
+| Egotism |
+| Energy, diligence |
+| Flexibility |
+| Foresight |
+| Honesty, integrity |
+| Imagination |
+| Independence |
+| Initiative |
+| Intelligence |
+| Maturity, balance |
+| Need to achieve |
+| Optimism |
+| Orientation to clear goals |
+| Perceptiveness |
+| Perseverance, determination |
+| Pleasant personality |
+| Positive response to challenges |
+| Sense of power |
+| Profit orientation |
+| Resourcefulness |
+| Responsiveness to suggestions/criticism |
+| Responsibility |
+| Sensitivity to others |
+| Time competence, efficiency |
+| Toleration for ambiguity |
+| Versatility |
+
+: Source: John A. Hornaday, “Research about Living Entrepreneurs,” in Encyclopedia of Entrepreneurship, ed. Calvin Kent, Donald Sexton, and Karl Vesper (Englewood Cliffs, NJ: Prentice Hall, 1982), 26–27. Adapted by permission of Prentice Hall, Englewood Cliffs, NJ.
+
+:::
+
+## Most Often Cited Entrepreneurial Characteristics
+
+Each row represents a *characteristic*. You will be interacting with these characteristics over the course of the semester. Review [Your E-IDP](../mentors/eidp.qmd) on the course website.
+
+:::{.callout-note icon=false title="Entrepreneurial Characteristics for E-IDP" collapse=true}
+
+| Characteristic | Description | 
+|---------------|-----------------------------|
+| Calculated Risk Taking      | Makes strategic, informed decisions about when to take a risk, not reckless. | 
+| Communication               | Effectively conveys ideas and actively listens in professional settings      | 
+| Creativity and Innovativeness | Generates original ideas and sees possibilities others may not. | 
+| Determination and Perseverance | Total dedication to success, overcoming obstacles and setbacks, unwavering commitment to succeed. | 
+| Drive to Achieve            | A strong desire to compete, to excel against self-imposed standards, to pursue challenging goals. | 
+| Entrepreneurial Coachability | Seeks, integrates, and learns from failures, setbacks, or feedback to grow. | 
+| Entrepreneurial Hustle      | Acts with urgency and creativity to solve immediate problems. | 
+| High Energy Level           | Demonstrates consistent drive and enthusiasm to sustain effort over time.     | 
+| Opportunity Orientation     | Focuses on opportunity rather than resources; always scanning for possibilities. | 
+| Passion                     | Demonstrates deep emotional investment in the work. | 
+| Persistent Problem Solving  | Tackles tough problems with a methodical, realistic approach; doesn’t quit easily. | 
+| Personal Agency (Internal Locus of Control)   | Believes success comes from personal responsibility and effort, not luck. | 
+| Seeking Feedback            | Actively looks for input to improve performance; learns from critique. | 
+| Team Building               | Builds strong, motivated teams; values others' strengths. | 
+| Tolerance for Ambiguity     | Comfortable operating under uncertainty or limited structure. | 
+| Vision                      | Has a clear sense of purpose or long-term direction. | 
+
+: Source: Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (12th ed.). Cengage Learning. [Download PDF here](../mentors/characteristics_handout.pdf)
+
+:::
+
+As you move through the semester, use this table to reflect on how you’re engaging, not just what you’re doing—these are the habits that will carry forward into your future career.
+
+
+## Can Entrepreneurship Be Cultivated?
+
+According to the theory of entrepreneurship, entrepreneurs cause entrepreneurship.
+
+Entrepreneurship is a function of the entrepreneur:
+
+$E = f(e)$
+
+Entrepreneurship ($E$) is characterized as the interaction ($f$) of skills ($e$) related to... 
+
+...inner control, planning and goal setting, risk taking, innovation, reality perception, use of feedback, decision making, human relations, and independence... 
+
+...all of which *can* be cultivated. 
+
+::: {.fragment}
+Answer: Yes!  
+:::
+
+## Discussion Activity 2-1
+
+Look over the list of 16 characteristics and label those that you believe are most important from the first to the fifth. 
+
+Think of an example for each.
+
+Discuss as a class which characteristics showed up on most lists. 
+
+Which showed up on only a few?
+
+
+::: {.notes}
+Start this discussion by having each person work individually to label five of the characteristics from the most important (1) to the fifth most important (5). Then work as a class to compare the five labeled by each person. Could consider listing those from one person and then add counts as other read their lists. The class can discuss why some were listed by nearly all students, and some listed by only a few, or no students.
 :::
 
 
-## Carbon budget
+## Entrepreneurs have a tolerance for failure.
 
-![](/images/system-carbon-budget.png){fig-align="center"}
+This involves a capacity--often learned--to deal with failure and process grief.
 
-::: footer
-Source: [Global Carbon Project](https://www.globalcarbonaproject.org/global/images/carbonbudget/Infographic_Emissions2021.pdf)
+
+::: {.callout-note icon=false title="*Definition:* Loss Orientation"}
+Involves focusing on the particular loss to construct an account that explains why the loss occurred.
 :::
 
-## Emission and concentration
-
-![](/images/emissions_vs_concentrations_1751-2021.png){fig-align="center"}
-
-::: footer
-Source:Rebecca Lindsey, [climate.gov](https://www.climate.gov/news-features/understanding-climate/climate-change-atmospheric-carbon-dioxide)
+::: {.callout-note icon=false title="*Definition:* Restoration Orientation"}
+Involves both distracting oneself from thinking about the failure event and being proactive toward secondary causes of stress.
 :::
 
+## The Entrepreneurial Experience
 
-## Get comfortable with units
+An individual *sees* the opportunity $\rightarrow$ *creates* the venture $\rightarrow$ and the entrepreneur *emerges*.
 
-![](/images/energy-units.png){fig-align="center"}
 
-::: footer
-Source: [MetricMethods](https://www.metricmethods.com/SIcharts/energy.pdf)
+::: {.notes}
+Entrepreneurs create ventures much as an artist creates a painting. They are formed by the lived experience of venture creation.
 :::
 
+# Part 2 <br> The Dark Side of Entrepreneurship 
 
-## Foundamental energy units{.smaller}
+## The Entrepreneur’s Confrontation with Risk
 
-- Joule: $J\rightarrow newton \times meter$ 
-- calorie: $cal \rightarrow gram \times 1^\circ C$ , $1 cal=4.184 J$ 
-  - human daily intake: 1,800-3,000 kcal
-- Btu: $Btu \rightarrow pound \times 1 F$ , $1 Btu=1,055 J$ 
-- electricity: $1 kWh = 3.6 MJ$ 
+- Financial risk versus profit (return) motive varies in entrepreneurs’ desire for wealth.
+- Career risk—loss of employment security.
+- Family and social risk—competing commitments of work and family.
+- Psychic risk—psychological impact of failure on the well-being of entrepreneurs.
 
+## Stress and the Entrepreneur
 
-## Scale of numbers
-
-![](/images/energy-units-scale.png){fig-align="center"}
-
-::: footer
-Source: IIASA, [Energy Primier](https://previous.iiasa.ac.at/web/home/research/Flagship-Projects/Global-Energy-Assessment/GEA_Chapter1.pdf)
+::: {.callout-note icon=false title="*Definition:* Entrepreneurial Stress"}
+The extent to which entrepreneurs’ work demands and expectations exceed their abilities to perform as venture initiators, they are likely to experience stress.
 :::
 
+Sources of Entrepreneurial Stress
+- Loneliness
+- Immersion in business
+- People problems
+- Need to achieve
 
-## Comparing the world's energy resources
+##  Discussion Activity 2-2 
 
-![](/images/perez-planetary-energy.png){fig-align="center"}
+Read each statement and mark the column that most appropriately represents your level of agreement.
 
-::: footer
-Source: [Richard Perez](http://asrc.albany.edu/people/faculty/perez/)
-:::
+| Statement             | Strongly Disagree (1) | Disagree (2) | Neither Disagree Nor Agree (3) | Agree (4) | Strongly Agree (5) |
+|--------------------------------------|------------|------------|------------|------------|------------|
+| I often feel a severe sense of time urgency. |  |  |  |  |
+| I find myself constantly involved in multiple projects subject to deadlines. |  |  |  |  |
+| I often neglect of all aspects of life except work. |  |  |  |  |
+| I have a tendency to take on excessive responsibility, combined with the feeling that “Only I am capable of taking care of this matter.” |  |  |  |  |
+| I have a tendency to speak faster than most people.|  |  |  |  |
+
+Then, calculate your total score.
+
+## Discussion Activity 2-2 
+
+Type A Assessment
+
+## Dealing with Stress
+
+- Networking
+- Getting away from it all
+- Communicating with employees
+- Finding satisfaction outside the company
+- Delegating
+- Exercising rigorously
+- Therapy with a professional
+- Getting high-quality sleep
 
 
-## Energy stock and flow
+# Part 3 <br> Entrepreneurial Ethics
 
-![](/images/energy-stock-flow.png){fig-align="center"}
+## Sources of Ethical Dilemmas
 
-::: footer
-Source: @hermann2006quantifying 
-:::
+Facing pressure from inside and outside interests can influence decision-making, especially when undertaking new business ventures.
 
+Aside from changes in societal values and norms, business owners must consider legal issues.
 
-## Energy vs. power
+$\rightarrow$ Having a clear set of parameters or rules that govern ambiguous decision-making can be important. 
 
-![](/images/Power-vs-Energy.png){fig-align="center"}
+## Ethics & Ethical Dilemmas
 
-::: footer
-Source: [ODP](https://www.ourdailyplanet.com/story/explain-it-to-me-energy-vs-power/)
-:::
+::: {.columns}
 
-
-## Energy vs power
-::: columns
 ::: {.column width="50%"}
-- Energy is the ability to do work. Energy is power integrated over **time**.
-- Basic unit: joule = watt<span>&#183;</span>second
-:::
-
-::: {.column width="50%"}
-- Power is the **rate** at which work is done, or energy is transmitted.
-- Basic unit: watt = jourle/second
-:::
-:::
-
-We need to know what we are talking about!
-
-## Back-of-the-envelope estimation
-
-![](/images/boe-equations.png){fig-align="center"}
-
-::: footer
-Source: Gang He
-:::
-
-
-## Art Rosenfeld
-
-![](/images/art-rosenfeld.jpeg){fig-align="center"}
-
-::: footer
-Source: [LBL](https://artrosenfeld.lbl.gov/)
-:::
-
-## Rosenfeld Effect
-
-![](/images/art-rosenfeld-effect.png){fig-align="center"}
-
-::: footer
-Source: [LBL](https://newscenter.lbl.gov/2017/01/27/art-rosenfeld-californias-godfather-energy-efficiency-90/) 
-:::
-
-
-## Defining a Rosenfeld Plant
-
-- 500 MW
-- c.f.: 70%
-- T&D losss: 7%
-
-Results:   
-
-- 3 TWh/year  
-- 3 MtCO2/year
-
-- NYC electricity use: ~4 TWh/year
-
-::: footer
-Source: @koomey2010defining 
-:::
-
-
-## Comparing with the Three Gorges Dam
-
-![](/images/AnnualElectricitySavingsfrom2010-2013MEPS.png){fig-align="center"}
-
-::: footer
-Source: @fridley2016impacts 
-:::
-
-
-## Common sources of energy and climate data {.smaller}
-
-::: columns
-::: {.column width="33%"}
-**Energy**:   
-- IEA (OECD)  
-- EIA  
-- UN  
-- WB  
-- BP Statistical Review of World Energy 
-:::
-
-::: {.column width="33%"}
-**Climate**:   
-- NASA  
-- NCAR  
-- EUCCI  
-- UNEP  
-- NOAA  
-:::
-
-::: {.column width="33%"}
-**Carbon**:   
-- CDIAC (Carbon Dioxide Information Analysis Center)  
-- EDGAR (emissions database for global atmospheric research system)  
-- Carbon Budget Project  
-- Carbon Monitor
-:::
-:::
-
-::: footer
-Source: @macknick_energy_2011 
-:::
-
-## Data quality
-
-- Availability  
-- Accessibility  
-- Credibility  
-
-Comparison, Validation, Verification
-
-## Use data tools
-
-- API  
-- Packages   
-- Open-souce tools
-
-## Big data and AI era
-
-- Big climate, earth, energy data available due to satellite, use-generated data, devices, sensors, smart meters
-- Data driven approaches
-
-Big data doesnot necessarily mean big picture   
-
-AI doesnot necessarily mean better insights
-
-
-## GHG effect
-
-![](/images/ghg-effect.png){fig-align="center"}
-
-::: footer
-Source: [IPCC](https://archive.ipcc.ch/publications_and_data/ar4/wg1/en/faq-1-3.html)
-:::
-
-## Greenhouse Gases(GHG){.smaller}
-
-| GHG                           | GWP-100   | Lifetime (Years) |
-|-------------------------------|-----------|------------------|
-| Carbon Dioxide (CO2)          | 1         | hundreds         |
-| Methane (CH4)                 | 29.8±11   | 11.8 ± 1.8       |
-| Nitrous Oxide (N2O)           | 273 ± 130 | 109 ± 10         |
-| Hydrofluorocarbon-32 (HFC-32) | 771 ± 292 | 5.4 ± 1.1        |
-
-Other:  
-
-- Sulphur hexafluoride (SF6) 
-- PFC-14 (CF4) 
-- Water vapour 
-
-::: footer
-Source: [Table 7.15](https://report.ipcc.ch/ar6/wg1/IPCC_AR6_WGI_FullReport.pdf) in the IPCC AR6 WG-I Report.
-:::
-
-## From emissions to warming
-
-![](/images/emission-co2-warming.png){fig-align="center"}
-
-::: footer
-Source: [IPCC AR6](https://www.ipcc.ch/report/ar6/syr/figures/figure-2-1)
-:::
-
-
-## Warming since measurement
-
-![](/images/co2-1958-2022.png){fig-align="center"}
-
-::: footer
-Source: [NASA](https://climate.nasa.gov/vital-signs/carbon-dioxide/)
-:::
-
-## Warming in context of geological history
-
-![](/images/co2_historical.jpeg){fig-align="center"}
-
-::: footer
-Source: [NASA](https://climate.nasa.gov/evidence/)
-:::
-
-## Warmer and Warmer
-
-![](/images/temp-anomaly-1850-1900.png){fig-align="center"}
-
-::: footer
-Source: @koomey_solving_2022
-:::
-
-## Climate spireal
-
-![](/images/climate-spiral-1880-2022-circle.png){fig-align="center"}
-
-::: footer
-Source: NASA [Scientific Visulization Studio](https://svs.gsfc.nasa.gov/5057)
-:::
-
-
-## Temprature anomaly distribution
-
-![](/images/temp-anomaly-distribution.jpeg){fig-align="center"}
-
-::: footer
-Source: @hansen_perception_2012
-:::
-
-## Human vs nature
-
-![](/images/human-vs-nature.png){fig-align="center"}
-
-::: footer
-Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
-:::
-
-## Human component is the major driver of warming
-
-![](/images/drivers-of-warming.png){fig-align="center"}
-
-::: footer
-Source: [Chapter 3](https://science2017.globalchange.gov/chapter/3/) of the Fourth National Climate Assessment (NCA4)
-:::
-
-## Scientific understanding: climate systems
-
-![](/images/climate-system-framework.png){fig-align="center"}
-
-::: footer
-Source: [Figure 2.2](https://science2017.globalchange.gov/chapter/2/) of the Fourth National Climate Assessment (NCA4)
-:::
-
-
-## Scientific community and process
-
-- What is the IPCC?
-- How does the IPCC select its authors?
-- What literature does the IPCC assess?
-- How does the IPCC review process work?
-- How does the IPCC approve reports?
-- How does the IPCC deal with alleged errors?
-- What is an Expert Reviewer of IPCC?
-
-::: footer
-Source: Learn more about [IPCC](https://www.ipcc.ch/about/)
-:::
-
-## Five stages of climate denial
-
-- Stage 1: Deny the Problem Exists
-- Stage 2: Deny We're the Cause 
-  - Stage 2b: Consensus Denial 
-- Stage 3: Deny It's a Problem  
-- Stage 4: Deny We can Solve It  
-- Stage 5: It's too Late  
-
-::: footer
-Source: Dana Nuccitelli, The Guardian, [The 5 stages of climate denial are on display ahead of the IPCC report](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2013/sep/16/climate-change-contrarians-5-stages-denial)
-:::
-
-## A five points "climate haiku"
-
-::: columns
-::: {.column width="50%"}
-1.  **It's warming**
-2.  It's us
-3.  We're sure
-4.  It's bad
-5.  We can fix it
+- Ethics provide the basic rules or parameters for conducting any activity in an “acceptable” manner.
+- Represent a set of principles prescribing a behavioral code of what is good and right or bad and wrong.
+- They define “situational” moral duty and obligations.
 :::
 
 ::: {.column width="50%"}
-![](/images/1/climate-curriculum.png){fig-align="center"}
-:::
-:::
-
-::: footer
-Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
+- Ethics represent a set of principles prescribing a behavioral code that explains what is good and right, or bad and wrong.
+- Instead of relying on a set of fixed ethical principles, entrepreneurs should develop an ethical process for making decisions.
 :::
 
----
+:::
+
+
+
+## Ethical Rationalizations
+
+Ethical rationalizations used to justify questionable conduct involve believing that the activity:
+Is not “really” illegal or immoral.
+Is in the individual’s or the firm’s best interest.
+Will never be found out.
+Helps the company, so the company will condone it.
+
+
+## Types of Morally Questionable Acts
+
+![](../images/02table2.2morality.png){.uniform-image}
+
+Source: James A. Waters and Frederick Bird, “Attending to Ethics in Management,” Journal of Business Ethics 5 (1989): 494.
+
+## Overlap between Moral Standards and Legal Requirements
+
+There are vast differences that sometimes exist between morality (ethics) and law.
+
+
+![](../images/02figure2.3diagram.png){.uniform-image}
+
+## The Matter of Morality & The Complexity of Ethical Descisions
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+Greed
+Distinctions between activities at work and activities at home.
+Lack of a foundation in ethics
+Survival (bottom-line thinking)
+Reliance on other social institutions.
+
+:::
+
+::: {.column width="50%"}
+
+Complexity of Ethical Decisions
+Extended consequences
+Multiple alternatives
+Mixed outcomes
+Uncertain ethical consequences
+Personal implications
+
+:::
+
+:::
+
+## Group Activity 2-1
+
+[Placeholder] Ethical dilemma in ag, perhaps food safety
+
+Working in groups of two or three, search the Internet to find either (1) an example of an ethical statement by a company or (2) a case study of an ethical dilemma in business.
+Try to find the most real-world examples.
+Present what was found to the class and what can be learned from that example or case.
+
+
+## Establishing a Strategy for an Ethical Venture
+
+Ethical Codes of Conduct:
+Are statements of ethical practices or guidelines to which an enterprise adheres.
+Are becoming more prevalent in the industry.
+Are proving to be more meaningful in terms of external legal and social development.
+Are more comprehensive in terms of their coverage.
+Are easier to implement in terms of the administrative procedures used to enforce them.
+
+
+::: {.notes}
+Create small groups of 2 or 3 students each. Then each group can decide if they want to find an example of an ethical statement by a company or a case study of an ethical dilemma in business. While the statements might be easier to find, the case studies can be more interesting and fun. Have each group present, focusing on what can be learned from that example or case study.
+:::
+
+## “Always Do the Right Thing”
+
+Reasons for management to adhere to a high moral code:
+It is good business because unethical practices have a corrosive effect, not only on the firm itself, but on free markets and free trade that are fundamental to the survival of the free enterprise system.
+Improving the moral climate of the firm will eventually win back the public’s confidence in the firm.
+
+## Ethical Considerations of Corporate Entrepreneurs
+
+Organizational barriers that invite unethical behaviors:
+Systems, structures, policies and procedures, culture, strategic direction, people
+Promote ethical employee behaviors by:
+Providing flexibility, innovation, and support of initiative and risk taking.
+Removing barriers for entrepreneurial middle managers.
+Including an ethical component to corporate training.
+
+## Ethical Leadership by Entrepreneurs
+
+The value system of an owner/entrepreneur is the key to establishing an ethical organization.
+A code of ethics provides a clear understanding of the need for:
+Ethical administrative decision making.
+Ethical behavior of employees.
+Explicit rewards and punishments based on ethical behavior.
+
+## Entrepreneurial Motivation
+
+Entrepreneurial Motivation
+The quest for new-venture creation as well as the willingness to sustain that venture.
+Personal characteristics, personal environment, business environment, personal goal set (expectations), and the existence of a viable business idea
+Entrepreneurial Persistence
+An entrepreneur’s choice to continue with an entrepreneurial opportunity regardless of counterinfluences or other enticing alternatives.
+
+
+
+## Summary
+
+- 2.1 Describe the entrepreneurial mindset and entrepreneurial cognition.
+- 2.2 Identify and discuss the most commonly cited characteristics found in successful entrepreneurs.
+- 2.3 Describe the skills of entrepreneurial hustle and coachability.
+- 2.4 Identify how entrepreneurs deal with failure.
+- 2.5 Describe the entrepreneurial experience.
+- 2.6 Discuss the “dark side” of entrepreneurship.
+- 2.7 Identify and describe the different types of risk entrepreneurs face.
+- 2.8 Describe the major causes of stress for these individuals and the ways they can handle stress.
+- 2.9 Discuss the ethical dilemmas confronting entrepreneurs within a dynamic environment.
+- 2.10 Present strategies for establishing ethical responsibility and leadership.
+- 2.11 Examine entrepreneurial motivation.
+
+
+
+
+------------------------------------------------------------------------
+
 ### References
 
 ::: {#refs}
 :::
 
 ::: footer
-Back to Title [Slide](lecture2.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/energy-climate-policy/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](lecture2.qmd), All [Lectures](schedule.qmd), or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
 :::

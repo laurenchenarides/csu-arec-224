@@ -19,10 +19,12 @@ format:
     center: false
     scrollable: true
     css: /custom.css
-    includes:
-      in-header: password-protect.html
     footer: <https://laurenchenarides.github.io/csu-arec-224/>
 ---
+
+# {background-color="black"}
+
+*The best way to predict the future is to invent it.*
 
 ## Welcome
 
@@ -312,7 +314,7 @@ Plenty raised nearly **$1 billion** in venture capital and still went bankrupt. 
 - **Vulnerability to macro forces**: Energy costs, inflation, labor, and competition can undermine a well-funded startup.
 
 
-::: {,notes}
+::: {.notes}
 Plenty's bankruptcy shows how even highly funded, high-tech ventures in agriculture face fundamental economic realities. It's not enough to raise money — entrepreneurs need sustainable business models. In this case, vertical farming promised disruption, but its costs and logistics may have outpaced its revenues.
 :::
 

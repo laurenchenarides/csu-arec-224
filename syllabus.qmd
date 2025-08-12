@@ -32,13 +32,13 @@ format:
 
 **Course Name**: Introduction to Agribusiness Entrepreneurship
 
-**Course Number:** [AREC 280-A1/224](https://colostate.instructure.com/courses/212872) (212872) 
+**Course Number:** [AREC 280-A1/224](https://colostate.instructure.com/courses/212872) (CRN 78381) 
 
 **Time**: 8:00 AM - 9:15 AM T R
 
 **Location**: Clark C 248
 
-**Term:** August 25 -- December 19, 2025
+**Term:** August 25 -- December 14, 2025
 
 ::: {.callout-note icon=false title="Contact Information"}
 **Instructor**: Dr. Lauren Chenarides
@@ -64,7 +64,7 @@ format:
 
 {{< include /files/includes/_courseobjectives.qmd >}}
 
-## Class Readings
+## Required Readings
 
 This course draws on two primary sources:
 
@@ -105,6 +105,7 @@ All assignments—quizzes, reflections, case write-ups, and project materials—
 - All graded components are weighted individually and not curved.
 - Participation in both Fishbowl and Observer roles is required for passing the course.
 
+{{< include /files/includes/_absencepolicy.qmd >}}
 
 ## Grading Scale
 
@@ -134,9 +135,16 @@ B-    | 83.33% – 80.00% |     |
 - **F (Failing):** Inadequate performance or failure to meet minimum course requirements.
 :::
 
+{{< include /files/includes/_academicintegrity.qmd >}}
+
 {{< include /files/includes/_communityprinciples.qmd >}}
 
 {{< include /files/includes/_mentalhealth.qmd >}}
 
-{{< include /files/includes/_academicintegrity.qmd >}}
+{{< include /files/includes/_religiousobservances.qmd >}}
 
+## Student Resources
+
+{{< include /files/includes/_sdc.qmd >}}
+
+{{< include /files/includes/_additionalpolicies.qmd >}}
