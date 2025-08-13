@@ -10,6 +10,7 @@ format:
     link-external-newwindow: true
 ---
 
+![](scott-mcclure.jpeg){fig-align="left" width=300}
 
 **Background:** Scott's background is in Product Management, where his job was to understand what engineers can build and what customers will pay for. Scott has delivered products to market in the printing, data storage, and data security sectors, with experience spanning Dow 30 companies, Fortune 500 firms, and pre-revenue startups. Later in life, he transitioned to entrepreneurship, running real estate and retail automotive businesses that grew to over $3M in annual revenue. He is a graduate of CSU in Engineering and earned his MBA from CU.
 
