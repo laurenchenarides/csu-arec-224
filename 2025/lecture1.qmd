@@ -44,6 +44,12 @@ We meet **T & Th 8:00 am--9: 15 am**.
 **Textbook Reading (Quiz Basis)** <br>
 Chapter 1. Entrepreneurship: Evolutionary Development—Revolutionary Impact
 
+::: {.callout-note icon=false title="Lecture Agenda"}
+- Part 1: Interesting Statistics about U.S. Entrepreneurship
+- Part 2: Major Types of Entrepreneurial Ventures
+- Part 3: Cultivating an Entrepreneurial Mindset
+:::
+
 ::: footer
 Source: @kuratko2024
 :::
@@ -62,6 +68,7 @@ Source: @kuratko2024
 - 1.10 Examine the future trajectory of entrepreneurship.
 - 1.11. Define the key concepts in entrepreneurship.
 
+# Part 1: <br> Interesting Statistics about U.S. Entrepreneurship
 
 ## Some Interesting Statistics About U.S. Entrepreneurial Activity (1/2)
 
@@ -129,51 +136,41 @@ I started my first business in 2016. 👉
 
 :::
 
+## Twenty-First-Century Trends in Entrepreneurship Research (1 of 2)
 
-## Entrepreneurs are Breakthrough Innovators
-
-::: {.columns}
-
-::: {.column width="50%"}
-- Recognize opportunities where others see chaos, contradiction, or confusion.
-- Are aggressive catalysts for change within the marketplace.
-- Challenge the unknown and continuously create breakthroughs for the future.
-:::
-
-::: {.column width="50%"}
-
-<small>This semester, you'll be matched with an industry mentor. [Read about the mentors here](https://laurenchenarides.github.io/csu-arec-224/mentors/mentors.html).</small>
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="../images/mentor-collage.png" style="max-width: 100%; max-height: 750px;" />
-</div>
-
-:::
-
-:::
+- Venture financing including venture capital and angel capital financing and other financing techniques strengthened in the 1990s.
+- Corporate entrepreneurship and the need for entrepreneurial cultures have drawn increased attention.
+- Social entrepreneurship has unprecedented strength within the new generation of entrepreneurs.
+- Entrepreneurial cognition is providing new insights into the psychological aspects of the entrepreneurial process.
 
 
-## Entrepreneurs: Distinctive Journeys
+## Twenty-First-Century Trends in Entrepreneurship Research (2 of 2)
 
-::: {.columns}
+- Women and minority entrepreneurs appear to face obstacles and difficulties different from those that other entrepreneurs face.
+- The global entrepreneurial movement is increasing.
+- Family businesses have become a stronger focus of research.
+- Entrepreneurial education has become one of the hottest topics in business and engineering schools throughout the world.
 
-::: {.column width="50%"}
-**Small-Business Owners**
+## The Impact of Entrepreneurial Ventures in the United States
 
-- Manage their businesses by expecting stable sales, profits, and growth.
-- *Stability*
-:::
+- The number of business declined by over 20% during the pandemic
+- However, in 2021, large growth in new business applications
+- Now more than 31 million entrepreneurs
+- Nearly 1.3 million women-owned businesses, growing faster than total businesses.
+- Number of Latino business owners grew 34 percent.
+- Asian entrepreneurs run 10 percent of all businesses.
 
-::: {.column width="50%"}
-**Entrepreneurs**
+## The Entrepreneurial Revolution
 
-- Focus their efforts on innovation, profitability, and sustainable growth.
-- *Growth*
-:::
+- Entrepreneurship is the symbol of business tenacity and achievement.
+- Entrepreneurs were the pioneers of today’s business successes.
+- In post-pandemic world, entrepreneurs will continue to be critical contributors to economic growth through:
+- leadership, management, innovation, research and development effectiveness, job creation, competitiveness, productivity, and formation of new industry.
 
-:::
 
-## Major Types of Entrepreneurial Ventures
+# Part 2: <br> Major Types of Entrepreneurial Ventures
+
+## There are four main types of entrepreneurial ventures
 
 - Survival ventures
 - Lifestyle ventures
@@ -338,6 +335,15 @@ Data from the [*Kauffman Indicators of Entrepreneurship*](https://indicators.kau
 [PLACEHOLDER] Focus on food and ag industries.
 
 
+## Entrepreneurial Ventures in the United States
+
+Reasons for the exceptional entrepreneurial activity in the United States include:
+
+  - A national culture that supports risk-taking and -seeking opportunities.
+  - Americans’ alertness to unexploited economic opportunity and a low fear of failure.
+  - U.S. leadership in entrepreneurship education at both the undergraduate and graduate levels.
+  - A high percentage of individuals with professional, technological, or business degrees who are likely to become entrepreneurs.
+
 ## Why Economists are Interested in Entrepreneurship
 
 New ventures can change the market structure by shifting supply or introducing entirely new supply curves, as well as generate demand. 
@@ -358,6 +364,67 @@ Entrepreneurial firms make two indispensable contributions to an economy:
 - They are fundamental mechanism by which millions enter the economic and social mainstream of society.
 :::
 
+
+# Part 3: <br> Cultivating an Entrepreneurial Mindset
+
+## Origins of Entrepreneurship
+
+- Entrepreneur is derived from the French *entreprendre*, meaning “to undertake.”
+- The entrepreneur is **one who undertakes** to organize, manage, and assume the risks of a business.
+- Although no single definition of entrepreneur exists and no one profile can represent today’s entrepreneurs, research is providing an increasingly sharper focus on the subject.
+
+## Entrepreneurs are Breakthrough Innovators
+
+::: {.columns}
+
+::: {.column width="50%"}
+- Recognize opportunities where others see chaos, contradiction, or confusion.
+- Are aggressive catalysts for change within the marketplace.
+- Challenge the unknown and continuously create breakthroughs for the future.
+:::
+
+::: {.column width="50%"}
+
+<small>This semester, you'll be matched with an industry mentor. [Read about the mentors here](https://laurenchenarides.github.io/csu-arec-224/mentors/mentors.html).</small>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="../images/mentor-collage.png" style="max-width: 100%; max-height: 750px;" />
+</div>
+
+:::
+
+:::
+
+
+## Entrepreneurs: Two Distinct Paths
+
+::: {.columns}
+
+::: {.column width="50%"}
+**Small-Business Owners**
+
+- Manage their businesses by expecting stable sales, profits, and growth.
+- *Stability*
+:::
+
+::: {.column width="50%"}
+**Entrepreneurs**
+
+- Focus their efforts on innovation, profitability, and sustainable growth.
+- *Growth*
+:::
+
+:::
+
+## Variations of Entrepreneurs
+
+- Millennipreneurs: under age 35
+  - Success based on positive social or environmental impact
+- Ultrapreneurs: focus on environmental and social concerns.
+- Serialpreneurs: have four or more operating companies.
+- Boomerpreneurs: age 55 or older
+  - Believe their business has had a positive social impact.
+
 ## Entrepreneurship: A Mindset
 
 Entrepreneurship is more than the mere creation of business. 
@@ -371,7 +438,7 @@ It is a *mindset* where one:
 **Entrepreneurship is an integrated concept that permeates an individual’s business in an innovative manner.**
 
 
-## The Entrepreneurial Process: Employee vs. Entrepreneur Mindset
+## The Entrepreneurial Process: <br> Employee vs. Entrepreneur Mindset
 
 - Becoming on entrepreneur is less about the money, the commitment, or the support and **more about the mindset.** 
 
@@ -379,7 +446,8 @@ It is a *mindset* where one:
 
 **The more a person can change their mindset from employee to entrepreneur, the more they will be able to find satisfaction in entrepreneurship.**
 
-:::{.callout-note icon=false title="The Entrepreneurial Mindset Transformation"}
+## The Entrepreneurial Mindset Transformation
+
 - Entrepreneurship is more than just creating a business; it is an actual spiritual and emotional transformation that takes you from on established way of thinking to a new, groundbreaking mentality. 
 
 - An entrepreneur must get comfortable with being uncomfortable and be able to deal with fear. 
@@ -388,22 +456,16 @@ It is a *mindset* where one:
 
 - It does not matter if you are selling lemonade in your backyard as a kid, writing your first book, or hustling to market your brand after hours. 
 
-:::
-
 
 ::: footer
 Source: @enetwork2017mindset
 :::
 
 
-## The Evolution of Entrepreneurship
 
-- Entrepreneur is derived from the French *entreprendre*, meaning “to undertake.”
-- The entrepreneur is **one who undertakes** to organize, manage, and assume the risks of a business.
-- Although no single definition of entrepreneur exists and no one profile can represent today’s entrepreneurs, research is providing an increasingly sharper focus on the subject.
+# Summary Description of Entrepreneurship
 
-
-## A Summary Description of Entrepreneurship
+## Our working definition of "Entrepreneurship"
 
 **Entrepreneurship** is...
 
@@ -422,9 +484,7 @@ What does it take to be an entrepreneur?
 - Vision to recognize opportunity where others see chaos, contradiction, and confusion
 :::
 
-
-
-## Approaches to Entrepreneurship
+## Research on Entrepreneurship seeks to examine all facets of the topic
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="../images/01frameworks.png" style="max-width: 100%; max-height: 750px;" />
@@ -441,67 +501,6 @@ It also includes **process-based** approaches that look at how ventures are form
 
 <small>*Rather than detailing each school here, I encourage you to read the corresponding sections in the textbook. It’s helpful to reference when you start noticing how entrepreneurs are influenced by both their personal traits and their environment — and when we explore business cases later in the semester.*</small>
 :::
-
-## The Entrepreneurial Revolution
-
-- Entrepreneurship is the symbol of business tenacity and achievement.
-- Entrepreneurs were the pioneers of today’s business successes.
-- In post-pandemic world, entrepreneurs will continue to be critical contributors to economic growth through:
-- leadership, management, innovation, research and development effectiveness, job creation, competitiveness, productivity, and formation of new industry.
-
-
-## Types of Entrepreneurs
-
-- Millennipreneurs: under age 35
-  - Success based on positive social or environmental impact
-- Ultrapreneurs: focus on environmental and social concerns.
-- Serialpreneurs: have four or more operating companies.
-- Boomerpreneurs: age 55 or older
-  - Believe their business has had a positive social impact.
-
-
-## The Impact of Entrepreneurial Ventures in the United States
-
-- The number of business declined by over 20% during the pandemic
-- However, in 2021, large growth in new business applications
-- Now more than 31 million entrepreneurs
-- Nearly 1.3 million women-owned businesses, growing faster than total businesses.
-- Number of Latino business owners grew 34 percent.
-- Asian entrepreneurs run 10 percent of all businesses.
-
-
-## Group Activity 1-1
-
-- The COVID-19 pandemic created and destroyed small businesses.
-- Working in groups of two or three, find examples of small businesses that did well in the pandemic. Why?
-- Share what you found with the class.
-
-
-## Entrepreneurial Ventures in the United States
-
-Reasons for the exceptional entrepreneurial activity in the United States include:
-
-  - A national culture that supports risk-taking and -seeking opportunities.
-  - Americans’ alertness to unexploited economic opportunity and a low fear of failure.
-  - U.S. leadership in entrepreneurship education at both the undergraduate and graduate levels.
-  - A high percentage of individuals with professional, technological, or business degrees who are likely to become entrepreneurs.
-
-
-## Twenty-First-Century Trends in Entrepreneurship Research (1 of 2)
-
-- Venture financing including venture capital and angel capital financing and other financing techniques strengthened in the 1990s.
-- Corporate entrepreneurship and the need for entrepreneurial cultures have drawn increased attention.
-- Social entrepreneurship has unprecedented strength within the new generation of entrepreneurs.
-- Entrepreneurial cognition is providing new insights into the psychological aspects of the entrepreneurial process.
-
-
-## Twenty-First-Century Trends in Entrepreneurship Research (2 of 2)
-
-- Women and minority entrepreneurs appear to face obstacles and difficulties different from those that other entrepreneurs face.
-- The global entrepreneurial movement is increasing.
-- Family businesses have become a stronger focus of research.
-- Entrepreneurial education has become one of the hottest topics in business and engineering schools throughout the world.
-
 
 <!-- ## The Entrepreneurial Process: The Best Business Schools for Entrepreneurship -->
 
@@ -535,6 +534,12 @@ Reasons for the exceptional entrepreneurial activity in the United States includ
 | **Entrepreneur**          | A catalyst for economic change who relies on purposeful searching, careful planning, and sound judgment in executing the entrepreneurial process. |
 | **Entrepreneurial Discipline** | The core principles of entrepreneurship apply across sectors — business, nonprofit, public or private. The types of innovation and where to find them are largely consistent. |
 | **Entrepreneurial Leadership** | Involves both the capacity to lead and the willingness to take risks. Measured through opportunity recognition, drive to innovate, and ability to accomplish goals. Increasingly important in the 21st century. |
+
+## Group Activity 1-1
+
+- The COVID-19 pandemic created and destroyed small businesses.
+- Working in groups of two or three, find examples of small businesses that did well in the pandemic. Why?
+- Share what you found with the class.
 
 
 ## Summary
