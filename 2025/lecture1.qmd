@@ -20,6 +20,10 @@ format:
     scrollable: true
     css: lecture-style.css
     footer: <https://laurenchenarides.github.io/csu-arec-224/>
+execute:
+  echo: false      # hide code (set true if you want to show it)
+  warning: false
+  message: false
 ---
 
 # {background-color="black"}
@@ -329,15 +333,39 @@ Data from the [*Kauffman Indicators of Entrepreneurship*](https://indicators.kau
 ```
 
 
-## Number of New Businesses in Agriculture (NAICS 11)
+## 
 
-[PLACEHOLDER] Focus on food and ag industries.
+```{r}
+# Setup
+library(tidyverse)
+library(lubridate)
+theme_set(theme_minimal())
 
+# Data
+df <- readr::read_csv("../data/lecture01data.csv") |>
+  mutate(Date = make_date(year = Year, month = Month, day = 1))
 
-## Number of New Businesses in Retail Trade (NAICS 44-45)
+# (Optional) scale the secondary axis so lines share a similar range
+rng1  <- range(df$NumBusinesses, na.rm = TRUE)
+rng2  <- range(c(df$COAgBus, df$CORetailBus), na.rm = TRUE)
+scale <- diff(rng1) / diff(rng2)
+```
 
-[PLACEHOLDER] Focus on food and ag industries.
+```{r, eval=TRUE}
+# Plot
+ggplot(df, aes(x = Date)) +
+  geom_line(aes(y = NumBusinesses, color = "NumBusinesses"), linewidth = 1) +
+  geom_line(aes(y = COAgBus * scale, color = "COAgBus"), linewidth = 0.9, linetype = "dashed") +
+  geom_line(aes(y = CORetailBus * scale, color = "CORetailBus"), linewidth = 0.9, linetype = "dotdash") +
+  scale_y_continuous(
+    name = "NumBusinesses",
+    sec.axis = sec_axis(~ . / scale, name = "COAgBus / CORetailBus")
+  ) +
+  labs(x = "Month", color = NULL, title = "Businesses in Colorado Over Time") +
+  guides(color = guide_legend(override.aes = list(linetype = c("solid","dashed","dotdash"))))
+```
 
+<small> Figure plots the number of new businesses applications filed in Colorado (left axis) and the number of new business applications specifically in Agriculture (NAICS 11) & Retail Trade (NAICS 44-45) (right axis). Source: Business Formation Statistics [Time Series / Trend Charts](https://www.census.gov/econ/currentdata/?programCode=BFS&startYear=2004&endYear=2025&categories[]=TOTAL&dataType=BA_BA&geoLevel=US&adjusted=1&notAdjusted=1&errorData=0).</small>
 
 ## Entrepreneurial Ventures in the United States
 

@@ -556,13 +556,10 @@ Dr.&nbsp;Lauren Chenarides
 <p>Data from the <a href="https://indicators.kauffman.org/"><em>Kauffman Indicators of Entrepreneurship</em></a> shows that in the state of Colorado, the startup early survival rate is <strong>81.95%</strong>, compared to the national average of <strong>81.70%</strong>.</p>
 <iframe src="https://indicators.kauffman.org/state/colorado" width="100%" height="600px"></iframe>
 </section>
-<section id="number-of-new-businesses-in-agriculture-naics-11" class="slide level2">
-<h2>Number of New Businesses in Agriculture (NAICS 11)</h2>
-<p>[PLACEHOLDER] Focus on food and ag industries.</p>
-</section>
-<section id="number-of-new-businesses-in-retail-trade-naics-44-45" class="slide level2">
-<h2>Number of New Businesses in Retail Trade (NAICS 44-45)</h2>
-<p>[PLACEHOLDER] Focus on food and ag industries.</p>
+<section id="section-1" class="slide level2">
+<h2></h2>
+
+<img data-src="lecture1_files/figure-revealjs/unnamed-chunk-2-1.png" width="960" class="r-stretch"><p><small> Figure plots the number of new businesses applications filed in Colorado (left axis) and the number of new business applications specifically in Agriculture (NAICS 11) &amp; Retail Trade (NAICS 44-45) (right axis). Source: Business Formation Statistics <a href="https://www.census.gov/econ/currentdata/?programCode=BFS&amp;startYear=2004&amp;endYear=2025&amp;categories%5B%5D=TOTAL&amp;dataType=BA_BA&amp;geoLevel=US&amp;adjusted=1&amp;notAdjusted=1&amp;errorData=0">Time Series / Trend Charts</a>.</small></p>
 </section>
 <section id="entrepreneurial-ventures-in-the-united-states" class="slide level2">
 <h2>Entrepreneurial Ventures in the United States</h2>
@@ -1066,6 +1063,82 @@ Kuratko, Donald F. 2024. <em>Entrepreneurship: Theory, Process, Practice</em>. 1
         ]
       });
     </script>
+    
+
+    <script>
+
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+
+      // slide changes (different for each slide format).
+
+      (function () {
+
+        // dispatch for htmlwidgets
+
+        function fireSlideEnter() {
+
+          const event = window.document.createEvent("Event");
+
+          event.initEvent("slideenter", true, true);
+
+          window.document.dispatchEvent(event);
+
+        }
+
+    
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+
+          fireSlideEnter();
+
+    
+
+          // dispatch for shiny
+
+          if (window.jQuery) {
+
+            if (previousSlide) {
+
+              window.jQuery(previousSlide).trigger("hidden");
+
+            }
+
+            if (currentSlide) {
+
+              window.jQuery(currentSlide).trigger("shown");
+
+            }
+
+          }
+
+        }
+
+    
+
+        // hookup for slidy
+
+        if (window.w3c_slidy) {
+
+          window.w3c_slidy.add_observer(function (slide_num) {
+
+            // slide_num starts at position 1
+
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+
+          });
+
+        }
+
+    
+
+      })();
+
+    </script>
+
+    
+
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {
