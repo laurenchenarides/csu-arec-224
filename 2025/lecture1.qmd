@@ -18,7 +18,7 @@ format:
     r-fit-text: true
     center: false
     scrollable: true
-    css: /custom.css
+    css: lecture-style.css
     footer: <https://laurenchenarides.github.io/csu-arec-224/>
 ---
 
@@ -165,12 +165,14 @@ I started my first business in 2016. 👉
 - Entrepreneurship is the symbol of business tenacity and achievement.
 - Entrepreneurs were the pioneers of today’s business successes.
 - In post-pandemic world, entrepreneurs will continue to be critical contributors to economic growth through:
-- leadership, management, innovation, research and development effectiveness, job creation, competitiveness, productivity, and formation of new industry.
+  - leadership and management
+  - innovation and research and development effectiveness
+  - job creation, competitiveness, productivity, and the formation of new industries.
 
 
 # Part 2: <br> Major Types of Entrepreneurial Ventures
 
-## There are four main types of entrepreneurial ventures
+## There are four main types of entrepreneurial ventures.
 
 - Survival ventures
 - Lifestyle ventures
@@ -188,7 +190,9 @@ These ventures are started out of necessity and usually generate just enough inc
 
 ## Example: **La Piadina** 
 
-Started as a food truck serving Italian flatbreads in Fort Collins, launched by two founders with a passion for bringing Romagna-style street food to the area. Initially operated with limited staff and resources, focusing on local events and markets.
+Started as a food truck serving Italian flatbreads in Fort Collins, launched by two founders with a passion for bringing Romagna-style street food to the area. 
+
+Initially operated with limited staff and resources, focusing on local events and markets.
 
 Represents a grassroots approach to entrepreneurship, often with family labor and a bootstrapped budget.
 
@@ -208,7 +212,9 @@ Income is stable and sufficient, but growth is not the main objective.
 
 ## Example: **Jodar Farms** 
 
-A pasture-raised poultry and egg farm just outside Fort Collins, selling direct-to-consumer and at local farmers’ markets. Focuses on sustainable practices and local relationships over aggressive scaling.
+A pasture-raised poultry and egg farm just outside Fort Collins, selling direct-to-consumer and at local farmers’ markets. 
+
+Focuses on sustainable practices and local relationships over aggressive scaling.
 
 Supports a lifestyle of land stewardship, food quality, and local identity.
 
@@ -266,7 +272,7 @@ Backed by SoftBank, Jeff Bezos, and others; positioned to disrupt traditional ag
 
 ## Special Case of Agressive Growth Ventures: *Unicorns*
 
-- A pre-IPO (private) tech start-up company with a $1 billion market value.
+- A pre-IPO^[IPO="Initial Public Offering"] (private) tech start-up company with a $1 billion market value.
 - In 2023, 1,191 start-ups were unicorns.
 
 :::{.callout-note icon=false title="Decacorns and Hectacorns"}
@@ -282,10 +288,8 @@ Backed by SoftBank, Jeff Bezos, and others; positioned to disrupt traditional ag
 After raising $1B in funding, Plenty filed for bankruptcy in March 2025.
 
 ::: {.fragment}
-However, the company has re-emerged after company restructuring (as of May 2025).
-```{=html}
-<iframe src="https://www.plenty.ag/plenty-completes-restructuring-emerges-from-chapter-11/" width="100%" height="400px"></iframe>
-```
+However, the company has re-emerged after company restructuring (as of May 2025).  
+[Read the PR Newswire article](https://www.prnewswire.com/news-releases/plenty-undertakes-restructuring-process-to-support-focus-on-premium-strawberry-market-302408630.html)
 :::
 
 
@@ -300,7 +304,7 @@ However, the company has re-emerged after company restructuring (as of May 2025)
 | **Restructuring**         | The company may sell off assets, renegotiate contracts, lay off workers, or change its business model. |
 
 
-## What It Tells Us About Agribusiness Startups
+## What Bankruptcy for Plenty Tells Us About Agribusiness Startups
 
 Plenty raised nearly **$1 billion** in venture capital and still went bankrupt. That highlights:
 
@@ -321,7 +325,7 @@ Plenty's bankruptcy shows how even highly funded, high-tech ventures in agricult
 Data from the [*Kauffman Indicators of Entrepreneurship*](https://indicators.kauffman.org/) shows that in the state of Colorado, the startup early survival rate is **81.95%**, compared to the national average of **81.70%**.
 
 ```{=html}
-<iframe src="https://indicators.kauffman.org/state/colorado" width="100%" height="400px"></iframe>
+<iframe src="https://indicators.kauffman.org/state/colorado" width="100%" height="600px"></iframe>
 ```
 
 
@@ -385,11 +389,12 @@ Entrepreneurial firms make two indispensable contributions to an economy:
 
 ::: {.column width="50%"}
 
-<small>This semester, you'll be matched with an industry mentor. [Read about the mentors here](https://laurenchenarides.github.io/csu-arec-224/mentors/mentors.html).</small>
-
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="../images/mentor-collage.png" style="max-width: 100%; max-height: 750px;" />
 </div>
+
+<small>This semester, you'll be matched with an industry mentor. [Read about the mentors here](https://laurenchenarides.github.io/csu-arec-224/mentors/mentors.html).</small>
+
 
 :::
 
@@ -486,21 +491,25 @@ What does it take to be an entrepreneur?
 
 ## Research on Entrepreneurship seeks to examine all facets of the topic
 
+::: {.callout-note icon=false title="A Framework-of-Frameworks Approach"}
+There are different schools of thought and process models that fit into the larger study of entrepreneurship. 
+
+This framework brings together both macro and micro perspectives:
+
+- On the **macro side**, it includes external influences like culture, capital access, and economic conditions (i.e., things outside the entrepreneur’s control).
+
+- On the **micro side**, it focuses on internal traits and strategic thinking—things like personal motivation, opportunity recognition, and business planning.
+
+- It also includes **process-based** approaches that look at how ventures are formed and evolve over time, emphasizing inputs (like team or resources) and outcomes (like growth or innovation).
+
+<small>*Rather than detailing each school here, I encourage you to read the corresponding sections in the textbook. It’s helpful to reference when you start noticing how entrepreneurs are influenced by both their personal traits and their environment — and when we explore business cases later in the semester.*</small>
+:::
+
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="../images/01frameworks.png" style="max-width: 100%; max-height: 750px;" />
 </div>
 
-::: {.callout-note icon=false title="A Framework-of-Frameworks Approach"}
-This image from the textbook lays out a “Framework-of-Frameworks” — basically, it maps out how different schools of thought and process models fit into the larger study of entrepreneurship. You’ll see that it brings together both macro and micro perspectives:
 
-On the **macro side**, it includes external influences like culture, capital access, and economic conditions (i.e., things outside the entrepreneur’s control).
-
-On the **micro side**, it focuses on internal traits and strategic thinking—things like personal motivation, opportunity recognition, and business planning.
-
-It also includes **process-based** approaches that look at how ventures are formed and evolve over time, emphasizing inputs (like team or resources) and outcomes (like growth or innovation).
-
-<small>*Rather than detailing each school here, I encourage you to read the corresponding sections in the textbook. It’s helpful to reference when you start noticing how entrepreneurs are influenced by both their personal traits and their environment — and when we explore business cases later in the semester.*</small>
-:::
 
 <!-- ## The Entrepreneurial Process: The Best Business Schools for Entrepreneurship -->
 
@@ -535,11 +544,20 @@ It also includes **process-based** approaches that look at how ventures are form
 | **Entrepreneurial Discipline** | The core principles of entrepreneurship apply across sectors — business, nonprofit, public or private. The types of innovation and where to find them are largely consistent. |
 | **Entrepreneurial Leadership** | Involves both the capacity to lead and the willingness to take risks. Measured through opportunity recognition, drive to innovate, and ability to accomplish goals. Increasingly important in the 21st century. |
 
-## Group Activity 1-1
+## Group Activity: Human Tic-Tac-Toe
 
-- The COVID-19 pandemic created and destroyed small businesses.
-- Working in groups of two or three, find examples of small businesses that did well in the pandemic. Why?
-- Share what you found with the class.
+**Goal:** Get 3 in a row (horizontally, vertically, or diagonally) by finding classmates who match the prompts.
+
+How to Play:
+
+- Walk around and introduce yourself to classmates.
+- Ask them the questions in each square.
+- If they match the description, write their name in that box.
+- You can only use each person once.
+
+First to get 3 in a row wins (bonus: try to fill the whole board)!
+
+Ask follow-up questions—get to know each other!
 
 
 ## Summary

@@ -1,0 +1,20 @@
+.reveal section {
+  font-size: 0.75em; /* Reduce default font size */
+}
+
+.reveal h1 {
+  font-size: 1.6em;
+}
+
+.reveal h2 {
+  font-size: 1.3em;
+}
+
+.reveal h3 {
+  font-size: 1.1em;
+}
+
+.reveal p, .reveal li {
+  font-size: 0.9em;
+  line-height: 1.4em;
+}
