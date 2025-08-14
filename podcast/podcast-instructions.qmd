@@ -11,7 +11,7 @@ format:
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-In **Week 2**, you listened to *The Podcase* by Patrick J. McGinnis and John Lafkas (2020), where they interviewed Luke Holden of Luke’s Lobster. You got to hear a real founder reflect on the risks, decisions, and grit it took to build a business.
+In the *podcase* by Patrick J. McGinnis and John Lafkas (2020), you listened to an interview with Luke Holden of Luke’s Lobster. You got to hear a real founder reflect on the risks, decisions, and grit it took to build a business.
 
 Now it’s your turn.
 
