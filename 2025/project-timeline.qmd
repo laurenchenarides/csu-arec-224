@@ -1,0 +1,27 @@
+---
+title: Semester Project Timeline & Checklist
+subtitle: How the Podcast, Fishbowl, and Business Case Fit Together
+page-layout: full
+repo-actions: false
+---
+
+<!--This is my personal clarity, please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+| Week      | What You’ll Do                                           | Why It Matters                                                           |
+| --------- | -------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **1–2**   | Learn how to read and talk about case studies.           | You’ll use the same skills when you write your own case later.           |
+| **2**     | Get your mentor and pod assignment.                     | This is the group you’ll work with all semester.                         |
+| **3–4**   | Start Fishbowl discussions and write weekly reflections. | Practice finding the main challenge in a case and asking good questions. |
+| **3–5**   | Meet your mentor and start research.                     | This info will go in the background section of your case.                |
+| **4–6**   | Record your podcast episode.                             | The interview will help you find a challenge or decision for your case.  |
+| **6–8**   | Finish podcast show notes.                               | Practice summarizing a story clearly — you’ll do this for your case too. |
+| **9**     | Write a short paragraph about your case idea.            | Gets your topic approved before you start writing.                       |
+| **11**    | Create an outline for your case.                         | Helps you organize the story and find missing details.                   |
+| **12–13** | Share your outline with your mentor.                     | They can check that it’s accurate and realistic.                         |
+| **14**    | Make slides and practice your presentation.              | You’ll use these for the final competition.                              |
+| **15**    | Present your case and turn in all materials.             | This is your final project for the semester.                             |
+
+: {.striped .responsive}
+
+

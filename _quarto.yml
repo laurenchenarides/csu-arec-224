@@ -16,22 +16,22 @@ website:
         href: syllabus.qmd
       - text: "Schedule"
         href: 2025/schedule.qmd
-      # - text: "Lectures"
-      #   href: lectures.qmd
-      - text: "Case Studies"
+      - text: "Semester Checklist"
+        href: 2025/project-timeline.qmd
+      - text: "Weekly Case Studies"
         menu:                           
-        - text: "Access Coursepack"
+        - text: "Case Study Coursepack"
           href: cases/coursepack.qmd
-        - text: "Weekly Assignments & Signups"
+        - text: "Case Study Assignments & Signups"
           href: cases/case-assignment.qmd
-        - text: "Case Study Roles"
+        - text: "Case Study Role Descriptions"
           href: cases/case-roles.qmd
         - text: "How We Use Case Studies"
           href: cases/case-method.qmd 
-      - text: "Case Competition"
-        href: cases/case-competition.qmd                
       - text: "Podcast Project"
         href: podcast/podcast-instructions.qmd                
+      - text: "Case Competition"
+        href: cases/case-competition.qmd                
       - text: "Your E-IDP"
         href: mentors/eidp.qmd
       - text: "Mentors"
