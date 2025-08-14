@@ -33,7 +33,8 @@ You and your team will lead the in-class case discussion for your assigned week.
 
 **Resources:**
 
-- [Case Analysis Worksheet](https://eproduct.hbsp.harvard.edu/eproduct/product/t_case_companion/content/assets/Case-Analysis-Checklist_HBP_EducationForm_en.e891f435.pdf)
+- [Case Analysis Worksheet](Case-Analysis-Checklist.pdf) - You will submit a completed version of this form the day before your assigned case via **Canvas**.
+- [Fishbowl Discussion Template](templates/fishbowl-template.qmd) - Use this template to prepare slides or visuals to help lead the in-class discussion.
 - [Michael A. Roberto. (2022). *Case Companion*](coursepack.qmd)
 
 :::{.callout-note icon=false collapse=true title="How You'll Be Graded"}
@@ -63,7 +64,7 @@ Your job is to observe the fishbowl discussion critically and constructively. Yo
   - 1 question you would have added to the conversation.
   - What did you learn from observing?
 
-You’ll submit your feedback via Canvas using the [Observer Feedback Form](observer-form.qmd).
+You’ll submit your feedback via **Canvas** using the [Observer Feedback Form](observer-form.qmd).
 
 :::{.callout-note icon=false collapse=true title="How You'll Be Graded"}
 You will complete one observer reflection during the semester.

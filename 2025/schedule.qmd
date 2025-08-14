@@ -10,9 +10,9 @@ repo-actions: false
 | Week | Date       | Day | Topic                                                | Textbook Reading  (Quiz Basis)  |
 |------|------------|-----|------------------------------------------------------|----------------------------|
 | 1    | 8/26       | T   | [Introduction to Entrepreneurship](gate1.html)       | Chapter 01                 |
-| 1    | 8/28       | R   | Case Study: Roberto (2022), *Case Companion*         |                            |
+| 1    | 8/28       | R   | [Case Study: McGinnis & Lafkas (2020), *Stirring the Lobster Pot*](../cases/templates/case01.qmd) |                |
 | 2    | 9/2        | T   | The Entrepreneurial Mindset                          | Chapter 02                 |
-| 2    | 9/4        | R   | Case Study: McGinnis & Lafkas (2020), *Stirring the Lobster Pot* |                |
+| 2    | 9/4        | R   | Case Study: Roberto (2022), *Case Companion*         |                            |
 | 3    | 9/9        | T   | Corporate & Global Entrepreneurship                  | Chapters 03 & 04           |
 | 3    | 9/11       | R   | Case Study: Dann et al. (2024), *Small Niches, Big Promise* |                     |
 | 4    | 9/16       | T   | Innovation & Creativity                              | Chapter 05                 |

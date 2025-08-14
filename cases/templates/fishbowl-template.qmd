@@ -1,0 +1,92 @@
+---
+title: Fishbowl Discussion Guide
+subtitle: Case Name Here
+format:
+  revealjs:
+    theme: simple
+    slideNumber: true
+    css: "fishbowl.css"
+---
+
+## Discussion Guide Flow
+
+A good flow for the slides you’ll walk through in class could be:
+
+1. Case Overview – quick summary and background.
+2. Understand the Situation – what’s going on, key themes, surprises.
+3. Identify the Evidence – key players, relevant facts, categories.
+4. Interpret Exhibits – data patterns and relevance.
+5. Apply Concepts – link case details to course frameworks.
+6. Discussion Questions – now students are ready to tackle them with evidence.
+7. Reach a Conclusion – synthesize and decide.
+8. Wrap-Up & Takeaways – lessons and applications.
+
+
+# Case Overview
+
+## Case Summary
+- [Brief bullet points describing the business, key decision point, and context]
+- [Highlight central themes or challenges]
+
+
+# Understand the Situation
+
+## Fishbowl team will lead the discussion by answering:
+- What’s going on in this case?  
+- Why is each detail included?  
+- Which big-picture themes are present?  
+- Any contradictions or unexpected points?  
+
+
+# Identify the Evidence
+
+## Identify key players and evidence:
+- **Key players:** [List here]  
+- **Evidence categories:**  
+  - [Category 1]  
+  - [Category 2]  
+  - [Category 3]  
+
+
+# Interpret Exhibits
+
+## Depending on the case, some exhibits will be central:
+- Which exhibits provide the most insight?  
+- What patterns emerge over time?  
+- How do they connect to class frameworks?  
+
+
+# Apply Concepts
+
+## Extract relevant course concepts:
+- [Concept 1]  
+- [Concept 2]  
+- [Concept 3]  
+
+
+# Discussion Questions
+
+## [Question 1]
+*Facilitator Tip:* [Describe what to listen for, follow-up prompts, and links to course concepts]
+
+## [Question 2]
+*Facilitator Tip:* [Describe what to listen for, follow-up prompts, and links to course concepts]
+
+## [Question 3]
+*Facilitator Tip:* [Describe what to listen for, follow-up prompts, and links to course concepts]
+
+
+# Reach a Conclusion
+
+## Facilitate toward a decision:
+- Recommended course of action  
+- Criteria that matter most  
+- Alternative approaches to consider  
+
+
+# Wrap-Up & Key Takeaways
+
+## Conclude with your recommendations:
+- [Key insight 1]  
+- [Key insight 2]  
+- [Key insight 3]  
