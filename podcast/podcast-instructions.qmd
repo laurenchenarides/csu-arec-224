@@ -17,7 +17,7 @@ Now it’s your turn.
 
 This semester, you’ll work in a **pod** of four classmates to create a professional-style podcast episode (a "podcase") featuring a real-world mentor—someone with entrepreneurial experience and insights to share.
 
-> You’ll work in the same group of four students (your pod) for both the podcase and the final business case competition. Each pod will be paired with a [mentor](../mentors/mentors.qmd) based on your preferences, skills, and interests. Think of this as a "mentor match," and you’ll stick with this team throughout the semester.
+> Note: You’ll work in the same group of four students (your pod) for both the podcase and the final business case competition. Each pod will be paired with a [mentor](../mentors/mentors.qmd) based on your preferences, skills, and interests. Think of this as a "mentor match," and you’ll stick with this team throughout the semester.
 
 ## Your Assignment
 

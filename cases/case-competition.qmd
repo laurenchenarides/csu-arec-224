@@ -11,7 +11,7 @@ format:
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-This is not a Shark Tank-style pitch. Instead, you'll develop a business case grounded in your mentor’s entrepreneurial experience.
+For this assignment, you'll develop a business case grounded in your mentor’s entrepreneurial experience.
 
 Your goal is to present a real-world decision or dilemma they’ve faced—or one they could realistically face—framed in a way that invites critical thinking and discussion, much like the case studies we’ve covered throughout the semester. The emphasis is on clarity, depth, and relevance.
 
@@ -35,7 +35,7 @@ Each team will turn in **three items** as part of your final case competition. T
 
 | Deliverable                  | What It Is                                           | What to Focus On                                                                                                                                     |
 |-----------------------------|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Written Case (4–6 pages)**| A short case study modeled after the ones we’ve read.| Provide background on your mentor and their business, describe a real decision they faced (or could face), and set up a dilemma with no “right” answer. End with 2–3 guiding questions. Do **not** include a solution. |
+| **Written Case (3–4 pages)**| A short case study modeled after the ones we’ve read.| Provide background on your mentor and their business, describe a real decision they faced (or could face), and set up a dilemma with no “right” answer. End with 2–3 guiding questions. Do **not** include a solution. |
 | **Live Presentation (8–10 min)** | A team presentation delivered during our final session. | Present your case in a way that brings it to life. Walk us through the situation, what’s at stake, and why it matters. Focus on clear storytelling—not on pitching your own idea. |
 | **Slide Deck**              | Visual support for your live presentation.           | Keep slides simple and focused. Use them to support your story—not distract from it. You can include visuals, charts, or key facts. Avoid putting too much text on slides. |
 
