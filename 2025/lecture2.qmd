@@ -60,14 +60,15 @@ Source: @kuratko2024
 
 # Part 1 <br> The Mindset of an Entrepreneur
 
-## The Entrepreneurial Mindset
+## Do entrepreneurs “think” differently?
 
-- Among millennials, 67 percent say their goal involves starting their own business.
+Perhaps.
 
-- Among Generation Z, 53 percent hope to run their own businesses within 10 years.
+This chapter takes a more psychological look at entrepreneurs and the entrepreneurial cognition.
 
-> This chapter takes a more psychological look at entrepreneurs and the entrepreneurial cognition.
+Research is still needed to determine whether differences are attributable to a cognitive difference or originates from idiosyncratic factors or from the experience of being entrepreneurs.
 
+Let's break down a few key concepts to understand the entrepreneurial mindset...
 
 ## Entrepreneurial Cognition
 
@@ -77,51 +78,71 @@ To understand how entrepreneurship emerges, let's examine the science of **cogni
 Mental functions, mental processes (thoughts), and mental states of intelligent humans—attention, remembering, producing and understanding language, solving problems, and making decisions.
 :::
 
-Social Cognition Theory
-- Posits that knowledge structures (mental models of cognitions) can be ordered to optimize personal effectiveness within given situations.
+::: {.fragment}
+::: {.callout-note icon=false title="*Definition:* Entrepreneurial Cognition"}
+Knowledge structures that people use to make assessments, judgments, or decisions involving opportunity evaluation, venture creation, and growth.
+:::
+:::
 
-Entrepreneurial Cognition
-- Knowledge structures that people use to make assessments, judgments, or decisions involving opportunity evaluation, venture creation, and growth.
-
-
-## A foundation of entrepreneurial thinking is their abiity to adapt
+::: {.fragment}
+A foundation of entrepreneurial thinking is their **ability to adapt**.
 
 ::: {.callout-note icon=false title="*Definition:* Adaptibility"}
 The ability to be dynamic, flexible, and self-regulating in one’s cognitions given dynamic and uncertain task environments.
 :::
 
+:::
+
+::: {.fragment}
+Metacognition is the model used to describe the process an entrepreneur will use to frame the entrepreneurial task.
+
 ::: {.callout-note icon=false title="*Definition:* Metacognitive Model"}
 Study of the higher-order cognitive process that resulted in the entrepreneur framing a task effectually, and thus why and how a particular strategy was included in a set of alternative responses to the decision task (metacognition).
 :::
 
-## Do entrepreneurs “think” differently?
+:::
 
-Perhaps.
-
-Research is still needed to determine whether differences are attributable to a cognitive difference or originates from idiosyncratic factors or from the experience of being entrepreneurs.
-
-> Metacognition is the model used to describe the process an entrepreneur will use to frame the entrepreneurial task.
 
 
 ## Who Are Entrepreneurs?
 
 ::: {.fragment}
-They are optimistic, hard-driving, committed individuals who derive great satisfaction from being independent.
+They are **optimistic, hard-driving, committed** individuals who derive great satisfaction from being independent.
 :::
 
 ::: {.fragment}
-They are driven by an intense commitment and determined perseverance.
+They are driven by an **intense commitment** and **determined perseverance**.
 :::
 
 ::: {.fragment}
-They use failure as a tool for learning.
+They use **failure** as a tool for **learning**.
 :::
 
 ::: {.fragment}
-They have confidence to believe that they personally can make a difference in final outcomes.
+They have **confidence** to believe that they personally can make a difference in final outcomes.
 :::
 
+::: {.fragment}
+They have have a **tolerance for failure**. This involves a capacity--often learned--to deal with failure and process grief.
 
+::: {.callout-note icon=false title="*Definition:* Loss Orientation"}
+Involves focusing on the particular loss to construct an account that explains why the loss occurred.
+:::
+
+::: {.callout-note icon=false title="*Definition:* Restoration Orientation"}
+Involves both distracting oneself from thinking about the failure event and being proactive toward secondary causes of stress.
+:::
+
+:::
+
+## The Entrepreneurial Experience
+
+An <u>individual</u> *sees* the opportunity $\rightarrow$ *creates* the venture $\rightarrow$ and the <u>entrepreneur</u> *emerges*.
+
+
+::: {.notes}
+Entrepreneurs create ventures much as an artist creates a painting. They are formed by the lived experience of venture creation.
+:::
 
 ## What are Characteristics Often Associated with Entrepreneurs?
 
@@ -129,7 +150,7 @@ Researchers have identified a wide range of entrepreneurial characteristics, man
 
 :::{.callout-note icon=false title="Table 2.1 Characteristics Often Attributed to Entrepreneurs" collapse=true}
 
-| Characteristic |
+| Characteristic                            |
 |-----------------------------------------|
 | Ability to get along well with people |
 | Ability to influence others |
@@ -174,13 +195,15 @@ Researchers have identified a wide range of entrepreneurial characteristics, man
 | Toleration for ambiguity |
 | Versatility |
 
-: Source: John A. Hornaday, “Research about Living Entrepreneurs,” in Encyclopedia of Entrepreneurship, ed. Calvin Kent, Donald Sexton, and Karl Vesper (Englewood Cliffs, NJ: Prentice Hall, 1982), 26–27. Adapted by permission of Prentice Hall, Englewood Cliffs, NJ.
+:  {tbl-colwidths="[50]"}
+
+<small> Source: John A. Hornaday, “Research about Living Entrepreneurs,” in Encyclopedia of Entrepreneurship, ed. Calvin Kent, Donald Sexton, and Karl Vesper (Englewood Cliffs, NJ: Prentice Hall, 1982), 26–27. Adapted by permission of Prentice Hall, Englewood Cliffs, NJ. </small>
 
 :::
 
 ## Most Often Cited Entrepreneurial Characteristics
 
-Each row represents a *characteristic*. You will be interacting with these characteristics over the course of the semester. Review [Your E-IDP](../mentors/eidp.qmd) on the course website.
+Each row in the table below represents a *characteristic* you’ll encounter and practice over the course of the semester. Review [Your E-IDP](../mentors/eidp.qmd) on the course website to see how these traits connect to your personal development plan.
 
 :::{.callout-note icon=false title="Entrepreneurial Characteristics for E-IDP" collapse=true}
 
@@ -203,11 +226,13 @@ Each row represents a *characteristic*. You will be interacting with these chara
 | Tolerance for Ambiguity     | Comfortable operating under uncertainty or limited structure. | 
 | Vision                      | Has a clear sense of purpose or long-term direction. | 
 
-: Source: Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (12th ed.). Cengage Learning. [Download PDF here](../mentors/characteristics_handout.pdf)
+: *See full descriptions in the handout:* [PDF download](../mentors/characteristics_handout.pdf)
+
+<small> Source: Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (12th ed.). Cengage Learning. </small>
 
 :::
 
-As you move through the semester, use this table to reflect on how you’re engaging, not just what you’re doing—these are the habits that will carry forward into your future career.
+As you progress this semester, use these traits as a lens for reflection—*how* you work is as important as *what* you produce.
 
 
 ## Can Entrepreneurship Be Cultivated?
@@ -218,25 +243,42 @@ Entrepreneurship is a function of the entrepreneur:
 
 $E = f(e)$
 
-Entrepreneurship ($E$) is characterized as the interaction ($f$) of skills ($e$) related to... 
+Entrepreneurship ($E$) results from the interaction ($f$) of skills ($e$) such as inner control, planning and goal setting, risk taking, innovation, reality perception, use of feedback, decision making, human relations, and independence.
 
-...inner control, planning and goal setting, risk taking, innovation, reality perception, use of feedback, decision making, human relations, and independence... 
+**Takeaway:** These skills and characteristics are learnable and developable with practice.
 
-...all of which *can* be cultivated. 
-
-::: {.fragment}
-Answer: Yes!  
-:::
 
 ## Discussion Activity 2-1
 
-Look over the list of 16 characteristics and label those that you believe are most important from the first to the fifth. 
+**Goal:** Identify which entrepreneurial characteristics you value most and why.
 
-Think of an example for each.
+**Step 1 – Individual Ranking (5 minutes)**
 
-Discuss as a class which characteristics showed up on most lists. 
+1. Review the list of 16 [most often cited entrepreneurial characteristics](../mentors/characteristics_handout.pdf) 
 
-Which showed up on only a few?
+2. Choose the five you believe are most important for entrepreneurial success.
+
+3. Rank them from 1 (most important) to 5 (fifth most important).
+
+4. For each, jot down a quick example of why you ranked it where you did—this can be from your own experience, a well-known entrepreneur, or a fictional example.
+
+## Discussion Activity 2-1
+
+**Step 2 – Small-Group Discussion (5 minutes)**
+
+- Share your top five with your group.
+
+- Note where you agree and where you differ.
+
+- Discuss why certain traits might matter more in some industries or stages of a business than others.
+
+## Discussion Activity 2-1
+
+**Step 3 – Class Debrief (5 minutes)**
+
+- As a class, identify which characteristics appeared most often in top-five lists.
+
+- Highlight any that appeared rarely—discuss whether they’re under-valued or simply more situational.
 
 
 ::: {.notes}
@@ -244,52 +286,58 @@ Start this discussion by having each person work individually to label five of t
 :::
 
 
-## Entrepreneurs have a tolerance for failure.
 
-This involves a capacity--often learned--to deal with failure and process grief.
-
-
-::: {.callout-note icon=false title="*Definition:* Loss Orientation"}
-Involves focusing on the particular loss to construct an account that explains why the loss occurred.
-:::
-
-::: {.callout-note icon=false title="*Definition:* Restoration Orientation"}
-Involves both distracting oneself from thinking about the failure event and being proactive toward secondary causes of stress.
-:::
-
-## The Entrepreneurial Experience
-
-An individual *sees* the opportunity $\rightarrow$ *creates* the venture $\rightarrow$ and the entrepreneur *emerges*.
-
-
-::: {.notes}
-Entrepreneurs create ventures much as an artist creates a painting. They are formed by the lived experience of venture creation.
-:::
 
 # Part 2 <br> The Dark Side of Entrepreneurship 
 
+## The Other Side of the Story
+
+When we think of entrepreneurs, we often picture innovation, independence, and financial success.
+
+But behind the highlight reel, entrepreneurship also brings:
+
+- High personal and financial stakes
+
+- Constant uncertainty
+
+- Pressure to perform without a safety net
+
+This section looks at the risks, pressures, and stresses that can come with building and running a venture.
+
 ## The Entrepreneur’s Confrontation with Risk
 
-- Financial risk versus profit (return) motive varies in entrepreneurs’ desire for wealth.
-- Career risk—loss of employment security.
-- Family and social risk—competing commitments of work and family.
-- Psychic risk—psychological impact of failure on the well-being of entrepreneurs.
+When someone becomes an entrepreneur, they’re not just chasing potential rewards, they’re also facing different kinds of personal risk, and how they handle each can vary.
+
+- Financial risk versus profit (return) motive
+  - You might invest your own money, take on debt, or rely on uncertain revenue streams. The trade-off is that you could also earn much more than in a salaried job—how much risk you’re willing to take depends on how motivated you are by potential wealth.
+  
+- Career risk 
+  - Leaving a stable job or career path means losing steady income, benefits, and job security. If the venture fails, it can be hard to return to where you were.
+  
+- Family and social risk 
+  - Entrepreneurship can require long hours, travel, or relocation, which can strain relationships and reduce time for friends, family, and community commitments.
+  
+- Psychic risk 
+  - Failure (or even setbacks) can take a toll on your mental and emotional health, self-esteem, and overall well-being.
 
 ## Stress and the Entrepreneur
 
-::: {.callout-note icon=false title="*Definition:* Entrepreneurial Stress"}
-The extent to which entrepreneurs’ work demands and expectations exceed their abilities to perform as venture initiators, they are likely to experience stress.
-:::
+Entrepreneurs-like many of us-experience stress and it can come in various forms:
 
-Sources of Entrepreneurial Stress
 - Loneliness
 - Immersion in business
 - People problems
 - Need to achieve
 
+::: {.callout-note icon=false title="*Definition:* Entrepreneurial Stress"}
+The extent to which entrepreneurs’ work demands and expectations exceed their abilities to perform as venture initiators, they are likely to experience stress.
+:::
+
 ##  Discussion Activity 2-2 
 
-Read each statement and mark the column that most appropriately represents your level of agreement.
+**Step 1 – Individual Reflection (5 minutes)**
+
+Read each statement below and mark the column that most appropriately represents your level of agreement.
 
 | Statement             | Strongly Disagree (1) | Disagree (2) | Neither Disagree Nor Agree (3) | Agree (4) | Strongly Agree (5) |
 |--------------------------------------|------------|------------|------------|------------|------------|
@@ -299,97 +347,198 @@ Read each statement and mark the column that most appropriately represents your 
 | I have a tendency to take on excessive responsibility, combined with the feeling that “Only I am capable of taking care of this matter.” |  |  |  |  |
 | I have a tendency to speak faster than most people.|  |  |  |  |
 
-Then, calculate your total score.
+: {tbl-colwidths="[80, 5, 5, 5, 5, 5]"}
+
+Add up your scores.
+
+The higher your score, the stronger your “Type A” tendencies, which can increase entrepreneurial stress.
 
 ## Discussion Activity 2-2 
 
-Type A Assessment
+**Step 2 – Small-Group Discussion (5 minutes)**
 
-## Dealing with Stress
+In groups of 2–3, discuss:
 
-- Networking
-- Getting away from it all
-- Communicating with employees
-- Finding satisfaction outside the company
-- Delegating
-- Exercising rigorously
-- Therapy with a professional
+1. Which statements resonated most with you?
+
+2. Do you see any signs of stress or burnout risk in your answers?
+
+3. How might these tendencies both help and hurt an entrepreneur?
+
+## Discussion Activity 2-2 
+
+**Step 3 – Coping Strategies Brainstorm (5 minutes)**
+
+As a group, list at least three concrete strategies for reducing entrepreneurial stress. These can be personal habits, business practices, or support systems. Some examples:
+
+- Networking with other entrepreneurs
+
+- Taking regular breaks or “getting away from it all”
+
+- Open communication with employees or partners
+
+- Finding satisfaction outside the company (hobbies, volunteering)
+
+- Delegating work
+
+- Exercising regularly
+
+- Speaking with a professional therapist or coach
+
 - Getting high-quality sleep
 
+## Discussion Activity 2-2 
+
+**Step 4 – Full-Class Debrief (5 minutes)**
+
+Each group shares:
+
+1. One Type A tendency that is both a strength and a risk.
+
+2. One practical strategy for managing entrepreneurial stress.
+
+We’ll compile these so everyone leaves with a shared list of ideas.
 
 # Part 3 <br> Entrepreneurial Ethics
 
+## Quick Poll
+
+**Instructions:** Read each scenario and choose the option you feel is most ethical.
+
+::: {.fragment}
+**Q1 – The Startup Expense**
+
+Your new business is struggling. A supplier offers to “adjust” the invoice so it looks like you spent more than you did, which would increase your tax deduction.
+
+A. Accept – it’s a harmless way to save money
+
+B. Decline – it’s dishonest and could cause trouble
+
+C. Not sure
+:::
+
+::: {.fragment}
+**Q2 – The Job Candidate** 
+
+You’re hiring your first employee. Your best friend needs work, but another candidate is more qualified.
+
+A. Hire your friend – loyalty comes first
+
+B. Hire the more qualified candidate – business comes first
+
+C. It depends
+:::
+
+::: {.fragment}
+**Q3 – The Industry Secret** 
+
+At a networking event, a competitor shares confidential information by mistake.
+
+A. Use it to get ahead – it’s their error
+
+B. Ignore it – it’s not yours to use
+
+C. Not sure
+:::
+
+## Debrief
+
+Which questions were easy for you to answer? Which were harder?
+
+Did you notice any rationalizations creeping into your thinking?
+
+How do personal values and business pressures shape different answers?
+
 ## Sources of Ethical Dilemmas
 
-Facing pressure from inside and outside interests can influence decision-making, especially when undertaking new business ventures.
+Entrepreneurs face pressure from many directions, e.g., investors, customers, employees, regulators, each with their own expectations.
 
-Aside from changes in societal values and norms, business owners must consider legal issues.
+Aside from changes in societal values and norms, business owners must also navigate legal requirements.
 
-$\rightarrow$ Having a clear set of parameters or rules that govern ambiguous decision-making can be important. 
+**Takeaway:** Having clear parameters or a decision-making process for ambiguous situations helps prevent poor choices under pressure. 
 
-## Ethics & Ethical Dilemmas
 
-::: {.columns}
+## What Do We Mean by Ethics?
 
-::: {.column width="50%"}
-- Ethics provide the basic rules or parameters for conducting any activity in an “acceptable” manner.
-- Represent a set of principles prescribing a behavioral code of what is good and right or bad and wrong.
-- They define “situational” moral duty and obligations.
+Ethics = basic rules or parameters for conducting any activity in an “acceptable” manner.
+
+A set of principles that define what is considered good and right, or bad and wrong.
+
+In entrepreneurship, it’s less about memorizing fixed rules and more about developing an ethical decision-making process you can apply in new situations.
+
+
+## Common Ethical Rationalizations
+
+Questionable conduct is often justified by believing that the activity:
+
+1. Is not really illegal or immoral.
+
+2. Is in the individual’s or the firm’s best interest.
+
+3. Will never be found out.
+
+4. Helps the company, so the company will condone it.
+
+::: {.notes}
+
+Q1 - Links to: “It’s not really illegal or immoral”
+Rationalization tie-in: “It’s not really illegal or immoral” — common when justifying small or hidden shortcuts.
+
+Q2 - Links to: “It’s in the individual’s or the firm’s best interest”
+Rationalization tie-in: “It’s in the best interest of the individual or the firm” — loyalty is positive, but can lead to conflicts of interest.
+
+Q3 - Links to: “It will never be found out” & “The company will condone it”
+Rationalization tie-in: “It will never be found out” or “It helps the company, so it will be condoned” — both can tempt entrepreneurs to overlook ethical lines.
+
 :::
-
-::: {.column width="50%"}
-- Ethics represent a set of principles prescribing a behavioral code that explains what is good and right, or bad and wrong.
-- Instead of relying on a set of fixed ethical principles, entrepreneurs should develop an ethical process for making decisions.
-:::
-
-:::
-
-
-
-## Ethical Rationalizations
-
-Ethical rationalizations used to justify questionable conduct involve believing that the activity:
-Is not “really” illegal or immoral.
-Is in the individual’s or the firm’s best interest.
-Will never be found out.
-Helps the company, so the company will condone it.
-
 
 ## Types of Morally Questionable Acts
 
 ![](../images/02table2.2morality.png){.uniform-image}
 
-Source: James A. Waters and Frederick Bird, “Attending to Ethics in Management,” Journal of Business Ethics 5 (1989): 494.
+<small> Source: James A. Waters and Frederick Bird, “Attending to Ethics in Management,” Journal of Business Ethics 5 (1989): 494.</small>
 
-## Overlap between Moral Standards and Legal Requirements
+## Morality vs. Law
 
-There are vast differences that sometimes exist between morality (ethics) and law.
+There can be a large gap between what is legal and what is moral.
+
+Not all legal actions are ethical, and not all ethical actions are legal.
 
 
 ![](../images/02figure2.3diagram.png){.uniform-image}
 
-## The Matter of Morality & The Complexity of Ethical Descisions
+## Why Ethical Decisions Are Complex
 
 ::: {.columns}
 
 ::: {.column width="50%"}
+**The Matter of Morality**
 
-Greed
-Distinctions between activities at work and activities at home.
-Lack of a foundation in ethics
-Survival (bottom-line thinking)
-Reliance on other social institutions.
+- Greed
+
+- Separating personal from work behavior
+
+- Lack of ethical foundation
+
+- “Bottom-line” survival thinking
+
+- Over-reliance on other institutions to set standards
 
 :::
 
 ::: {.column width="50%"}
 
-Complexity of Ethical Decisions
-Extended consequences
-Multiple alternatives
-Mixed outcomes
-Uncertain ethical consequences
-Personal implications
+**The Complexity of Ethical Decisions**
+
+- Extended consequences
+
+- Multiple alternatives
+
+- Mixed outcomes
+
+- Uncertain ethical consequences
+
+- Personal implications
 
 :::
 
@@ -397,59 +546,63 @@ Personal implications
 
 ## Group Activity 2-1
 
-[Placeholder] Ethical dilemma in ag, perhaps food safety
+*If time allows:*
 
-Working in groups of two or three, search the Internet to find either (1) an example of an ethical statement by a company or (2) a case study of an ethical dilemma in business.
-Try to find the most real-world examples.
-Present what was found to the class and what can be learned from that example or case.
+In pairs or small groups, search online for either:
 
+- An example of a company’s ethical statement, or
 
-## Establishing a Strategy for an Ethical Venture
+- A case study of an ethical dilemma in business.
+
+**Be ready to share:**
+
+- The situation or statement
+
+- What can be learned from it
+
+- How you would have approached it as an entrepreneur
+
+## Building an Ethical Venture
 
 Ethical Codes of Conduct:
-Are statements of ethical practices or guidelines to which an enterprise adheres.
-Are becoming more prevalent in the industry.
-Are proving to be more meaningful in terms of external legal and social development.
-Are more comprehensive in terms of their coverage.
-Are easier to implement in terms of the administrative procedures used to enforce them.
 
+- Written statements of ethical practices or guidelines
 
-::: {.notes}
-Create small groups of 2 or 3 students each. Then each group can decide if they want to find an example of an ethical statement by a company or a case study of an ethical dilemma in business. While the statements might be easier to find, the case studies can be more interesting and fun. Have each group present, focusing on what can be learned from that example or case study.
-:::
+- Increasingly common and more comprehensive in scope
+
+- Easier to implement with clear administrative procedures
+
+- Support both legal compliance and public trust
 
 ## “Always Do the Right Thing”
 
-Reasons for management to adhere to a high moral code:
-It is good business because unethical practices have a corrosive effect, not only on the firm itself, but on free markets and free trade that are fundamental to the survival of the free enterprise system.
-Improving the moral climate of the firm will eventually win back the public’s confidence in the firm.
+Why high ethical standards matter:
 
-## Ethical Considerations of Corporate Entrepreneurs
+- Unethical practices damage both the firm and the broader free-market system
 
-Organizational barriers that invite unethical behaviors:
-Systems, structures, policies and procedures, culture, strategic direction, people
-Promote ethical employee behaviors by:
-Providing flexibility, innovation, and support of initiative and risk taking.
-Removing barriers for entrepreneurial middle managers.
-Including an ethical component to corporate training.
+- Strong moral climate helps restore and maintain public trust
 
-## Ethical Leadership by Entrepreneurs
+## Ethical Leadership
 
-The value system of an owner/entrepreneur is the key to establishing an ethical organization.
-A code of ethics provides a clear understanding of the need for:
-Ethical administrative decision making.
-Ethical behavior of employees.
-Explicit rewards and punishments based on ethical behavior.
+An entrepreneur’s values shape the organization’s ethics
 
-## Entrepreneurial Motivation
+A code of ethics sets expectations for:
 
-Entrepreneurial Motivation
-The quest for new-venture creation as well as the willingness to sustain that venture.
-Personal characteristics, personal environment, business environment, personal goal set (expectations), and the existence of a viable business idea
-Entrepreneurial Persistence
-An entrepreneur’s choice to continue with an entrepreneurial opportunity regardless of counterinfluences or other enticing alternatives.
+- Ethical decision-making by leadership
 
+- Employee behavior
 
+- Clear rewards and consequences tied to ethical conduct
+
+## Entrepreneurial Motivation & Persistence
+
+::: {.callout-note icon=false title="*Definition:* Motivation"}
+The drive to start and sustain a venture, shaped by personal traits, environment, goals, and a viable business idea.
+:::
+
+::: {.callout-note icon=false title="*Definition:* Persistence"}
+Continuing to pursue an opportunity despite setbacks or attractive alternatives.
+:::
 
 ## Summary
 

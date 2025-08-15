@@ -1,6 +1,6 @@
 ---
-title: Fishbowl Discussion Guide
-subtitle: Stirring the (Lobster) Pot — A Podcase with Luke’s Lobster
+title: Stirring the (Lobster) Pot — A Podcase with Luke’s Lobster
+subtitle: Fishbowl Discussion Guide
 format:
   revealjs:
     theme: simple
@@ -27,7 +27,7 @@ format:
 
 # Identify the Evidence
 
-## Key players and evidence:
+## Key players and evidence
 - **Key players:** Luke Holden (founder), fishermen/suppliers, restaurant staff, customers, investors.
 
 - **Evidence categories:**  
@@ -39,7 +39,7 @@ format:
 
 # Interpret Exhibits
 
-## Look for case-specific insights:
+## Look for case-specific insights
 - Which exhibits provide data on sourcing, pricing, or market trends?  
 - What patterns are visible over time (e.g., revenue growth vs. expansion pace)?  
 - How do these exhibits connect to restaurant and hospitality management concepts like customer lifetime value or service consistency?
@@ -47,15 +47,15 @@ format:
 
 # Apply Concepts
 
-## Link back to course content:
+## Link back to course content
 - **Stakeholder theory** — weighing needs and trade-offs among diverse groups.
 - **SERVQUAL model** — dimensions of service quality: reliability, responsiveness, assurance, empathy, tangibles.
 - **Relationship marketing** — building long-term loyalty through trust and consistent experiences.
 
 
-# Discussion Questions
+# Discussion Questions {data-background-color="lightblue"}
 
-## In running a restaurant, why is it necessary to consider what the customer experience should be?  
+## In running a restaurant, why is it necessary to consider what the customer experience should be? {data-background-color="lightblue"} 
 *Facilitator Tip:*  
 
 Encourage the group to think beyond just food — consider ambiance, service, wait times, pricing, and emotional connection. 
@@ -64,7 +64,7 @@ Ask: “If you were a repeat customer, what would bring you back?”
 
 Push them to link customer experience to loyalty, word-of-mouth marketing, and online reviews.
 
-## Why are relationships valuable in Luke’s business?  
+## Why are relationships valuable in Luke’s business? {data-background-color="lightblue"}
 *Facilitator Tip:*  
 
 Guide students to consider relationships with suppliers, fishermen, employees, customers, and investors. 
@@ -73,7 +73,7 @@ Ask: “What happens if any one of these relationships weakens?”
 
 Prompt discussion about trust, reliability, and long-term partnerships in food businesses.
 
-## How might a stakeholder perspective influence the way Luke’s Lobster operates?  
+## How might a stakeholder perspective influence the way Luke’s Lobster operates? {data-background-color="lightblue"} 
 *Facilitator Tip:*  
 
 Ask students to identify all stakeholders (suppliers, staff, customers, community, investors, environment). 
@@ -85,7 +85,7 @@ Push them to think about balancing multiple, sometimes conflicting, interests.
 
 # Reach a Conclusion
 
-## Facilitate toward a decision:
+## Facilitate toward a decision
 - Should Luke prioritize rapid expansion, or protect the brand through slower growth?  
 - What criteria should drive the decision — profitability, sustainability, customer loyalty, brand strength?  
 - What are alternative growth paths: franchising, regional focus, diversifying the menu, or strategic partnerships?

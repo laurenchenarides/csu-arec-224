@@ -83,10 +83,12 @@ Each pod member will take on a defined role:
 
 ## Logistics
 
-- **Recording Location:** CSU Library Podcast Studio  
 - **Length:** 30-40 minutes  
 - **Deadline:** Varies by group – schedule with your mentor and instructor  
 - **Submission:** Final show notes uploaded via **Canvas**  
+- **Recording Location:** CSU Recording Studio (Address: 2301 Research Blvd, Fort Collins, CO, 80526) 
+
+<iframe src="https://maps.app.goo.gl/HonVjUJsCpaYMd8B6" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ## How You’ll Be Graded

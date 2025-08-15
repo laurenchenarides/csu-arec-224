@@ -422,77 +422,77 @@
   {
     "objectID": "cases/templates/fishbowl-template.html#discussion-guide-flow",
     "href": "cases/templates/fishbowl-template.html#discussion-guide-flow",
-    "title": "Fishbowl Discussion Guide",
+    "title": "Case Name Here",
     "section": "Discussion Guide Flow",
     "text": "Discussion Guide Flow\nA good flow for the slides you’ll walk through in class could be:\n\nCase Overview – quick summary and background.\nUnderstand the Situation – what’s going on, key themes, surprises.\nIdentify the Evidence – key players, relevant facts, categories.\nInterpret Exhibits – data patterns and relevance.\nApply Concepts – link case details to course frameworks.\nDiscussion Questions – now students are ready to tackle them with evidence.\nReach a Conclusion – synthesize and decide.\nWrap-Up & Takeaways – lessons and applications."
   },
   {
     "objectID": "cases/templates/fishbowl-template.html#case-summary",
     "href": "cases/templates/fishbowl-template.html#case-summary",
-    "title": "Fishbowl Discussion Guide",
+    "title": "Case Name Here",
     "section": "Case Summary",
     "text": "Case Summary\n\n[Brief bullet points describing the business, key decision point, and context]\n[Highlight central themes or challenges]"
   },
   {
     "objectID": "cases/templates/fishbowl-template.html#fishbowl-team-will-lead-the-discussion-by-answering",
     "href": "cases/templates/fishbowl-template.html#fishbowl-team-will-lead-the-discussion-by-answering",
-    "title": "Fishbowl Discussion Guide",
+    "title": "Case Name Here",
     "section": "Fishbowl team will lead the discussion by answering:",
     "text": "Fishbowl team will lead the discussion by answering:\n\nWhat’s going on in this case?\n\nWhy is each detail included?\n\nWhich big-picture themes are present?\n\nAny contradictions or unexpected points?"
   },
   {
     "objectID": "cases/templates/fishbowl-template.html#identify-key-players-and-evidence",
     "href": "cases/templates/fishbowl-template.html#identify-key-players-and-evidence",
-    "title": "Fishbowl Discussion Guide",
-    "section": "Identify key players and evidence:",
-    "text": "Identify key players and evidence:\n\nKey players: [List here]\n\nEvidence categories:\n\n[Category 1]\n\n[Category 2]\n\n[Category 3]"
+    "title": "Case Name Here",
+    "section": "Identify key players and evidence",
+    "text": "Identify key players and evidence\n\nKey players: [List here]\n\nEvidence categories:\n\n[Category 1]\n\n[Category 2]\n\n[Category 3]"
   },
   {
     "objectID": "cases/templates/fishbowl-template.html#depending-on-the-case-some-exhibits-will-be-central",
     "href": "cases/templates/fishbowl-template.html#depending-on-the-case-some-exhibits-will-be-central",
-    "title": "Fishbowl Discussion Guide",
-    "section": "Depending on the case, some exhibits will be central:",
-    "text": "Depending on the case, some exhibits will be central:\n\nWhich exhibits provide the most insight?\n\nWhat patterns emerge over time?\n\nHow do they connect to class frameworks?"
+    "title": "Case Name Here",
+    "section": "Depending on the case, some exhibits will be central",
+    "text": "Depending on the case, some exhibits will be central\n\nWhich exhibits provide the most insight?\n\nWhat patterns emerge over time?\n\nHow do they connect to class frameworks?"
   },
   {
     "objectID": "cases/templates/fishbowl-template.html#extract-relevant-course-concepts",
     "href": "cases/templates/fishbowl-template.html#extract-relevant-course-concepts",
-    "title": "Fishbowl Discussion Guide",
-    "section": "Extract relevant course concepts:",
-    "text": "Extract relevant course concepts:\n\n[Concept 1]\n\n[Concept 2]\n\n[Concept 3]"
+    "title": "Case Name Here",
+    "section": "Extract relevant course concepts",
+    "text": "Extract relevant course concepts\n\n[Concept 1]\n\n[Concept 2]\n\n[Concept 3]"
   },
   {
     "objectID": "cases/templates/fishbowl-template.html#question-1",
     "href": "cases/templates/fishbowl-template.html#question-1",
-    "title": "Fishbowl Discussion Guide",
+    "title": "Case Name Here",
     "section": "[Question 1]",
     "text": "[Question 1]\nFacilitator Tip: [Describe what to listen for, follow-up prompts, and links to course concepts]"
   },
   {
     "objectID": "cases/templates/fishbowl-template.html#question-2",
     "href": "cases/templates/fishbowl-template.html#question-2",
-    "title": "Fishbowl Discussion Guide",
+    "title": "Case Name Here",
     "section": "[Question 2]",
     "text": "[Question 2]\nFacilitator Tip: [Describe what to listen for, follow-up prompts, and links to course concepts]"
   },
   {
     "objectID": "cases/templates/fishbowl-template.html#question-3",
     "href": "cases/templates/fishbowl-template.html#question-3",
-    "title": "Fishbowl Discussion Guide",
+    "title": "Case Name Here",
     "section": "[Question 3]",
     "text": "[Question 3]\nFacilitator Tip: [Describe what to listen for, follow-up prompts, and links to course concepts]"
   },
   {
     "objectID": "cases/templates/fishbowl-template.html#facilitate-toward-a-decision",
     "href": "cases/templates/fishbowl-template.html#facilitate-toward-a-decision",
-    "title": "Fishbowl Discussion Guide",
-    "section": "Facilitate toward a decision:",
-    "text": "Facilitate toward a decision:\n\nRecommended course of action\n\nCriteria that matter most\n\nAlternative approaches to consider"
+    "title": "Case Name Here",
+    "section": "Facilitate toward a decision",
+    "text": "Facilitate toward a decision\n\nRecommended course of action\n\nCriteria that matter most\n\nAlternative approaches to consider"
   },
   {
     "objectID": "cases/templates/fishbowl-template.html#conclude-with-your-recommendations",
     "href": "cases/templates/fishbowl-template.html#conclude-with-your-recommendations",
-    "title": "Fishbowl Discussion Guide",
+    "title": "Case Name Here",
     "section": "Conclude with your recommendations:",
     "text": "Conclude with your recommendations:\n\n[Key insight 1]\n\n[Key insight 2]\n\n[Key insight 3]"
   },
@@ -672,74 +672,25 @@
     "text": "Chapter Objectives\n\n2.1 Describe the entrepreneurial mindset and entrepreneurial cognition.\n2.2 Identify and discuss the most commonly cited characteristics found in successful entrepreneurs.\n2.3 Describe the skills of entrepreneurial hustle and coachability.\n2.4 Identify how entrepreneurs deal with failure.\n2.5 Describe the entrepreneurial experience.\n2.6 Discuss the “dark side” of entrepreneurship.\n2.7 Identify and describe the different types of risk entrepreneurs face.\n2.8 Describe the major causes of stress for these individuals and the ways they can handle stress.\n2.9 Discuss the ethical dilemmas confronting entrepreneurs within a dynamic environment.\n2.10 Present strategies for establishing ethical responsibility and leadership.\n2.11 Examine entrepreneurial motivation."
   },
   {
-    "objectID": "2025/lecture2.html#the-entrepreneurial-mindset",
-    "href": "2025/lecture2.html#the-entrepreneurial-mindset",
+    "objectID": "2025/lecture2.html#do-entrepreneurs-think-differently",
+    "href": "2025/lecture2.html#do-entrepreneurs-think-differently",
     "title": "Lecture 2",
-    "section": "The Entrepreneurial Mindset",
-    "text": "The Entrepreneurial Mindset\n\nAmong millennials, 67 percent say their goal involves starting their own business.\nAmong Generation Z, 53 percent hope to run their own businesses within 10 years.\n\n\nThis chapter takes a more psychological look at entrepreneurs and the entrepreneurial cognition."
+    "section": "Do entrepreneurs “think” differently?",
+    "text": "Do entrepreneurs “think” differently?\nPerhaps.\nThis chapter takes a more psychological look at entrepreneurs and the entrepreneurial cognition.\nResearch is still needed to determine whether differences are attributable to a cognitive difference or originates from idiosyncratic factors or from the experience of being entrepreneurs.\nLet’s break down a few key concepts to understand the entrepreneurial mindset…"
   },
   {
     "objectID": "2025/lecture2.html#entrepreneurial-cognition",
     "href": "2025/lecture2.html#entrepreneurial-cognition",
     "title": "Lecture 2",
     "section": "Entrepreneurial Cognition",
-    "text": "Entrepreneurial Cognition\nTo understand how entrepreneurship emerges, let’s examine the science of cognition.\n\n\n\n\nDefinition: Cognition\n\n\nMental functions, mental processes (thoughts), and mental states of intelligent humans—attention, remembering, producing and understanding language, solving problems, and making decisions.\n\n\n\n\nSocial Cognition Theory - Posits that knowledge structures (mental models of cognitions) can be ordered to optimize personal effectiveness within given situations.\nEntrepreneurial Cognition - Knowledge structures that people use to make assessments, judgments, or decisions involving opportunity evaluation, venture creation, and growth."
-  },
-  {
-    "objectID": "2025/lecture2.html#a-foundation-of-entrepreneurial-thinking-is-their-abiity-to-adapt",
-    "href": "2025/lecture2.html#a-foundation-of-entrepreneurial-thinking-is-their-abiity-to-adapt",
-    "title": "Lecture 2",
-    "section": "A foundation of entrepreneurial thinking is their abiity to adapt",
-    "text": "A foundation of entrepreneurial thinking is their abiity to adapt\n\n\n\n\nDefinition: Adaptibility\n\n\nThe ability to be dynamic, flexible, and self-regulating in one’s cognitions given dynamic and uncertain task environments.\n\n\n\n\n\n\n\n\nDefinition: Metacognitive Model\n\n\nStudy of the higher-order cognitive process that resulted in the entrepreneur framing a task effectually, and thus why and how a particular strategy was included in a set of alternative responses to the decision task (metacognition)."
-  },
-  {
-    "objectID": "2025/lecture2.html#do-entrepreneurs-think-differently",
-    "href": "2025/lecture2.html#do-entrepreneurs-think-differently",
-    "title": "Lecture 2",
-    "section": "Do entrepreneurs “think” differently?",
-    "text": "Do entrepreneurs “think” differently?\nPerhaps.\nResearch is still needed to determine whether differences are attributable to a cognitive difference or originates from idiosyncratic factors or from the experience of being entrepreneurs.\n\nMetacognition is the model used to describe the process an entrepreneur will use to frame the entrepreneurial task."
+    "text": "Entrepreneurial Cognition\nTo understand how entrepreneurship emerges, let’s examine the science of cognition.\n\n\n\n\nDefinition: Cognition\n\n\nMental functions, mental processes (thoughts), and mental states of intelligent humans—attention, remembering, producing and understanding language, solving problems, and making decisions.\n\n\n\n\n\n\n\n\n\nDefinition: Entrepreneurial Cognition\n\n\nKnowledge structures that people use to make assessments, judgments, or decisions involving opportunity evaluation, venture creation, and growth.\n\n\n\n\n\n\nA foundation of entrepreneurial thinking is their ability to adapt.\n\n\n\n\nDefinition: Adaptibility\n\n\nThe ability to be dynamic, flexible, and self-regulating in one’s cognitions given dynamic and uncertain task environments.\n\n\n\n\n\n\nMetacognition is the model used to describe the process an entrepreneur will use to frame the entrepreneurial task.\n\n\n\n\nDefinition: Metacognitive Model\n\n\nStudy of the higher-order cognitive process that resulted in the entrepreneur framing a task effectually, and thus why and how a particular strategy was included in a set of alternative responses to the decision task (metacognition)."
   },
   {
     "objectID": "2025/lecture2.html#who-are-entrepreneurs",
     "href": "2025/lecture2.html#who-are-entrepreneurs",
     "title": "Lecture 2",
     "section": "Who Are Entrepreneurs?",
-    "text": "Who Are Entrepreneurs?\n\nThey are optimistic, hard-driving, committed individuals who derive great satisfaction from being independent.\n\n\nThey are driven by an intense commitment and determined perseverance.\n\n\nThey use failure as a tool for learning.\n\n\nThey have confidence to believe that they personally can make a difference in final outcomes."
-  },
-  {
-    "objectID": "2025/lecture2.html#what-are-characteristics-often-associated-with-entrepreneurs",
-    "href": "2025/lecture2.html#what-are-characteristics-often-associated-with-entrepreneurs",
-    "title": "Lecture 2",
-    "section": "What are Characteristics Often Associated with Entrepreneurs?",
-    "text": "What are Characteristics Often Associated with Entrepreneurs?\nResearchers have identified a wide range of entrepreneurial characteristics, many of which can be grouped into a smaller set of core traits.\n\n\n\n\nTable 2.1 Characteristics Often Attributed to Entrepreneurs\n\n\n\nSource: John A. Hornaday, “Research about Living Entrepreneurs,” in Encyclopedia of Entrepreneurship, ed. Calvin Kent, Donald Sexton, and Karl Vesper (Englewood Cliffs, NJ: Prentice Hall, 1982), 26–27. Adapted by permission of Prentice Hall, Englewood Cliffs, NJ.\n\n\nCharacteristic\n\n\n\n\nAbility to get along well with people\n\n\nAbility to influence others\n\n\nAbility to learn from mistakes\n\n\nAbility to make decisions quickly\n\n\nAbility to take calculated risks\n\n\nAbility to trust workers\n\n\nAccuracy, thoroughness\n\n\nAggressiveness\n\n\nCapacity for enjoyment\n\n\nCommitment\n\n\nConfidence\n\n\nCooperativeness\n\n\nCourage\n\n\nCreativity\n\n\nDynamism, leadership\n\n\nEfficacy\n\n\nEgotism\n\n\nEnergy, diligence\n\n\nFlexibility\n\n\nForesight\n\n\nHonesty, integrity\n\n\nImagination\n\n\nIndependence\n\n\nInitiative\n\n\nIntelligence\n\n\nMaturity, balance\n\n\nNeed to achieve\n\n\nOptimism\n\n\nOrientation to clear goals\n\n\nPerceptiveness\n\n\nPerseverance, determination\n\n\nPleasant personality\n\n\nPositive response to challenges\n\n\nSense of power\n\n\nProfit orientation\n\n\nResourcefulness\n\n\nResponsiveness to suggestions/criticism\n\n\nResponsibility\n\n\nSensitivity to others\n\n\nTime competence, efficiency\n\n\nToleration for ambiguity\n\n\nVersatility"
-  },
-  {
-    "objectID": "2025/lecture2.html#most-often-cited-entrepreneurial-characteristics",
-    "href": "2025/lecture2.html#most-often-cited-entrepreneurial-characteristics",
-    "title": "Lecture 2",
-    "section": "Most Often Cited Entrepreneurial Characteristics",
-    "text": "Most Often Cited Entrepreneurial Characteristics\nEach row represents a characteristic. You will be interacting with these characteristics over the course of the semester. Review Your E-IDP on the course website.\n\n\n\n\nEntrepreneurial Characteristics for E-IDP\n\n\n\nSource: Kuratko, D. F. (2023). Entrepreneurship: Theory, Process, and Practice (12th ed.). Cengage Learning. Download PDF here\n\n\nCharacteristic\nDescription\n\n\n\n\nCalculated Risk Taking\nMakes strategic, informed decisions about when to take a risk, not reckless.\n\n\nCommunication\nEffectively conveys ideas and actively listens in professional settings\n\n\nCreativity and Innovativeness\nGenerates original ideas and sees possibilities others may not.\n\n\nDetermination and Perseverance\nTotal dedication to success, overcoming obstacles and setbacks, unwavering commitment to succeed.\n\n\nDrive to Achieve\nA strong desire to compete, to excel against self-imposed standards, to pursue challenging goals.\n\n\nEntrepreneurial Coachability\nSeeks, integrates, and learns from failures, setbacks, or feedback to grow.\n\n\nEntrepreneurial Hustle\nActs with urgency and creativity to solve immediate problems.\n\n\nHigh Energy Level\nDemonstrates consistent drive and enthusiasm to sustain effort over time.\n\n\nOpportunity Orientation\nFocuses on opportunity rather than resources; always scanning for possibilities.\n\n\nPassion\nDemonstrates deep emotional investment in the work.\n\n\nPersistent Problem Solving\nTackles tough problems with a methodical, realistic approach; doesn’t quit easily.\n\n\nPersonal Agency (Internal Locus of Control)\nBelieves success comes from personal responsibility and effort, not luck.\n\n\nSeeking Feedback\nActively looks for input to improve performance; learns from critique.\n\n\nTeam Building\nBuilds strong, motivated teams; values others’ strengths.\n\n\nTolerance for Ambiguity\nComfortable operating under uncertainty or limited structure.\n\n\nVision\nHas a clear sense of purpose or long-term direction.\n\n\n\n\n\n\n\nAs you move through the semester, use this table to reflect on how you’re engaging, not just what you’re doing—these are the habits that will carry forward into your future career."
-  },
-  {
-    "objectID": "2025/lecture2.html#can-entrepreneurship-be-cultivated",
-    "href": "2025/lecture2.html#can-entrepreneurship-be-cultivated",
-    "title": "Lecture 2",
-    "section": "Can Entrepreneurship Be Cultivated?",
-    "text": "Can Entrepreneurship Be Cultivated?\nAccording to the theory of entrepreneurship, entrepreneurs cause entrepreneurship.\nEntrepreneurship is a function of the entrepreneur:\n\\(E = f(e)\\)\nEntrepreneurship (\\(E\\)) is characterized as the interaction (\\(f\\)) of skills (\\(e\\)) related to…\n…inner control, planning and goal setting, risk taking, innovation, reality perception, use of feedback, decision making, human relations, and independence…\n…all of which can be cultivated.\n\nAnswer: Yes!"
-  },
-  {
-    "objectID": "2025/lecture2.html#discussion-activity-2-1",
-    "href": "2025/lecture2.html#discussion-activity-2-1",
-    "title": "Lecture 2",
-    "section": "Discussion Activity 2-1",
-    "text": "Discussion Activity 2-1\nLook over the list of 16 characteristics and label those that you believe are most important from the first to the fifth.\nThink of an example for each.\nDiscuss as a class which characteristics showed up on most lists.\nWhich showed up on only a few?\n\nStart this discussion by having each person work individually to label five of the characteristics from the most important (1) to the fifth most important (5). Then work as a class to compare the five labeled by each person. Could consider listing those from one person and then add counts as other read their lists. The class can discuss why some were listed by nearly all students, and some listed by only a few, or no students."
-  },
-  {
-    "objectID": "2025/lecture2.html#entrepreneurs-have-a-tolerance-for-failure.",
-    "href": "2025/lecture2.html#entrepreneurs-have-a-tolerance-for-failure.",
-    "title": "Lecture 2",
-    "section": "Entrepreneurs have a tolerance for failure.",
-    "text": "Entrepreneurs have a tolerance for failure.\nThis involves a capacity–often learned–to deal with failure and process grief.\n\n\n\n\nDefinition: Loss Orientation\n\n\nInvolves focusing on the particular loss to construct an account that explains why the loss occurred.\n\n\n\n\n\n\n\n\nDefinition: Restoration Orientation\n\n\nInvolves both distracting oneself from thinking about the failure event and being proactive toward secondary causes of stress."
+    "text": "Who Are Entrepreneurs?\n\nThey are optimistic, hard-driving, committed individuals who derive great satisfaction from being independent.\n\n\nThey are driven by an intense commitment and determined perseverance.\n\n\nThey use failure as a tool for learning.\n\n\nThey have confidence to believe that they personally can make a difference in final outcomes.\n\n\nThey have have a tolerance for failure. This involves a capacity–often learned–to deal with failure and process grief.\n\n\n\n\nDefinition: Loss Orientation\n\n\nInvolves focusing on the particular loss to construct an account that explains why the loss occurred.\n\n\n\n\n\n\n\n\nDefinition: Restoration Orientation\n\n\nInvolves both distracting oneself from thinking about the failure event and being proactive toward secondary causes of stress."
   },
   {
     "objectID": "2025/lecture2.html#the-entrepreneurial-experience",
@@ -749,123 +700,186 @@
     "text": "The Entrepreneurial Experience\nAn individual sees the opportunity \\(\\rightarrow\\) creates the venture \\(\\rightarrow\\) and the entrepreneur emerges.\n\nEntrepreneurs create ventures much as an artist creates a painting. They are formed by the lived experience of venture creation."
   },
   {
+    "objectID": "2025/lecture2.html#what-are-characteristics-often-associated-with-entrepreneurs",
+    "href": "2025/lecture2.html#what-are-characteristics-often-associated-with-entrepreneurs",
+    "title": "Lecture 2",
+    "section": "What are Characteristics Often Associated with Entrepreneurs?",
+    "text": "What are Characteristics Often Associated with Entrepreneurs?\nResearchers have identified a wide range of entrepreneurial characteristics, many of which can be grouped into a smaller set of core traits.\n\n\n\n\nTable 2.1 Characteristics Often Attributed to Entrepreneurs\n\n\n\n\n\n\n\n\nCharacteristic\n\n\n\n\nAbility to get along well with people\n\n\nAbility to influence others\n\n\nAbility to learn from mistakes\n\n\nAbility to make decisions quickly\n\n\nAbility to take calculated risks\n\n\nAbility to trust workers\n\n\nAccuracy, thoroughness\n\n\nAggressiveness\n\n\nCapacity for enjoyment\n\n\nCommitment\n\n\nConfidence\n\n\nCooperativeness\n\n\nCourage\n\n\nCreativity\n\n\nDynamism, leadership\n\n\nEfficacy\n\n\nEgotism\n\n\nEnergy, diligence\n\n\nFlexibility\n\n\nForesight\n\n\nHonesty, integrity\n\n\nImagination\n\n\nIndependence\n\n\nInitiative\n\n\nIntelligence\n\n\nMaturity, balance\n\n\nNeed to achieve\n\n\nOptimism\n\n\nOrientation to clear goals\n\n\nPerceptiveness\n\n\nPerseverance, determination\n\n\nPleasant personality\n\n\nPositive response to challenges\n\n\nSense of power\n\n\nProfit orientation\n\n\nResourcefulness\n\n\nResponsiveness to suggestions/criticism\n\n\nResponsibility\n\n\nSensitivity to others\n\n\nTime competence, efficiency\n\n\nToleration for ambiguity\n\n\nVersatility\n\n\n\n Source: John A. Hornaday, “Research about Living Entrepreneurs,” in Encyclopedia of Entrepreneurship, ed. Calvin Kent, Donald Sexton, and Karl Vesper (Englewood Cliffs, NJ: Prentice Hall, 1982), 26–27. Adapted by permission of Prentice Hall, Englewood Cliffs, NJ."
+  },
+  {
+    "objectID": "2025/lecture2.html#most-often-cited-entrepreneurial-characteristics",
+    "href": "2025/lecture2.html#most-often-cited-entrepreneurial-characteristics",
+    "title": "Lecture 2",
+    "section": "Most Often Cited Entrepreneurial Characteristics",
+    "text": "Most Often Cited Entrepreneurial Characteristics\nEach row in the table below represents a characteristic you’ll encounter and practice over the course of the semester. Review Your E-IDP on the course website to see how these traits connect to your personal development plan.\n\n\n\n\nEntrepreneurial Characteristics for E-IDP\n\n\n\nSee full descriptions in the handout: PDF download\n\n\nCharacteristic\nDescription\n\n\n\n\nCalculated Risk Taking\nMakes strategic, informed decisions about when to take a risk, not reckless.\n\n\nCommunication\nEffectively conveys ideas and actively listens in professional settings\n\n\nCreativity and Innovativeness\nGenerates original ideas and sees possibilities others may not.\n\n\nDetermination and Perseverance\nTotal dedication to success, overcoming obstacles and setbacks, unwavering commitment to succeed.\n\n\nDrive to Achieve\nA strong desire to compete, to excel against self-imposed standards, to pursue challenging goals.\n\n\nEntrepreneurial Coachability\nSeeks, integrates, and learns from failures, setbacks, or feedback to grow.\n\n\nEntrepreneurial Hustle\nActs with urgency and creativity to solve immediate problems.\n\n\nHigh Energy Level\nDemonstrates consistent drive and enthusiasm to sustain effort over time.\n\n\nOpportunity Orientation\nFocuses on opportunity rather than resources; always scanning for possibilities.\n\n\nPassion\nDemonstrates deep emotional investment in the work.\n\n\nPersistent Problem Solving\nTackles tough problems with a methodical, realistic approach; doesn’t quit easily.\n\n\nPersonal Agency (Internal Locus of Control)\nBelieves success comes from personal responsibility and effort, not luck.\n\n\nSeeking Feedback\nActively looks for input to improve performance; learns from critique.\n\n\nTeam Building\nBuilds strong, motivated teams; values others’ strengths.\n\n\nTolerance for Ambiguity\nComfortable operating under uncertainty or limited structure.\n\n\nVision\nHas a clear sense of purpose or long-term direction.\n\n\n\n Source: Kuratko, D. F. (2023). Entrepreneurship: Theory, Process, and Practice (12th ed.). Cengage Learning. \n\n\n\n\nAs you progress this semester, use these traits as a lens for reflection—how you work is as important as what you produce."
+  },
+  {
+    "objectID": "2025/lecture2.html#can-entrepreneurship-be-cultivated",
+    "href": "2025/lecture2.html#can-entrepreneurship-be-cultivated",
+    "title": "Lecture 2",
+    "section": "Can Entrepreneurship Be Cultivated?",
+    "text": "Can Entrepreneurship Be Cultivated?\nAccording to the theory of entrepreneurship, entrepreneurs cause entrepreneurship.\nEntrepreneurship is a function of the entrepreneur:\n\\(E = f(e)\\)\nEntrepreneurship (\\(E\\)) results from the interaction (\\(f\\)) of skills (\\(e\\)) such as inner control, planning and goal setting, risk taking, innovation, reality perception, use of feedback, decision making, human relations, and independence.\nTakeaway: These skills and characteristics are learnable and developable with practice."
+  },
+  {
+    "objectID": "2025/lecture2.html#discussion-activity-2-1",
+    "href": "2025/lecture2.html#discussion-activity-2-1",
+    "title": "Lecture 2",
+    "section": "Discussion Activity 2-1",
+    "text": "Discussion Activity 2-1\nGoal: Identify which entrepreneurial characteristics you value most and why.\nStep 1 – Individual Ranking (5 minutes)\n\nReview the list of 16 most often cited entrepreneurial characteristics\nChoose the five you believe are most important for entrepreneurial success.\nRank them from 1 (most important) to 5 (fifth most important).\nFor each, jot down a quick example of why you ranked it where you did—this can be from your own experience, a well-known entrepreneur, or a fictional example."
+  },
+  {
+    "objectID": "2025/lecture2.html#discussion-activity-2-1-1",
+    "href": "2025/lecture2.html#discussion-activity-2-1-1",
+    "title": "Lecture 2",
+    "section": "Discussion Activity 2-1",
+    "text": "Discussion Activity 2-1\nStep 2 – Small-Group Discussion (5 minutes)\n\nShare your top five with your group.\nNote where you agree and where you differ.\nDiscuss why certain traits might matter more in some industries or stages of a business than others."
+  },
+  {
+    "objectID": "2025/lecture2.html#discussion-activity-2-1-2",
+    "href": "2025/lecture2.html#discussion-activity-2-1-2",
+    "title": "Lecture 2",
+    "section": "Discussion Activity 2-1",
+    "text": "Discussion Activity 2-1\nStep 3 – Class Debrief (5 minutes)\n\nAs a class, identify which characteristics appeared most often in top-five lists.\nHighlight any that appeared rarely—discuss whether they’re under-valued or simply more situational.\n\n\nStart this discussion by having each person work individually to label five of the characteristics from the most important (1) to the fifth most important (5). Then work as a class to compare the five labeled by each person. Could consider listing those from one person and then add counts as other read their lists. The class can discuss why some were listed by nearly all students, and some listed by only a few, or no students."
+  },
+  {
+    "objectID": "2025/lecture2.html#the-other-side-of-the-story",
+    "href": "2025/lecture2.html#the-other-side-of-the-story",
+    "title": "Lecture 2",
+    "section": "The Other Side of the Story",
+    "text": "The Other Side of the Story\nWhen we think of entrepreneurs, we often picture innovation, independence, and financial success.\nBut behind the highlight reel, entrepreneurship also brings:\n\nHigh personal and financial stakes\nConstant uncertainty\nPressure to perform without a safety net\n\nThis section looks at the risks, pressures, and stresses that can come with building and running a venture."
+  },
+  {
     "objectID": "2025/lecture2.html#the-entrepreneurs-confrontation-with-risk",
     "href": "2025/lecture2.html#the-entrepreneurs-confrontation-with-risk",
     "title": "Lecture 2",
     "section": "The Entrepreneur’s Confrontation with Risk",
-    "text": "The Entrepreneur’s Confrontation with Risk\n\nFinancial risk versus profit (return) motive varies in entrepreneurs’ desire for wealth.\nCareer risk—loss of employment security.\nFamily and social risk—competing commitments of work and family.\nPsychic risk—psychological impact of failure on the well-being of entrepreneurs."
+    "text": "The Entrepreneur’s Confrontation with Risk\nWhen someone becomes an entrepreneur, they’re not just chasing potential rewards, they’re also facing different kinds of personal risk, and how they handle each can vary.\n\nFinancial risk versus profit (return) motive\n\nYou might invest your own money, take on debt, or rely on uncertain revenue streams. The trade-off is that you could also earn much more than in a salaried job—how much risk you’re willing to take depends on how motivated you are by potential wealth.\n\nCareer risk\n\nLeaving a stable job or career path means losing steady income, benefits, and job security. If the venture fails, it can be hard to return to where you were.\n\nFamily and social risk\n\nEntrepreneurship can require long hours, travel, or relocation, which can strain relationships and reduce time for friends, family, and community commitments.\n\nPsychic risk\n\nFailure (or even setbacks) can take a toll on your mental and emotional health, self-esteem, and overall well-being."
   },
   {
     "objectID": "2025/lecture2.html#stress-and-the-entrepreneur",
     "href": "2025/lecture2.html#stress-and-the-entrepreneur",
     "title": "Lecture 2",
     "section": "Stress and the Entrepreneur",
-    "text": "Stress and the Entrepreneur\n\n\n\n\nDefinition: Entrepreneurial Stress\n\n\nThe extent to which entrepreneurs’ work demands and expectations exceed their abilities to perform as venture initiators, they are likely to experience stress.\n\n\n\n\nSources of Entrepreneurial Stress - Loneliness - Immersion in business - People problems - Need to achieve"
+    "text": "Stress and the Entrepreneur\nEntrepreneurs-like many of us-experience stress and it can come in various forms:\n\nLoneliness\nImmersion in business\nPeople problems\nNeed to achieve\n\n\n\n\n\nDefinition: Entrepreneurial Stress\n\n\nThe extent to which entrepreneurs’ work demands and expectations exceed their abilities to perform as venture initiators, they are likely to experience stress."
   },
   {
     "objectID": "2025/lecture2.html#discussion-activity-2-2",
     "href": "2025/lecture2.html#discussion-activity-2-2",
     "title": "Lecture 2",
     "section": "Discussion Activity 2-2",
-    "text": "Discussion Activity 2-2\nRead each statement and mark the column that most appropriately represents your level of agreement.\n\n\n\n\n\n\n\n\n\n\n\nStatement\nStrongly Disagree (1)\nDisagree (2)\nNeither Disagree Nor Agree (3)\nAgree (4)\nStrongly Agree (5)\n\n\n\n\nI often feel a severe sense of time urgency.\n\n\n\n\n\n\n\nI find myself constantly involved in multiple projects subject to deadlines.\n\n\n\n\n\n\n\nI often neglect of all aspects of life except work.\n\n\n\n\n\n\n\nI have a tendency to take on excessive responsibility, combined with the feeling that “Only I am capable of taking care of this matter.”\n\n\n\n\n\n\n\nI have a tendency to speak faster than most people.\n\n\n\n\n\n\n\n\nThen, calculate your total score."
+    "text": "Discussion Activity 2-2\nStep 1 – Individual Reflection (5 minutes)\nRead each statement below and mark the column that most appropriately represents your level of agreement.\n\n\n\n\n\n\n\n\n\n\n\nStatement\nStrongly Disagree (1)\nDisagree (2)\nNeither Disagree Nor Agree (3)\nAgree (4)\nStrongly Agree (5)\n\n\n\n\nI often feel a severe sense of time urgency.\n\n\n\n\n\n\n\nI find myself constantly involved in multiple projects subject to deadlines.\n\n\n\n\n\n\n\nI often neglect of all aspects of life except work.\n\n\n\n\n\n\n\nI have a tendency to take on excessive responsibility, combined with the feeling that “Only I am capable of taking care of this matter.”\n\n\n\n\n\n\n\nI have a tendency to speak faster than most people.\n\n\n\n\n\n\n\n\nAdd up your scores.\nThe higher your score, the stronger your “Type A” tendencies, which can increase entrepreneurial stress."
   },
   {
     "objectID": "2025/lecture2.html#discussion-activity-2-2-1",
     "href": "2025/lecture2.html#discussion-activity-2-2-1",
     "title": "Lecture 2",
     "section": "Discussion Activity 2-2",
-    "text": "Discussion Activity 2-2\nType A Assessment"
+    "text": "Discussion Activity 2-2\nStep 2 – Small-Group Discussion (5 minutes)\nIn groups of 2–3, discuss:\n\nWhich statements resonated most with you?\nDo you see any signs of stress or burnout risk in your answers?\nHow might these tendencies both help and hurt an entrepreneur?"
   },
   {
-    "objectID": "2025/lecture2.html#dealing-with-stress",
-    "href": "2025/lecture2.html#dealing-with-stress",
+    "objectID": "2025/lecture2.html#discussion-activity-2-2-2",
+    "href": "2025/lecture2.html#discussion-activity-2-2-2",
     "title": "Lecture 2",
-    "section": "Dealing with Stress",
-    "text": "Dealing with Stress\n\nNetworking\nGetting away from it all\nCommunicating with employees\nFinding satisfaction outside the company\nDelegating\nExercising rigorously\nTherapy with a professional\nGetting high-quality sleep"
+    "section": "Discussion Activity 2-2",
+    "text": "Discussion Activity 2-2\nStep 3 – Coping Strategies Brainstorm (5 minutes)\nAs a group, list at least three concrete strategies for reducing entrepreneurial stress. These can be personal habits, business practices, or support systems. Some examples:\n\nNetworking with other entrepreneurs\nTaking regular breaks or “getting away from it all”\nOpen communication with employees or partners\nFinding satisfaction outside the company (hobbies, volunteering)\nDelegating work\nExercising regularly\nSpeaking with a professional therapist or coach\nGetting high-quality sleep"
+  },
+  {
+    "objectID": "2025/lecture2.html#discussion-activity-2-2-3",
+    "href": "2025/lecture2.html#discussion-activity-2-2-3",
+    "title": "Lecture 2",
+    "section": "Discussion Activity 2-2",
+    "text": "Discussion Activity 2-2\nStep 4 – Full-Class Debrief (5 minutes)\nEach group shares:\n\nOne Type A tendency that is both a strength and a risk.\nOne practical strategy for managing entrepreneurial stress.\n\nWe’ll compile these so everyone leaves with a shared list of ideas."
+  },
+  {
+    "objectID": "2025/lecture2.html#quick-poll",
+    "href": "2025/lecture2.html#quick-poll",
+    "title": "Lecture 2",
+    "section": "Quick Poll",
+    "text": "Quick Poll\nInstructions: Read each scenario and choose the option you feel is most ethical.\n\nQ1 – The Startup Expense\nYour new business is struggling. A supplier offers to “adjust” the invoice so it looks like you spent more than you did, which would increase your tax deduction.\nA. Accept – it’s a harmless way to save money\nB. Decline – it’s dishonest and could cause trouble\nC. Not sure\n\n\nQ2 – The Job Candidate\nYou’re hiring your first employee. Your best friend needs work, but another candidate is more qualified.\nA. Hire your friend – loyalty comes first\nB. Hire the more qualified candidate – business comes first\nC. It depends\n\n\nQ3 – The Industry Secret\nAt a networking event, a competitor shares confidential information by mistake.\nA. Use it to get ahead – it’s their error\nB. Ignore it – it’s not yours to use\nC. Not sure"
+  },
+  {
+    "objectID": "2025/lecture2.html#debrief",
+    "href": "2025/lecture2.html#debrief",
+    "title": "Lecture 2",
+    "section": "Debrief",
+    "text": "Debrief\nWhich questions were easy for you to answer? Which were harder?\nDid you notice any rationalizations creeping into your thinking?\nHow do personal values and business pressures shape different answers?"
   },
   {
     "objectID": "2025/lecture2.html#sources-of-ethical-dilemmas",
     "href": "2025/lecture2.html#sources-of-ethical-dilemmas",
     "title": "Lecture 2",
     "section": "Sources of Ethical Dilemmas",
-    "text": "Sources of Ethical Dilemmas\nFacing pressure from inside and outside interests can influence decision-making, especially when undertaking new business ventures.\nAside from changes in societal values and norms, business owners must consider legal issues.\n\\(\\rightarrow\\) Having a clear set of parameters or rules that govern ambiguous decision-making can be important."
+    "text": "Sources of Ethical Dilemmas\nEntrepreneurs face pressure from many directions, e.g., investors, customers, employees, regulators, each with their own expectations.\nAside from changes in societal values and norms, business owners must also navigate legal requirements.\nTakeaway: Having clear parameters or a decision-making process for ambiguous situations helps prevent poor choices under pressure."
   },
   {
-    "objectID": "2025/lecture2.html#ethics-ethical-dilemmas",
-    "href": "2025/lecture2.html#ethics-ethical-dilemmas",
+    "objectID": "2025/lecture2.html#what-do-we-mean-by-ethics",
+    "href": "2025/lecture2.html#what-do-we-mean-by-ethics",
     "title": "Lecture 2",
-    "section": "Ethics & Ethical Dilemmas",
-    "text": "Ethics & Ethical Dilemmas\n\n\n\nEthics provide the basic rules or parameters for conducting any activity in an “acceptable” manner.\nRepresent a set of principles prescribing a behavioral code of what is good and right or bad and wrong.\nThey define “situational” moral duty and obligations.\n\n\n\nEthics represent a set of principles prescribing a behavioral code that explains what is good and right, or bad and wrong.\nInstead of relying on a set of fixed ethical principles, entrepreneurs should develop an ethical process for making decisions."
+    "section": "What Do We Mean by Ethics?",
+    "text": "What Do We Mean by Ethics?\nEthics = basic rules or parameters for conducting any activity in an “acceptable” manner.\nA set of principles that define what is considered good and right, or bad and wrong.\nIn entrepreneurship, it’s less about memorizing fixed rules and more about developing an ethical decision-making process you can apply in new situations."
   },
   {
-    "objectID": "2025/lecture2.html#ethical-rationalizations",
-    "href": "2025/lecture2.html#ethical-rationalizations",
+    "objectID": "2025/lecture2.html#common-ethical-rationalizations",
+    "href": "2025/lecture2.html#common-ethical-rationalizations",
     "title": "Lecture 2",
-    "section": "Ethical Rationalizations",
-    "text": "Ethical Rationalizations\nEthical rationalizations used to justify questionable conduct involve believing that the activity: Is not “really” illegal or immoral. Is in the individual’s or the firm’s best interest. Will never be found out. Helps the company, so the company will condone it."
+    "section": "Common Ethical Rationalizations",
+    "text": "Common Ethical Rationalizations\nQuestionable conduct is often justified by believing that the activity:\n\nIs not really illegal or immoral.\nIs in the individual’s or the firm’s best interest.\nWill never be found out.\nHelps the company, so the company will condone it.\n\n\nQ1 - Links to: “It’s not really illegal or immoral” Rationalization tie-in: “It’s not really illegal or immoral” — common when justifying small or hidden shortcuts.\nQ2 - Links to: “It’s in the individual’s or the firm’s best interest” Rationalization tie-in: “It’s in the best interest of the individual or the firm” — loyalty is positive, but can lead to conflicts of interest.\nQ3 - Links to: “It will never be found out” & “The company will condone it” Rationalization tie-in: “It will never be found out” or “It helps the company, so it will be condoned” — both can tempt entrepreneurs to overlook ethical lines."
   },
   {
     "objectID": "2025/lecture2.html#types-of-morally-questionable-acts",
     "href": "2025/lecture2.html#types-of-morally-questionable-acts",
     "title": "Lecture 2",
     "section": "Types of Morally Questionable Acts",
-    "text": "Types of Morally Questionable Acts\n\nSource: James A. Waters and Frederick Bird, “Attending to Ethics in Management,” Journal of Business Ethics 5 (1989): 494."
+    "text": "Types of Morally Questionable Acts\n\n Source: James A. Waters and Frederick Bird, “Attending to Ethics in Management,” Journal of Business Ethics 5 (1989): 494."
   },
   {
-    "objectID": "2025/lecture2.html#overlap-between-moral-standards-and-legal-requirements",
-    "href": "2025/lecture2.html#overlap-between-moral-standards-and-legal-requirements",
+    "objectID": "2025/lecture2.html#morality-vs.-law",
+    "href": "2025/lecture2.html#morality-vs.-law",
     "title": "Lecture 2",
-    "section": "Overlap between Moral Standards and Legal Requirements",
-    "text": "Overlap between Moral Standards and Legal Requirements\nThere are vast differences that sometimes exist between morality (ethics) and law."
+    "section": "Morality vs. Law",
+    "text": "Morality vs. Law\nThere can be a large gap between what is legal and what is moral.\nNot all legal actions are ethical, and not all ethical actions are legal."
   },
   {
-    "objectID": "2025/lecture2.html#the-matter-of-morality-the-complexity-of-ethical-descisions",
-    "href": "2025/lecture2.html#the-matter-of-morality-the-complexity-of-ethical-descisions",
+    "objectID": "2025/lecture2.html#why-ethical-decisions-are-complex",
+    "href": "2025/lecture2.html#why-ethical-decisions-are-complex",
     "title": "Lecture 2",
-    "section": "The Matter of Morality & The Complexity of Ethical Descisions",
-    "text": "The Matter of Morality & The Complexity of Ethical Descisions\n\n\nGreed Distinctions between activities at work and activities at home. Lack of a foundation in ethics Survival (bottom-line thinking) Reliance on other social institutions.\n\nComplexity of Ethical Decisions Extended consequences Multiple alternatives Mixed outcomes Uncertain ethical consequences Personal implications"
+    "section": "Why Ethical Decisions Are Complex",
+    "text": "Why Ethical Decisions Are Complex\n\n\nThe Matter of Morality\n\nGreed\nSeparating personal from work behavior\nLack of ethical foundation\n“Bottom-line” survival thinking\nOver-reliance on other institutions to set standards\n\n\nThe Complexity of Ethical Decisions\n\nExtended consequences\nMultiple alternatives\nMixed outcomes\nUncertain ethical consequences\nPersonal implications"
   },
   {
     "objectID": "2025/lecture2.html#group-activity-2-1",
     "href": "2025/lecture2.html#group-activity-2-1",
     "title": "Lecture 2",
     "section": "Group Activity 2-1",
-    "text": "Group Activity 2-1\n[Placeholder] Ethical dilemma in ag, perhaps food safety\nWorking in groups of two or three, search the Internet to find either (1) an example of an ethical statement by a company or (2) a case study of an ethical dilemma in business. Try to find the most real-world examples. Present what was found to the class and what can be learned from that example or case."
+    "text": "Group Activity 2-1\nIf time allows:\nIn pairs or small groups, search online for either:\n\nAn example of a company’s ethical statement, or\nA case study of an ethical dilemma in business.\n\nBe ready to share:\n\nThe situation or statement\nWhat can be learned from it\nHow you would have approached it as an entrepreneur"
   },
   {
-    "objectID": "2025/lecture2.html#establishing-a-strategy-for-an-ethical-venture",
-    "href": "2025/lecture2.html#establishing-a-strategy-for-an-ethical-venture",
+    "objectID": "2025/lecture2.html#building-an-ethical-venture",
+    "href": "2025/lecture2.html#building-an-ethical-venture",
     "title": "Lecture 2",
-    "section": "Establishing a Strategy for an Ethical Venture",
-    "text": "Establishing a Strategy for an Ethical Venture\nEthical Codes of Conduct: Are statements of ethical practices or guidelines to which an enterprise adheres. Are becoming more prevalent in the industry. Are proving to be more meaningful in terms of external legal and social development. Are more comprehensive in terms of their coverage. Are easier to implement in terms of the administrative procedures used to enforce them.\n\nCreate small groups of 2 or 3 students each. Then each group can decide if they want to find an example of an ethical statement by a company or a case study of an ethical dilemma in business. While the statements might be easier to find, the case studies can be more interesting and fun. Have each group present, focusing on what can be learned from that example or case study."
+    "section": "Building an Ethical Venture",
+    "text": "Building an Ethical Venture\nEthical Codes of Conduct:\n\nWritten statements of ethical practices or guidelines\nIncreasingly common and more comprehensive in scope\nEasier to implement with clear administrative procedures\nSupport both legal compliance and public trust"
   },
   {
     "objectID": "2025/lecture2.html#always-do-the-right-thing",
     "href": "2025/lecture2.html#always-do-the-right-thing",
     "title": "Lecture 2",
     "section": "“Always Do the Right Thing”",
-    "text": "“Always Do the Right Thing”\nReasons for management to adhere to a high moral code: It is good business because unethical practices have a corrosive effect, not only on the firm itself, but on free markets and free trade that are fundamental to the survival of the free enterprise system. Improving the moral climate of the firm will eventually win back the public’s confidence in the firm."
+    "text": "“Always Do the Right Thing”\nWhy high ethical standards matter:\n\nUnethical practices damage both the firm and the broader free-market system\nStrong moral climate helps restore and maintain public trust"
   },
   {
-    "objectID": "2025/lecture2.html#ethical-considerations-of-corporate-entrepreneurs",
-    "href": "2025/lecture2.html#ethical-considerations-of-corporate-entrepreneurs",
+    "objectID": "2025/lecture2.html#ethical-leadership",
+    "href": "2025/lecture2.html#ethical-leadership",
     "title": "Lecture 2",
-    "section": "Ethical Considerations of Corporate Entrepreneurs",
-    "text": "Ethical Considerations of Corporate Entrepreneurs\nOrganizational barriers that invite unethical behaviors: Systems, structures, policies and procedures, culture, strategic direction, people Promote ethical employee behaviors by: Providing flexibility, innovation, and support of initiative and risk taking. Removing barriers for entrepreneurial middle managers. Including an ethical component to corporate training."
+    "section": "Ethical Leadership",
+    "text": "Ethical Leadership\nAn entrepreneur’s values shape the organization’s ethics\nA code of ethics sets expectations for:\n\nEthical decision-making by leadership\nEmployee behavior\nClear rewards and consequences tied to ethical conduct"
   },
   {
-    "objectID": "2025/lecture2.html#ethical-leadership-by-entrepreneurs",
-    "href": "2025/lecture2.html#ethical-leadership-by-entrepreneurs",
+    "objectID": "2025/lecture2.html#entrepreneurial-motivation-persistence",
+    "href": "2025/lecture2.html#entrepreneurial-motivation-persistence",
     "title": "Lecture 2",
-    "section": "Ethical Leadership by Entrepreneurs",
-    "text": "Ethical Leadership by Entrepreneurs\nThe value system of an owner/entrepreneur is the key to establishing an ethical organization. A code of ethics provides a clear understanding of the need for: Ethical administrative decision making. Ethical behavior of employees. Explicit rewards and punishments based on ethical behavior."
-  },
-  {
-    "objectID": "2025/lecture2.html#entrepreneurial-motivation",
-    "href": "2025/lecture2.html#entrepreneurial-motivation",
-    "title": "Lecture 2",
-    "section": "Entrepreneurial Motivation",
-    "text": "Entrepreneurial Motivation\nEntrepreneurial Motivation The quest for new-venture creation as well as \u000bthe willingness to sustain that venture. Personal characteristics, personal environment, business environment, personal goal set (expectations), and the existence of a viable business idea Entrepreneurial Persistence An entrepreneur’s choice to continue with an entrepreneurial opportunity regardless of counterinfluences or other enticing alternatives."
+    "section": "Entrepreneurial Motivation & Persistence",
+    "text": "Entrepreneurial Motivation & Persistence\n\n\n\n\nDefinition: Motivation\n\n\nThe drive to start and sustain a venture, shaped by personal traits, environment, goals, and a viable business idea.\n\n\n\n\n\n\n\n\nDefinition: Persistence\n\n\nContinuing to pursue an opportunity despite setbacks or attractive alternatives."
   },
   {
     "objectID": "2025/lecture2.html#summary",
@@ -1110,7 +1124,7 @@
     "href": "2025/lecture1.html#variations-of-entrepreneurs",
     "title": "Lecture 1",
     "section": "Variations of Entrepreneurs",
-    "text": "Variations of Entrepreneurs\n\nMillennipreneurs: under age 35\n\nSuccess based on positive social or environmental impact\n\nUltrapreneurs: focus on environmental and social concerns.\nSerialpreneurs: have four or more operating companies.\nBoomerpreneurs: age 55 or older\n\nBelieve their business has had a positive social impact."
+    "text": "Variations of Entrepreneurs\n\nMillennipreneurs: under age 35\n\nSuccess based on positive social or environmental impact\n\nUltrapreneurs: focus on environmental and social concerns.\nSerialpreneurs: have four or more operating companies.\nBoomerpreneurs: age 55 or older\n\nBelieve their business has had a positive social impact.\n\nAmong millennials, 67 percent say their goal involves starting their own business.\nAmong Generation Z, 53 percent hope to run their own businesses within 10 years."
   },
   {
     "objectID": "2025/lecture1.html#entrepreneurship-a-mindset",
@@ -1180,7 +1194,7 @@
     "href": "2025/project-timeline.html",
     "title": "Semester Project Timeline & Checklist",
     "section": "",
-    "text": "Week\nWhat You’ll Do\nWhy It Matters\n\n\n\n\n1–2\nLearn how to read and talk about case studies.\nYou’ll use the same skills when you write your own case later.\n\n\n2\nGet your mentor and pod assignment.\nThis is the group you’ll work with all semester.\n\n\n3–4\nStart Fishbowl discussions and write weekly reflections.\nPractice finding the main challenge in a case and asking good questions.\n\n\n3–5\nMeet your mentor and start research.\nThis info will go in the background section of your case.\n\n\n4–6\nRecord your podcast episode.\nThe interview will help you find a challenge or decision for your case.\n\n\n6–8\nFinish podcast show notes.\nPractice summarizing a story clearly — you’ll do this for your case too.\n\n\n9\nWrite a short paragraph about your case idea.\nGets your topic approved before you start writing.\n\n\n11\nCreate an outline for your case.\nHelps you organize the story and find missing details.\n\n\n12–13\nShare your outline with your mentor.\nThey can check that it’s accurate and realistic.\n\n\n14\nMake slides and practice your presentation.\nYou’ll use these for the final competition.\n\n\n15\nPresent your case and turn in all materials.\nThis is your final project for the semester."
+    "text": "Th table below is a week-by-week guide for where you should be in the semester. The Week column shows the general time frame, the What You’ll Do column lists the main task or milestone to focus on during that period, and the Why It Matters column explains how that work connects to your larger projects—your podcast project, case study discussions, and business case competition. Read it row by row to understand what you should be working on at each stage and how it prepares you for the steps that follow.\n\n\n\n\n\n\n\n\n\nWeek\nWhat You’ll Do\nWhy It Matters\n\n\n\n\n1–2\nLearn how to read and talk about case studies.\nYou’ll use the same skills when you write your own case later.\n\n\n2\nGet your mentor and pod assignment.\nThis is the group you’ll work with all semester.\n\n\n3–4\nStart Fishbowl discussions and write weekly reflections.\nPractice finding the main challenge in a case and asking good questions.\n\n\n3–5\nMeet your mentor and start research.\nThis info will go in the background section of your case.\n\n\n4–6\nRecord your podcast episode.\nThe interview will help you find a challenge or decision for your case.\n\n\n6–8\nFinish podcast show notes.\nPractice summarizing a story clearly — you’ll do this for your case too.\n\n\n9\nWrite a short paragraph about your case idea.\nGets your topic approved before you start writing.\n\n\n11\nCreate an outline for your case.\nHelps you organize the story and find missing details.\n\n\n12–13\nShare your outline with your mentor.\nThey can check that it’s accurate and realistic.\n\n\n14\nMake slides and practice your presentation.\nYou’ll use these for the final competition.\n\n\n15\nPresent your case and turn in all materials.\nThis is your final project for the semester."
   },
   {
     "objectID": "2025/schedule.html",
@@ -1227,70 +1241,70 @@
   {
     "objectID": "cases/templates/case01.html#case-summary",
     "href": "cases/templates/case01.html#case-summary",
-    "title": "Fishbowl Discussion Guide",
+    "title": "Stirring the (Lobster) Pot — A Podcase with Luke’s Lobster",
     "section": "Case Summary",
     "text": "Case Summary\n\nLuke’s Lobster is a fast-growing restaurant business specializing in sustainably sourced lobster rolls and seafood.\nFounder Luke Holden built the company around quality sourcing, a consistent customer experience, and strong supplier relationships.\nAs the business expands, Luke faces decisions on how to grow without compromising values or diluting the brand experience."
   },
   {
     "objectID": "cases/templates/case01.html#fishbowl-team-will-lead-the-discussion-by-answering",
     "href": "cases/templates/case01.html#fishbowl-team-will-lead-the-discussion-by-answering",
-    "title": "Fishbowl Discussion Guide",
+    "title": "Stirring the (Lobster) Pot — A Podcase with Luke’s Lobster",
     "section": "Fishbowl team will lead the discussion by answering:",
     "text": "Fishbowl team will lead the discussion by answering:\n\nWhat’s going on in this case?\n\nWhy is each detail in the case important?\n\nWhich big-picture themes (e.g., sustainability, brand integrity, growth strategy) are present?\n\nAre there any contradictions or unexpected points? For example: rapid expansion vs. artisanal sourcing."
   },
   {
     "objectID": "cases/templates/case01.html#key-players-and-evidence",
     "href": "cases/templates/case01.html#key-players-and-evidence",
-    "title": "Fishbowl Discussion Guide",
-    "section": "Key players and evidence:",
-    "text": "Key players and evidence:\n\nKey players: Luke Holden (founder), fishermen/suppliers, restaurant staff, customers, investors.\nEvidence categories:\n\nSupply chain practices: direct relationships with fishermen, traceable sourcing.\n\nCustomer satisfaction metrics: repeat visits, reviews, social media sentiment.\n\nBrand reputation factors: media coverage, awards, sustainability certifications."
+    "title": "Stirring the (Lobster) Pot — A Podcase with Luke’s Lobster",
+    "section": "Key players and evidence",
+    "text": "Key players and evidence\n\nKey players: Luke Holden (founder), fishermen/suppliers, restaurant staff, customers, investors.\nEvidence categories:\n\nSupply chain practices: direct relationships with fishermen, traceable sourcing.\n\nCustomer satisfaction metrics: repeat visits, reviews, social media sentiment.\n\nBrand reputation factors: media coverage, awards, sustainability certifications."
   },
   {
     "objectID": "cases/templates/case01.html#look-for-case-specific-insights",
     "href": "cases/templates/case01.html#look-for-case-specific-insights",
-    "title": "Fishbowl Discussion Guide",
-    "section": "Look for case-specific insights:",
-    "text": "Look for case-specific insights:\n\nWhich exhibits provide data on sourcing, pricing, or market trends?\n\nWhat patterns are visible over time (e.g., revenue growth vs. expansion pace)?\n\nHow do these exhibits connect to restaurant and hospitality management concepts like customer lifetime value or service consistency?"
+    "title": "Stirring the (Lobster) Pot — A Podcase with Luke’s Lobster",
+    "section": "Look for case-specific insights",
+    "text": "Look for case-specific insights\n\nWhich exhibits provide data on sourcing, pricing, or market trends?\n\nWhat patterns are visible over time (e.g., revenue growth vs. expansion pace)?\n\nHow do these exhibits connect to restaurant and hospitality management concepts like customer lifetime value or service consistency?"
   },
   {
     "objectID": "cases/templates/case01.html#link-back-to-course-content",
     "href": "cases/templates/case01.html#link-back-to-course-content",
-    "title": "Fishbowl Discussion Guide",
-    "section": "Link back to course content:",
-    "text": "Link back to course content:\n\nStakeholder theory — weighing needs and trade-offs among diverse groups.\nSERVQUAL model — dimensions of service quality: reliability, responsiveness, assurance, empathy, tangibles.\nRelationship marketing — building long-term loyalty through trust and consistent experiences."
+    "title": "Stirring the (Lobster) Pot — A Podcase with Luke’s Lobster",
+    "section": "Link back to course content",
+    "text": "Link back to course content\n\nStakeholder theory — weighing needs and trade-offs among diverse groups.\nSERVQUAL model — dimensions of service quality: reliability, responsiveness, assurance, empathy, tangibles.\nRelationship marketing — building long-term loyalty through trust and consistent experiences."
   },
   {
     "objectID": "cases/templates/case01.html#in-running-a-restaurant-why-is-it-necessary-to-consider-what-the-customer-experience-should-be",
     "href": "cases/templates/case01.html#in-running-a-restaurant-why-is-it-necessary-to-consider-what-the-customer-experience-should-be",
-    "title": "Fishbowl Discussion Guide",
+    "title": "Stirring the (Lobster) Pot — A Podcase with Luke’s Lobster",
     "section": "In running a restaurant, why is it necessary to consider what the customer experience should be?",
     "text": "In running a restaurant, why is it necessary to consider what the customer experience should be?\nFacilitator Tip:\nEncourage the group to think beyond just food — consider ambiance, service, wait times, pricing, and emotional connection.\nAsk: “If you were a repeat customer, what would bring you back?”\nPush them to link customer experience to loyalty, word-of-mouth marketing, and online reviews."
   },
   {
     "objectID": "cases/templates/case01.html#why-are-relationships-valuable-in-lukes-business",
     "href": "cases/templates/case01.html#why-are-relationships-valuable-in-lukes-business",
-    "title": "Fishbowl Discussion Guide",
+    "title": "Stirring the (Lobster) Pot — A Podcase with Luke’s Lobster",
     "section": "Why are relationships valuable in Luke’s business?",
     "text": "Why are relationships valuable in Luke’s business?\nFacilitator Tip:\nGuide students to consider relationships with suppliers, fishermen, employees, customers, and investors.\nAsk: “What happens if any one of these relationships weakens?”\nPrompt discussion about trust, reliability, and long-term partnerships in food businesses."
   },
   {
     "objectID": "cases/templates/case01.html#how-might-a-stakeholder-perspective-influence-the-way-lukes-lobster-operates",
     "href": "cases/templates/case01.html#how-might-a-stakeholder-perspective-influence-the-way-lukes-lobster-operates",
-    "title": "Fishbowl Discussion Guide",
+    "title": "Stirring the (Lobster) Pot — A Podcase with Luke’s Lobster",
     "section": "How might a stakeholder perspective influence the way Luke’s Lobster operates?",
     "text": "How might a stakeholder perspective influence the way Luke’s Lobster operates?\nFacilitator Tip:\nAsk students to identify all stakeholders (suppliers, staff, customers, community, investors, environment).\nExplore trade-offs: How might a decision that benefits investors impact employees or sourcing practices?\nPush them to think about balancing multiple, sometimes conflicting, interests."
   },
   {
     "objectID": "cases/templates/case01.html#facilitate-toward-a-decision",
     "href": "cases/templates/case01.html#facilitate-toward-a-decision",
-    "title": "Fishbowl Discussion Guide",
-    "section": "Facilitate toward a decision:",
-    "text": "Facilitate toward a decision:\n\nShould Luke prioritize rapid expansion, or protect the brand through slower growth?\n\nWhat criteria should drive the decision — profitability, sustainability, customer loyalty, brand strength?\n\nWhat are alternative growth paths: franchising, regional focus, diversifying the menu, or strategic partnerships?"
+    "title": "Stirring the (Lobster) Pot — A Podcase with Luke’s Lobster",
+    "section": "Facilitate toward a decision",
+    "text": "Facilitate toward a decision\n\nShould Luke prioritize rapid expansion, or protect the brand through slower growth?\n\nWhat criteria should drive the decision — profitability, sustainability, customer loyalty, brand strength?\n\nWhat are alternative growth paths: franchising, regional focus, diversifying the menu, or strategic partnerships?"
   },
   {
     "objectID": "cases/templates/case01.html#conclude-with-recommendations-and-class-insights",
     "href": "cases/templates/case01.html#conclude-with-recommendations-and-class-insights",
-    "title": "Fishbowl Discussion Guide",
+    "title": "Stirring the (Lobster) Pot — A Podcase with Luke’s Lobster",
     "section": "Conclude with recommendations and class insights:",
     "text": "Conclude with recommendations and class insights:\n\nBalancing growth with brand integrity requires careful trade-offs.\n\nStrong stakeholder relationships are a competitive advantage, not just “nice to have.”\n\nConsistency in customer experience is critical to sustaining loyalty and brand reputation.\n\nStrategic growth decisions should align with both values and market opportunities."
   },
@@ -1691,7 +1705,7 @@
     "href": "podcast/podcast-instructions.html#logistics",
     "title": "From Listener to Producer",
     "section": "Logistics",
-    "text": "Logistics\n\nRecording Location: CSU Library Podcast Studio\n\nLength: 30-40 minutes\n\nDeadline: Varies by group – schedule with your mentor and instructor\n\nSubmission: Final show notes uploaded via Canvas"
+    "text": "Logistics\n\nLength: 30-40 minutes\n\nDeadline: Varies by group – schedule with your mentor and instructor\n\nSubmission: Final show notes uploaded via Canvas\n\nRecording Location: CSU Recording Studio (Address: 2301 Research Blvd, Fort Collins, CO, 80526)"
   },
   {
     "objectID": "podcast/podcast-instructions.html#how-youll-be-graded",
