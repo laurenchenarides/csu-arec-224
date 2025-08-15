@@ -105,6 +105,47 @@ All assignments—quizzes, reflections, case write-ups, and project materials—
 - All graded components are weighted individually and not curved.
 - Participation in both Fishbowl and Observer roles is required for passing the course.
 
+::: {.callout-important icon=false title="Administration of Online Quizzes"}
+
+### LockDown Browser Requirement
+
+This course requires the use of LockDown Browser for online quizzes. Watch this video to get a basic understanding of LockDown Browser:
+
+[https://www.respondus.com/products/lockdown-browser/student-movie.shtml](https://www.respondus.com/products/lockdown-browser/student-movie.shtml)
+
+### Download Instructions
+
+Download and install LockDown Browser from this link:
+
+[https://download.respondus.com/lockdown/download.php?id=787854830](https://download.respondus.com/lockdown/download.php?id=787854830)
+
+**Once Installed**
+
+1. Start LockDown Browser
+2. Log into to Canvas
+3. Navigate to the quiz
+
+> Note: You won't be able to access an quiz that requires LockDown Browser with a standard web browser. If this is tried, an error message will indicate that the test requires the use of LockDown Browser. Simply start LockDown Browser and navigate back to the quiz to continue.
+
+### Guidelines
+
+When taking an online quiz follow these guidelines:
+
+1. Before starting the test, know how much time is available for it, and also that you've allotted sufficient time to complete it
+2. Turn off all mobile devices, phones, etc. and don't have them within reach
+3. Clear your area of all external materials - books, papers, other computers, or devices
+4. Remain at your desk or workstation for the duration of the test
+5. LockDown Browser will prevent you from accessing other websites or applications; you will be unable to exit the test until all questions are completed and submitted
+
+### Getting Help
+
+Several resources are available if you encounter problems with LockDown Browser:
+
+- The Windows and Mac versions of LockDown Browser have a "Help Center" button located on the toolbar. Use the "System & Network Check" to troubleshoot issues. If an quiz requires you to use a webcam, also run the "Webcam Check" from this area
+- Respondus has a Knowledge Base available from <support.respondus.com>. Select "LockDown Browser & Respondus Monitor" as the product to view helpful articles.
+- If you're still unable to resolve a technical issue with LockDown Browser, go to support.respondus.com and select "Submit a Ticket". Provide detailed information about your problem and what steps you took to resolve it
+:::
+
 {{< include /files/includes/_absencepolicy.qmd >}}
 
 ## Grading Scale
