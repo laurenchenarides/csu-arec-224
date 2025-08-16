@@ -8,7 +8,7 @@ repo-actions: false
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
 
-Th table below is a week-by-week guide for where you should be in the semester. The **Week** column shows the general time frame, the **What You’ll Do column** lists the main task or milestone to focus on during that period, and the **Why It Matters** column explains how that work connects to your larger projects—your [podcast project](../podcast/podcast-instructions.qmd), [case study discussions](../cases/case-assignment.qmd), and [business case competition](../cases/case-competition). Read it row by row to understand what you should be working on at each stage and how it prepares you for the steps that follow.
+The table below is a week-by-week guide for where you should be in the semester. The **Week** column shows the general time frame, the **What You’ll Do column** lists the main task or milestone to focus on during that period, and the **Why It Matters** column explains how that work connects to your larger projects—your [podcast project](../podcast/podcast-instructions.qmd), [case study discussions](../cases/case-assignment.qmd), and [business case competition](../cases/case-competition). Read it row by row to understand what you should be working on at each stage and how it prepares you for the steps that follow.
 
 | Week      | What You’ll Do                                           | Why It Matters                                                           |
 | --------- | -------------------------------------------------------- | ------------------------------------------------------------------------ |
@@ -27,3 +27,8 @@ Th table below is a week-by-week guide for where you should be in the semester. 
 : {.striped .responsive}
 
 
+<figure style="text-align: center;">
+  <a href="../images/arec224_infographic.png" target="_blank">
+    <img src="../images/arec224_infographic.png" style="width:80%; height:auto;" alt="Semester Checklist">
+  </a>
+</figure>
