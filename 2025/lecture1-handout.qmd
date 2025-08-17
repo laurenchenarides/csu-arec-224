@@ -2,7 +2,7 @@
 title: "Lecture 1"
 description-meta: "Introduction to E_______________"
 author: "Dr. Lauren Chenarides"
-date: August ____, ____
+date: August 26, 2025
 date-format: long
 image: "/images/01entrepreneur.png"
 page-meta:
@@ -25,69 +25,62 @@ execute:
 
 Hello! I'm Dr. Chenarides.
 
-This is **AREC ____-A1/____ Introduction to Agribusiness E_______________** (3 credits).
+This is **AREC 280-A1/224 Introduction to Agribusiness Entrepreneurship** (3 credits).
 
-We meet **T & Th 8:____ am--9: ____ am**.
+We meet **T & Th 8:00 am--9: 15 am**.
 
 
 ## What to Expect
 
 [Course website](https://laurenchenarides.github.io/csu-arec-224/)
 
-## Lecture 1: Introduction to E_______________
+## Lecture 1: Introduction to Entrepreneurship
 
-**Textbook Reading (Quiz Basis)** <br>
-Chapter 1. E_______________: Evolutionary Development—Revolutionary Impact
+**Textbook Reading (Quiz Basis)** 
+
+Chapter 1. Entrepreneurship: Evolutionary Development—Revolutionary Impact
 
 ::: {.callout-note icon=false title="Lecture Agenda"}
-- Part 1: Interesting Statistics about U.S. E_______________
+- Part 1: Interesting Statistics about U.S. Entrepreneurship
 - Part 2: Major Types of Entrepreneurial Ventures
 - Part 3: Cultivating an Entrepreneurial Mindset
-::: 
+:::
 
 ::: footer
 Source: @kuratko2024
-::: 
+:::
 
 ## Chapter Objectives
 
 - 1.1 Identify the major types of entrepreneurial ventures.
-- 1.2 Examine the historical development of E_______________.
-- 1.3 Summarize the myths of E_______________.
+- 1.2 Examine the historical development of entrepreneurship.
+- 1.3 Summarize the myths of entrepreneurship.
 - 1.4 Define the major schools of entrepreneurial thought.
-- 1.5 Explain the process and framework approaches to the study of E_______________.
-- 1.6 Paraphrase a comprehensive definition of E_______________.
+- 1.5 Explain the process and framework approaches to the study of entrepreneurship.
+- 1.6 Paraphrase a comprehensive definition of entrepreneurship.
 - 1.7 Examine the entrepreneurial revolution taking place today.
 - 1.8 Illustrate today’s entrepreneurial environment.
-- 1.9 Outline the trends in E_______________ research.
-- 1.____ Examine the future trajectory of E_______________.
-- 1.____ Define the key concepts in E_______________.
+- 1.9 Outline the trends in entrepreneurship research.
+- 1.10 Examine the future trajectory of entrepreneurship.
+- 1.11. Define the key concepts in entrepreneurship.
 
-# Part 1: <br> Interesting Statistics about U.S. E_______________
+# Part 1: <br> Interesting Statistics about U.S. Entrepreneurship
 
 ## Some Interesting Statistics About U.S. Entrepreneurial Activity (1/2)
 
 <small>Guess before the number appears!</small>
 
-- **How many e______________ are there in the U.S.?**  
+- **How many entrepreneurs are there in the U.S.?**  
 
-  
-  ____ million  
-
+________
 
 - **What percent of adults have started at least one business?**  
 
-  
-  ____%  
-
-
+________
 
 - **What percent have started two or more businesses?**  
 
-  
-  ____%
-
-
+________
 
 ## Some Interesting Statistics About U.S. Entrepreneurial Activity (2/2)
 
@@ -95,71 +88,68 @@ Source: @kuratko2024
 
 - **What is the average age someone starts their first business?**  
 
-  
-  ____
+________
 
 
 - **How many women-owned businesses exist?**  
 
-  
-  ____ million (as of ____)
+________
 
 
 - **What percent of women-owned businesses are owned by women of color?**  
 
-  
-  ____%
+________
 
 
 ## One More Interesting Statistic
 
 ::: {.columns}
 
-::: {.column width="50%"}
-I started my first business in ____. 👉 
-::: 
+::: {.column width="40%"}
+I started my first business in ________. 👉 
+:::
 
-::: {.column width="50%"}
+::: {.column width="60%"}
 
-
+::: {.fragment}
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="../images/best-local.png" style="max-width: ____%; max-height: 750px;" />
+  <img src="../images/best-local.png" style="max-width: 100%; max-height: 750px;" />
 </div>
-::: 
-::: 
+:::
+
+:::
+
+:::
+
+## Twenty-First-Century Trends in Entrepreneurship Research (1 of 2)
+
+- ________________________ including venture capital and angel capital financing and other financing techniques strengthened in the 1990s.
+- ________________________ and the need for entrepreneurial cultures have drawn increased attention.
+- ________________________ has unprecedented strength within the new generation of entrepreneurs.
+- ________________________ is providing new insights into the psychological aspects of the entrepreneurial process.
 
 
+## Twenty-First-Century Trends in Entrepreneurship Research (2 of 2)
 
-
-## Twenty-First-Century Trends in E_______________ Research (1 of 2)
-
-- Venture financing including venture capital and angel capital financing and other financing techniques strengthened in the 1990s.
-- Corporate E_______________ and the need for entrepreneurial cultures have drawn increased attention.
-- Social E_______________ has unprecedented strength within the new generation of e______________.
-- Entrepreneurial cognition is providing new insights into the psychological aspects of the entrepreneurial process.
-
-
-## Twenty-First-Century Trends in E_______________ Research (2 of 2)
-
-- Women and minority e______________ appear to face obstacles and difficulties different from those that other e______________ face.
-- The global entrepreneurial movement is increasing.
-- Family businesses have become a stronger focus of research.
-- Entrepreneurial education has become one of the hottest topics in business and engineering schools throughout the world.
+- ________ and ________________ appear to face obstacles and difficulties different from those that other entrepreneurs face.
+- The ________________________ movement is increasing.
+- ________________ have become a stronger focus of research.
+- ________________ has become one of the hottest topics in business and engineering schools throughout the world.
 
 ## The Impact of Entrepreneurial Ventures in the United States
 
-- The number of business declined by over ____% during the pandemic
-- However, in ____, large growth in new business applications
-- Now more than ____ million e______________
-- Nearly 1.3 million women-owned businesses, growing faster than total businesses.
-- Number of Latino business owners grew ____ percent.
-- Asian e______________ run ____ percent of all businesses.
+- The number of business declined by over ________ during the pandemic
+- However, in 2021, large growth in ________________ applications
+- Now more than ________________ entrepreneurs
+- Nearly ________________ women-owned businesses, growing faster than total businesses.
+- Number of ________ business owners grew 34 percent.
+- Asian entrepreneurs run ________________ of all businesses.
 
 ## The Entrepreneurial Revolution
 
-- E_______________ is the symbol of business tenacity and achievement.
-- E______________ were the pioneers of today’s business successes.
-- In post-pandemic world, e______________ will continue to be critical contributors to economic growth through:
+- Entrepreneurship is the symbol of business tenacity and achievement.
+- Entrepreneurs were the pioneers of today’s business successes.
+- In post-pandemic world, entrepreneurs will continue to be critical contributors to economic growth through:
   - leadership and management
   - innovation and research and development effectiveness
   - job creation, competitiveness, productivity, and the formation of new industries.
@@ -169,37 +159,37 @@ I started my first business in ____. 👉
 
 ## There are four main types of entrepreneurial ventures.
 
-- Survival ventures
-- Lifestyle ventures
-- Managed growth ventures
-- Aggressive growth ventures
+- ________________ ventures
+- ________________ ventures
+- ________________ ventures
+- ________________ ventures
 
-## Survival Venture
+## ________________ Venture
 
-These ventures are started out of necessity and usually generate just enough income to support the e_____________ and their household.
+These ventures are started out of necessity and usually generate just enough income to support the entrepreneur and their household.
 
 
 
-## Example: **L__ P______** 
+## Example: **La Piadina** 
 
 Started as a food truck serving Italian flatbreads in Fort Collins, launched by two founders with a passion for bringing Romagna-style street food to the area. 
 
 Initially operated with limited staff and resources, focusing on local events and markets.
 
-Represents a grassroots approach to e_______________, often with family labor and a bootstrapped budget.
+Represents a grassroots approach to entrepreneurship, often with family labor and a bootstrapped budget.
 
 Over time, the business grew into a permanent brick-and-mortar location — a transition that many survival ventures aspire to.
 
 
 
-## Lifestyle Venture
+## ________________ Venture
 
 These ventures prioritize personal goals over business growth, often aligning with a preferred way of living.
 
 Income is stable and sufficient, but growth is not the main objective.
 
 
-## Example: **J____ F_____** 
+## Example: **Jodar Farms** 
 
 A pasture-raised poultry and egg farm just outside Fort Collins, selling direct-to-consumer and at local farmers’ markets. 
 
@@ -208,12 +198,12 @@ Focuses on sustainable practices and local relationships over aggressive scaling
 Supports a lifestyle of land stewardship, food quality, and local identity.
 
 
-## Managed Growth Venture
+## ________________ Venture
 
 These businesses aim for moderate and steady growth, often by formalizing operations and expanding reach.
 
 
-## Example: **S______, an A.M. Eatery** 
+## Example: **Snooze, an A.M. Eatery** 
 
 Founded in Denver as a single breakfast spot and grew into a regional chain with sustainability commitments and community engagement baked into its business model.
 
@@ -222,90 +212,88 @@ Combines professional management and expansion with intentional values (e.g., wa
 Uses operational scale but avoids a “fast food” model.
 
 
-## Aggressive Growth Venture
+## ________________ Venture
 
 These are high-growth, scalable businesses that often seek venture capital or rapid market expansion.
 
 Emphasizes innovation, rapid scaling, and market disruption.
 
 
-
-## Example: **P_____** 
+## Example: **Plenty** 
 
 A vertical farming startup based in San Francisco using robotics and AI to grow leafy greens in indoor controlled environments.
 
 Backed by SoftBank, Jeff Bezos, and others; positioned to disrupt traditional ag supply chains.
 
 
-## Special Case of Agressive Growth Ventures: *G_______*
+## Special Case of Agressive Growth Ventures: *________________*
 
-- A business establishment with at least ____ percent sales growth in each year for 5 years, starting with a base of at least $____,____ in annual sales.
-- G_______ as leaders in innovation:
-  - Median growth of ____ percent
-  - Top-performing 1 percent of companies account for about ____ percent of jobs.
-  - G_______ make up less than 1 percent of all businesses and account for ____ percent of net new jobs.
+- A business establishment with at least 20 percent sales growth in each year for 5 years, starting with a base of at least $100,000 in annual sales.
+- Gazelles as leaders in innovation:
+  - Median growth of 450 percent
+  - Top-performing 1 percent of companies account for about 40 percent of jobs.
+  - Gazelles make up less than 1 percent of all businesses and account for 10 percent of net new jobs.
 
 
-::: {.callout-note icon=false title="Mythology Associated with G_______"}
-- G_______ are the goal of all e______________.
-- G_______ receive venture capital.
-- G_______ were never mice.
-- G_______ are high tech.
-- G_______ are global.
-::: 
+::: {.callout-note icon=false title="Mythology Associated with ________________"}
+- Gazelles are the goal of all entrepreneurs.
+- Gazelles receive venture capital.
+- Gazelles were never mice.
+- Gazelles are high tech.
+- Gazelles are global.
+:::
 
-## Special Case of Agressive Growth Ventures: *U________*
+## Special Case of Agressive Growth Ventures: *________________*
 
 - A pre-IPO^[IPO="Initial Public Offering"] (private) tech start-up company with a $1 billion market value.
-- In ____, 1,____ start-ups were U________.
+- In 2023, 1,191 start-ups were unicorns.
 
-::: {.callout-note icon=false title="D_________ and H__________"}
-- A “decacorn”
-  - Start-ups with a $____ billion or more market value.
+:::{.callout-note icon=false title="Decacorns and Hectacorns"}
+- A “________________”
+  - Start-ups with a $10 billion or more market value.
   - Examples: Facebook, Uber (taxis), and Airbnb (hotels)
-- A “hectacorn” is valued at $____ billion or more.
-::: 
+- A “________________” is valued at $100 billion or more.
+:::
 
 
-## The Case of P_____
+## The Case of Plenty
 
-After raising $1B in funding, P_____ filed for bankruptcy in March ____.
+After raising $1B in funding, Plenty filed for bankruptcy in March 2025.
 
-
-However, the company has re-emerged after company restructuring (as of May ____).  
-[Read the PR Newswire article](https://www.prnewswire.com/news-releases/P_____-undertakes-restructuring-process-to-support-focus-on-premium-strawberry-market-____.html)
-
+However, the company has re-emerged after company restructuring (as of May 2025).  
+[Read the PR Newswire article](https://www.prnewswire.com/news-releases/plenty-undertakes-restructuring-process-to-support-focus-on-premium-strawberry-market-302408630.html)
 
 
-## What Bankruptcy Means for P_____
+## What Bankruptcy Means for Plenty
 
 | **What it Means**         | **Details**                                                                 |
 |---------------------------|------------------------------------------------------------------------------|
-| **Out of cash**           | P_____ can no longer meet its financial obligations (e.g., rent, salaries, supplier payments). |
-| **Court protection**      | Bankruptcy gives the company legal protection from creditors while it reorganizes its finances. |
-| **Debts frozen**          | Debt collection is paused, giving the company time to develop a recovery or liquidation plan. |
-| **Equity holders lose**   | Investors (like SoftBank, Bezos Expeditions) may lose most or all of their investment. |
-| **Restructuring**         | The company may sell off assets, renegotiate contracts, lay off workers, or change its business model. |
+| **________________**           | Plenty can no longer meet its financial obligations (e.g., rent, salaries, supplier payments). |
+| **________________**      | Bankruptcy gives the company legal protection from creditors while it reorganizes its finances. |
+| **________________**          | Debt collection is paused, giving the company time to develop a recovery or liquidation plan. |
+| **________________**   | Investors (like SoftBank, Bezos Expeditions) may lose most or all of their investment. |
+| **________________**         | The company may sell off assets, renegotiate contracts, lay off workers, or change its business model. |
 
 
-## What Bankruptcy for P_____ Tells Us About Agribusiness Startups
+## What Bankruptcy for Plenty Tells Us About Agribusiness Startups
 
-P_____ raised nearly **$1 billion** in venture capital and still went bankrupt. That highlights:
+Plenty raised nearly **$1 billion** in venture capital and still went bankrupt. That highlights:
 
-- **High capital intensity**: Vertical farming requires massive investment in infrastructure, energy, and automation.  
-- **Scale ≠ success**: Being a “unicorn” (valued over $1B) doesn’t guarantee product-market fit or profitability.  
-- **Unit economics matter**: If the cost to grow and deliver produce exceeds what consumers will pay, it’s not sustainable.  
-- **Supply chain complexity**: Even with tech and AI, perishable products and logistics remain challenging.  
-- **Vulnerability to macro forces**: Energy costs, inflation, labor, and competition can undermine a well-funded startup.
+- **________________________**: Vertical farming requires massive investment in infrastructure, energy, and automation.  
+- **________________________**: Being a “unicorn” (valued over $1B) doesn’t guarantee product-market fit or profitability.  
+- **________________________**: If the cost to grow and deliver produce exceeds what consumers will pay, it’s not sustainable.  
+- **________________________**: Even with tech and AI, perishable products and logistics remain challenging.  
+- **________________________________**: Energy costs, inflation, labor, and competition can undermine a well-funded startup.
+
 
 
 
 ## Do Most Entrepreneurial Initiatives Fail? 
 
-Data from the [*Kauffman Indicators of E_______________*](https://indicators.kauffman.org/) shows that in the state of Colorado, the startup early survival rate is **____.____%**, compared to the national average of **____.____%**.
+Data from the [*Kauffman Indicators of Entrepreneurship*](https://indicators.kauffman.org/) shows that in the state of Colorado, the startup early survival rate is **________________**, compared to the national average of **________________**.
 
 ```{=html}
-<iframe src="https://indicators.kauffman.org/state/colorado" width="____%" height="600px"></iframe>
+<iframe src="https://indicators.kauffman.org/state/colorado" width="100%" height="600px"></iframe>
 ```
 
 
@@ -341,7 +329,7 @@ ggplot(df, aes(x = Date)) +
   guides(color = guide_legend(override.aes = list(linetype = c("solid","dashed","dotdash"))))
 ```
 
-<small> Figure plots the number of new businesses applications filed in Colorado (left axis) and the number of new business applications specifically in Agriculture (NAICS ____) & Retail Trade (NAICS ____-____) (right axis). Source: Business Formation Statistics [Time Series / Trend Charts](https://www.census.gov/econ/currentdata/?programCode=BFS&startYear=____&endYear=____&categories[]=TOTAL&dataType=BA_BA&geoLevel=US&adjusted=1&notAdjusted=1&errorData=0).</small>
+<small> Figure plots the number of new businesses applications filed in Colorado (left axis) and the number of new business applications specifically in Agriculture (NAICS 11) & Retail Trade (NAICS 44-45) (right axis). Source: Business Formation Statistics [Time Series / Trend Charts](https://www.census.gov/econ/currentdata/?programCode=BFS&startYear=2004&endYear=2025&categories[]=TOTAL&dataType=BA_BA&geoLevel=US&adjusted=1&notAdjusted=1&errorData=0).</small>
 
 ## Entrepreneurial Ventures in the United States
 
@@ -349,19 +337,18 @@ Reasons for the exceptional entrepreneurial activity in the United States includ
 
   - A national culture that supports risk-taking and -seeking opportunities.
   - Americans’ alertness to unexploited economic opportunity and a low fear of failure.
-  - U.S. leadership in E_______________ education at both the undergraduate and graduate levels.
-  - A high percentage of individuals with professional, technological, or business degrees who are likely to become e______________.
+  - U.S. leadership in entrepreneurship education at both the undergraduate and graduate levels.
+  - A high percentage of individuals with professional, technological, or business degrees who are likely to become entrepreneurs.
 
-## Why Economists are Interested in E_______________
+## Why Economists are Interested in Entrepreneurship
 
 New ventures can change the market structure by shifting supply or introducing entirely new supply curves, as well as generate demand. 
 
 This happens via:
 
-- Market entry and exit
-- Pricing and competition
-- Consumer access and innovation
-
+- Market ________ and ________
+- Pricing and ________________
+- Consumer access and ________________
 
 
 ::: {.callout-note icon=false title="Entrepreneurial Firms’ Economic Impact"}
@@ -370,18 +357,18 @@ Entrepreneurial firms make two indispensable contributions to an economy:
 
 - They are an integral part of the renewal process that pervades and defines market economies.
 - They are fundamental mechanism by which millions enter the economic and social mainstream of society.
-::: 
+:::
 
 
 # Part 3: <br> Cultivating an Entrepreneurial Mindset
 
-## Origins of E_______________
+## Origins of Entrepreneurship
 
-- E_____________ is derived from the French *entreprendre*, meaning “to undertake.”
-- The e_____________ is **one who undertakes** to organize, manage, and assume the risks of a business.
-- Although no single definition of e_____________ exists and no one profile can represent today’s e______________, research is providing an increasingly sharper focus on the subject.
+- Entrepreneur is derived from the French *entreprendre*, meaning “________________________.”
+- The entrepreneur is **one who undertakes** to organize, manage, and assume the risks of a business.
+- Although no single definition of entrepreneur exists and no one profile can represent today’s entrepreneurs, research is providing an increasingly sharper focus on the subject.
 
-## E______________ are Breakthrough Innovators
+## Entrepreneurs are Breakthrough Innovators
 
 ::: {.columns}
 
@@ -389,57 +376,57 @@ Entrepreneurial firms make two indispensable contributions to an economy:
 - Recognize opportunities where others see chaos, contradiction, or confusion.
 - Are aggressive catalysts for change within the marketplace.
 - Challenge the unknown and continuously create breakthroughs for the future.
-
+:::
 
 ::: {.column width="50%"}
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="../images/mentor-collage.png" style="max-width: ____%; max-height: 750px;" />
+  <img src="../images/mentor-collage.png" style="max-width: 100%; max-height: 750px;" />
 </div>
 
-<small>This semester, you'll be matched with an industry mentor. [Read about the mentors here](https://laurenchenarides.github.io/csu-arec-____/mentors/mentors.html).</small>
-
-::: 
-
-::: 
+<small>This semester, you'll be matched with an industry mentor. [Read about the mentors here](https://laurenchenarides.github.io/csu-arec-224/mentors/mentors.html).</small>
 
 
+:::
 
-## E______________: Two Distinct Paths
+:::
+
+
+## Entrepreneurs: Two Distinct Paths
 
 ::: {.columns}
 
 ::: {.column width="50%"}
-**Small-Business Owners**
+**________________________**
 
 - Manage their businesses by expecting stable sales, profits, and growth.
 - *Stability*
-::: 
+:::
 
 ::: {.column width="50%"}
-**E______________**
+**________________________**
 
 - Focus their efforts on innovation, profitability, and sustainable growth.
 - *Growth*
-::: 
+:::
 
-::: 
+:::
 
-## Variations of E______________
+## Variations of Entrepreneurs
 
-- Millennipreneurs: under age ____
+- Millennipreneurs: under age 35
   - Success based on positive social or environmental impact
-- Ultrapreneurs: focus on environmental and social concerns.
-- Serialpreneurs: have four or more operating companies.
-- Boomerpreneurs: age ____ or older
+- ________________: focus on environmental and social concerns.
+- ________________: have four or more operating companies.
+- Boomerpreneurs: age 55 or older
   - Believe their business has had a positive social impact.
 
-- Among millennials, ____ percent say their goal involves starting their own business.
-- Among Generation Z, ____ percent hope to run their own businesses within ____ years.
+- Among millennials (born between 1981-1996), 67 percent say their goal involves starting their own business.
+- Among Generation Z (born between 1997-2012), 53 percent hope to run their own businesses within 10 years.
 
-## E_______________: A Mindset
+## Entrepreneurship: A Mindset
 
-E_______________ is more than the mere creation of business. 
+Entrepreneurship is more than the mere creation of business. 
 
 It is a *mindset* where one:
 
@@ -447,85 +434,85 @@ It is a *mindset* where one:
 - Takes risks beyond security.
 - Has the tenacity to push an idea through to reality.
 
-**E_______________ is an integrated concept that permeates an individual’s business in an innovative manner.**
+**Entrepreneurship is an integrated concept that permeates an individual’s business in an innovative manner.**
 
 
-## The Entrepreneurial Process: <br> Employee vs. E_____________ Mindset
+## The Entrepreneurial Process: <br> Employee vs. Entrepreneur Mindset
 
-- Becoming on e_____________ is less about the money, the commitment, or the support and **more about the mindset.** 
+- Becoming on entrepreneur is less about the money, the commitment, or the support and **more about the mindset.** 
 
-- It revolves around shifting from an employee mindset to an e_____________ mindset. 
+- It revolves around shifting from an employee mindset to an entrepreneur mindset. 
 
-**The more a person can change their mindset from employee to e_____________, the more they will be able to find satisfaction in e_______________.**
+**The more a person can change their mindset from employee to entrepreneur, the more they will be able to find satisfaction in entrepreneurship.**
 
 ## The Entrepreneurial Mindset Transformation
 
-- E_______________ is more than just creating a business; it is an actual spiritual and emotional transformation that takes you from on established way of thinking to a new, groundbreaking mentality. 
+- Entrepreneurship is more than just creating a business; it is an actual spiritual and emotional transformation that takes you from on established way of thinking to a new, groundbreaking mentality. 
 
-- An e_____________ must get comfortable with being uncomfortable and be able to deal with fear. 
+- An entrepreneur must get comfortable with being uncomfortable and be able to deal with fear. 
 
-- E_______________, in whatever capacity or form it shows itself in, is risky and fear inducing. 
+- Entrepreneurship, in whatever capacity or form it shows itself in, is risky and fear inducing. 
 
 - It does not matter if you are selling lemonade in your backyard as a kid, writing your first book, or hustling to market your brand after hours. 
 
 
 ::: footer
 Source: @enetwork2017mindset
-::: 
+:::
 
 
 
-# Summary Description of E_______________
+# Summary Description of Entrepreneurship
 
-## Our working definition of "E_______________"
+## Our working definition of "Entrepreneurship"
 
-**E_______________** is...
+**Entrepreneurship** is...
 
-- The dynamic process of creating incremental wealth through vision, change, and creation
+- The ________________________________________________________________________________________________________________________
 - This wealth is created by individuals who assume major risks in terms of equity, time, and/or career commitment of providing value for a product or service.
-- The product or service itself may or may not be new or unique, but the e_____________ must somehow infuse value by securing and allocating the necessary skills and resources.
+- The product or service itself may or may not be new or unique, but the entrepreneur must somehow infuse value by securing and allocating the necessary skills and resources.
 
-::: {.callout-note icon=false title="Ingredients of E_______________"}
+::: {.callout-note icon=false title="Ingredients of Entrepreneurship"}
 
-What does it take to be an e_____________?
+What does it take to be an entrepreneur?
 
-- Willingness to take calculated risks—in terms of time, equity, or career
+- Willingness to take ________________—in terms of time, equity, or career
 - Ability to formulate an effective venture team
 - Creative skill to marshal needed resources
 - Fundamental skills of building a solid business plan
 - Vision to recognize opportunity where others see chaos, contradiction, and confusion
-::: 
+:::
 
-## Research on E_______________ seeks to examine all facets of the topic
+## Research on Entrepreneurship seeks to examine all facets of the topic
 
 ::: {.callout-note icon=false title="A Framework-of-Frameworks Approach"}
-There are different schools of thought and process models that fit into the larger study of E_______________. 
+There are different schools of thought and process models that fit into the larger study of entrepreneurship. 
 
 This framework brings together both macro and micro perspectives:
 
-- On the **macro side**, it includes external influences like culture, capital access, and economic conditions (i.e., things outside the e_____________’s control).
+- On the **________ side**, it includes external influences like culture, capital access, and economic conditions (i.e., things outside the entrepreneur’s control).
 
-- On the **micro side**, it focuses on internal traits and strategic thinking—things like personal motivation, opportunity recognition, and business planning.
+- On the **________ side**, it focuses on internal traits and strategic thinking—things like personal motivation, opportunity recognition, and business planning.
 
-- It also includes **process-based** approaches that look at how ventures are formed and evolve over time, emphasizing inputs (like team or resources) and outcomes (like growth or innovation).
+- It also includes **________________________** approaches that look at how ventures are formed and evolve over time, emphasizing ________________ (like team or resources) and ________________ (like growth or innovation).
 
-<small>*Rather than detailing each school here, I encourage you to read the corresponding sections in the textbook. It’s helpful to reference when you start noticing how e______________ are influenced by both their personal traits and their environment — and when we explore business cases later in the semester.*</small>
-::: 
+<small>*Rather than detailing each school here, I encourage you to read the corresponding sections in the textbook. It’s helpful to reference when you start noticing how entrepreneurs are influenced by both their personal traits and their environment — and when we explore business cases later in the semester.*</small>
+:::
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="../images/01frameworks.png" style="max-width: ____%; max-height: 750px;" />
+  <img src="../images/01frameworks.png" style="max-width: 100%; max-height: 750px;" />
 </div>
 
 
 
-## Key E_______________ Concepts
+## Key Entrepreneurship Concepts
 
 | **Concept**               | **Important Takeaways** |
 |-----------------|------------------------------------|
-| **E_______________**      | A process of innovation and new-venture creation across four dimensions — individual, organizational, environmental, and process — supported by networks in government, education, and institutions. |
-| **E_____________**          | A catalyst for economic change who relies on purposeful searching, careful planning, and sound judgment in executing the entrepreneurial process. |
-| **Entrepreneurial Discipline** | The core principles of E_______________ apply across sectors — business, nonprofit, public or private. The types of innovation and where to find them are largely consistent. |
-| **Entrepreneurial Leadership** | Involves both the capacity to lead and the willingness to take risks. Measured through opportunity recognition, drive to innovate, and ability to accomplish goals. Increasingly important in the 21st century. |
+| **________________________**      | A process of innovation and new-venture creation across four dimensions — individual, organizational, environmental, and process — supported by networks in government, education, and institutions. |
+| **________________________**          | A catalyst for economic change who relies on purposeful searching, careful planning, and sound judgment in executing the entrepreneurial process. |
+| **________________________________** | The core principles of entrepreneurship apply across sectors — business, nonprofit, public or private. The types of innovation and where to find them are largely consistent. |
+| **________________________________** | Involves both the capacity to lead and the willingness to take risks. Measured through opportunity recognition, drive to innovate, and ability to accomplish goals. Increasingly important in the 21st century. |
 
 ## Group Activity: Human Tic-Tac-Toe
 
@@ -546,16 +533,16 @@ Ask follow-up questions—get to know each other!
 ## Summary
 
 - 1.1 Identify the major types of entrepreneurial ventures.
-- 1.2 Examine the historical development of E_______________.
-- 1.3 Summarize the myths of E_______________.
+- 1.2 Examine the historical development of entrepreneurship.
+- 1.3 Summarize the myths of entrepreneurship.
 - 1.4 Define the major schools of entrepreneurial thought.
-- 1.5 Explain the process and framework approaches to the study of E_______________.
-- 1.6 Paraphrase a comprehensive definition of E_______________.
+- 1.5 Explain the process and framework approaches to the study of entrepreneurship.
+- 1.6 Paraphrase a comprehensive definition of entrepreneurship.
 - 1.7 Examine the entrepreneurial revolution taking place today.
 - 1.8 Illustrate today’s entrepreneurial environment.
-- 1.9 Outline the trends in E_______________ research.
-- 1.____ Examine the future trajectory of E_______________.
-- 1.____. Define the key concepts in E_______________.
+- 1.9 Outline the trends in entrepreneurship research.
+- 1.10 Examine the future trajectory of entrepreneurship.
+- 1.11. Define the key concepts in entrepreneurship.
 
 
 
@@ -566,8 +553,5 @@ Ask follow-up questions—get to know each other!
 ### References
 
 ::: {#refs}
-::: 
+:::
 
-::: footer
-Back to Title [Slide](lecture1.qmd), All [Lectures](schedule.qmd), or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
-::: 
