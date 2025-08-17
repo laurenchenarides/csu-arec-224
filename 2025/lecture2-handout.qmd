@@ -1,0 +1,618 @@
+---
+title: "Lecture 2"
+description-meta: "The Entrepreneurial Mindset"
+author: "Dr. Lauren Chenarides"
+date: September 2, 2026
+date-format: long
+image: "/images/01entrepreneur.png"
+page-meta:
+  robots: noindex
+format:
+  pdf:
+    documentclass: article
+    geometry: [top=1in, bottom=1in, left=1in, right=1in]
+execute:
+  echo: false      # hide code (set true if you want to show it)
+  warning: false
+  message: false
+---
+
+
+# 
+
+*\[Entrepreneurship\] is so mysterious that we cannot see it or touch it; yet we can feel it and know it exists. It cannot be mined, manufactured, or bought; yet it can be <b>discovered</b>.*
+
+## Lecture 2: The Entrepreneurial Mindset
+
+**Textbook Reading (Quiz Basis)** 
+
+Chapter 2. The Entrepreneurial Mindset in Individuals: Cognition, the Dark Side, and Ethics
+
+> Why I chose this textbook: The chapters in this book focus on learning *the discipline* of entrepreneurship.
+
+::: {.callout-note icon=false title="Lecture Agenda"}
+- Part 1: The Mindset of an Entrepreneur
+- Part 2: The Dark Side of Entrepreneurship
+- Part 3: Entrepreneurial Ethics
+:::
+
+::: footer
+Source: @kuratko2024
+:::
+
+
+## Chapter Objectives
+
+- 2.1 Describe the entrepreneurial mindset and entrepreneurial cognition.
+- 2.2 Identify and discuss the most commonly cited characteristics found in successful entrepreneurs.
+- 2.3 Describe the skills of entrepreneurial hustle and coachability.
+- 2.4 Identify how entrepreneurs deal with failure.
+- 2.5 Describe the entrepreneurial experience.
+- 2.6 Discuss the “dark side” of entrepreneurship.
+- 2.7 Identify and describe the different types of risk entrepreneurs face.
+- 2.8 Describe the major causes of stress for these individuals and the ways they can handle stress.
+- 2.9 Discuss the ethical dilemmas confronting entrepreneurs within a dynamic environment.
+- 2.10 Present strategies for establishing ethical responsibility and leadership.
+- 2.11 Examine entrepreneurial motivation.
+
+# Part 1 <br> The Mindset of an Entrepreneur
+
+## Do entrepreneurs “think” differently?
+
+Perhaps.
+
+This chapter takes a more ______________ look at entrepreneurs and the entrepreneurial ______________.
+
+Research is still needed to determine whether differences are attributable to a cognitive difference or originates from idiosyncratic factors or from the experience of being entrepreneurs.
+
+Let's break down a few key concepts to understand the entrepreneurial mindset...
+
+## Entrepreneurial ______________
+
+To understand how entrepreneurship emerges, let's examine the science of **______________**.
+
+::: {.callout-note icon=false title="*Definition:* ______________"}
+Mental functions, mental processes (thoughts), and mental states of intelligent humans—attention, remembering, producing and understanding language, solving problems, and making decisions.
+:::
+
+::: {.callout-note icon=false title="*Definition:* ____________________________"}
+Knowledge structures that people use to make assessments, judgments, or decisions involving opportunity evaluation, venture creation, and growth.
+:::
+
+A foundation of entrepreneurial thinking is their **ability to ______________**.
+
+::: {.callout-note icon=false title="*Definition:* ______________"}
+The ability to be dynamic, flexible, and self-regulating in one’s cognitions given dynamic and uncertain task environments.
+:::
+
+
+______________ is the model used to describe the process an entrepreneur will use to frame the entrepreneurial task.
+
+::: {.callout-note icon=false title="*Definition:* ______________ Model"}
+Study of the higher-order cognitive process that resulted in the entrepreneur framing a task effectually, and thus why and how a particular strategy was included in a set of alternative responses to the decision task (metacognition).
+:::
+
+
+
+
+## Who Are Entrepreneurs?
+
+They are **optimistic, hard-driving, committed** individuals who derive great satisfaction from being independent.
+:::
+
+They are driven by an **intense commitment** and **determined perseverance**.
+
+
+They use **failure** as a tool for **learning**.
+
+
+They have **confidence** to believe that they personally can make a difference in final outcomes.
+
+
+They have have a **tolerance for failure**. This involves a capacity--often learned--to deal with failure and process grief.
+
+::: {.callout-note icon=false title="*Definition:* ____________________________"}
+Involves focusing on the particular loss to construct an account that explains why the loss occurred.
+:::
+
+::: {.callout-note icon=false title="*Definition:* ____________________________"}
+Involves both distracting oneself from thinking about the failure event and being proactive toward secondary causes of stress.
+:::
+
+
+## The Entrepreneurial Experience
+
+An <u>individual</u> *sees* the opportunity $\rightarrow$ *creates* the venture $\rightarrow$ and the <u>entrepreneur</u> *emerges*.
+
+
+
+## What are Characteristics Often Associated with Entrepreneurs?
+
+Researchers have identified a wide range of entrepreneurial characteristics, many of which can be grouped into a smaller set of core traits. 
+
+:::{.callout-note icon=false title="Table 2.1 Characteristics Often Attributed to Entrepreneurs" collapse=true}
+
+| Characteristic                            |
+|-----------------------------------------|
+| Ability to get along well with people |
+| Ability to influence others |
+| Ability to learn from mistakes |
+| Ability to make decisions quickly |
+| Ability to take calculated risks |
+| Ability to trust workers |
+| Accuracy, thoroughness |
+| Aggressiveness |
+| Capacity for enjoyment |
+| Commitment |
+| Confidence |
+| Cooperativeness |
+| Courage |
+| Creativity |
+| Dynamism, leadership |
+| Efficacy |
+| Egotism |
+| Energy, diligence |
+| Flexibility |
+| Foresight |
+| Honesty, integrity |
+| Imagination |
+| Independence |
+| Initiative |
+| Intelligence |
+| Maturity, balance |
+| Need to achieve |
+| Optimism |
+| Orientation to clear goals |
+| Perceptiveness |
+| Perseverance, determination |
+| Pleasant personality |
+| Positive response to challenges |
+| Sense of power |
+| Profit orientation |
+| Resourcefulness |
+| Responsiveness to suggestions/criticism |
+| Responsibility |
+| Sensitivity to others |
+| Time competence, efficiency |
+| Toleration for ambiguity |
+| Versatility |
+
+:  {tbl-colwidths="[50]"}
+
+<small> Source: John A. Hornaday, “Research about Living Entrepreneurs,” in Encyclopedia of Entrepreneurship, ed. Calvin Kent, Donald Sexton, and Karl Vesper (Englewood Cliffs, NJ: Prentice Hall, 1982), 26–27. Adapted by permission of Prentice Hall, Englewood Cliffs, NJ. </small>
+
+:::
+
+## Most Often Cited Entrepreneurial Characteristics
+
+Each row in the table below represents a *characteristic* you’ll encounter and practice over the course of the semester. Review [Your E-IDP](../mentors/eidp.qmd) on the course website to see how these traits connect to your personal development plan.
+
+:::{.callout-note icon=false title="Entrepreneurial Characteristics for E-IDP" collapse=true}
+
+| Characteristic | Description | 
+|---------------|-----------------------------|
+| Calculated Risk Taking      | Makes strategic, informed decisions about when to take a risk, not reckless. | 
+| Communication               | Effectively conveys ideas and actively listens in professional settings      | 
+| Creativity and Innovativeness | Generates original ideas and sees possibilities others may not. | 
+| Determination and Perseverance | Total dedication to success, overcoming obstacles and setbacks, unwavering commitment to succeed. | 
+| Drive to Achieve            | A strong desire to compete, to excel against self-imposed standards, to pursue challenging goals. | 
+| Entrepreneurial Coachability | Seeks, integrates, and learns from failures, setbacks, or feedback to grow. | 
+| Entrepreneurial Hustle      | Acts with urgency and creativity to solve immediate problems. | 
+| High Energy Level           | Demonstrates consistent drive and enthusiasm to sustain effort over time.     | 
+| Opportunity Orientation     | Focuses on opportunity rather than resources; always scanning for possibilities. | 
+| Passion                     | Demonstrates deep emotional investment in the work. | 
+| Persistent Problem Solving  | Tackles tough problems with a methodical, realistic approach; doesn’t quit easily. | 
+| Personal Agency (Internal Locus of Control)   | Believes success comes from personal responsibility and effort, not luck. | 
+| Seeking Feedback            | Actively looks for input to improve performance; learns from critique. | 
+| Team Building               | Builds strong, motivated teams; values others' strengths. | 
+| Tolerance for Ambiguity     | Comfortable operating under uncertainty or limited structure. | 
+| Vision                      | Has a clear sense of purpose or long-term direction. | 
+
+: *See full descriptions in the handout:* [PDF download](../mentors/characteristics_handout.pdf)
+
+<small> Source: Kuratko, D. F. (2023). *Entrepreneurship: Theory, Process, and Practice* (12th ed.). Cengage Learning. </small>
+
+:::
+
+As you progress this semester, use these traits as a lens for reflection—*how* you work is as important as *what* you produce.
+
+
+## Can Entrepreneurship Be Cultivated?
+
+According to the theory of entrepreneurship, entrepreneurs cause entrepreneurship.
+
+Entrepreneurship is a function of the entrepreneur:
+
+$E = f(e)$
+
+Entrepreneurship ($E$) results from the ______________ ($f$) of ______________ ($e$) such as inner control, planning and goal setting, risk taking, innovation, reality perception, use of feedback, decision making, human relations, and independence.
+
+**Takeaway:** These skills and characteristics are ______________ and ______________ with practice.
+
+
+## Discussion Activity 2-1
+
+**Goal:** Identify which entrepreneurial characteristics you value most and why.
+
+**Step 1 – Individual Ranking (5 minutes)**
+
+1. Review the list of 16 [most often cited entrepreneurial characteristics](../mentors/characteristics_handout.pdf) 
+
+2. Choose the five you believe are most important for entrepreneurial success.
+
+3. Rank them from 1 (most important) to 5 (fifth most important).
+
+4. For each, jot down a quick example of why you ranked it where you did—this can be from your own experience, a well-known entrepreneur, or a fictional example.
+
+## Discussion Activity 2-1
+
+**Step 2 – Small-Group Discussion (5 minutes)**
+
+- Share your top five with your group.
+
+- Note where you agree and where you differ.
+
+- Discuss why certain traits might matter more in some industries or stages of a business than others.
+
+## Discussion Activity 2-1
+
+**Step 3 – Class Debrief (5 minutes)**
+
+- As a class, identify which characteristics appeared most often in top-five lists.
+
+- Highlight any that appeared rarely—discuss whether they’re under-valued or simply more situational.
+
+
+
+
+# Part 2 <br> The Dark Side of Entrepreneurship 
+
+## The Other Side of the Story
+
+When we think of entrepreneurs, we often picture ______________, ______________, and financial success.
+
+But behind the highlight reel, entrepreneurship also brings:
+
+- High personal and financial stakes
+
+- Constant uncertainty
+
+- Pressure to perform without a safety net
+
+This section looks at the risks, pressures, and stresses that can come with building and running a venture.
+
+## The Entrepreneur’s Confrontation with Risk
+
+When someone becomes an entrepreneur, they’re not just chasing potential rewards, they’re also facing different kinds of ______________ risk, and how they handle each can vary.
+
+- ______________ risk versus profit (return) motive
+  - You might invest your own money, take on debt, or rely on uncertain revenue streams. The trade-off is that you could also earn much more than in a salaried job—how much risk you’re willing to take depends on how motivated you are by potential wealth.
+  
+- ______________ risk 
+  - Leaving a stable job or career path means losing steady income, benefits, and job security. If the venture fails, it can be hard to return to where you were.
+  
+- Family and ______________ risk 
+  - Entrepreneurship can require long hours, travel, or relocation, which can strain relationships and reduce time for friends, family, and community commitments.
+  
+- ______________ risk 
+  - Failure (or even setbacks) can take a toll on your mental and emotional health, self-esteem, and overall well-being.
+
+## Stress and the Entrepreneur
+
+Entrepreneurs-like many of us-experience stress and it can come in various forms:
+
+- Loneliness
+- Immersion in business
+- People problems
+- Need to achieve
+
+::: {.callout-note icon=false title="*Definition:* Entrepreneurial Stress"}
+The extent to which entrepreneurs’ work demands and expectations exceed their abilities to perform as venture initiators, they are likely to experience stress.
+:::
+
+##  Discussion Activity 2-2 
+
+**Step 1 – Individual Reflection (5 minutes)**
+
+Read each statement below and mark the column that most appropriately represents your level of agreement.
+
+| Statement             | Strongly Disagree (1) | Disagree (2) | Neither Disagree Nor Agree (3) | Agree (4) | Strongly Agree (5) |
+|--------------------------------------|------------|------------|------------|------------|------------|
+| I often feel a severe sense of time urgency. |  |  |  |  |
+| I find myself constantly involved in multiple projects subject to deadlines. |  |  |  |  |
+| I often neglect of all aspects of life except work. |  |  |  |  |
+| I have a tendency to take on excessive responsibility, combined with the feeling that “Only I am capable of taking care of this matter.” |  |  |  |  |
+| I have a tendency to speak faster than most people.|  |  |  |  |
+
+: {tbl-colwidths="[80, 5, 5, 5, 5, 5]"}
+
+Add up your scores.
+
+The higher your score, the stronger your “Type A” tendencies, which can increase entrepreneurial stress.
+
+## Discussion Activity 2-2 
+
+**Step 2 – Small-Group Discussion (5 minutes)**
+
+In groups of 2–3, discuss:
+
+1. Which statements resonated most with you?
+
+2. Do you see any signs of stress or burnout risk in your answers?
+
+3. How might these tendencies both help and hurt an entrepreneur?
+
+## Discussion Activity 2-2 
+
+**Step 3 – Coping Strategies Brainstorm (5 minutes)**
+
+As a group, list at least three concrete strategies for reducing entrepreneurial stress. These can be personal habits, business practices, or support systems. Some examples:
+
+- Networking with other entrepreneurs
+
+- Taking regular breaks or “getting away from it all”
+
+- Open communication with employees or partners
+
+- Finding satisfaction outside the company (hobbies, volunteering)
+
+- Delegating work
+
+- Exercising regularly
+
+- Speaking with a professional therapist or coach
+
+- Getting high-quality sleep
+
+## Discussion Activity 2-2 
+
+**Step 4 – Full-Class Debrief (5 minutes)**
+
+Each group shares:
+
+1. One Type A tendency that is both a strength and a risk.
+
+2. One practical strategy for managing entrepreneurial stress.
+
+We’ll compile these so everyone leaves with a shared list of ideas.
+
+# Part 3 <br> Entrepreneurial Ethics
+
+## Quick Poll
+
+**Instructions:** Read each scenario and choose the option you feel is most ethical.
+
+**Q1 – The Startup Expense**
+
+Your new business is struggling. A supplier offers to “adjust” the invoice so it looks like you spent more than you did, which would increase your tax deduction.
+
+A. Accept – it’s a harmless way to save money
+
+B. Decline – it’s dishonest and could cause trouble
+
+C. Not sure
+
+
+**Q2 – The Job Candidate** 
+
+You’re hiring your first employee. Your best friend needs work, but another candidate is more qualified.
+
+A. Hire your friend – loyalty comes first
+
+B. Hire the more qualified candidate – business comes first
+
+C. It depends
+
+
+**Q3 – The Industry Secret** 
+
+At a networking event, a competitor shares confidential information by mistake.
+
+A. Use it to get ahead – it’s their error
+
+B. Ignore it – it’s not yours to use
+
+C. Not sure
+
+
+## Debrief
+
+Which questions were easy for you to answer? Which were harder?
+
+__________________________________________________________
+__________________________________________________________
+
+
+Did you notice any rationalizations creeping into your thinking?
+
+__________________________________________________________
+__________________________________________________________
+
+
+How do personal values and business pressures shape different answers?
+
+__________________________________________________________
+__________________________________________________________
+
+
+## Sources of Ethical Dilemmas
+
+Entrepreneurs face pressure from many directions, e.g., investors, customers, employees, regulators, each with their own expectations.
+
+Aside from changes in societal values and norms, business owners must also navigate legal requirements.
+
+**Takeaway:** Having clear parameters or a decision-making process for ambiguous situations helps prevent poor choices under pressure. 
+
+
+## What Do We Mean by ______________?
+
+______________ = basic rules or parameters for conducting any activity in an “acceptable” manner.
+
+A set of principles that define what is considered good and right, or bad and wrong.
+
+In entrepreneurship, it’s less about memorizing fixed rules and more about developing an ethical decision-making process you can apply in new situations.
+
+
+## Common Ethical Rationalizations
+
+____________________________ is often justified by believing that the activity:
+
+1. Is not really illegal or immoral.
+
+2. Is in the individual’s or the firm’s best interest.
+
+3. Will never be found out.
+
+4. Helps the company, so the company will condone it.
+
+::: {.notes}
+
+Q1 - Links to: “It’s not really illegal or immoral”
+Rationalization tie-in: “It’s not really illegal or immoral” — common when justifying small or hidden shortcuts.
+
+Q2 - Links to: “It’s in the individual’s or the firm’s best interest”
+Rationalization tie-in: “It’s in the best interest of the individual or the firm” — loyalty is positive, but can lead to conflicts of interest.
+
+Q3 - Links to: “It will never be found out” & “The company will condone it”
+Rationalization tie-in: “It will never be found out” or “It helps the company, so it will be condoned” — both can tempt entrepreneurs to overlook ethical lines.
+
+:::
+
+## Types of Morally Questionable Acts
+
+![](../images/02table2.2morality.png){.uniform-image}
+
+<small> Source: James A. Waters and Frederick Bird, “Attending to Ethics in Management,” Journal of Business Ethics 5 (1989): 494.</small>
+
+## ______________ vs. ______________
+
+There can be a large gap between what is ______________ and what is ______________.
+
+Not all legal actions are ethical, and not all ethical actions are legal.
+
+
+
+## Why Ethical Decisions Are Complex
+
+::: {.columns}
+
+::: {.column width="50%"}
+**The Matter of Morality**
+
+- Greed
+
+- Separating personal from work behavior
+
+- Lack of ethical foundation
+
+- “Bottom-line” survival thinking
+
+- Over-reliance on other institutions to set standards
+
+:::
+
+::: {.column width="50%"}
+
+**The Complexity of Ethical Decisions**
+
+- Extended consequences
+
+- Multiple alternatives
+
+- Mixed outcomes
+
+- Uncertain ethical consequences
+
+- Personal implications
+
+:::
+
+:::
+
+## Group Activity 2-1
+
+*If time allows:*
+
+In pairs or small groups, search online for either:
+
+- An example of a company’s ethical statement, or
+
+- A case study of an ethical dilemma in business.
+
+**Be ready to share:**
+
+- The situation or statement
+
+- What can be learned from it
+
+- How you would have approached it as an entrepreneur
+
+
+## Building an Ethical Venture
+
+Ethical ______________ of ______________:
+
+- Written statements of ethical practices or guidelines
+
+- Increasingly common and more comprehensive in scope
+
+- Easier to implement with clear administrative procedures
+
+- Support both legal compliance and public trust
+
+
+## “Always ____________________________”
+
+Why high ethical standards matter:
+
+- Unethical practices damage both the firm and the broader free-market system
+
+- Strong moral climate helps restore and maintain public trust
+
+
+## Ethical Leadership
+
+An entrepreneur’s values shape the organization’s ethics
+
+A code of ethics sets expectations for:
+
+- Ethical decision-making by leadership
+
+- Employee behavior
+
+- Clear rewards and consequences tied to ethical conduct
+
+
+## Entrepreneurial ______________ & ______________
+
+::: {.callout-note icon=false title="*Definition:* ______________"}
+The drive to start and sustain a venture, shaped by personal traits, environment, goals, and a viable business idea.
+:::
+
+::: {.callout-note icon=false title="*Definition:* ______________"}
+Continuing to pursue an opportunity despite setbacks or attractive alternatives.
+:::
+
+## Summary
+
+- 2.1 Describe the entrepreneurial mindset and entrepreneurial cognition.
+- 2.2 Identify and discuss the most commonly cited characteristics found in successful entrepreneurs.
+- 2.3 Describe the skills of entrepreneurial hustle and coachability.
+- 2.4 Identify how entrepreneurs deal with failure.
+- 2.5 Describe the entrepreneurial experience.
+- 2.6 Discuss the “dark side” of entrepreneurship.
+- 2.7 Identify and describe the different types of risk entrepreneurs face.
+- 2.8 Describe the major causes of stress for these individuals and the ways they can handle stress.
+- 2.9 Discuss the ethical dilemmas confronting entrepreneurs within a dynamic environment.
+- 2.10 Present strategies for establishing ethical responsibility and leadership.
+- 2.11 Examine entrepreneurial motivation.
+
+
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
