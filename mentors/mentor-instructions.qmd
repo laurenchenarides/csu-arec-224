@@ -83,8 +83,8 @@ The table below outlines major milestones involving mentor-student engagement, a
 | 1        | Aug 25–29              | Course Launch            | –                                                            | Students begin learning about case studies, podcasting, and interviewing      |
 | 2        | Sep 1–5               | Initial Contact          | Respond to students' outreach and confirm an intro meeting time | Initiate contact with mentor and schedule an intro meeting                    |
 | 3–4      | Sep 8–19              | First Pod Meeting        | Join 30–45 min check-in; share background and answer questions | Conduct first pod meeting; prepare questions and document key insights        |
-| 4–6      | Sep 15–Oct 3          | Podcast Interview        | Attend a 30–40 min recorded podcast session at CSU studio     | Host and produce podcast episode featuring mentor’s story                     |
-| 8        | Oct 13–17             | Mid-Semester Feedback    | Submit short feedback form for each student in your pod       | Receive and reflect on mentor feedback for E-IDP refinement                   |
+| 4–9      | Sep 15–Oct 31          | Podcast Interview        | Attend a 30–40 min recorded podcast session at CSU studio     | Host and produce podcast episode featuring mentor’s story                     |
+| 10        | Oct 27–31             | Mid-Semester Feedback    | Submit short feedback form for each student in your pod       | Receive and reflect on mentor feedback for E-IDP refinement                   |
 | 12–13    | Nov 10–21             | Second Pod Meeting       | Join second 30–45 min check-in; provide guidance on business case direction | Present progress on business concept and solicit mentor input |
 | 16       | Dec 11              | Final Competition        | Attend and watch student presentations; submit final feedback form | Present final business case inspired by mentor story                          |
 : Feel free to visit the [Course Schedule](../2025/schedule.qmd) to check out what the students will be learning each week.
