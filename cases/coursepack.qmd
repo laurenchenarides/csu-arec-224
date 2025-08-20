@@ -21,8 +21,8 @@ We will be using a series of case studies from **Harvard Business Impact** to gu
 
 | Week | Case Study Title |
 |------|------------------|
-| 1    | Patrick J. McGinnis, John Lafkas. (2020). *Stirring the (Lobster) Pot: A Podcase with Luke Holden of Luke's Lobster* |
-| 2    | Michael A. Roberto. (2022). *Case Companion* |
+| 1    | Michael A. Roberto. (2022). *Case Companion* |
+| 2    | Patrick J. McGinnis, John Lafkas. (2020). *Stirring the (Lobster) Pot: A Podcase with Luke Holden of Luke's Lobster* |
 | 3    | Jeremy B. Dann, Halle Baerenstecher, Ishan Chhabra, Axl Holmes, Sydney Willoughby. (2024). *Small Niches, Big Promise: Entrepreneurial Opportunities in Sustainable Business* |
 | 4    | Thomas Knapp, Erna Redzepagic, Benjamin Rostoker. (2019). *Chewse: Delivering a Culture of Love* |
 | 5    | Shikhar Ghosh, Kristina Maslauskaite. (2016). *Dinr: My First Start-Up (A)* |

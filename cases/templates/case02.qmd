@@ -1,5 +1,5 @@
 ---
-title: Case Companion
+title: Stirring the (Lobster) Pot — A Podcase with Luke’s Lobster
 subtitle: Discussion Guide
 format:
   revealjs:
