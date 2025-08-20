@@ -9,6 +9,7 @@ page-meta:
   robots: noindex
 format:
   revealjs:
+    pdf-export: true
     theme: white
     slide-number: true
     preview-links: auto
@@ -520,9 +521,12 @@ What does it take to be an entrepreneur?
 - Vision to recognize opportunity where others see chaos, contradiction, and confusion
 :::
 
-## Research on Entrepreneurship seeks to examine all facets of the topic
+## Research on entrepreneurship seeks to examine all facets of the topic.
 
-::: {.callout-note icon=false title="A Framework-of-Frameworks Approach"}
+::: {.columns}
+
+::: {.column width="50%"}
+
 There are different schools of thought and process models that fit into the larger study of entrepreneurship. 
 
 This framework brings together both macro and micro perspectives:
@@ -536,35 +540,16 @@ This framework brings together both macro and micro perspectives:
 <small>*Rather than detailing each school here, I encourage you to read the corresponding sections in the textbook. It’s helpful to reference when you start noticing how entrepreneurs are influenced by both their personal traits and their environment — and when we explore business cases later in the semester.*</small>
 :::
 
+::: {.column width="50%"}
+
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="../images/01frameworks.png" style="max-width: 100%; max-height: 750px;" />
 </div>
+<small>Figure depicts the "Framework-of-Frameworks Approach"</small>
 
+:::
 
-
-<!-- ## The Entrepreneurial Process: The Best Business Schools for Entrepreneurship -->
-
-<!-- - The Best Graduate Programs in Entrepreneurship -->
-<!-- - Indiana University, Bloomington** -->
-<!-- - Stanford University -->
-<!-- - Harvard University -->
-<!-- - Massachusetts Institute of Technology -->
-<!-- - University of California, Berkeley** -->
-<!-- - Babson College -->
-<!-- - *Where does CSU Rank???* -->
-<!-- - The Best Undergraduate Programs in Entrepreneurship -->
-<!-- - Indiana University, Bloomington** -->
-<!-- - University of Pennsylvania -->
-<!-- - University of Southern California -->
-<!-- - University of California, Berkeley** -->
-<!-- - Babson College -->
-<!-- - *Where does CSU Rank???* -->
-<!-- - **denotes public university -->
-
-<!-- ::: footer -->
-<!-- Source: @fortune_usnews_entrepreneurship -->
-<!-- ::: -->
-
+:::
 
 ## Key Entrepreneurship Concepts
 
