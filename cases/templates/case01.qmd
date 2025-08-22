@@ -241,9 +241,15 @@ Explain this as a low-risk way forward. Stress: not the “right” answer, just
 
 Key Takeaways:
 
-- Organize facts into categories
+- Review the setting, players, and context
+- Organize the facts into categories
 - Decide on criteria before choosing
-- Small tests lower risk in strategy
+- Determine if there are lower risk alternatives
+
+
+Now it's Your Turn:
+
+- This week, your task will be to go through the *Case Companion* Tutorial and take the corresponding quiz.
 
 ::: notes
 Close with a recap that is simple and easy to take away.
