@@ -42,7 +42,7 @@ Keep today’s plan simple. Tell students we’ll move back and forth between le
 
 ::: {.column width="50%"}
 
-[](/images/01_restaurant.jpg)
+![](images/01_restaurant.jpg)
 
 :::
 
@@ -101,13 +101,13 @@ Help students focus on clarity: What is the big problem here? Keep it to one sen
 
 The evidence we are given:
 
-1. [Food and beverage revenue table, by year](/images/01_exhibit01.jpg){target="_blank"}
-2. [Historical revenue and customer visits](/images/01_exhibit02.jpg){target="_blank"}
-3. [Average customer age, compared with competitors, over time](/images/01_exhibit03.jpg){target="_blank"}
-4. [Capacity utilization by hour, compared with high-end McKenzie's](/images/01_exhibit04.jpg){target="_blank"}
-5. [Selected menu items with prices, compared with high-end Fried Green Soul](/images/01_exhibit05.jpg){target="_blank"}
-6. [Customer review of The Loving Spoon](/images/01_exhibit06.jpg){target="_blank"}
-7. [Customer review of McKenzie's](/images/01_exhibit07.jpg){target="_blank"}
+1. [Food and beverage revenue table, by year](images/01_exhibit01.png){target="_blank"}
+2. [Historical revenue and customer visits](images/01_exhibit02.png){target="_blank"}
+3. [Average customer age, compared with competitors, over time](images/01_exhibit03.png){target="_blank"}
+4. [Capacity utilization by hour, compared with high-end McKenzie's](images/01_exhibit04.png){target="_blank"}
+5. [Selected menu items with prices, compared with high-end Fried Green Soul](images/01_exhibit05.png){target="_blank"}
+6. [Customer review of The Loving Spoon](images/01_exhibit06.png){target="_blank"}
+7. [Customer review of McKenzie's](images/01_exhibit07.png){target="_blank"}
 
 
 ## Activity 2: Evidence Buckets
