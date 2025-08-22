@@ -1,100 +1,252 @@
 ---
-title: Case Companion
+title: Case Companion - The Loving Spoon
 subtitle: Discussion Guide
 format:
   revealjs:
-    theme: simple
-    slideNumber: true
+    pdf-export: true
+    theme: white
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: false
+    scrollable: true
     css: "fishbowl.css"
 ---
 
-# Case Overview
+## Today’s Plan
 
-## Case Summary
-- Luke’s Lobster is a fast-growing restaurant business specializing in sustainably sourced lobster rolls and seafood.
-- Founder Luke Holden built the company around quality sourcing, a consistent customer experience, and strong supplier relationships.
-- As the business expands, Luke faces decisions on how to grow without compromising values or diluting the brand experience.
+1. Understand the case story
+2. Meet the key players
+3. Gather and sort the evidence
+4. Compare strategy options
+5. Group activities: practice making recommendations
 
-
-# Understand the Situation
-
-## Fishbowl team will lead the discussion by answering:
-- What’s going on in this case?  
-- Why is each detail in the case important?  
-- Which big-picture themes (e.g., sustainability, brand integrity, growth strategy) are present?  
-- Are there any contradictions or unexpected points? For example: rapid expansion vs. artisanal sourcing.
+::: notes
+Keep today’s plan simple. Tell students we’ll move back and forth between learning and group activities.
+:::
 
 
-# Identify the Evidence
+## Case Story
 
-## Key players and evidence
-- **Key players:** Luke Holden (founder), fishermen/suppliers, restaurant staff, customers, investors.
+::: {.columns}
 
-- **Evidence categories:**  
+::: {.column width="50%"}
+- **The Loving Spoon**: 40-year-old family-owned soul food restaurant
+- **Location**: South Carolina
+- **Transition**: Parents handing control to three daughters
+- **Main Question**: Should the restaurant stay the same or change to compete?
+:::
 
-  - **Supply chain practices:** direct relationships with fishermen, traceable sourcing.  
-  - **Customer satisfaction metrics:** repeat visits, reviews, social media sentiment.  
-  - **Brand reputation factors:** media coverage, awards, sustainability certifications.
+::: {.column width="50%"}
 
+[](/images/01_restaurant.jpg)
 
-# Interpret Exhibits
+:::
 
-## Look for case-specific insights
-- Which exhibits provide data on sourcing, pricing, or market trends?  
-- What patterns are visible over time (e.g., revenue growth vs. expansion pace)?  
-- How do these exhibits connect to restaurant and hospitality management concepts like customer lifetime value or service consistency?
-
-
-# Apply Concepts
-
-## Link back to course content
-- **Stakeholder theory** — weighing needs and trade-offs among diverse groups.
-- **SERVQUAL model** — dimensions of service quality: reliability, responsiveness, assurance, empathy, tangibles.
-- **Relationship marketing** — building long-term loyalty through trust and consistent experiences.
+:::
 
 
-# Discussion Questions {data-background-color="lightblue"}
-
-## In running a restaurant, why is it necessary to consider what the customer experience should be? {data-background-color="lightblue"} 
-*Facilitator Tip:*  
-
-Encourage the group to think beyond just food — consider ambiance, service, wait times, pricing, and emotional connection. 
-
-Ask: “If you were a repeat customer, what would bring you back?” 
-
-Push them to link customer experience to loyalty, word-of-mouth marketing, and online reviews.
-
-## Why are relationships valuable in Luke’s business? {data-background-color="lightblue"}
-*Facilitator Tip:*  
-
-Guide students to consider relationships with suppliers, fishermen, employees, customers, and investors. 
-
-Ask: “What happens if any one of these relationships weakens?” 
-
-Prompt discussion about trust, reliability, and long-term partnerships in food businesses.
-
-## How might a stakeholder perspective influence the way Luke’s Lobster operates? {data-background-color="lightblue"} 
-*Facilitator Tip:*  
-
-Ask students to identify all stakeholders (suppliers, staff, customers, community, investors, environment). 
-
-Explore trade-offs: How might a decision that benefits investors impact employees or sourcing practices? 
-
-Push them to think about balancing multiple, sometimes conflicting, interests.
+::: notes
+Use simple language. Ask: “Why might generational change bring conflict in a family business?”
+:::
 
 
-# Reach a Conclusion
+## Key Players
 
-## Facilitate toward a decision
-- Should Luke prioritize rapid expansion, or protect the brand through slower growth?  
-- What criteria should drive the decision — profitability, sustainability, customer loyalty, brand strength?  
-- What are alternative growth paths: franchising, regional focus, diversifying the menu, or strategic partnerships?
+- **Parents**: Believe in tradition, efficiency, and loyal customers
+- **Kendra (eldest)**: Wants balance; sees risks of staying the same
+- **Alexis (twin)**: Pushes for upscale makeover (new menu, bar, décor)
+- **Sharai (twin)**: Wants two restaurants in one (traditional + upscale)
+
+Also...
+
+- **Competitors**: Attracting younger customers, especially at night
+
+::: notes
+Keep this slide tight—students should quickly grasp who is who.
+:::
 
 
-# Wrap-Up & Key Takeaways
+## What We Know
 
-## Conclude with recommendations and class insights:
-- Balancing growth with brand integrity requires careful trade-offs.  
-- Strong stakeholder relationships are a competitive advantage, not just “nice to have.”  
-- Consistency in customer experience is critical to sustaining loyalty and brand reputation.  
-- Strategic growth decisions should align with both values and market opportunities.
+- Profits: Strong and steady
+- Costs: Lower than competitors
+- Customers: Aging, not many young diners
+- Beverages: Flat sales (but high margin)
+- Timing: Quiet at 9 pm while rivals are busy
+- Rivals: Sweet Abby-with a similar menu and vibe-is gaining local customers, Fried Green Soul and McKenzie's Backyard BBQ are new upscale alternatives 
+
+::: notes
+Highlight how each piece of evidence either supports “stay the same” or “change.”
+:::
+
+
+## Activity 1: State the Problem
+
+**In groups of 3 (3 minutes):**
+
+- Write a single sentence: “The problem in this case is...”
+- Define the core conflict of this case.
+- Share 1–2 sentences aloud
+
+::: notes
+Help students focus on clarity: What is the big problem here? Keep it to one sentence. The core conflict is are we loyal to tradition, or is it time to change?
+:::
+
+
+## Sorting the Evidence
+
+The evidence we are given:
+
+1. [Food and beverage revenue table, by year](/images/01_exhibit01.jpg){target="_blank"}
+2. [Historical revenue and customer visits](/images/01_exhibit02.jpg){target="_blank"}
+3. [Average customer age, compared with competitors, over time](/images/01_exhibit03.jpg){target="_blank"}
+4. [Capacity utilization by hour, compared with high-end McKenzie's](/images/01_exhibit04.jpg){target="_blank"}
+5. [Selected menu items with prices, compared with high-end Fried Green Soul](/images/01_exhibit05.jpg){target="_blank"}
+6. [Customer review of The Loving Spoon](/images/01_exhibit06.jpg){target="_blank"}
+7. [Customer review of McKenzie's](/images/01_exhibit07.jpg){target="_blank"}
+
+
+## Activity 2: Evidence Buckets
+
+**In groups of 3 (3 minutes):**
+
+- Review each piece of evidence
+- Determine how you would classify each piece of evidence-how would you bucket them?
+- Share your categories with class
+
+::: notes
+Call on a group to show how they sorted. Reinforce that categories help simplify complexity.
+:::
+
+
+## Sorting the Evidence
+
+**Buckets:**
+
+1. **Money & Operations** (costs, sales, profits)
+2. **Customers & Market** (age, timing, rivals)
+3. **Strategy Options** (parents vs. Alexis vs. Sharai)
+
+::: notes
+Encourage groups to practice organizing facts. This is a skill they’ll use in case work all semester.
+:::
+
+
+## What are the Options on the Table?
+
+::: {.fragment}
+- **Parents**: Keep things the same
+- **Alexis**: Go upscale
+- **Sharai**: Try both traditional and upscale
+- **Kendra**: Needs to guide decision
+:::
+
+::: {.fragment}
+What criteria will you use to determine which option makes the most sense for the family?
+:::
+
+::: notes
+This slide should act as a simple “menu” of options for students.
+:::
+
+
+## Activity 3: Pick Criteria
+
+**In groups of 3 (3 minutes):**
+
+Decide how to judge options. The option you pick relies on having a clear goal in mind.
+
+Examples:
+
+- Keep loyal customers?
+- Attract new, younger ones?
+- Affordable to do?
+- Easy or hard to run?
+- Beat Sweet Abby?
+
+::: notes
+Ask pairs to pick 3–4 criteria and rank them. This helps move from opinions to structured thinking.
+:::
+
+
+## Pros & Cons
+
+**Keep the Same**
+
+::: {.fragment}
+- ✅ Loyal customers, low costs
+- ❌ Aging base, no growth
+:::
+
+**Go Upscale**
+
+::: {.fragment}
+- ✅ Higher margins, younger crowd
+- ❌ Risk alienating regulars, expensive
+:::
+
+**Do Both**
+
+::: {.fragment}
+- ✅ Appeal to both groups
+- ❌ Complicated to run
+:::
+
+::: notes
+This slide simplifies the trade-offs so undergrads can easily compare.
+:::
+
+
+## Activity 4: Make an Informed Decision
+
+- Side A: Argue for “Keep the Same”
+- Side B: Argue for “Go Upscale”
+- Side C: Argue for “Do Both”
+
+::: notes
+Frame this as practice in making and defending arguments, not finding “the answer.”
+:::
+
+
+## Quick Vote
+
+- Who says: **Stay the Same**?
+- Who says: **Go Upscale**?
+- Who says: **Do Both**?
+
+
+::: notes
+End with a poll. Emphasize that reasonable people can disagree, but structured analysis helps justify decisions.
+:::
+
+
+## Is There a Middle Path?
+
+- Keep traditional menu + efficient model
+- Add small steps: new drinks, small plates at night
+- Light décor refresh
+- Partner with community groups
+- Test → Learn → Grow
+
+::: notes
+Explain this as a low-risk way forward. Stress: not the “right” answer, just one approach.
+:::
+
+
+## Wrapping Up
+
+Key Takeaways:
+
+- Organize facts into categories
+- Decide on criteria before choosing
+- Small tests lower risk in strategy
+
+::: notes
+Close with a recap that is simple and easy to take away.
+:::
+
+

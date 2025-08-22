@@ -387,8 +387,6 @@ This happens via:
 - Pricing and competition
 - Consumer access and innovation
 
-<!-- TODO: Add discussion/examples of supply curve shifts in ag/food sectors -->
-
 ::: {.callout-note icon=false title="Entrepreneurial Firms’ Economic Impact"}
 
 Entrepreneurial firms make two indispensable contributions to an economy:

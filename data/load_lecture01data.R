@@ -5,7 +5,7 @@ library(lubridate)
 theme_set(theme_minimal())
 
 # Data
-df <- readr::read_csv("../data/lecture01data.csv") |>
+df <- readr::read_csv("data/lecture01data.csv") %>%
   mutate(Date = make_date(year = Year, month = Month, day = 1))
 
 # (Optional) scale the secondary axis so lines share a similar range
