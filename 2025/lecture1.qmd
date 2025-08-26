@@ -44,6 +44,17 @@ We meet **T & Th 8:00 am--9: 15 am**.
 
 [Course website](https://laurenchenarides.github.io/csu-arec-224/)
 
+::: {.notes}
+Please put your phones away.
+:::
+
+## Save the Date {data-background-color="green"} 
+
+**Business Case Competition**
+
+Thursday, December 11 @ 5 pm in Nutrien
+
+
 ## Lecture 1: Introduction to Entrepreneurship
 
 **Textbook Reading (Quiz Basis)** <br>
@@ -75,7 +86,13 @@ Source: @kuratko2024
 
 # Part 1: <br> Interesting Statistics about U.S. Entrepreneurship
 
-## Some Interesting Statistics About U.S. Entrepreneurial Activity (1/2)
+
+## Kahoot! {data-background-color="lightblue"}
+
+[https://play.kahoot.it/v2/lobby?quizId=24932b7f-b223-4421-9b7f-8510fdf700cc](https://play.kahoot.it/v2/lobby?quizId=24932b7f-b223-4421-9b7f-8510fdf700cc)
+
+
+## Some Interesting Statistics About U.S. Entrepreneurial Activity
 
 <small>Guess before the number appears!</small>
 
@@ -91,17 +108,11 @@ Source: @kuratko2024
   55%  
 :::
 
-
 - **What percent have started two or more businesses?**  
 
 ::: {.fragment}  
   25%
 :::
-
-
-## Some Interesting Statistics About U.S. Entrepreneurial Activity (2/2)
-
-<small>Guess before the number appears!</small>
 
 - **What is the average age someone starts their first business?**  
 
@@ -558,7 +569,7 @@ This framework brings together both macro and micro perspectives:
 | **Entrepreneurial Discipline** | The core principles of entrepreneurship apply across sectors — business, nonprofit, public or private. The types of innovation and where to find them are largely consistent. |
 | **Entrepreneurial Leadership** | Involves both the capacity to lead and the willingness to take risks. Measured through opportunity recognition, drive to innovate, and ability to accomplish goals. Increasingly important in the 21st century. |
 
-## Group Activity: Human Tic-Tac-Toe
+## Group Activity: Human Tic-Tac-Toe {data-background-color="lightblue"} 
 
 **Goal:** Get 3 in a row (horizontally, vertically, or diagonally) by finding classmates who match the prompts.
 
