@@ -53,51 +53,61 @@ Keep today’s plan simple. Tell students we’ll move back and forth between le
 Use simple language. Ask: “Why might generational change bring conflict in a family business?”
 :::
 
-
-## Key Players
-
-- **Parents**: Believe in tradition, efficiency, and loyal customers
-- **Kendra (eldest)**: Wants balance; sees risks of staying the same
-- **Alexis (twin)**: Pushes for upscale makeover (new menu, bar, décor)
-- **Sharai (twin)**: Wants two restaurants in one (traditional + upscale)
-
-Also...
-
-- **Competitors**: Attracting younger customers, especially at night
-
-::: notes
-Keep this slide tight—students should quickly grasp who is who.
-:::
-
-
-## What We Know
-
-- Profits: Strong and steady
-- Costs: Lower than competitors
-- Customers: Aging, not many young diners
-- Beverages: Flat sales (but high margin)
-- Timing: Quiet at 9 pm while rivals are busy
-- Rivals: Sweet Abby-with a similar menu and vibe-is gaining local customers, Fried Green Soul and McKenzie's Backyard BBQ are new upscale alternatives 
-
-::: notes
-Highlight how each piece of evidence either supports “stay the same” or “change.”
-:::
-
-
 ## Activity 1: State the Problem {data-background-color="lightblue"} 
 
 **In groups of 3 (3 minutes):**
 
 - Write a single sentence: “The problem in this case is...”
 - Define the core conflict of this case.
-- Share 1–2 sentences aloud
+- Share 1–2 sentences aloud.
 
 ::: notes
 Help students focus on clarity: What is the big problem here? Keep it to one sentence. The core conflict is are we loyal to tradition, or is it time to change?
 :::
 
+## Problem Statement
 
-## Sorting the Evidence
+::: {.callout-note icon=false title="Case Problem Statement"}
+The Loving Spoon must decide whether to preserve its traditional model, modernize into an upscale concept, or pursue both, as it faces aging customers, stagnant beverage sales, and rising competition.
+:::
+
+**Expanded:**
+
+The Loving Spoon, a 40-year-old family-owned soul food restaurant in South Carolina, is transitioning leadership from its founders to their three daughters. 
+
+Although the restaurant is profitable, efficient, and supported by a loyal customer base, its customer demographics are aging, beverage sales are stagnant, and evening business is weak compared to trendier rivals. 
+
+The daughters disagree on how to move forward. Do they keep the traditional model? Reposition as an upscale restaurant? Or try to operate both concepts?
+
+At the same time, new competitors like Sweet Abby are already attracting longtime patrons. The family must decide what strategic direction will best balance tradition, customer loyalty, and long-term growth.
+
+## Activity 2: Identify the Key Players {data-background-color="lightblue"} 
+
+**In groups of 3 (3 minutes):**
+
+Who are the key players in the case? What are their perspectives about the situation?
+
+::: {.fragment}
+
+- **Parents**: Believe in tradition, efficiency, and loyal customers
+- **Kendra (eldest)**: Wants balance; sees risks of staying the same
+- **Alexis (twin)**: Pushes for upscale makeover (new menu, bar, décor)
+- **Sharai (twin)**: Wants two restaurants in one (traditional + upscale)
+:::
+
+::: {.fragment}
+Also...
+
+- **Competitors**: Attracting younger customers, especially at night
+:::
+
+::: notes
+Keep this slide tight—students should quickly grasp who is who.
+:::
+
+
+
+## Review the Evidence
 
 The evidence we are given:
 
@@ -110,15 +120,16 @@ The evidence we are given:
 7. [Customer review of McKenzie's](images/01_exhibit07.png){target="_blank"}
 
 
-## Activity 2: Evidence Buckets {data-background-color="lightblue"} 
+
+
+## Activity 3: Sort the Evidence {data-background-color="lightblue"} 
 
 **In groups of 3 (3 minutes):**
 
-- Review each piece of evidence
-- Determine how you would classify each piece of evidence
-    - How would you "bucket" them? 
+- Review the piece of evidence you are given
+- Determine how you would classify that piece of evidence
     - Does it tell you something about operations? customer segments? market rivals? 
-- Share your categories with class
+- Share your piece of evidence & summary with class
 
 ::: notes
 Call on a group to show how they sorted. Reinforce that categories help simplify complexity.
@@ -127,14 +138,32 @@ Call on a group to show how they sorted. Reinforce that categories help simplify
 
 ## Sorting the Evidence
 
-**Buckets:**
+::: {.smaller}
+| Exhibit   | What It Represents    |  What It Tells Us   |
+|-----------|-----------------|-------------------------|
+| 1 & 2   | Profits                 | Strong and steady   |
+| 2   | Beverages                   | Flat sales (but high margin) |
+| 3   | Customers                   | Aging, not many young diners |
+| 4   | Timing                      | Quiet at 9 pm while rivals are busy |
+| 5, 6, & 7   | Market Position       | Prices are lower than competitors 
+|           |                       | Rivals Sweet Abby-with a similar menu and vibe-is gaining local customers| 
+|           |                       | Fried Green Soul and McKenzie's Backyard BBQ are new upscale alternatives |
+:::
+
+**Other Evidence:**
+
+- "Moreover, buying the same foods in bulk weekly gives us food costs that are 5% lower than our direct competitors in town and 8% lower than restaurants nationwide. A simple menu, low employee turnover, and high productivity translate into labor costs at least 10% lower than rivals." (*father*)
+
+
+::: {.callout-note icon=false title="Use these buckets to help you sort through the evidence:"}
 
 1. **Money & Operations** (costs, sales, profits)
 2. **Customers & Market** (age, timing, rivals)
 3. **Strategy Options** (parents vs. Alexis vs. Sharai)
+:::
 
 ::: notes
-Encourage groups to practice organizing facts. This is a skill they’ll use in case work all semester.
+Encourage groups to practice organizing facts. This is a skill they’ll use in case work all semester. Highlight how each piece of evidence either supports “stay the same” or “change.”
 :::
 
 
@@ -156,17 +185,18 @@ This slide should act as a simple “menu” of options for students.
 :::
 
 
-## Activity 3: Pick Criteria {data-background-color="lightblue"} 
+## Activity 4: Pick Criteria {data-background-color="lightblue"} 
 
-**In groups of 3 (3 minutes):**
+**In groups of 3 (5 minutes):**
 
-Decide how to judge options. 
+To facilitate this, each group will "role play" (you will be assigned to represent the perspective of one key player).
 
-The option you pick relies on having a clear goal in mind.
+- Decide how to judge options. 
 
-To facilitate this, each group will "role play".
+- The option you pick relies on having a clear goal in mind.
 
-Examples:
+
+**Examples:**
 
 - Keep loyal customers?
 - Attract new, younger ones?
@@ -207,7 +237,7 @@ This slide simplifies the trade-offs so undergrads can easily compare.
 :::
 
 
-## Activity 4: Make an Informed Decision {data-background-color="lightblue"} 
+## Activity 5: Make an Informed Decision {data-background-color="lightblue"} 
 
 Based on **your role**, what should Kendra do?
 
