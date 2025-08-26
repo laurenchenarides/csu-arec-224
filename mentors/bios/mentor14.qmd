@@ -1,7 +1,7 @@
 ---
 title: "Brandon Hernandez"
-description: "lorem ipsum."
-categories: [tag1, tag2, tag3]
+description: "From factory floor to boardroom, helping food businesses grow safely and smartly."
+categories: [Food Safety, Supply Chain Strategy, Quality Management]
 format: 
   html: 
     theme: cosmo
@@ -10,21 +10,40 @@ format:
     link-external-newwindow: true
 ---
 
+![](brandon-hernandez.png){fig-align="left" width=300}
 
-**Background:** 
+**Background:** Brandon has spent over 15 years helping food and beverage companies—from early-stage startups to global brands—solve problems in food safety, supply chain management, and operations. Based in Denver, he holds multiple food safety certifications and is widely respected for his work in quality systems, team building, and Good Manufacturing Practices (GMP) compliance.
 
-**Current Ventures:** 
+**Current Ventures:** Brandon is a Senior Partner at [Whole Brain Consulting](https://www.whole-brain-consulting.com/), where he leads teams that provide technical and strategic support across the food and beverage industry. He also serves as Chairman of the Board at [Naturally Boulder](https://www.naturallycolorado.org/), Board Advisor to the [USDA Regional Economic Development Council](https://nwrockymountainregionalfoodbusiness.com/), and contributes to initiatives at CU Boulder, the Naturally Network, the Pueblo Food Project, and the California Dairy Board Accelerator.
 
-**Expertise:** 
+**Expertise:** Food safety, regulatory compliance, manufacturing operations, supply chain optimization, and strategic leadership. Brandon brings practical experience working across company sizes and sectors, and he's deeply engaged in food system innovation.
 
-**Student Experience:** 
+**Student Experience:** Students working with Brandon will gain a behind-the-scenes look at the food and beverage industry, including how products get made safely, efficiently, and at scale. He’s passionate about mentoring emerging leaders and can speak to both the technical and human sides of running a successful operation.
 
-**Fun Fact:** 
+**Fun Fact:** Brandon was once part of a heavy metal band—proof that food safety professionals can rock in more ways than one.
 
 ## Additional Resources
 
+```{=html}
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+
+  <a href="https://permissiontosucceedpodcast.blubrry.net/2020/08/24/episode-47-turn-your-failures-into-strengths-with-brandon-hernandez/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Turn Your Failures Into Strengths (Podcast)
+  </a>
+
+  <a href="https://www.whole-brain-consulting.com/blog/categories/insights-brandon-hernandez" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Whole Brain Consulting
+  </a>
+
+  <a href="https://www.cnbc.com/2020/03/18/supply-chain-experts-foods-that-could-be-less-available-in-pandemic.html" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Feature on CNBC News
+  </a>
+
+</div>
+```
 
 <br>
+
 
 ::: footer
 Navigate to: All [Mentors](../mentors.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).

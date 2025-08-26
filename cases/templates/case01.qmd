@@ -84,7 +84,7 @@ Highlight how each piece of evidence either supports “stay the same” or “c
 :::
 
 
-## Activity 1: State the Problem
+## Activity 1: State the Problem {data-background-color="lightblue"} 
 
 **In groups of 3 (3 minutes):**
 
@@ -110,12 +110,14 @@ The evidence we are given:
 7. [Customer review of McKenzie's](images/01_exhibit07.png){target="_blank"}
 
 
-## Activity 2: Evidence Buckets
+## Activity 2: Evidence Buckets {data-background-color="lightblue"} 
 
 **In groups of 3 (3 minutes):**
 
 - Review each piece of evidence
-- Determine how you would classify each piece of evidence-how would you bucket them?
+- Determine how you would classify each piece of evidence
+    - How would you "bucket" them? 
+    - Does it tell you something about operations? customer segments? market rivals? 
 - Share your categories with class
 
 ::: notes
@@ -154,11 +156,15 @@ This slide should act as a simple “menu” of options for students.
 :::
 
 
-## Activity 3: Pick Criteria
+## Activity 3: Pick Criteria {data-background-color="lightblue"} 
 
 **In groups of 3 (3 minutes):**
 
-Decide how to judge options. The option you pick relies on having a clear goal in mind.
+Decide how to judge options. 
+
+The option you pick relies on having a clear goal in mind.
+
+To facilitate this, each group will "role play".
 
 Examples:
 
@@ -201,11 +207,18 @@ This slide simplifies the trade-offs so undergrads can easily compare.
 :::
 
 
-## Activity 4: Make an Informed Decision
+## Activity 4: Make an Informed Decision {data-background-color="lightblue"} 
+
+Based on **your role**, what should Kendra do?
 
 - Side A: Argue for “Keep the Same”
 - Side B: Argue for “Go Upscale”
 - Side C: Argue for “Do Both”
+
+::: {.fragment}
+After hearing all sides, what would **you** do?
+:::
+
 
 ::: notes
 Frame this as practice in making and defending arguments, not finding “the answer.”
@@ -247,9 +260,11 @@ Key Takeaways:
 - Determine if there are lower risk alternatives
 
 
+## Next Steps
+
 Now it's Your Turn:
 
-- This week, your task will be to go through the *Case Companion* Tutorial and take the corresponding quiz.
+- This week, your task will be to go through the *Case Companion Tutorial* and complete the corresponding assignment (submit via Canvas).
 
 ::: notes
 Close with a recap that is simple and easy to take away.

@@ -25,7 +25,26 @@ format:
 ## Additional Resources
 
 
+```{=html}
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+
+  <a href="https://www.linkedin.com/in/sdmcclure/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    LinkedIn
+  </a>
+
+  <a href="https://innosphereventures.org/sage-advisor-rre/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    SAGE (Social Advisory Group for Entrepreneurs)
+  </a>
+
+  <a href="https://innosphereventures.org/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Innosphere Startup Incubator
+  </a>
+
+</div>
+```
+
 <br>
+
 
 ::: footer
 Navigate to: All [Mentors](../mentors.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).

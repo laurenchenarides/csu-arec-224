@@ -10,37 +10,37 @@ repo-actions: false
 | Week | Date       | Day | Topic                                                | Textbook Reading  (Quiz Basis)  |
 |------|------------|-----|------------------------------------------------------|----------------------------|
 | 1    | 8/26       | T   | [Introduction to Entrepreneurship](gate1.html)       | Chapter 01                 |
-| 1    | 8/28        | R   | [Case Study: Roberto (2022), *Case Companion*](../cases/templates/case01.qmd)         |                            |
+| 1    | 8/28        | R   | [**Case Study**: Roberto (2022), *Case Companion*](../cases/templates/case01.qmd)         |                            |
 | 2    | 9/2        | T   | [The Entrepreneurial Mindset](gate2.html)                          | Chapter 02                 |
-| 2    | 9/4       | R   | [Case Study: McGinnis & Lafkas (2020), *Stirring the Lobster Pot*](../cases/templates/case02.qmd) |                |
+| 2    | 9/4       | R   | [**Case Study**: McGinnis & Lafkas (2020), *Stirring the Lobster Pot*](../cases/templates/case02.qmd) |                |
 | 3    | 9/9        | T   | Corporate & Global Entrepreneurship                  | Chapters 03 & 04           |
-| 3    | 9/11       | R   | Case Study: Dann et al. (2024), *Small Niches, Big Promise* |                     |
+| 3    | 9/11       | R   | **Case Study**: Dann et al. (2024), *Small Niches, Big Promise* |                     |
 | 4    | 9/16       | T   | Innovation & Creativity                              | Chapter 05                 |
-| 4    | 9/18       | R   | Case Study: Knapp et al. (2019), *Chewse*            |                            |
+| 4    | 9/18       | R   | **Case Study**: Knapp et al. (2019), *Chewse*            |                            |
 | 5    | 9/23       | T   | Opportunity Assessment                               | Chapter 06                 |
-| 5    | 9/25       | R   | Case Study: Ghosh & Maslauskaite (2016), *Dinr*      |                            |
+| 5    | 9/25       | R   | **Case Study**: Ghosh & Maslauskaite (2016), *Dinr*      |                            |
 | 6    | 9/30       | T   | Venture Pathways                                     | Chapter 07                 |
-| 6    | 10/2       | R   | Case Study: Hoffman (2021), *White Oak Pastures*     |                            |
+| 6    | 10/2       | R   | **Case Study**: Hoffman (2021), *White Oak Pastures*     |                            |
 | 7    | 10/7       | T   | Entrepreneurial Finance                              | Chapter 08                 |
-| 7    | 10/9       | R   | Case Study: Hyde et al. (2022), *Sunomi Switchel*    |                            |
+| 7    | 10/9       | R   | **Case Study**: Hyde et al. (2022), *Sunomi Switchel*    |                            |
 | 8    | 10/14      | T   | Midterm Exam (In-Class)                              | –                          |
 | 8    | 10/16      | R   | No Case Study                                        |                            |
 | 9    | 10/21      | T   | Legal & Marketing Challenges                         | Chapters 09 & 10           |
-| 9    | 10/23      | R   | Case Study: Hoffman (2020), *JUST, Inc.*             |                            |
+| 9    | 10/23      | R   | **Case Study**: Hoffman (2020), *JUST, Inc.*             |                            |
 | 10   | 10/28      | T   | Financial Planning & Business Plans                  | Chapters 11 & 12           |
-| 10   | 10/30      | R   | Case Study: Salwan & Kate (2024), *Nano Ganesh*      |                            |
+| 10   | 10/30      | R   | **Case Study**: Salwan & Kate (2024), *Nano Ganesh*      |                            |
 | 11   | 11/4       | T   | Growth & Scaling                                     | Chapter 13                 |
-| 11   | 11/6       | R   | Case Study: Morkunas & Matheson (2020), *Blue Sky Ranch* |                      |
+| 11   | 11/6       | R   | **Case Study**: Morkunas & Matheson (2020), *Blue Sky Ranch* |                      |
 | 12   | 11/11      | T   | Valuation of Ventures                                | Chapter 14                 |
-| 12   | 11/13      | R   | Case Study: Serafeim & Norris (2023), *Seeds of Innovation* |                  |
+| 12   | 11/13      | R   | **Case Study**: Serafeim & Norris (2023), *Seeds of Innovation* |                  |
 | 13   | 11/18      | T   | Harvesting & Exit Strategies                         | Chapter 15                 |
-| 13   | 11/20      | R   | Case Study: Parker et al. (2019), *Yuser*            |                            |
+| 13   | 11/20      | R   | **Case Study**: Parker et al. (2019), *Yuser*            |                            |
 | 14   | 11/25      | T   | Fall Recess                                          |                            |
 | 14   | 11/27      | R   | Fall Recess (Thanksgiving)                           |                            |
 | 15   | 12/2       | T   | Final Project Workshop                               | –                          |
 | 15   | 12/4       | R   | Final Project Mentorship or Review                   |                            |
 | 16   | 12/9       | T   | Course Wrap-Up                                       | –                          |
-| 16   | 12/11      | R   | Business Case Event                                  |                            |
+| 16   | 12/11      | R   | [Business Case Event](../cases/case-competition.qmd) |                            |
 
 : {.striped .responsive}
 
