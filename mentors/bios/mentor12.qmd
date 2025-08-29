@@ -1,0 +1,49 @@
+---
+title: "Erin Karney Spaur"
+description: "Advocating for Colorado’s cattle producers with deep roots in ranching and policy leadership."
+categories: [Agricultural Policy, Industry Advocacy, Nonprofit Leadership]
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+![](erin-karney.JPG){fig-align="left" width=300}
+
+**Background:** Erin is a proud Southeast Colorado native who grew up on her family’s ranch—an experience that continues to shape her professional and personal life. She holds degrees in Animal Science and Agricultural Business from CSU and earned her M.S. in Meat Science from CSU as well. She’s also an alum of the DARE department (Class of 2012). Erin spent time working in the meat processing industry in Washington before returning to Colorado to pursue policy and industry leadership.
+
+**Current Ventures:** Erin has been with the Colorado Cattlemen’s Association (CCA) since 2015 and was appointed Executive Vice President in 2022. In this role, she oversees the day-to-day administration of the nation’s oldest cattlemen’s association, including policy advocacy, member engagement, and strategic planning. Her work includes monitoring legislation, collaborating with agencies like Parks and Wildlife and the State Land Board, and managing a mix of member dues, grants, and fundraising efforts. She’s currently leading a capital campaign to renovate CCA’s new headquarters on the National Western Center grounds.
+
+**Expertise:** Agricultural policy, trade association leadership, nonprofit budgeting and fundraising, meat science, and grassroots advocacy. Erin brings a unique blend of industry knowledge and leadership experience in navigating both the regulatory and producer sides of cattle production.
+
+**Student Experience:** Students working with Erin will get a firsthand view of how policy, funding, and advocacy shape Colorado’s livestock industry. From working with legislators to managing organizational finances, Erin offers a behind-the-scenes look at running a major ag trade association.
+
+**Fun Fact:** Erin and her husband now live on his family’s farm in Johnstown, and together they’re navigating the next generation of ranch and farm succession planning.
+
+## Additional Resources
+
+```{=html}
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+
+  <a href="https://www.coloradocattle.org/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Learn More about the Colorado Cattlemen's Association
+  </a>
+
+  <a href="https://nationalwesterncenter.com/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Learn More about the National Western Center
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=X2vnEp7H-Ks" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Succession Planning for Farmers and Ranchers (Video)
+  </a>
+
+</div>
+```
+
+<br>
+
+::: footer
+Navigate to: All [Mentors](../mentors.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::
