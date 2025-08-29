@@ -39,8 +39,8 @@ Be sure to check the schedule below to match your slot with the corresponding ca
   
 | Week | Case Study | Fishbowl Team | Observer Team |
 |------|------------|----------------|----------------|
-| 1    | Patrick J. McGinnis, John Lafkas. (2020). *Stirring the (Lobster) Pot: A Podcase with Luke Holden of Luke's Lobster* | – | – |
-| 2    | Michael A. Roberto. (2022). *Case Companion* | – | – |
+| 1    | Michael A. Roberto. (2022). *Case Companion* | – | – |
+| 2    | Patrick J. McGinnis, John Lafkas. (2020). *Stirring the (Lobster) Pot: A Podcase with Luke Holden of Luke's Lobster* | – | – |
 | 3    | Jeremy B. Dann et al. (2024). *Small Niches, Big Promise* | Team A | Team J |
 | 4    | Thomas Knapp et al. (2019). *Chewse* | Team B | Team A |
 | 5    | Shikhar Ghosh, Kristina Maslauskaite. (2016). *Dinr* | Team C | Team B |
