@@ -60,6 +60,16 @@ Source: @kuratko2024
 
 # Part 1 <br> The Mindset of an Entrepreneur
 
+## First, a story. {background-color="black"}
+
+![](../images/02_patrickobrien.jpg)
+
+::: {.fragment}
+
+Impossible Foods' valuation has fluctuated, but recent sources suggest a valuation between $2 billion and $7 billion, primarily due to its last funding round in November 2021, which valued it at roughly $7 billion. While an earlier valuation was around $10 billion, the company's valuation has declined, with some sources placing it around $2 billion by 2023, reflecting industry challenges and shifts in consumer behavior.
+
+:::
+
 ## Do entrepreneurs “think” differently?
 
 Perhaps.
@@ -146,6 +156,7 @@ Entrepreneurs create ventures much as an artist creates a painting. They are for
 
 ## What are Characteristics Often Associated with Entrepreneurs?
 
+::: {.fragment}
 Researchers have identified a wide range of entrepreneurial characteristics, many of which can be grouped into a smaller set of core traits. 
 
 :::{.callout-note icon=false title="Table 2.1 Characteristics Often Attributed to Entrepreneurs" collapse=true}
@@ -201,9 +212,16 @@ Researchers have identified a wide range of entrepreneurial characteristics, man
 
 :::
 
+:::
+
 ## Most Often Cited Entrepreneurial Characteristics
 
-Each row in the table below represents a *characteristic* you’ll encounter and practice over the course of the semester. Review [Your E-IDP](../mentors/eidp.qmd) on the course website to see how these traits connect to your personal development plan.
+Each row in the table below represents a *characteristic* you’ll encounter and practice over the course of the semester. 
+
+This semester, you will develop [your personal E-IDP](../mentors/eidp.qmd) to see how these traits connect to your personal development plan.
+
+As you progress this semester, use these traits as a lens for reflection—*how* you work is as important as *what* you produce.
+
 
 :::{.callout-note icon=false title="Entrepreneurial Characteristics for E-IDP" collapse=true}
 
@@ -232,8 +250,6 @@ Each row in the table below represents a *characteristic* you’ll encounter and
 
 :::
 
-As you progress this semester, use these traits as a lens for reflection—*how* you work is as important as *what* you produce.
-
 
 ## Can Entrepreneurship Be Cultivated?
 
@@ -248,7 +264,7 @@ Entrepreneurship ($E$) results from the interaction ($f$) of skills ($e$) such a
 **Takeaway:** These skills and characteristics are learnable and developable with practice.
 
 
-## Discussion Activity 2-1
+## Discussion Activity 2-1  {data-background-color="lightblue"} 
 
 **Goal:** Identify which entrepreneurial characteristics you value most and why.
 
@@ -262,7 +278,7 @@ Entrepreneurship ($E$) results from the interaction ($f$) of skills ($e$) such a
 
 4. For each, jot down a quick example of why you ranked it where you did—this can be from your own experience, a well-known entrepreneur, or a fictional example.
 
-## Discussion Activity 2-1
+## Discussion Activity 2-1  {data-background-color="lightblue"} 
 
 **Step 2 – Small-Group Discussion (5 minutes)**
 
@@ -272,7 +288,7 @@ Entrepreneurship ($E$) results from the interaction ($f$) of skills ($e$) such a
 
 - Discuss why certain traits might matter more in some industries or stages of a business than others.
 
-## Discussion Activity 2-1
+## Discussion Activity 2-1  {data-background-color="lightblue"} 
 
 **Step 3 – Class Debrief (5 minutes)**
 
@@ -333,9 +349,9 @@ Entrepreneurs-like many of us-experience stress and it can come in various forms
 The extent to which entrepreneurs’ work demands and expectations exceed their abilities to perform as venture initiators, they are likely to experience stress.
 :::
 
-##  Discussion Activity 2-2 
+##  Discussion Activity 2-2  {data-background-color="lightblue"} 
 
-**Step 1 – Individual Reflection (5 minutes)**
+**Step 1 – Individual Reflection (3 minutes)**
 
 Read each statement below and mark the column that most appropriately represents your level of agreement.
 
@@ -353,7 +369,7 @@ Add up your scores.
 
 The higher your score, the stronger your “Type A” tendencies, which can increase entrepreneurial stress.
 
-## Discussion Activity 2-2 
+## Discussion Activity 2-2  {data-background-color="lightblue"} 
 
 **Step 2 – Small-Group Discussion (5 minutes)**
 
@@ -365,9 +381,9 @@ In groups of 2–3, discuss:
 
 3. How might these tendencies both help and hurt an entrepreneur?
 
-## Discussion Activity 2-2 
+## Discussion Activity 2-2  {data-background-color="lightblue"} 
 
-**Step 3 – Coping Strategies Brainstorm (5 minutes)**
+**Step 3 – Coping Strategies Brainstorm (3 minutes)**
 
 As a group, list at least three concrete strategies for reducing entrepreneurial stress. These can be personal habits, business practices, or support systems. Some examples:
 
@@ -387,7 +403,7 @@ As a group, list at least three concrete strategies for reducing entrepreneurial
 
 - Getting high-quality sleep
 
-## Discussion Activity 2-2 
+## Discussion Activity 2-2  {data-background-color="lightblue"} 
 
 **Step 4 – Full-Class Debrief (5 minutes)**
 
@@ -403,10 +419,9 @@ We’ll compile these so everyone leaves with a shared list of ideas.
 
 ## Quick Poll
 
-**Instructions:** Read each scenario and choose the option you feel is most ethical.
+## Q1 – The Startup Expense
 
-::: {.fragment}
-**Q1 – The Startup Expense**
+**Instructions:** Read each scenario and choose the option you feel is most ethical.
 
 Your new business is struggling. A supplier offers to “adjust” the invoice so it looks like you spent more than you did, which would increase your tax deduction.
 
@@ -415,10 +430,11 @@ A. Accept – it’s a harmless way to save money
 B. Decline – it’s dishonest and could cause trouble
 
 C. Not sure
-:::
 
-::: {.fragment}
-**Q2 – The Job Candidate** 
+
+## Q2 – The Job Candidate 
+
+**Instructions:** Read each scenario and choose the option you feel is most ethical.
 
 You’re hiring your first employee. Your best friend needs work, but another candidate is more qualified.
 
@@ -427,10 +443,11 @@ A. Hire your friend – loyalty comes first
 B. Hire the more qualified candidate – business comes first
 
 C. It depends
-:::
 
-::: {.fragment}
-**Q3 – The Industry Secret** 
+
+## Q3 – The Industry Secret
+
+**Instructions:** Read each scenario and choose the option you feel is most ethical.
 
 At a networking event, a competitor shares confidential information by mistake.
 
@@ -439,7 +456,8 @@ A. Use it to get ahead – it’s their error
 B. Ignore it – it’s not yours to use
 
 C. Not sure
-:::
+
+
 
 ## Debrief
 
@@ -494,9 +512,47 @@ Rationalization tie-in: “It will never be found out” or “It helps the comp
 
 ## Types of Morally Questionable Acts
 
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+This table shows different types of unethical or problematic behavior in organizations, grouped by their type, the direct effect (whether it hurts or helps the firm in the short run), and some examples.
+
+
 ![](../images/02table2.2morality.png){.uniform-image}
 
 <small> Source: James A. Waters and Frederick Bird, “Attending to Ethics in Management,” Journal of Business Ethics 5 (1989): 494.</small>
+
+**Columns**
+
+- Type – The category of misconduct.
+
+- Direct Effect – Whether the misconduct directly works against the firm (hurts it) or for the firm (benefits it, at least in the short term).
+
+- Examples – Specific illustrations of that type of misconduct.
+
+:::
+
+::: {.column width="50%"}
+
+**Rows**
+
+- Nonrole (Against the firm): Employees act outside their role in ways that harm the company.
+*Examples: cheating on expense accounts, embezzling money, stealing supplies.*
+
+- Role failure (Against the firm): Employees fail to fulfill their role responsibilities, indirectly harming the company.
+*Examples: giving superficial performance reviews, ignoring misconduct, covering up poor performance.*
+
+- Role distortion (For the firm): Employees misuse their role to benefit the firm (though often illegally or unethically).
+*Examples: bribery, price fixing, manipulating suppliers.*
+
+- Role assertion (For the firm): Employees push the firm’s interests in ways that may be legal but ethically questionable.
+*Examples: investing in unethical regimes, using nuclear tech for energy, refusing to recall unsafe products early on.*
+
+:::
+
+:::
 
 ## Morality vs. Law
 
@@ -544,23 +600,23 @@ Not all legal actions are ethical, and not all ethical actions are legal.
 
 :::
 
-## Group Activity 2-1
+<!-- ## Group Activity 2-1  {data-background-color="lightblue"}  -->
 
-*If time allows:*
+<!-- *If time allows:* -->
 
-In pairs or small groups, search online for either:
+<!-- In pairs or small groups, search online for either: -->
 
-- An example of a company’s ethical statement, or
+<!-- - An example of a company’s ethical statement, or -->
 
-- A case study of an ethical dilemma in business.
+<!-- - A case study of an ethical dilemma in business. -->
 
-**Be ready to share:**
+<!-- **Be ready to share:** -->
 
-- The situation or statement
+<!-- - The situation or statement -->
 
-- What can be learned from it
+<!-- - What can be learned from it -->
 
-- How you would have approached it as an entrepreneur
+<!-- - How you would have approached it as an entrepreneur -->
 
 ## Building an Ethical Venture
 
