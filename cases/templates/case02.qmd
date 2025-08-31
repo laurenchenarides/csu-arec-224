@@ -16,93 +16,232 @@ format:
     css: "fishbowl.css"
 ---
 
-# Case Overview
+## How to structure your discussion {data-background-color="lightblue"}
 
-## Case Summary
-- Luke’s Lobster is a fast-growing restaurant business specializing in sustainably sourced lobster rolls and seafood.
-- Founder Luke Holden built the company around quality sourcing, a consistent customer experience, and strong supplier relationships.
-- As the business expands, Luke faces decisions on how to grow without compromising values or diluting the brand experience.
+Part 1: Present the Case Overview
+
+-   Summarize the case
+-   Understand the situation (either the core conflict or decision to be made)
+
+Part 2: Identify the Key Players
+
+-   Introduce the key players in the story
+-   Pick out any other players that are important to understand the case
+
+Part 3: Gather and Sort the Evidence
+
+-   Review the figures and tables in the case
+-   Describe what they present
+-   Look for insights presented by the case characters
+-   Explain how this evidence might help inform a decision
+
+Part 4: Compare Options
+
+-   Engage in a discussion among your group/the class
+-   Apply concepts from class
+-   Decide on the criteria to make a decision
+
+Part 5: Make a Recommendation
+
+-   Apply the criteria
+-   Come to a conclusion
+
+# Part 1 <br> Case Overview
+
+## Summarize the Case
+
+-   Luke’s Lobster is a fast-growing restaurant business specializing in sustainably sourced lobster rolls and seafood.
+-   Founder Luke Holden built the company around quality sourcing, a consistent customer experience, and strong supplier relationships.
+-   As the business expands, Luke faces decisions on how to grow without compromising values or diluting the brand experience.
+
+## Understand the Situation
+
+Ask yourself the following questions:
+
+-   What’s going on in this case?
+-   Why is each detail in the case important?
+-   Which big-picture themes (e.g., sustainability, brand integrity, growth strategy) are present?
+-   Are there any contradictions or unexpected points?
+
+::: {.fragment}
+
+**Core conflict / decision:**
+
+- Should Luke’s Lobster pursue rapid expansion (e.g., scaling like fast casual peers) or focus on slower, values-driven growth that protects authenticity, sustainability, and brand integrity?
+
+- How should the company balance stakeholder theory (suppliers, staff, customers, community) with investor expectations?
+
+:::
+
+# Part 2 <br> Identify the Key Players
+
+## Key Players
+
+- **Luke Holden** – Founder and CEO
+
+- **Ben Conniff** – Co-founder (marketing partner)
+
+- **Fishermen/suppliers** – Multi-generational relationships, core to sourcing model
+
+- **Restaurant staff & frontline employees** – The “shack” crews delivering customer experience
+
+- **Customers** – Seeking authentic, sustainable seafood experiences
+
+- **Investors (Quilvest/Jay Takefman)** – Expecting returns but aligned with stakeholder philosophy
+
+## Other Important Players
+
+- **Holden family** – Multi-generational lobstering background
+
+- **Whole Foods and distribution partners** – Expanding brand visibility
+
+- **Community stakeholders** – Waterfront redevelopment, sustainability initiatives
+
+# Part 3 <br> Gather and Sort the Evidence
+
+## Gather the Evidence
+
+1. Crew Profiles (Luke’s Lobster Crew) – Shows the diversity and personal connections of staff.
+
+2. Employee Longevity – Data on how long employees see themselves working at Luke’s, reflecting retention expectations.
+
+3. Employee Survey Results – High scores on culture (8.75), enjoyment (8.59), inclusiveness (7.95), and willingness to recommend Luke’s as a workplace (8.04).
+
+4. Food Source Transparency – Vertically integrated, traceable supply chain; strong sustainability commitments.
+
+5. Company Purpose – Clear mission centered on serving sustainable seafood, treating people right, and building stakeholder value.
+
+## Sort the Evidence
+
+The evidence from the case can be grouped into several categories that highlight different aspects of Luke’s Lobster’s operations and strategy:
+
+- Supply chain practices: direct sourcing, sustainable certification, vertical integration.
+
+- Employee culture: high survey scores, strong engagement, longevity data.
+
+- Customer focus: brand authenticity, consistent “shack” experience.
+
+- Investor relations: unique PE partner aligned with stakeholder model.
+
+## Interpret Exhibits
+
+When reviewing the exhibits, it is useful to identify what kind of information they provide and how it connects to the company’s challenges:
+
+- Longevity data: helps assess turnover risk and workforce stability.
+
+- Survey results: demonstrate cultural strength, which supports scaling.
+
+- Transparency and Purpose: show differentiation in crowded fast-casual space.
+
+## Look for Case-Specific Insights
+
+Beyond the exhibits, the case narrative highlights several important lessons and turning points that inform Luke’s strategic decisions:
+
+- Expansion mistakes (2018) show danger of over-relying on fast-casual clustering.
+
+- Relationships with fishermen are hard to replicate → durable competitive advantage.
+
+- Culture and values provide insulation against copycats.
+
+## How Might This Evidence Inform Your Decision?
+
+Taken together, the exhibits and case details point toward strategic considerations that can guide Luke’s next steps:
+
+1. Strong culture + unique supply chain favor measured, stakeholder-driven growth.
+
+2. Employee and supplier relationships are fragile if expansion is too rapid.
+
+3. Investor expectations must be balanced with long-term sustainability.
 
 
-# Understand the Situation
+# Part 4 <br> Compare Options
 
-## Fishbowl team will lead the discussion by answering:
-- What’s going on in this case?  
-- Why is each detail in the case important?  
-- Which big-picture themes (e.g., sustainability, brand integrity, growth strategy) are present?  
-- Are there any contradictions or unexpected points? For example: rapid expansion vs. artisanal sourcing.
+## In running a restaurant, why is it necessary to consider what the customer experience should be? {data-background-color="lightblue"}
 
+*Facilitator Tip:*
 
-# Identify the Evidence
+Encourage the group to think beyond just food — consider ambiance, service, wait times, pricing, and emotional connection.
 
-## Key players and evidence
-- **Key players:** Luke Holden (founder), fishermen/suppliers, restaurant staff, customers, investors.
-
-- **Evidence categories:**  
-
-  - **Supply chain practices:** direct relationships with fishermen, traceable sourcing.  
-  - **Customer satisfaction metrics:** repeat visits, reviews, social media sentiment.  
-  - **Brand reputation factors:** media coverage, awards, sustainability certifications.
-
-
-# Interpret Exhibits
-
-## Look for case-specific insights
-- Which exhibits provide data on sourcing, pricing, or market trends?  
-- What patterns are visible over time (e.g., revenue growth vs. expansion pace)?  
-- How do these exhibits connect to restaurant and hospitality management concepts like customer lifetime value or service consistency?
-
-
-# Apply Concepts
-
-## Link back to course content
-- **Stakeholder theory** — weighing needs and trade-offs among diverse groups.
-- **SERVQUAL model** — dimensions of service quality: reliability, responsiveness, assurance, empathy, tangibles.
-- **Relationship marketing** — building long-term loyalty through trust and consistent experiences.
-
-
-# Discussion Questions {data-background-color="lightblue"}
-
-## In running a restaurant, why is it necessary to consider what the customer experience should be? {data-background-color="lightblue"} 
-*Facilitator Tip:*  
-
-Encourage the group to think beyond just food — consider ambiance, service, wait times, pricing, and emotional connection. 
-
-Ask: “If you were a repeat customer, what would bring you back?” 
+Ask: “If you were a repeat customer, what would bring you back?”
 
 Push them to link customer experience to loyalty, word-of-mouth marketing, and online reviews.
 
 ## Why are relationships valuable in Luke’s business? {data-background-color="lightblue"}
-*Facilitator Tip:*  
 
-Guide students to consider relationships with suppliers, fishermen, employees, customers, and investors. 
+*Facilitator Tip:*
 
-Ask: “What happens if any one of these relationships weakens?” 
+Guide students to consider relationships with suppliers, fishermen, employees, customers, and investors.
+
+Ask: “What happens if any one of these relationships weakens?”
 
 Prompt discussion about trust, reliability, and long-term partnerships in food businesses.
 
-## How might a stakeholder perspective influence the way Luke’s Lobster operates? {data-background-color="lightblue"} 
-*Facilitator Tip:*  
+## How might a stakeholder perspective influence the way Luke’s Lobster operates? {data-background-color="lightblue"}
 
-Ask students to identify all stakeholders (suppliers, staff, customers, community, investors, environment). 
+*Facilitator Tip:*
 
-Explore trade-offs: How might a decision that benefits investors impact employees or sourcing practices? 
+Ask students to identify all stakeholders (suppliers, staff, customers, community, investors, environment).
+
+Explore trade-offs: How might a decision that benefits investors impact employees or sourcing practices?
 
 Push them to think about balancing multiple, sometimes conflicting, interests.
 
+## Apply Course Concepts
 
-# Reach a Conclusion
+What have we learned so far:
 
-## Facilitate toward a decision
-- Should Luke prioritize rapid expansion, or protect the brand through slower growth?  
-- What criteria should drive the decision — profitability, sustainability, customer loyalty, brand strength?  
-- What are alternative growth paths: franchising, regional focus, diversifying the menu, or strategic partnerships?
+- Week 1: Types of Entrepreneurial Ventures
+- Week 2: The Entrepreneurial Mindset
 
 
-# Wrap-Up & Key Takeaways
 
-## Conclude with recommendations and class insights:
-- Balancing growth with brand integrity requires careful trade-offs.  
-- Strong stakeholder relationships are a competitive advantage, not just “nice to have.”  
-- Consistency in customer experience is critical to sustaining loyalty and brand reputation.  
-- Strategic growth decisions should align with both values and market opportunities.
+## Decide on the Criteria to Make a Decision
+
+Based on the company values instilled by Luke, our recommendation can be guided by the following questions:
+
+- **Sustainability & traceability:** Does this option maintain or strengthen the company’s commitment to sustainable, traceable sourcing?
+
+- **Authenticity of product and experience:** Will the customer experience remain authentic and true to the brand?
+
+- **Treating people well:** How will this decision affect employees, customers, and suppliers?
+
+- **Long-term community impact:** Does this path support positive outcomes for the community and industry over time?
+
+- **Balanced profitability:** Can the company remain financially viable while staying true to its mission?
+
+
+# Part 5 <br> Make a Recommendation
+
+## Remind the Class: *What is the decision that needs to be made?*
+
+Growth strategy: fast expansion vs. measured stakeholder-driven growth?
+
+## Apply the Criteria
+
+☐ Yes ☐ No — Does this option maintain or strengthen the company’s commitment to sustainable, traceable sourcing?
+
+☐ Yes ☐ No — Will the customer experience remain authentic and true to the brand?
+
+☐ Yes ☐ No — How will this decision affect employees, customers, and suppliers?
+
+☐ Yes ☐ No — Does this path support positive outcomes for the community and industry over time?
+
+☐ Yes ☐ No — Can the company remain financially viable while staying true to its mission?
+
+
+## Reach a Conclusion
+
+<b> *Likely* recommendation:</b>
+
+- Prioritize measured expansion that aligns with values.
+
+- Explore new channels (wholesale, branded grocery, e-commerce) instead of solely more “shacks.”
+
+- Maintain investor alignment by demonstrating long-term profitability through stakeholder-driven practices.
+
+## Wrap-Up & Key Takeaways
+
+-   Balancing growth with brand integrity requires careful trade-offs.\
+-   Strong stakeholder relationships are a competitive advantage, not just “nice to have.”\
+-   Consistency in customer experience is critical to sustaining loyalty and brand reputation.\
+-   Strategic growth decisions should align with both values and market opportunities.
