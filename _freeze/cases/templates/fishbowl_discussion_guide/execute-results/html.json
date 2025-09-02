@@ -1,0 +1,15 @@
+{
+  "hash": "ffee2d4f80ef821d9630e6dc86f7a3c7",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Fishbowl Discussion Guide\"\noutput: pdf_document\n---\n\n\n\n\n\nThis guide is designed to help you prepare for and participate in your fishbowl discussion. Each part outlines steps for analyzing the case, organizing your thoughts, and engaging with your peers. Use it to stay focused, contribute effectively, and build toward a clear and well-supported recommendation.\n\n## How to structure your discussion\n\nPart 1: Present the Case Overview\n\n-   Summarize the case\n-   Understand the situation (either the core conflict or decision to be made)\n\nPart 2: Identify the Key Players\n\n-   Introduce the key players in the story\n-   Pick out any other players that are important to understand the case\n\nPart 3: Gather and Sort the Evidence\n\n-   Review the figures and tables in the case\n-   Describe what they present\n-   Look for insights presented by the case characters\n-   Explain how this evidence might help inform a decision\n\nPart 4: Compare Options\n\n-   Engage in a discussion among your group/the class\n-   Apply concepts from class\n-   Decide on the criteria to make a decision\n\nPart 5: Make a Recommendation\n\n-   Apply the criteria\n-   Come to a conclusion",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

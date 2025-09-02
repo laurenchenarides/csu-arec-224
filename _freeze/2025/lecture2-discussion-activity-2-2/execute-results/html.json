@@ -1,0 +1,15 @@
+{
+  "hash": "11e5716261654fee7c937df29149d029",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Discussion Activity 2-2\"\noutput: pdf_document\n---\n\n\n\n\n**Step 1 – Individual Reflection (3 minutes)**\n\n| Statement             | Strongly Disagree (1) | Disagree (2) | Neither Disagree Nor Agree (3) | Agree (4) | Strongly Agree (5) |\n|--------------------------------------|------------|------------|------------|------------|------------|\n| I often feel a severe sense of time urgency. |  |  |  |  |\n| I find myself constantly involved in multiple projects subject to deadlines. |  |  |  |  |\n| I often neglect of all aspects of life except work. |  |  |  |  |\n| I have a tendency to take on excessive responsibility, combined with the feeling that “Only I am capable of taking care of this matter.” |  |  |  |  |\n| I have a tendency to speak faster than most people.|  |  |  |  |\n\n\n1. Read each statement below and mark the column that most appropriately represents your level of agreement.\n\n2. Add up your scores.\n\n3. The higher your score, the stronger your “Type A” tendencies, which can increase entrepreneurial stress.\n\n**Step 2 – Small-Group Discussion (5 minutes)**\n\nIn groups of 2–3, discuss:\n\n1. Which statements resonated most with you?\n\n2. Do you see any signs of stress or burnout risk in your answers?\n\n3. How might these tendencies both help and hurt an entrepreneur?\n\n**Step 3 – Coping Strategies Brainstorm (3 minutes)**\n\nAs a group, list at least three concrete strategies for reducing entrepreneurial stress. These can be personal habits, business practices, or support systems. Some examples:\n\n- Networking with other entrepreneurs\n\n- Taking regular breaks or “getting away from it all”\n\n- Open communication with employees or partners\n\n- Finding satisfaction outside the company (hobbies, volunteering)\n\n- Delegating work\n\n- Exercising regularly\n\n- Speaking with a professional therapist or coach\n\n- Getting high-quality sleep\n\n**Step 4 – Full-Class Debrief (5 minutes)**\n\nEach group shares:\n\n1. One Type A tendency that is both a strength and a risk.\n\n2. One practical strategy for managing entrepreneurial stress.\n\nWe’ll compile these so everyone leaves with a shared list of ideas.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

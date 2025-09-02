@@ -64,7 +64,7 @@ Your job is to observe the fishbowl discussion critically and constructively. Yo
   - 1 question you would have added to the conversation.
   - What did you learn from observing?
 
-You’ll submit your feedback via **Canvas** using the [Observer Feedback Form](observer-form.qmd).
+You’ll submit your feedback via **Canvas** using the [Observer Feedback Form](templates/observer-form.qmd).
 
 :::{.callout-note icon=false collapse=true title="How You'll Be Graded"}
 You will complete one observer reflection during the semester.

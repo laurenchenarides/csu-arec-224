@@ -1,0 +1,15 @@
+{
+  "hash": "866469cdf1882044b1a8dc2d227aea8b",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Observer Feedback Form\"\noutput: pdf_document\n---\n\n\n\n\n**Your Name:** __________________________________________  \n**Date:** ___________________  \n**Case Study Title:** __________________________________________  \n**Fishbowl Team:** __________________________________________  \n\n> Note: This is an individual assignment. Observer Team assignments are based on your Fishbowl Team, but each student must submit their own feedback form.\n\n---\n\n### 1. Praise (1–2 sentences)  \n*What did the Fishbowl Team do well in their discussion?*  \n\n_____________________________________________________________________________________  \n_____________________________________________________________________________________  \n\n---\n\n### 2. Question to Add (1 sentence)  \n*What question would you have added to the conversation?*  \n\n_____________________________________________________________________________________  \n\n---\n\n### 3. Key Takeaway  \n*What did you learn from observing this discussion?*  \n\n_____________________________________________________________________________________  \n_____________________________________________________________________________________  \n\n---\n\n### 4. Connection to Class Concepts   \n*How did this discussion connect to ideas, concepts, or examples from our course?*  \n\n_____________________________________________________________________________________  \n_____________________________________________________________________________________  \n\n\n\n---\n---\n\n\n\n**Submission Instructions:**  \n- Complete this form during or shortly after class while the discussion is fresh in your mind.  \n- Submit it via the Canvas quiz **by Friday at 11:59 PM** of your assigned week.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

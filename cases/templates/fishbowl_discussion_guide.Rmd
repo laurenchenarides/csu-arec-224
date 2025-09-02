@@ -1,0 +1,36 @@
+---
+title: "Fishbowl Discussion Guide"
+output: pdf_document
+---
+
+This guide is designed to help you prepare for and participate in your fishbowl discussion. Each part outlines steps for analyzing the case, organizing your thoughts, and engaging with your peers. Use it to stay focused, contribute effectively, and build toward a clear and well-supported recommendation.
+
+## How to structure your discussion
+
+Part 1: Present the Case Overview
+
+-   Summarize the case
+-   Understand the situation (either the core conflict or decision to be made)
+
+Part 2: Identify the Key Players
+
+-   Introduce the key players in the story
+-   Pick out any other players that are important to understand the case
+
+Part 3: Gather and Sort the Evidence
+
+-   Review the figures and tables in the case
+-   Describe what they present
+-   Look for insights presented by the case characters
+-   Explain how this evidence might help inform a decision
+
+Part 4: Compare Options
+
+-   Engage in a discussion among your group/the class
+-   Apply concepts from class
+-   Decide on the criteria to make a decision
+
+Part 5: Make a Recommendation
+
+-   Apply the criteria
+-   Come to a conclusion

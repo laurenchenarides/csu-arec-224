@@ -1,0 +1,50 @@
+---
+title: "Observer Feedback Form"
+output: pdf_document
+---
+
+
+**Your Name:** __________________________________________  
+**Date:** ___________________  
+**Case Study Title:** __________________________________________  
+**Fishbowl Team:** __________________________________________  
+
+> Note: This is an individual assignment. Observer Team assignments are based on your Fishbowl Team, but each student must submit their own feedback form.
+
+---
+
+### 1. Praise (1–2 sentences)  
+*What did the Fishbowl Team do well in their discussion?*  
+
+_____________________________________________________________________________________  
+_____________________________________________________________________________________  
+
+---
+
+### 2. Question to Add (1 sentence)  
+*What question would you have added to the conversation?*  
+
+_____________________________________________________________________________________  
+
+---
+
+### 3. Key Takeaway  
+*What did you learn from observing this discussion?*  
+
+_____________________________________________________________________________________  
+_____________________________________________________________________________________  
+
+---
+
+### 4. Connection to Class Concepts   
+*How did this discussion connect to ideas, concepts, or examples from our course?*  
+
+_____________________________________________________________________________________  
+_____________________________________________________________________________________  
+
+---
+---
+
+**Submission Instructions:**  
+- Complete this form during or shortly after class while the discussion is fresh in your mind.  
+- Submit it via the Canvas quiz **by Friday at 11:59 PM** of your assigned week.
