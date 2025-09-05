@@ -1,0 +1,331 @@
+---
+title: "Lecture 3"
+description-meta: "Corporate and Social Entrepreneurship"
+author: "Dr. Lauren Chenarides"
+date: September 9, 2025
+date-format: long
+image: "/images/01entrepreneur.png"
+page-meta:
+  robots: noindex
+format:
+  revealjs:
+    pdf-export: true
+    theme: white
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: false
+    scrollable: true
+    css: lecture-style.css
+    footer: <https://laurenchenarides.github.io/csu-arec-224/>
+execute:
+  echo: false      # hide code (set true if you want to show it)
+  warning: false
+  message: false
+---
+
+# {background-color="black"}
+
+*A leader has two important characteristics; first, he is going somewhere; second, he is able to persuade other people to go with him.* <br> Maximilien François Marie Isidore de Robespierre
+
+
+## Lecture 3: Corporate and Social Entrepreneurship
+
+**Textbook Reading (Quiz Basis)** <br>
+Chapter 3. The Entrepreneurial Mindset in Organizations: Corporate Entrepreneurship
+
+Chapter 4. The Global Entrepreneurial Mindset: Social Entrepreneurship
+
+
+::: {.callout-note icon=false title="Lecture Agenda"}
+- Part 1: Corporate Entrepreneurship
+- Part 2: Social Entrepreneurship
+:::
+
+::: footer
+Source: @kuratko2024
+:::
+
+
+## Chapter 3 Objectives (Corporate Entrepreneurship)
+
+By the end of this section you should be able to:  
+- 3.1 Define the entrepreneurial mindset within organizations.  
+- 3.2 Explain why entrepreneurial thinking is needed in corporations.  
+- 3.3 Define *corporate entrepreneurship*.  
+- 3.4 Identify obstacles that block innovation.  
+- 3.5 Summarize how to reengineer corporate thinking.  
+- 3.6 Describe the elements of a corporate entrepreneurial strategy.  
+- 3.7 Explain how managers develop entrepreneurial skills inside firms.  
+- 3.8 Illustrate how corporate entrepreneurship is an interactive process.
+
+## Chapter 4 Objectives (Social Entrepreneurship)
+
+By the end of this section you should be able to:  
+- 4.1 Define social entrepreneurship.  
+- 4.2 Identify traits of social entrepreneurs.  
+- 4.3 Explain shared value and benefit corporations.  
+- 4.4 Explore challenges in poverty, sustainability, and global markets.
+
+
+# Part 1 <br> Corporate Entrepreneurship
+
+## Icebreaker
+
+Can corporations have an *entrepreneurial mindset*?  
+
+- Share an example you’ve seen in food/ag (e.g., new product launches, sustainability projects).  
+
+- How might a group of friends or a family show the same mindset?
+
+
+## The Entrepreneurial Mindset in Organizations
+
+Corporations face rapid and unpredictable change. 
+
+To compete, they:  
+
+- Restructure operations.  
+- Introduce **corporate entrepreneurship** (aka intrapreneurship).  
+- Continuously innovate to keep pace globally.  
+
+📌 *Food/Ag Example*: PepsiCo’s investments in plant-based proteins and sustainable packaging.
+
+
+
+## Corporate Innovation Philosophy
+
+Practices that build an innovation-driven company:
+
+- Set **clear innovation goals**.  
+- Create feedback and positive reinforcement.  
+- Reward innovative ideas, don’t punish failure.  
+- Encourage individual responsibility.  
+
+## Quick Poll
+
+Which practice would motivate you most if you worked at a food company?
+
+A. Set **clear innovation goals**.  
+B. Create feedback and positive reinforcement.  
+C. Reward innovative ideas, don’t punish failure.  
+D. Encourage individual responsibility.  
+
+
+## Assessing Support for Innovation
+
+**Key questions:**  
+
+- Does the company encourage entrepreneurial thinking?  
+- Can innovators stick with their ideas?  
+- Are there quick ways to access resources?  
+- Are small experimental innovations supported?  
+- Is risk-taking encouraged and mistakes tolerated?  
+
+
+📌 *Food/Ag Example*: Chobani’s incubator program for new food startups.
+
+
+
+
+## Rules for an Innovative Environment
+
+- Encourage action & informal meetings.  
+- Tolerate and learn from failure.  
+- Reward innovation for its own sake.  
+- Allow “bootlegging” (working on new ideas secretly).  
+- Put people on small teams for future projects.  
+
+💡 *Activity*: In pairs, pick one “rule” you think is easiest vs hardest to implement. Why?
+
+
+
+
+## Corporate Entrepreneurship Terms
+
+- **Corporate Entrepreneurship**: New venture creation or strategic renewal inside an existing firm.  
+- **Corporate Innovation**: Developing entrepreneurial spirit, generating new ideas and behaviors.  
+- **Corporate Venturing**: New businesses created inside a corporation.  
+
+📌 *Food/Ag Example*: Tyson’s “Tyson Ventures” fund invests in lab-grown meat startups.
+
+
+
+
+## The Need for Corporate Entrepreneurship
+
+Why companies pursue it:  
+- New competitors emerging.  
+- Traditional management methods distrusted.  
+- Talent leaving to start their own businesses.  
+- International competition & downsizing.  
+- Desire for higher efficiency/productivity.
+
+📌 *Food/Ag Example*: Nestlé’s focus on healthier, plant-based products to respond to consumer demand.
+
+
+
+
+## Obstacles & Solutions
+
+**Traditional practice vs. problem vs. solution**  
+
+- Enforcing rigid procedures → blocks innovation → make ground rules flexible.  
+- Controlling against the plan → ignores new learning → update plans as conditions change.  
+- Protecting base business at all costs → missed opportunities → take small affordable risks.  
+
+💡 *Game Idea*: Give students short scenarios (e.g., “A dairy cooperative refuses to invest in oat milk”). Ask: Is this traditional thinking or entrepreneurial?
+
+
+
+
+## Successful Innovative Companies
+
+Factors:  
+
+- Clear vision and supportive atmosphere.  
+- Market orientation.  
+- Flat organizational structure.  
+- Multiple approaches to innovation.  
+- “Skunk Works” → small, autonomous project teams.  
+
+📌 *Food/Ag Example*: General Mills’ “301 Inc.” venture arm supports startups like Beyond Meat.
+
+
+
+
+## Group Activity 3-1 {data-background-color="lightblue"}
+
+👉 Split into groups. Each group takes one factor (vision, market orientation, flat structure, multiple approaches, learning, skunk works).  
+
+- Find a food/ag company example.  
+- Present how that company applies the factor.
+
+
+
+
+# Part 2 <br> Corporate Entrepreneurship
+
+## Icebreaker
+
+Think of a social cause you care about (local or global). How could a business help solve it?
+
+
+
+
+## Defining Social Entrepreneurship
+
+- Mixes nonprofit, government, and business features.  
+- Combines innovation, risk-taking, and large-scale transformation with solving social problems.  
+
+📌 *Food/Ag Example*: **Ben & Jerry’s** balancing profit with activism on climate and social justice.
+
+
+
+## Social Entrepreneurship Process
+
+1. Recognize a social opportunity.  
+2. Translate into an enterprise concept.  
+3. Acquire resources.  
+4. Execute to achieve social impact.  
+
+📌 Examples: 
+
+- **Water for People** (clean water access).  
+- **Sanergy** (sanitation in Kenya).  
+- **The Clothing Bank** (training women in South Africa).
+
+
+
+## Social Enterprises
+
+- Mission-driven: increase **social value**.  
+- Can be nonprofit or for-profit.  
+- For-profit model: *Buy One, Give One* (e.g., TOMS Shoes).  
+
+📌 *Food/Ag Example*: **Misfits Market** – sells “ugly” produce at discount, reducing food waste.
+
+
+
+## Measuring Social Impact
+
+Ways to measure:  
+- Civic wealth/community well-being.  
+- Scale breadth (reach more people).  
+- Scale depth (deepen services to existing users).  
+- Extent of social change.  
+
+💡 *Group Activity*: Pick a food social venture (e.g., World Central Kitchen). Which measure best fits? Why?
+
+
+
+## Shared Value & Triple Bottom Line (TBL)
+
+- **Shared Value**: create economic + social value simultaneously.  
+- **TBL**: balance *Profit, People, Planet*.  
+
+📌 *Food/Ag Example*: Unilever’s sustainability initiatives in agriculture and packaging.
+
+💡 *Discussion*: If TBL guides decisions, how does it change which projects get funded?
+
+
+
+## Benefit Corporations (B Corps)
+
+- **Purpose**: positive social/environmental impact.  
+- **Accountability**: consider stakeholders (workers, community, environment).  
+- **Transparency**: annual reporting.  
+- Certified B Corp: verified by **B Lab**.  
+
+📌 *Food/Ag Example*: **Patagonia Provisions**, **New Belgium Brewing**, **King Arthur Baking**.
+
+
+
+## Global Entrepreneurship
+
+- Poverty alleviation through entrepreneurship.  
+- Global trade agreements (WTO, USMCA, EU).  
+- Ways to go international: exporting, alliances, joint ventures, direct investment, licensing.  
+
+📌 *Food/Ag Example*: Starbucks expanding globally with local partnerships.
+
+
+
+## Closing Discussion
+
+- Corporate entrepreneurship = innovating inside established firms.  
+- Social entrepreneurship = solving social/environmental challenges through business.  
+- Both require entrepreneurial mindset, but with different goals.  
+
+💡 *Game Idea*: “Which bucket?” → Show examples (Beyond Meat, TOMS, PepsiCo, World Central Kitchen). Students decide: corporate entrepreneurship, social entrepreneurship, or both?
+
+
+## Summary
+
+- 3.1 Define the entrepreneurial mindset within organizations.  
+- 3.2 Explain why entrepreneurial thinking is needed in corporations.  
+- 3.3 Define *corporate entrepreneurship*.  
+- 3.4 Identify obstacles that block innovation.  
+- 3.5 Summarize how to reengineer corporate thinking.  
+- 3.6 Describe the elements of a corporate entrepreneurial strategy.  
+- 3.7 Explain how managers develop entrepreneurial skills inside firms.  
+- 3.8 Illustrate how corporate entrepreneurship is an interactive process.
+- 4.1 Define social entrepreneurship.  
+- 4.2 Identify traits of social entrepreneurs.  
+- 4.3 Explain shared value and benefit corporations.  
+- 4.4 Explore challenges in poverty, sustainability, and global markets.
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture1.qmd), All [Lectures](schedule.qmd), or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::
