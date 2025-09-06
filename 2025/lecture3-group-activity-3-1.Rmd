@@ -1,0 +1,151 @@
+---
+title: "Group Activity 3-1"
+output: pdf_document
+---
+
+## Activity: Social Entrepreneurship Challenge
+
+**Time:** 30 minutes  
+**Format:** Work with your pods
+
+### Instructions (23-25 minutes)
+1. Each group will receive a **scenario** told from the perspective of a founder.  
+2. Spend the first part of the activity discussing:  
+   - What is the social problem the founder is trying to solve?  
+   - How should the team define the **social mission** of this enterprise?  
+   - Who is the target community?  
+   - What resources or partnerships will they need?  
+
+### Debrief (5–7 minutes)
+
+- What did your group define as the **social mission**?  
+- Did different groups emphasize different values (environment, equity, access, resilience)?  
+- What trade-offs did you notice when deciding what mattered most?
+
+**Takeaway:**  
+Social entrepreneurs adapt just like corporate entrepreneurs — but their pivots are often about **protecting the mission** while staying sustainable.
+
+\newpage
+
+### Scenario 1: Imperfect Produce
+
+You’re a young entrepreneur who grew up on a family farm and hated seeing “ugly” fruits and vegetables thrown out because grocery stores wouldn’t buy them. You launch a venture to buy this produce directly from farms and sell it to your target customers at a discount. You believe this can both reduce food waste and give families more affordable food options.  
+
+*Question for your team:* What social mission guides this enterprise? How do you balance the goals of helping farmers and reducing waste?
+
+---
+
+### Scenario 2: Water Access for Farmers
+
+You’ve been working with smallholder farmers in dry regions of Asia and Africa. You see how lack of irrigation keeps them trapped in poverty. You develop a low-cost drip irrigation system, hoping it will transform their productivity and incomes. You believe access to water is the foundation for food security.  
+
+*Question for your team:* How would you frame the social mission here? Is it about food security, poverty reduction, or environmental resilience? What resources or partnerships would you need to help your team be successful? 
+
+---
+
+### Scenario 3: Dairy Alternatives
+
+After studying environmental science, you’re convinced that dairy is one of the most resource-intensive sectors in agriculture. You partner with food scientists to create a plant-based milk that tastes like dairy but with a smaller footprint. Your goal is to offer a sustainable option that doesn’t ask people to give up the foods they love.  
+
+*Question for your team:* How should the mission be framed? Is it primarily about sustainability, consumer health, or giving people more choice? How would you describe your ideal target market?
+
+---
+
+### Scenario 4: Fair-Trade Chocolate
+
+While traveling in West Africa, you’re shocked by stories of child labor and poor wages in cocoa farming. You decide to start a chocolate company that pays farmers fairly and guarantees child-labor-free supply chains. You believe consumers will support a brand built on justice and transparency.  
+
+*Question for your team:* What social mission guides your business? Does it focus more on farmer livelihoods, ending child labor, or creating consumer awareness? Describe the type of customer who would feel compelled to buy your product.
+
+---
+
+### Scenario 5: Regenerative Ranching
+
+You inherit a family ranch and see firsthand the soil erosion and biodiversity loss from conventional cattle production. Inspired by regenerative grazing practices, you commit to restoring the land while still producing beef. You know it’s a harder sell to consumers, but you want your ranch to prove that livestock can be part of the climate solution.  
+
+*Question for your team:* How should your mission be defined? Is it restoring ecosystems, creating a climate-friendly beef option, or protecting rural livelihoods? Describe the type of customer who would feel compelled to buy your product. 
+
+
+\newpage
+
+## Pivot Cards (hand out midway)
+
+### Scenario 1: Imperfect Produce
+Things were going well until you start getting pushback from some of your farm partners.  
+One farmer tells you: *“Selling my ‘ugly’ apples through your program makes my brand look cheap.”*  
+At the same time, a major grocery chain refuses to stock your boxes because they want uniform quality.  
+
+How do you adjust your mission or strategy?
+
+---
+
+### Scenario 2: Water Access for Farmers
+You’re excited about your new drip irrigation kits, but you soon realize the system is still too expensive for the poorest farmers. Many admire the idea but say they simply can’t afford it.  
+Meanwhile, a local government passes stricter water regulations, limiting how much farmers can draw.  
+
+What changes do you make to keep the mission alive?
+
+---
+
+### Scenario 3: Dairy Alternatives
+Your plant-based milk is gaining traction, but then a consumer group launches a campaign claiming your oats are linked to pesticide residues. Social media starts buzzing with criticism.  
+On top of that, the dairy lobby pushes for a new law banning plant-based drinks from being called “milk.”  
+
+How do you respond to protect your mission?
+
+
+---
+
+### Scenario 4: Fair-Trade Chocolate
+Your chocolate bars are on shelves, but now a rival company has released a cheaper “ethical” chocolate. Their claims are vague, but consumers don’t seem to notice the difference.  
+Meanwhile, sales data show that many buyers still choose the lowest-priced chocolate, even when they know about labor issues.  
+
+How can you strengthen your mission and stand out?
+
+---
+
+### Scenario 5: Regenerative Ranching
+Your beef is praised by food magazines, but grocery buyers push back: *“We can’t sell at this price point — consumers won’t pay it.”*  
+Then a long drought hits, cutting grass supplies and raising your feed costs even further.  
+
+How do you adapt while staying true to your mission?
+
+
+\newpage
+
+## Challenges Solved
+
+**What actually happened?**  
+Here are the companies these scenarios were based on, and how they pivoted when faced with challenges:
+
+---
+
+### Scenario 1: Imperfect Produce → **Imperfect Foods / Misfits Market**
+- Pivot: Moved away from grocery partnerships and became a **direct-to-consumer subscription service**, delivering “ugly” produce and surplus foods straight to households.  
+- Lesson: Removing the middleman increased control over messaging and brand.
+
+---
+
+### Scenario 2: Water Access for Farmers → **Driptech**
+- Pivot: Redesigned irrigation systems with **ultra-low-cost parts** and focused on **smallholder farmer financing models**.  
+- Lesson: Affordability mattered more than advanced tech — scale came from lowering barriers.
+
+---
+
+### Scenario 3: Dairy Alternatives → **Oatly**
+- Pivot: Faced labeling battles (“milk” vs. “oat drink”) and consumer scrutiny. Oatly **invested in transparency campaigns** and **rebranded packaging** to emphasize sustainability.  
+- Lesson: Strong branding and consumer education helped overcome legal and PR challenges.
+
+---
+
+### Scenario 4: Fair-Trade Chocolate → **Tony’s Chocolonely**
+- Pivot: Doubled down on transparency — released an **“impact report”** and openly called out competitors for “false fair trade.”  
+- Lesson: Brand trust came from **radical honesty** and storytelling.
+
+---
+
+### Scenario 5: Regenerative Ranching → **White Oak Pastures**
+- Pivot: Expanded into **multiple revenue streams** (tours, compost, online direct-to-consumer meat sales) to offset premium pricing.  
+- Lesson: Diversification made the regenerative model more resilient.
+
+---

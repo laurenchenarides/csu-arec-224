@@ -25,299 +25,495 @@ execute:
   echo: false      # hide code (set true if you want to show it)
   warning: false
   message: false
+editor: 
+  markdown: 
+    wrap: sentence
 ---
 
-# {background-color="black"}
+#  {background-color="black"}
 
-*A leader has two important characteristics; first, he is going somewhere; second, he is able to persuade other people to go with him.* <br> Maximilien François Marie Isidore de Robespierre
-
+*A leader has two important characteristics; first, he is going somewhere; second, he is able to persuade other people to go with him.* <br> -Maximilien François Marie Isidore de Robespierre
 
 ## Lecture 3: Corporate and Social Entrepreneurship
 
-**Textbook Reading (Quiz Basis)** <br>
-Chapter 3. The Entrepreneurial Mindset in Organizations: Corporate Entrepreneurship
+**Textbook Reading (Quiz Basis)** <br> Chapter 3.
+The Entrepreneurial Mindset in Organizations: Corporate Entrepreneurship
 
-Chapter 4. The Global Entrepreneurial Mindset: Social Entrepreneurship
+Chapter 4.
+The Global Entrepreneurial Mindset: Social Entrepreneurship
 
-
-::: {.callout-note icon=false title="Lecture Agenda"}
-- Part 1: Corporate Entrepreneurship
-- Part 2: Social Entrepreneurship
+::: {.callout-note icon="false" title="Lecture Agenda"}
+-   Part 1: Corporate Entrepreneurship
+-   Part 2: Social Entrepreneurship
 :::
 
 ::: footer
 Source: @kuratko2024
 :::
 
-
 ## Chapter 3 Objectives (Corporate Entrepreneurship)
 
-By the end of this section you should be able to:  
-- 3.1 Define the entrepreneurial mindset within organizations.  
-- 3.2 Explain why entrepreneurial thinking is needed in corporations.  
-- 3.3 Define *corporate entrepreneurship*.  
-- 3.4 Identify obstacles that block innovation.  
-- 3.5 Summarize how to reengineer corporate thinking.  
-- 3.6 Describe the elements of a corporate entrepreneurial strategy.  
-- 3.7 Explain how managers develop entrepreneurial skills inside firms.  
+By the end of this section you should be able to:\
+- 3.1 Define the entrepreneurial mindset within organizations.\
+- 3.2 Explain why entrepreneurial thinking is needed in corporations.\
+- 3.3 Define corporate entrepreneurship.\
+- 3.4 Identify obstacles that block innovation.\
+- 3.5 Summarize how to reengineer corporate thinking.\
+- 3.6 Describe the elements of a corporate entrepreneurial strategy.\
+- 3.7 Explain how managers develop entrepreneurial skills inside firms.\
 - 3.8 Illustrate how corporate entrepreneurship is an interactive process.
 
 ## Chapter 4 Objectives (Social Entrepreneurship)
 
-By the end of this section you should be able to:  
-- 4.1 Define social entrepreneurship.  
-- 4.2 Identify traits of social entrepreneurs.  
-- 4.3 Explain shared value and benefit corporations.  
+By the end of this section you should be able to:\
+- 4.1 Define social entrepreneurship.\
+- 4.2 Identify traits of social entrepreneurs.\
+- 4.3 Explain shared value and benefit corporations.\
 - 4.4 Explore challenges in poverty, sustainability, and global markets.
 
+## Important Announcements
+
+1.  Have you set up a time to have your first mentor meeting?
+
+2.  Recording studio slots fill quickly!
+    They must be recorded by **Nov 10th.**
+
+3.  Field trip to Denver Food Trade Show on Oct 2nd (2 spots remaining)
+
+4.  Student internship *for credit* (1 spot remaining)
 
 # Part 1 <br> Corporate Entrepreneurship
 
-## Icebreaker
+## Quick Poll {data-background-color="lightblue"}
 
-Can corporations have an *entrepreneurial mindset*?  
+Can corporations have an *entrepreneurial mindset*?
 
-- Share an example you’ve seen in food/ag (e.g., new product launches, sustainability projects).  
-
-- How might a group of friends or a family show the same mindset?
-
+-   Think of examples you’ve seen in food/ag (e.g., new product launches, sustainability projects).
 
 ## The Entrepreneurial Mindset in Organizations
 
-Corporations face rapid and unpredictable change. 
+Corporations face rapid and unpredictable change.
 
-To compete, they:  
+To compete, they:
 
-- Restructure operations.  
-- Introduce **corporate entrepreneurship** (aka intrapreneurship).  
-- Continuously innovate to keep pace globally.  
+-   Restructure operations.\
+-   Encourage **corporate entrepreneurship** (aka intrapreneurship).\
+-   Continuously innovate to keep pace globally.
 
-📌 *Food/Ag Example*: PepsiCo’s investments in plant-based proteins and sustainable packaging.
+:::: fragment
+::: {.callout-note icon="false" title="*Definition:* Corporate Entrepreneurship (Intrapreneurship)"}
+New venture creation or strategic renewal inside an existing firm.
+The infusion of entrepreneurial thinking and innovation inside larger, corporate enterprises.
+:::
+::::
 
+<br> Example companies: Google, 3M, Amazon, Tesla, Procter & Gamble, Abbott
 
+## The Need for Corporate Entrepreneurship
+
+::::: columns
+::: {.column width="50%"}
+Why companies pursue it:\
+- New competitors emerging.\
+- Traditional management methods distrusted.\
+- Talent leaving to start their own businesses.\
+- International competition & downsizing.\
+- Desire for higher efficiency/productivity.
+:::
+
+::: {.column width="50%"}
+![](../images/03_intrapreneurship_diagram.png) <small> [View original](https://courses.lumenlearning.com/suny-osintrobus/chapter/understanding-the-business-environment/) </small>
+:::
+:::::
 
 ## Corporate Innovation Philosophy
 
 Practices that build an innovation-driven company:
 
-- Set **clear innovation goals**.  
-- Create feedback and positive reinforcement.  
-- Reward innovative ideas, don’t punish failure.  
-- Encourage individual responsibility.  
+1.  **Set clear innovation goals.** What steps does the employee need to take so that innovation goals are achieved?
+2.  **Create a system of feedback and positive reinforcement.** How can risk-taking be encouraged within the company?\
+3.  **Emphasize individual responsibility.** Key pillars: confidence, trust, accountability
+4.  **Provide rewards for innovative ideas.** How can employees be incentivized to put their innovative talents to use?
+5.  **Don’t punish failure.** How can the company embed failure into the innovation model?
 
-## Quick Poll
+:::: fragment
+::: {.callout-note icon="false" title="*Definition:* Corporate Innovation"}
+Developing entrepreneurial spirit, generating new ideas and behaviors.
+:::
+::::
 
-Which practice would motivate you most if you worked at a food company?
+## Corporate Innovation Philosophy
 
-A. Set **clear innovation goals**.  
-B. Create feedback and positive reinforcement.  
-C. Reward innovative ideas, don’t punish failure.  
-D. Encourage individual responsibility.  
+Practices that build an innovation-driven **class**:
 
+1.  **Set clear innovation goals.**\
+    → In class: Your *innovation goal* is to produce a professional podcast episode with your mentor.\
+    What smaller steps will get you there?
+    (planning, interviewing, editing)
 
-## Assessing Support for Innovation
+2.  **Create a system of feedback and positive reinforcement.**\
+    → In class: You’ll get feedback from your mentor, peers, and me.\
+    How can you encourage each other to take risks and try new approaches?
 
-**Key questions:**  
+3.  **Emphasize individual responsibility.**\
+    → In class: Each team member has a role in the podcast.\
+    How do confidence, trust, and accountability show up in your group?
 
-- Does the company encourage entrepreneurial thinking?  
-- Can innovators stick with their ideas?  
-- Are there quick ways to access resources?  
-- Are small experimental innovations supported?  
-- Is risk-taking encouraged and mistakes tolerated?  
+4.  **Provide rewards for innovative ideas.**\
+    → In class: Creative approaches (unique interview angles, strong storytelling) will shine through in your final product and class presentations.
 
+5.  **Don’t punish failure.**\
+    → In class: Experiments might not work (tech glitches, awkward questions).\
+    How can you turn these into learning moments instead of setbacks?
 
-📌 *Food/Ag Example*: Chobani’s incubator program for new food startups.
+::: {.callout-note icon="false" title="Apply it to your own experience"}
+-   How can you practice these five principles in your mentor relationship?\
+-   How will experimenting with the podcast help you build confidence in risk-taking and innovation?\
+:::
 
+## Quick Poll {data-background-color="lightblue"}
 
+Which practice would motivate you most working in an organization?
 
+A. Having clear innovation goals.\
+B.
+Receiving feedback and positive reinforcement.\
+C.
+Being rewarded for innovative ideas.\
+D.
+Having freedom to work independently.\
+E.
+Having guardrails to fail safely.\
 
-## Rules for an Innovative Environment
+## How to Determine if Your Organization Supports Innovation
 
-- Encourage action & informal meetings.  
-- Tolerate and learn from failure.  
-- Reward innovation for its own sake.  
-- Allow “bootlegging” (working on new ideas secretly).  
-- Put people on small teams for future projects.  
+If you find yourself craving a workplace where entrepreneurial thinking is encouraged, use these questions to determine if your organization supports that mindset:
 
-💡 *Activity*: In pairs, pick one “rule” you think is easiest vs hardest to implement. Why?
+☐ Does the company encourage entrepreneurial thinking?\
+☐ Does the company provide ways for innovators to stay (not abandon) with their ideas?\
+☐ Are people in the company permitted to do the job on their own, or are they constantly stopping to explain their actions and ask for permission?\
+☐ Has the company evolved quick and informal ways to access the resources to try new ideas?\
+☐ Has the company developed ways to manage many small and experimental innovations?\
+☐ Is the system set up to encourage risk taking and to tolerate mistakes?\
+☐ Are people in our company more concerned with new ideas or with defending their turf?\
+☐ How easy is it to form functionally complete, autonomous teams in our corporate environments?\
 
+## How to Determine if Your Organization Supports Innovation
 
+::::: columns
+::: {.column width="50%"}
+Alternatively, an innovative corporate environment may be built around the application of rules for innovation.\
 
+This is the result of a **corporate philosophy** that supports innovative behavior.
+:::
 
-## Corporate Entrepreneurship Terms
+::: {.column width="50%"}
+![](../images/03_table3.1.png)
+:::
+:::::
 
-- **Corporate Entrepreneurship**: New venture creation or strategic renewal inside an existing firm.  
-- **Corporate Innovation**: Developing entrepreneurial spirit, generating new ideas and behaviors.  
-- **Corporate Venturing**: New businesses created inside a corporation.  
+## Chobani’s Incubator Program for New Food Startups {data-background-color="lightblue"}
 
-📌 *Food/Ag Example*: Tyson’s “Tyson Ventures” fund invests in lab-grown meat startups.
+::::: columns
+::: {.column width="80%"}
+-   Chobani launched its Food Incubator in 2016 to support startups focused on **better food for more people**. 
+-   Provides entrepreneurs with: 
+    -   Mentorship from Chobani executives 
+    -   Access to networks in retail, supply chain, and distribution 
+    -   Workshops on branding, marketing, and fundraising 
+    -   Equity-free funding (\$25,000 per company) 
+:::
 
+::: {.column width="20%"}
+![](../images/03_chobani_logo.png){fig-align="right"}
+:::
+:::::
 
+**Connection to Corporate Innovation:**
 
+-   Helps Chobani stay at the forefront of food trends. 
+-   Builds partnerships that bring fresh ideas into the company. 
+-   Example of a large food company creating an environment that **encourages entrepreneurial thinking**. 
 
-## The Need for Corporate Entrepreneurship
+:::: fragment
+::: {.callout-note icon="false" title="*Definition:* Incubator"}
+An incubator is a program that supports early-stage startups by providing resources such as mentorship, funding, networking, and workspace to help them grow.
+:::
+::::
 
-Why companies pursue it:  
-- New competitors emerging.  
-- Traditional management methods distrusted.  
-- Talent leaving to start their own businesses.  
-- International competition & downsizing.  
-- Desire for higher efficiency/productivity.
+## Corporate Entrepreneurship Terms: <br> (1) Corporate Venturing vs. (2) Strategic Entrepreneurship
 
-📌 *Food/Ag Example*: Nestlé’s focus on healthier, plant-based products to respond to consumer demand.
+Now that we understand the value and culture of entrepreneurship *within* organizations, how do companies actually structure it?
 
+1.  **Adding new businesses** (or portions of new businesses via equity investments) to the corporation
+    -   Can take three forms:
+        -   *Internal corporate venturing* → new ventures created inside the company\
+        -   *Cooperative corporate venturing* → partnerships or joint ventures with other firms\
+        -   *External corporate venturing* → investing in startups outside the company
 
+*Example:* Tyson Foods investing in plant-based protein startups.
 
+:::: fragment
+::: {.callout-note icon="false" title="*Definition:* Corporate Venturing"}
+Creating or investing in new businesses within or alongside the corporation to generate growth and innovation.
+:::
+::::
 
-## Obstacles & Solutions
+## Corporate Entrepreneurship Terms: <br> (1) Corporate Venturing vs. (2) Strategic Entrepreneurship
 
-**Traditional practice vs. problem vs. solution**  
+2.  **Transforming the core business**
+    -   Changes to firm strategy, product offerings, served markets, internal organization, or business model
 
-- Enforcing rigid procedures → blocks innovation → make ground rules flexible.  
-- Controlling against the plan → ignores new learning → update plans as conditions change.  
-- Protecting base business at all costs → missed opportunities → take small affordable risks.  
+*Example:* General Mills shifting resources toward healthier snack lines to adapt to consumer demand.
 
-💡 *Game Idea*: Give students short scenarios (e.g., “A dairy cooperative refuses to invest in oat milk”). Ask: Is this traditional thinking or entrepreneurial?
+:::: fragment
+::: {.callout-note icon="false" title="*Definition:* Strategic Entrepreneurship"}
+Using entrepreneurial thinking to renew and reshape an existing organization’s strategy, products, or operations.
+:::
+::::
 
+## Obstacles to Corporate Entrepreneurship
 
+**Traditional practice → Problem created → Better approach**
 
+| Traditional Practice | Problem It Creates | Better Approach |
+|-----------------------|------------------------|-------------------------|
+| Enforcing rigid procedures | Blocks innovation | Make rules flexible for each situation |
+| Managing only for efficiency & ROI | Competitive lead lost, weak market presence | Focus effort on critical issues (e.g., market share) |
+| Planning for the long term only | Nonviable goals, high costs of failure | Set interim milestones and reassess often |
+| Protecting the base business at all costs | Missed opportunities | Take small, affordable risks |
+| Promoting only “compatible” individuals | Loss of innovators (“boat rockers”) | Support innovators and risk-takers |
 
-## Successful Innovative Companies
+<small> *Note:* These examples are **selected from Table 3.2 in Kuratko (2024)**.
+See the textbook for the complete list.</small>
 
-Factors:  
+## Cultivating Successful Innovative Companies
 
-- Clear vision and supportive atmosphere.  
-- Market orientation.  
-- Flat organizational structure.  
-- Multiple approaches to innovation.  
-- “Skunk Works” → small, autonomous project teams.  
+::::::: columns
+::::: {.column width="50%"}
+Factors:
 
-📌 *Food/Ag Example*: General Mills’ “301 Inc.” venture arm supports startups like Beyond Meat.
+1.  Develop the vision\
+2.  Encourage innovation\
+3.  Structure for an entrepreneurial climate\
+4.  Prepare individual managers for corporate innovation\
+5.  Develop venture teams\
 
+:::: fragment
+::: {.callout-note icon="false" title="*Definition:* Corporate Entrepreneurship Strategy"}
+A vision-directed, organization-wide reliance on entrepreneurial behavior that purposefully and continuously rejuvenates the organization and shapes the scope of its oeprations through the recognition and exploitation of entrepreneurial opportunity.
+:::
+::::
+:::::
 
+::: {.column width="50%"}
+![](../images/03_figure3.3.png)
+:::
+:::::::
+
+# Part 2 <br> Social Entrepreneurship
+
+## Setting the Stage {data-background-color="lightblue"}
+
+Think of a social cause you care about (local or global).
+
+How could a business help solve it?
+
+## Defining Social Entrepreneurship
+
+-   Mixes nonprofit, government, and business features.\
+-   Combines innovation, risk-taking, and large-scale transformation with solving social problems.
+
+:::: fragment
+::: {.callout-note icon="false" title="*Definition:* Social Entrepreneurship"}
+A form of entrepreneurship that exhibits characteristics of nonprofits, governments, and businesses, combining private-sector focus on innovation, risk taking, and large-scale transformation with social problem solving.
+:::
+::::
+
+:::: fragment
+::: {.callout-note icon="false" title="*Definition:* Social Entrepreneur"}
+A person (or group of individuals) who founds and/or leads an organization or initiative engaged in social entrepreneurship
+:::
+::::
+
+## Social Entrepreneurship Process
+
+1.  Recognize a social opportunity.\
+2.  Translate into an enterprise concept.\
+3.  Acquire resources.\
+4.  Execute to achieve social impact.
+
+**Social Enterprises**
+
+-   Mission-driven: increase **social value**.\
+-   Can be nonprofit or for-profit.\
+-   For-profit model: *Buy One, Give One* (e.g., TOMS Shoes).
+
+:::: fragment
+::: {.callout-note icon="false" title="*Definition:* Social Value"}
+**Social value** is the positive impact created for society when organizations address community, environmental, or social needs.\
+It goes beyond financial profit to include benefits such as improved well-being, reduced inequality, stronger communities, and a healthier environment.
+:::
+::::
+
+## Companies Built Around a Core Social Mission
+
+**Consumer Brands with Activism**
+
+::: fragment
+-   **Ben & Jerry’s** → balances profit with activism on climate and social justice.\
+-   **Patagonia Provisions**, **New Belgium Brewing**, **King Arthur Baking** → certified **B Corps**, embedding sustainability and transparency into their business models.\
+-   **Unilever** → large-scale sustainability initiatives in agriculture and packaging.\
+:::
+
+**Food Access & Waste Reduction**
+
+::: fragment
+-   **Misfits Market** → sells “imperfect” produce at discount, reducing food waste and improving affordability.\
+:::
+
+**Global Social Ventures**
+
+::: fragment
+-   **Water for People** → expands clean water access worldwide.\
+-   **Sanergy** → builds affordable sanitation systems in Kenya.\
+-   **The Clothing Bank** → trains women in South Africa for entrepreneurship and financial independence.\
+:::
+
+## Benefit Corporations (B Corps)
+
+:::::: columns
+:::: {.column width="50%"}
+-   **Purpose**: positive social/environmental impact\
+-   **Accountability**: consider stakeholders (workers, community, environment)\
+-   **Transparency**: annual reporting\
+-   **Certification**: Verified by [**B Lab**](https://www.bcorporation.net/en-us/certification/)
+
+![](../images/03_b_corp.png)
+
+::: {.callout-note icon="false" title="How certification works"}
+1.  Complete the **B Impact Assessment** (covers governance, workers, community, environment, customers).\
+2.  Score at least **80 out of 200 points**.\
+3.  Provide documentation and undergo a review/audit by B Lab.\
+4.  Amend governing documents to reflect stakeholder accountability.\
+5.  Recertify every **3 years**.\
+:::
+::::
+
+::: {.column width="50%"}
+![](../images/03_b_corp_cos.png)
+:::
+::::::
+
+## Shared Value & Triple Bottom Line (TBL)
+
+-   **Shared Value** → Business creates economic value **while also solving social or environmental problems**.
+
+    *Example: Nestlé developing fortified foods for low-income markets.*
+
+-   **Triple Bottom Line (TBL)** → Success measured not just by profit, but by balancing: 
+
+    -   **Profit** (economic performance)\
+    -   **People** (social performance)\
+    -   **Planet** (environmental performance)
+
+**Why it matters:**
+
+If TBL guides decisions, projects with higher **social and environmental returns** are more likely to get funded, even if short-term profits are lower.
+
+## Measuring Social Impact
+
+If firms claim to create *shared value* or follow the *TBL*, how do we know it’s real?
+
+Impact can be measured in several ways:
+
+-   **Civic wealth / community well-being**\
+    → e.g., increase in local jobs, education, resilience
+
+-   **Scale breadth** (reach more people)\
+    → e.g., number of households receiving affordable produce
+
+-   **Scale depth** (deepen services to current users)\
+    → e.g., improving nutrition or health outcomes for the same group
+
+-   **Extent of social change**\
+    → e.g., long-term reduction in food insecurity or child labor
+
+*Takeaway:* Measuring social impact makes TBL and Shared Value **actionable**, not just slogans.
+
+## Global Entrepreneurship
+
+-   Many social ventures launched in the U.S. aim to benefit **developing countries**
+    -   e.g., water access, sanitation, sustainable farming, disaster relief\
+-   Poverty alleviation through entrepreneurship\
+-   Global trade agreements shape opportunities and challenges:
+    -   **WTO** (World Trade Organization)\
+    -   **USMCA** (U.S.–Mexico–Canada Agreement)\
+    -   **EU** (European Union)\
+-   Ways to go international:
+    -   Exporting\
+    -   International alliances / joint ventures\
+    -   Direct foreign investment\
+    -   Licensing
+
+## Considerations for Social Entrepreneurs Going Global
+
+Before expanding internationally, social entrepreneurs should evaluate:
+
+<div style="font-size:85%;">
+| Area                          | Key Question                                                   | Example                                                                 |
+|-------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------------|
+| **Importing & Exporting**     | Are there tariffs, trade restrictions, or infrastructure challenges? | *Misfits Market* explored selling surplus food abroad but faced high logistics costs and strict import regulations. |
+| **International Alliances & Joint Ventures** | Who are the trusted local partners that can help adapt the model? | *World Central Kitchen* partners with local chefs and restaurants in disaster zones to scale relief efforts. |
+| **Direct Foreign Investment** | What are the risks of owning facilities or operations abroad? | *Oatly* invested in overseas production plants (U.S., Singapore) to meet global demand while maintaining brand consistency. |
+| **Licensing**                 | Can technology, trademarks, or processes be adapted by others? | *Driptech* licensed its low-cost irrigation technology to local distributors to reach smallholder farmers in India and China. |
+| **Researching Foreign Markets** | How do local culture, regulations, and consumer needs affect expansion? | *Tony’s Chocolonely* studied European vs. U.S. consumer attitudes toward “fair trade” chocolate before expanding. |
+
+</div>
+
+*Takeaway:* Expanding globally is not just about scaling up — it requires adapting the mission to new political, economic, and cultural contexts.
 
 
 ## Group Activity 3-1 {data-background-color="lightblue"}
 
-👉 Split into groups. Each group takes one factor (vision, market orientation, flat structure, multiple approaches, learning, skunk works).  
+**Time:** 30 minutes  
+**Format:** Work with your pods
 
-- Find a food/ag company example.  
-- Present how that company applies the factor.
+**Instructions (23-25 minutes)**
 
+1. Each group will receive a **scenario** told from the perspective of a founder.  
+2. Spend the first part of the activity discussing:  
+   - What is the social problem the founder is trying to solve?  
+   - How should the team define the **social mission** of this enterprise?  
+   - Who is the target community?  
+   - What resources or partnerships will they need?  
 
+**Debrief (5–7 minutes)**
 
+- What did your group define as the **social mission**?  
+- Did different groups emphasize different values (environment, equity, access, resilience)?  
+- What trade-offs did you notice when deciding what mattered most?
 
-# Part 2 <br> Corporate Entrepreneurship
+## Closing Remarks
 
-## Icebreaker
-
-Think of a social cause you care about (local or global). How could a business help solve it?
-
-
-
-
-## Defining Social Entrepreneurship
-
-- Mixes nonprofit, government, and business features.  
-- Combines innovation, risk-taking, and large-scale transformation with solving social problems.  
-
-📌 *Food/Ag Example*: **Ben & Jerry’s** balancing profit with activism on climate and social justice.
-
-
-
-## Social Entrepreneurship Process
-
-1. Recognize a social opportunity.  
-2. Translate into an enterprise concept.  
-3. Acquire resources.  
-4. Execute to achieve social impact.  
-
-📌 Examples: 
-
-- **Water for People** (clean water access).  
-- **Sanergy** (sanitation in Kenya).  
-- **The Clothing Bank** (training women in South Africa).
-
-
-
-## Social Enterprises
-
-- Mission-driven: increase **social value**.  
-- Can be nonprofit or for-profit.  
-- For-profit model: *Buy One, Give One* (e.g., TOMS Shoes).  
-
-📌 *Food/Ag Example*: **Misfits Market** – sells “ugly” produce at discount, reducing food waste.
-
-
-
-## Measuring Social Impact
-
-Ways to measure:  
-- Civic wealth/community well-being.  
-- Scale breadth (reach more people).  
-- Scale depth (deepen services to existing users).  
-- Extent of social change.  
-
-💡 *Group Activity*: Pick a food social venture (e.g., World Central Kitchen). Which measure best fits? Why?
-
-
-
-## Shared Value & Triple Bottom Line (TBL)
-
-- **Shared Value**: create economic + social value simultaneously.  
-- **TBL**: balance *Profit, People, Planet*.  
-
-📌 *Food/Ag Example*: Unilever’s sustainability initiatives in agriculture and packaging.
-
-💡 *Discussion*: If TBL guides decisions, how does it change which projects get funded?
-
-
-
-## Benefit Corporations (B Corps)
-
-- **Purpose**: positive social/environmental impact.  
-- **Accountability**: consider stakeholders (workers, community, environment).  
-- **Transparency**: annual reporting.  
-- Certified B Corp: verified by **B Lab**.  
-
-📌 *Food/Ag Example*: **Patagonia Provisions**, **New Belgium Brewing**, **King Arthur Baking**.
-
-
-
-## Global Entrepreneurship
-
-- Poverty alleviation through entrepreneurship.  
-- Global trade agreements (WTO, USMCA, EU).  
-- Ways to go international: exporting, alliances, joint ventures, direct investment, licensing.  
-
-📌 *Food/Ag Example*: Starbucks expanding globally with local partnerships.
-
-
-
-## Closing Discussion
-
-- Corporate entrepreneurship = innovating inside established firms.  
-- Social entrepreneurship = solving social/environmental challenges through business.  
-- Both require entrepreneurial mindset, but with different goals.  
-
-💡 *Game Idea*: “Which bucket?” → Show examples (Beyond Meat, TOMS, PepsiCo, World Central Kitchen). Students decide: corporate entrepreneurship, social entrepreneurship, or both?
-
+-   Corporate entrepreneurship = innovating inside established firms.\
+-   Social entrepreneurship = solving social/environmental challenges through business.\
+-   Both require entrepreneurial mindset, but with different goals.
 
 ## Summary
 
-- 3.1 Define the entrepreneurial mindset within organizations.  
-- 3.2 Explain why entrepreneurial thinking is needed in corporations.  
-- 3.3 Define *corporate entrepreneurship*.  
-- 3.4 Identify obstacles that block innovation.  
-- 3.5 Summarize how to reengineer corporate thinking.  
-- 3.6 Describe the elements of a corporate entrepreneurial strategy.  
-- 3.7 Explain how managers develop entrepreneurial skills inside firms.  
-- 3.8 Illustrate how corporate entrepreneurship is an interactive process.
-- 4.1 Define social entrepreneurship.  
-- 4.2 Identify traits of social entrepreneurs.  
-- 4.3 Explain shared value and benefit corporations.  
-- 4.4 Explore challenges in poverty, sustainability, and global markets.
-
+-   3.1 Define the entrepreneurial mindset within organizations.\
+-   3.2 Explain why entrepreneurial thinking is needed in corporations.\
+-   3.3 Define corporate entrepreneurship.\
+-   3.4 Identify obstacles that block innovation.\
+-   3.5 Summarize how to reengineer corporate thinking.\
+-   3.6 Describe the elements of a corporate entrepreneurial strategy.\
+-   3.7 Explain how managers develop entrepreneurial skills inside firms.\
+-   3.8 Illustrate how corporate entrepreneurship is an interactive process.
+-   4.1 Define social entrepreneurship.\
+-   4.2 Identify traits of social entrepreneurs.\
+-   4.3 Explain shared value and benefit corporations.\
+-   4.4 Explore challenges in poverty, sustainability, and global markets.
 
 ------------------------------------------------------------------------
 
