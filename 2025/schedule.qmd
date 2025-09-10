@@ -14,7 +14,7 @@ repo-actions: false
 | 2    | 9/2        | T   | [The Entrepreneurial Mindset](gate2.html)                          | Chapter 02                 |
 | 2    | 9/4       | R   | [**Case Study**: McGinnis & Lafkas (2020), *Stirring the Lobster Pot*](../cases/templates/case02.qmd) |                |
 | 3    | 9/9        | T   | [Corporate & Global Entrepreneurship](gate3.html)                  | Chapters 03 & 04           |
-| 3    | 9/11       | R   | **Case Study**: Dann et al. (2024), *Small Niches, Big Promise* |                     |
+| 3    | 9/11       | R   | [**Case Study**: Dann et al. (2024), *Small Niches, Big Promise*](../cases/templates/case03_teaching_note.pdf) |                     |
 | 4    | 9/16       | T   | Innovation & Creativity                              | Chapter 05                 |
 | 4    | 9/18       | R   | **Case Study**: Knapp et al. (2019), *Chewse*            |                            |
 | 5    | 9/23       | T   | Opportunity Assessment                               | Chapter 06                 |
