@@ -1,0 +1,187 @@
+---
+title: "Case 03: Small Niches, Big Promise"
+subtitle: "Teaching Note"
+output: pdf_document
+---
+
+# Framing the Case
+
+## Investor Profile
+
+**Role Play**
+
+- Imagine that you are an **impact investor** seeking to fund mission-driven companies.  
+- Goals:  
+  - Generate **financial returns**.  
+  - Support ventures with strong **social & environmental impact**.  
+- You have a strongly held belief in the value of social entrepreneurship to align purpose with profit.  
+
+**Key question:** Which niche sustainability venture deserves your capital?  
+
+
+# Case Overview
+
+## Three Entrepreneurial Niches
+
+- **Insect Protein** → sustainable food systems  
+- **Chitin/Chitosan** → biomaterial innovation  
+- **Green Tattooing** → eco-conscious cultural industry  
+
+**Decision Question:**  
+Which emerging market would you invest in as an impact investor?  
+
+<br><br>
+
+::: {.callout-tip title="Things to Consider"}
+- **Smaller, overlooked problems** can become big opportunities.  
+- Green entrepreneurship doesn’t rely on a single “silver bullet”.
+- No one company can fix climate change — we need lots of smaller solutions working together.
+- Case is designed to inspire you to **see niches as entry points** for larger transformations.  
+:::
+
+
+# Insect Protein
+
+## Company Profiles
+
+- **Mighty Cricket** – cricket-based protein powders & recipes.  
+- **Aspire Food Group** – large-scale cricket farming using robotics & AI.  
+- **Ynsect** – vertical mealworm farming, scaling globally.  
+
+## Social Mission
+
+- Provide **sustainable protein** for a growing global population.  
+- Reduce greenhouse gas emissions from beef & pork.  
+- Support **circular economy** by using agricultural byproducts as feed.  
+
+::: {.callout-note title="Social Entrepreneurship Lens"}
+- **Problem focus**: food insecurity + climate change.  
+- **Shared value**: healthy diets + sustainable production.  
+- **Challenge**: Western cultural resistance & regulatory barriers (e.g., FDA labeling insects as “filth”).  
+:::
+
+
+
+# Chitin & Chitosan
+
+## Company Profiles
+
+- **Chitonous (Singapore)** – 3D printing with natural chitin composites.  
+- **Canepa (Italy)** – Kitotex process cutting water/chemical use in textiles.  
+- **Medical innovators** – biodegradable wound dressings & scaffolds.  
+
+## Social Mission
+
+- **Replace plastics** with biodegradable alternatives.  
+- Reduce fashion industry **wastewater by 95%**.  
+- Advance sustainable healthcare through **biocompatible materials**.  
+
+::: {.callout-note title="Social Entrepreneurship Lens"}
+- Tackles **systemic issues** in fashion, plastics, healthcare.  
+- **Stakeholder orientation**: communities, consumers, ecosystems.  
+- Aligns with Christensen’s idea of **disruption from niche to mainstream**.  
+:::
+
+
+
+# Green Tattooing
+
+## Company Profiles
+
+- **Forte Tattoo Tech** – biodegradable, plant-based tattoo supplies.  
+- **Green House Tattoo Supplies** – vegan inks with reduced packaging footprint.  
+- **Artist-entrepreneurs** (Bang Bang, Ashley Thomas, Dillon Forte) leading adoption.  
+
+## Social Mission
+
+- Reduce **single-use waste** in the tattoo industry.  
+- Provide **vegan, cruelty-free inks**.  
+- Serve as a **symbolic niche** showing that even small industries can go green.  
+
+::: {.callout-note title="Social Entrepreneurship Lens"}
+- **Values-driven entrepreneurship**: ethics before profit.  
+- A **cultural wedge**: tattoos as a way to normalize eco-conscious practices.  
+- Even **humble market niches** can spark systemic change.  
+:::
+
+
+
+# Compare Options
+
+## Investment Decision Criteria
+
+**Environmental impact** – Does this venture measurably reduce waste or emissions?
+
+**Market feasibility** – Is there strong potential for consumer adoption?
+
+**Cultural acceptance** – Can social or regulatory barriers be overcome?
+
+**Scalability** – Can this niche expand or influence larger markets?
+
+**Mission alignment** – Does the profit model reinforce the social/environmental mission?
+
+\newpage
+
+# Compare Options
+
+## Investment Decision Criteria
+
+| Criteria (as Questions)                                        | Insect Protein | Chitin/Chitosan | Green Tattooing |
+|----------------------------------------------------------------|----------------|-----------------|-----------------|
+| Does this venture measurably reduce waste or emissions?        |               |                |                |
+| Is there strong potential for consumer adoption?               |               |                |                |
+| Can social or regulatory barriers be overcome?                 |               |                |                |
+| Can this niche expand or influence larger markets?             |               |                |                |
+| Does the profit model reinforce the social/environment mission?|               |                |                |
+
+**Instructions**
+
+- Check the boxes as you evaluate each emerging market across these five criteria.  
+- Add up your “Yes” marks to see which one you’d invest in.
+
+
+# Make a Recommendation
+
+## Which Would You Fund?
+
+- **Insect Protein**  
+  - High climate impact, systemic food solution.  
+  - Barriers: cultural resistance, regulation.  
+
+- **Chitin/Chitosan**  
+  - Cross-industry applications (fashion, plastics, medicine).  
+  - Strong scalability → could transform multiple sectors.  
+
+- **Green Tattooing**  
+  - Small market, but powerful example of values-first entrepreneurship.  
+  - Symbolic industry change → may inspire others.  
+
+
+# Wrap-Up
+
+## Scorecard Totals
+
+- **Insect Protein** → ___ / 5  
+- **Chitin/Chitosan** → ___ / 5  
+- **Green Tattooing** → ___ / 5  
+
+## Discussion Points
+
+- Compare results across the class.  
+- Discuss how different "investors" weighed impact vs. feasibility.  
+- Remember: you are evaluating markets, not single companies.  
+
+
+## Key Takeaways
+
+- **Niches matter**: big solutions often start small.  
+- **No silver bullet**: sustainability requires diverse innovations.  
+- **Social entrepreneurship**: mission + market together.  
+- **Impact investing lens**: weigh both returns & mission.  
+
+::: {.callout-note title="Things to Consider"}
+- This case helps you **practice opportunity identification**.  
+- The goal isn’t to find *the one right answer* but to explore how **niches can evolve**.  
+- Consider niches as **stepping stones** to systemic change.  
+- Entrepreneurial success can come from **unexpected industries**.  
+:::

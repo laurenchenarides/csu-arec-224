@@ -1,0 +1,100 @@
+---
+title: "Creating Your Brag Sheet"
+subtitle: "In-Class Activity"
+output: pdf_document
+---
+
+## Why This Matters
+
+By the end of this mentorship program, you may want to ask your mentor to write you a recommendation letter for a scholarship, internship, or job.
+
+$\rightarrow$ What do you want them to say about you?\
+$\rightarrow$ How can your **E-IDP practice plans** give them the concrete examples they would need to write you an effective letter of recommendation?
+
+Today’s activity helps you connect your **E-IDP characteristics** and **practice plans** into a draft “brag sheet” you could use when asking for a recommendation letter.
+
+## Step 1: Warm-Up (5 minutes)
+
+Revisit the **three entrepreneurial characteristics** you chose earlier this semester.\
+For each, write down the practice plan you wrote.
+
+| Characteristic | My Practice Plan (from earlier exercise)                                           |
+|----------------|------------------------------------------------------------------------------------|
+| 1\.            |                                                                                    |
+| 2\.            |                                                                                    |
+| 3\.            |                                                                                    |
+
+## Step 2: Translate Into Strengths (5 minutes)
+
+Rewrite each characteristic as if someone else were recommending you.\
+*(Use third person: “She demonstrates…” / “He consistently…”)*
+
+| Characteristic | Strength Statement (Recommendation Style)                                           |
+|----------------|-------------------------------------------------------------------------------------|
+| 1\.            |                                                                                     |
+| 2\.            |                                                                                     |
+| 3\.            |                                                                                     |
+
+## Step 3: Build a Letter Outline (10 minutes)
+
+Most recommendation letters follow this structure:\
+1. **Introduction** – Who you are and purpose of the letter.\
+2. **Context** – Relationship or role that gives credibility.\
+3. **Body Paragraphs** – Each highlights a strength (with examples).\
+4. **Closing** – Strong recommendation and future potential.
+
+\newpage
+
+**Task:**\
+- Write a 1–2 sentence **intro** and **closing**.\
+- Use your strength statements + practice plans as your **body paragraphs**.
+
+**Sentence Starters:**\
+- *It is my pleasure to recommend [Your Name] for…*\
+- *Three strengths that distinctly characterize [Your Name] are…*\
+- *One example of [Characteristic] is…*\
+- *With that, I enthusiastically recommend [Your Name] for…*
+
+## Step 4: Reflection & Pair Share (10 minutes)
+
+Work with a partner:\
+1. Share the strength statements you wrote about yourself.\
+2. Give feedback:\
+- Which characteristic came across most clearly?\
+- Which one could use a stronger example?\
+3. Write down one idea from your partner you want to add to your own brag sheet.
+
+## Step 5: Wrap-Up (5 minutes)
+
+Think ahead: if you asked your mentor for a letter at the end of the semester,\
+- What would you want them to highlight?\
+- How will you show evidence of your characteristics so they can?
+
+*(Write 2–3 bullet points as an action reminder for yourself.)*
+
+\newpage
+
+### Recall: Entrepreneurial Characteristics
+
+| Characteristic | Description |
+|:----------------------|:------------------------------------------------|
+| Calculated Risk Taking | Makes strategic, informed decisions about when to take a risk, not reckless. |
+| Communication | Effectively conveys ideas and actively listens in professional settings. |
+| Creativity and Innovativeness | Generates original ideas and sees possibilities others may not. |
+| Determination and Perseverance | Total dedication to success, overcoming obstacles and setbacks, unwavering commitment to succeed. |
+| Drive to Achieve | A strong desire to compete, to excel against self-imposed standards, to pursue challenging goals. |
+| Entrepreneurial Coachability | Seeks, integrates, and learns from failures, setbacks, or feedback to grow. |
+| Entrepreneurial Hustle | Acts with urgency and creativity to solve immediate problems. |
+| High Energy Level | Demonstrates consistent drive and enthusiasm to sustain effort over time. |
+| Opportunity Orientation | Focuses on opportunity rather than resources; always scanning for possibilities. |
+| Passion | Demonstrates deep emotional investment in the work. |
+| Persistent Problem Solving | Tackles tough problems with a methodical, realistic approach; doesn’t quit easily. |
+| Personal Agency (Internal Locus of Control) | Believes success comes from personal responsibility and effort, not luck. |
+| Seeking Feedback | Actively looks for input to improve performance; learns from critique. |
+| Team Building | Builds strong, motivated teams; values others' strengths. |
+| Tolerance for Ambiguity | Comfortable operating under uncertainty or limited structure. |
+| Vision | Has a clear sense of purpose or long-term direction. |
+
+\newpage
+
+### Use This Page For Writing
