@@ -1,0 +1,548 @@
+---
+title: "Lecture 4"
+description-meta: "Innovation & Creativity"
+author: "Dr. Lauren Chenarides"
+date: September 16, 2025
+date-format: long
+image: "/images/01entrepreneur.png"
+page-meta:
+  robots: noindex
+format:
+  revealjs:
+    pdf-export: true
+    theme: white
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: false
+    scrollable: true
+    css: lecture-style.css
+    footer: <https://laurenchenarides.github.io/csu-arec-224/>
+execute:
+  echo: false      # hide code (set true if you want to show it)
+  warning: false
+  message: false
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+#  {background-color="black"}
+
+*Creativity is thinking up new things. Innovation is doing new things.* <br> -Theodore Levitt (German-born American economist and professor at Harvard Business School)
+
+## Lecture 4: Innovation & Creativity
+
+**Textbook Reading (Quiz Basis)** <br> Chapter 5.
+Innovation: The Creative Pursuit of Ideas
+
+::: {.callout-note icon="false" title="Lecture Agenda"}
+-   Part 1: The Search for New Ideas
+-   Part 2: Cultivating Creativity
+:::
+
+::: footer
+Source: @kuratko2024
+:::
+
+## Chapter 5 Objectives
+
+By the end of this section you should be able to:\
+- 5.1. Summarize the opportunity identification process  
+- 5.2. Explain the sources of innovative ideas  
+- 5.3. Outline the creative process: knowledge, incubation, idea, evaluation  
+- 5.4. Describe ways of developing personal creativity  
+- 5.5. Identify the arenas of creativity  
+- 5.6. Examine the factors for a creative climate  
+- 5.7. Introduce the four types of innovation  
+- 5.8. Review myths & principles of innovation  
+
+
+## Important Announcements
+
+1.  Have you set up a time to have your first mentor meeting?
+
+2.  Coordinate with your mentor to determine your podcast recording date. 
+      Recording studio slots fill quickly! They must be recorded by **Nov 10th.**
+
+3.  Complete the E-IDP survey (via Qualtrics) and assignment (via Canvas) (no graded but still required!).
+
+
+
+# Part 1 <br> The Search for New Ideas
+
+## Opportunity Identification
+
+Opportunity identification is central to entrepreneurship and revolves around three key questions:  
+
+- **Why?**  
+  - Why does this opportunity exist?  
+  - What problem is being solved, or what unmet need is being addressed?  
+  - In food and agribusiness, this might mean why consumers are seeking plant-based proteins, local food, or healthier snacks.  
+
+- **When?**  
+  - When is the right time to pursue it?  
+  - Are market conditions, technologies, consumer trends, or policies aligning to make it viable now?  
+  - For example, consumer demand for sustainability and new food technologies made the timing right for innovations like Impossible Foods.  
+
+- **How?**  
+  - How can the entrepreneur act on this opportunity?  
+  - What resources, networks, and creative processes are needed to turn an idea into a solution?  
+  - This includes considering market entry strategies, scaling potential, and implementation challenges.  
+
+Together, these questions guide entrepreneurs in moving from vague ideas to actionable opportunities.  
+
+
+## Sources of Innovative Ideas
+- External and internal environments alert entrepreneurs to opportunities.
+- Trends signal shifts in current paradigm (or thinking) of major population.
+- Valuable insights constitute source of potential entrepreneurial ideas.
+
+
+**Trends**\
+
+- Societal: Aging demographics, health and fitness growth, senior living\
+- Technology: Mobile (smartphone) technology, e-commerce, Internet advances\
+- Economic: Higher disposable incomes, dual wage-earner families, performance pressures\
+- Government: Increased regulations, petroleum prices, terrorism  
+ 
+## Activity 5-1 {data-background-color="lightblue"}
+
+
+Each table has been given an **object** (from my house).  
+
+**Your task:**  
+1. Think about the object in front of you.  
+2. Identify the **trend** (societal, technology, economic, or government) that may have inspired its innovation.  
+3. Be ready to share your reasoning with the class.  
+
+## Sources of Innovative Ideas
+
+| Source    | Examples                                |
+|-----------|-----------------------------------------|
+| Unexpected occurrences | Unexpected success: Uber |
+| Incongruities | Overnight package delivery (FedEx) |
+| Process needs | Sugar-free products, caffeine-free coffee, microwave ovens |
+| Industry and market changes | Health care industry: changing to home health care |
+| Demographic changes | Retirement communities for older people |
+| Perceptual changes | Exercise (aerobics) and the growing concern for fitness |
+| Knowledge-based concepts | Mobile (smartphone) technology, pharmaceutical industry, robotics |
+
+
+:::: fragment
+::: {.callout-note icon="false" title="*Definition:* Incongruities"}
+Incongruities exist in the gap between expectations and reality.  
+They occur when results differ from what is anticipated, when processes no longer match current needs,  
+or when assumptions about markets, customers, or technology conflict with actual outcomes. 
+:::
+::::
+
+## The Knowledge and Learning Process
+
+- Entrepreneurs use their existing knowledge base acquired through work, experience, and education to hone ideas into actual opportunities.\
+- Entrepreneurs must be able to learn from their experiences as well.
+
+::: {.fragment}
+**Sources of Innovative Ideas into Potential Opportunities**\
+
+Ideas are distilling into opportunities through:
+
+- Personal work, experience, and education\
+- General industry knowledge\
+- Prior market knowledge\
+- Prior customer understanding\
+- Specific interest knowledge\
+- Previous knowledge
+:::
+
+## Activity 5-2 {data-background-color="lightblue"}
+- Consider your area of expertise.
+- What aspect of your knowledge might give you unique insights for entrepreneurial opportunities? Would this be experience, market knowledge, customer understanding, etc.?
+- Share your insights with the class.
+
+
+
+
+## Entrepreneurial Imagination and Creativity
+- Creative thinking is blended with imagination in a logical process.
+- Entrepreneurs develop an ability to see, recognize, and create opportunity where others find only problems.
+- Entrepreneurial analysis blends creative thinking with systematic inquiry to look at problems from every angle.
+
+
+## Two Approaches to Creative Problem Solving
+
+People approach creativity and problem solving in different ways.  
+
+Some individuals act as **Adaptors**, improving and refining existing systems.  
+
+Others operate as **Innovators**, challenging assumptions and pushing for change.  
+
+In the next slide, we'll take a short questionnaire to help you reflect on your own natural style.  
+
+## Adaptor–Innovator Questionnaire {data-background-color="lightblue"}
+
+For each row, check the statement that feels **most like you**.  
+Count how many times you select **Adaptor** versus **Innovator**.  
+The column with more responses shows your natural style.   
+
+| # | Adaptor | Innovator |
+|---|---------|-----------|
+| 1 | [ ] I employ a disciplined, precise, methodical approach | [ ] I approach tasks from unusual angles |
+| 2 | [ ] I focus on solving problems rather than finding them | [ ] I discover problems and avenues of solutions |
+| 3 | [ ] I attempt to refine current practices | [ ] I question basic assumptions about current practices |
+| 4 | [ ] I tend to be means-oriented | [ ] I care more about ends than means |
+| 5 | [ ] I am capable of extended detail work | [ ] I have little tolerance for routine work |
+| 6 | [ ] I am sensitive to group cohesion and cooperation | [ ] I have little need for consensus and can be insensitive to others |
+
+**Scoring**
+
+- **More Adaptor answers** → You prefer structure, precision, and improving existing systems.  
+- **More Innovator answers** → You thrive on novelty, questioning assumptions, and taking unconventional approaches.  
+- **Balanced** → You may flex between both roles depending on context.  
+
+
+::: footer
+Source: @kirton1976adaptors
+:::
+
+## The Nature of the Creative Process
+Creativity is a process that can be developed and improved. 
+
+Some individuals have a greater aptitude for creativity than others.
+$\rightarrow$ That's OK! 
+
+Typical Creative Process:\
+- Phase 1: Background or knowledge accumulation\
+- Phase 2: The incubation process\
+- Phase 3: The idea experience\
+- Phase 4: Evaluation and implementation
+
+
+
+## Phase 1: Background or Knowledge Accumulation
+- Often involves extensive reading, conversations, attending meetings and workshops, etc.\
+- Additional inspirations for knowledge are joining groups, travel, develop a library, record useful information, pursue natural curiosities.\
+- **Market analysis** is the process of studying consumer trends, supply chain shifts, policy changes, and competitor strategies.\  
+  - Helps identify unmet needs and areas where innovation can create value  
+
+::: {.callout-note icon=false title="Example: Patrick O. Brown and Impossible Foods"}
+Patrick Brown, a professor of **biochemistry at Stanford**, had deep knowledge of molecular biology and the role of proteins. He studied the environmental impact of industrial meat production and identified a global challenge: how to replace animals as a food-production technology.  
+:::
+
+::: footer
+Source: @mallaby2022power
+:::
+
+## Phase 2: The Incubation Process
+- Allow your subconscious to mull over all the information gathered.
+- Some steps to induce incubation are routine activities, exercise, play sports or board games, think of it while falling asleep, meditate.
+
+::: {.callout-note icon=false title="Example: Patrick O. Brown and Impossible Foods"}
+During a sabbatical, Brown began reflecting on alternatives to animal agriculture. He let the idea “simmer,” drawing from his scientific background while considering how consumers think about food and flavor.  
+:::
+
+::: footer
+Source: @mallaby2022power
+:::
+
+## Phase 3: The Idea Experience
+- This is the “eureka factor” when the idea or solution is discovered.
+- Sometimes this comes in one moment, sometimes the solution evolves over time.
+- There is often an overlap between Phase 2 and Phase 3.
+
+::: {.callout-note icon=false title="Example: Patrick O. Brown and Impossible Foods"}
+Brown realized that the key to meat’s taste lay in **heme**, a molecule abundant in animal muscle but also present in plants. His insight: engineer plant-based heme to replicate the flavor of meat without animals.    
+::: 
+
+::: footer
+Source: @mallaby2022power
+:::
+
+
+## Phase 4: Evaluation
+- Most difficult step and requires courage, self-discipline, and perseverance.
+- Often need to rework idea from Phase 3; fail sometimes before they find their best idea.
+- Can test idea, seek advice, etc.
+
+::: {.callout-note icon=false title="Example: Patrick O. Brown and Impossible Foods"}
+He founded Impossible Foods, built a team of scientists, and tested prototypes with chefs and consumers. After many iterations, the company launched its first products, facing both skepticism and excitement before scaling into restaurants and grocery stores worldwide.
+:::
+
+::: footer
+Source: @mallaby2022power
+:::
+
+# Part 2 <br> Cultivating Creativity
+
+## Recognizing Creative Opportunities
+
+Recognizing relationships and developing a functional perspective are both mental tools that entrepreneurs use to see opportunities others overlook.
+
+They explain the mindset shift needed to move *from* incremental thinking (“this object does what it’s supposed to do”) → *to* creative opportunity recognition (“this object could also do X, Y, or Z”).
+
+## Recognizing Relationships
+
+
+Entrepreneurs can spot hidden or unusual relationships (e.g., a chair isn’t just for sitting, it can also serve as a ladder or a barricade).
+
+- Look for **unorthodox connections** between elements and people around you  
+- This is *“perceiving in a relational mode”*  
+- View things and people as existing in either a complementary (working together) or contrasting/oppositional (pushing against each other) relationship.  
+
+
+## Developing a Functional Perspective
+
+They adopt a functional perspective (asking, “How else could this thing meet a need or solve a problem?”).
+
+- View things and people in terms of how they can **satisfy needs** or **help complete a project**  
+- Think in **nonconventional ways** and from different perspectives  
+- Shift your mindset from “what it is” → “what it could be”  
+
+
+## Activity 5-3 {data-background-color="lightblue"}
+
+Take the **household item at your table**.  
+
+**Instructions:**  
+
+1. Write down as many **alternative functions** for this item as you can (not its most obvious use).\  
+2. Spend about **5 minutes** brainstorming freely. Be creative! No idea is too wild as long as it’s appropriate.  \
+3. During discussion, let’s enjoy the creativity and accept all ideas without judgment.  
+
+**Goal:** Practice looking at familiar objects from fresh perspectives, just like entrepreneurs do when they identify opportunities.  
+
+
+## Idea Killers
+
+- “Naah.”
+- “Can’t” (said with a shake of the head and an air of finality).
+- “That’s the dumbest thing I’ve ever heard.”
+- “Yeah, but if you did that . . .” (poses an extreme or unlikely disaster case).
+- “We already tried that—years ago.”
+- “I don’t see anything wrong with the way we’re doing it now.”
+- “We’ve never done anything like that before.”
+- “We’ve got deadlines to meet—we don’t have time to consider that.”
+- “It’s not in the budget.”
+- “Where do you get these weird ideas?”
+
+
+## Improv Lesson from Tina Fey
+
+::: columns
+::: {.column width="50%"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NmafmRIeet0?si=3oCMQV3P1mLSaMl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+In improv, creativity comes from building on each other's ideas. The same mindset can help entrepreneurs and teams unlock innovation.  
+:::
+
+::: {.column width="50%"}
+**Core Rules of Improv**
+
+1. **Yes, and…** — Accept what’s offered and add to it.\  
+2. **Make your partner look good** — Success comes from collaboration.\  
+3. **Commit fully** — Go all in, even if you’re uncertain.\  
+4. **Embrace mistakes** — “Failures” often spark the best ideas.  
+
+**Reflection**
+
+- How might these rules apply to brainstorming or team problem solving?\  
+- Which rule feels hardest for you? Why?  
+:::
+:::
+
+
+## Mental Habits that Block Creative Thinking
+
+::: columns
+::: {.column width="50%"}
+**"Middling mindsets" that hinder creativity:**
+
+- **Either/or thinking**: seeing only two options and ignoring alternatives; a concern for certainty  
+- **Security hunting** (or perfectionism): always seeking safety and avoiding risk; unwilling to explore the unknown  
+- **Stereotyping**: reducing people or situations to oversimplified categories; abstracting reality  
+- **Probability thinking**: focusing only on what is most likely to happen; seeking predictable results and missing outliers  
+:::
+
+::: {.column width="50%"}
+**Exercises to help eliminate the middling mindset:**
+
+- Take small risks  
+- Talk with people outside stereotypes  
+- Try ambiguous projects  
+- Focus on positives first  
+- Simply listen  
+- Decide in the present  
+:::
+:::
+
+
+## Arenas of Creativity
+
+People are inherently creative.
+
+Some act on it all of the time. Others stifle it.
+
+**Places where creativity is channeled — and how we practice them in this course:**  
+
+::: {.fragment}
+1. **Idea Creativity** — Thinking up new concepts (case studies, business competition).  
+:::
+
+::: {.fragment}
+2. **Material Creativity** — Inventing and building tangible objects (podcast).
+:::
+
+::: {.fragment}
+3. **Organizational Creativity** — New ways to structure things (pod teams, podcast workflow).  
+:::
+
+::: {.fragment}
+4. **Relationship Creativity** — Innovative approaches to collaboration (mentor meetings, group work).  
+:::
+
+::: {.fragment}
+5. **Event Creativity** — Producing something with vision (final business competition event, class activities).  
+:::
+
+::: {.fragment}
+6. **Inner Creativity** — Changing yourself, being open to new approaches (**E-IDP!**).  
+:::
+
+::: {.fragment}
+7. **Spontaneous Creativity** — Acting in the moment (case discussions). 
+:::
+
+
+
+## Creative Climate
+
+Earlier, we discussed the **corporate philosophy of creating an entrepreneurial environment**.  
+These conditions make it easier for creativity to thrive:  
+
+- **Trustful management** that empowers rather than overcontrols  
+- **Open communication** among all members  
+- **Connections with outsiders** to bring in fresh perspectives  
+- **Variety of personalities** and viewpoints  
+- **Willingness to accept change** and experiment with new ideas  
+- **Low fear of mistakes** — failures are part of learning  
+- **Merit-based promotion** and recognition  
+- **Idea-friendly techniques** like suggestion systems and brainstorming  
+- **Adequate resources** (financial, managerial, human, and time) to pursue goals  
+
+
+## Innovation and the Entrepreneur
+
+The creative process generates ideas and refines them.
+
+Innovation is what happens when that creative process is applied to opportunities. 
+
+In other words, creativity fuels the process, and innovation is the outcome entrepreneurs bring to market.
+
+**Innovation** is:\
+
+- Is the process by which entrepreneurs convert opportunities (ideas) into marketable solutions.\
+- Is a combination of the vision to create a good idea and the perseverance and dedication to remain with the concept through implementation.\
+- Is a key function in the entrepreneurial process.\
+- Is the specific function of entrepreneurship.\
+
+
+
+## The Innovation Process
+
+- Most innovations result from a **conscious, purposeful search** for opportunities  
+- Uses both the **right** (imagination, synthesis) and **left** (analysis, logic) sides of the brain  
+- Entrepreneurs study both **figures** (data) and **people** (users, markets)  
+- Successful innovations are **simple, focused, and application-driven**  
+- In the process, they often **create new customers and markets**  
+
+## Types of Innovation
+
+- **Invention** — creation of a new product, service, or process  
+- **Extension** — expansion of something already in existence  
+- **Duplication** — replication with a creative twist or improvement  
+- **Synthesis** — combining existing concepts into a new whole  
+
+<div style="font-size: 0.8em;">
+
+| Type       | Description                                                        | Examples                                              |
+|------------|--------------------------------------------------------------------|-------------------------------------------------------|
+| **Invention**  | Totally new product, service, or process                           | Wright brothers — airplane<br>Thomas Edison — lightbulb<br>Alexander Graham Bell — telephone |
+| **Extension**  | New use or different application of an already existing product, service, or process | Ray Kroc — McDonald’s<br>Mark Zuckerberg — Facebook<br>Barry Sternlicht — Starwood Hotels & Resorts |
+| **Duplication**| Creative replication of an existing concept                       | Walmart — department stores<br>Gateway — personal computers<br>Pizza Hut — pizza parlor |
+| **Synthesis**  | Combination of existing concepts and factors into a new formulation or use | Fred Smith — FedEx<br>Howard Schultz — Starbucks |
+
+</div>
+
+## The Major Misconceptions of Innovation
+
+- Innovation is planned and predictable.
+- Technical specifications must be thoroughly prepared.
+- Innovation relies on dreams and blue-sky ideas.
+- Big projects will develop better innovations than smaller ones.
+- Technology is the driving force of innovation success.
+
+## Principles of Innovation 
+
+<div style="font-size: 0.8em; text-align: left;">
+
+| Principles of Innovation                     |                                    |
+|---------------------------------------------|------------------------------------|
+| **Be action oriented**                      |                                    |
+| **Make it simple and understandable**       |                                    |
+| **Make it customer based**                  |                                    |
+| **Start small**                             |                                    |
+| **Aim high**                                |                                    |
+| **Try / test / revise**                     |                                    |
+| **Learn from failures**                     |                                    |
+| **Follow a milestone schedule**             |                                    |
+| **Reward heroic activity**                  |                                    |
+| **Work, work, work**                        |                                    |
+
+</div>
+
+
+## Principles of Innovation & E-IDP Connections
+
+<div style="font-size: 0.8em; text-align: left;">
+
+| Principles of Innovation                     | Related E-IDP Characteristic(s)                                   |
+|---------------------------------------------|-------------------------------------------------------------------|
+| **Be action oriented**                      | Drive to Achieve, Entrepreneurial Hustle                          |
+| **Make it simple and understandable**       | Communication, Vision                                             |
+| **Make it customer based**                  | Opportunity Orientation, Communication                            |
+| **Start small**                             | Calculated Risk Taking, Tolerance for Ambiguity                   |
+| **Aim high**                                | Passion, Determination and Perseverance, Vision                   |
+| **Try / test / revise**                     | Persistent Problem Solving, Seeking Feedback, Entrepreneurial Coachability |
+| **Learn from failures**                     | Personal Agency (Internal Locus of Control), Entrepreneurial Coachability |
+| **Follow a milestone schedule**             | Determination and Perseverance                                     |
+| **Reward heroic activity**                  | Team Building, Communication                                      |
+| **Work, work, work**                        | High Energy Level, Determination and Perseverance                 |
+
+</div>
+
+
+
+## Summary
+
+- 5.1. Summarize the opportunity identification process  
+- 5.2. Explain the sources of innovative ideas  
+- 5.3. Outline the creative process: knowledge, incubation, idea, evaluation  
+- 5.4. Describe ways of developing personal creativity  
+- 5.5. Identify the arenas of creativity  
+- 5.6. Examine the factors for a creative climate  
+- 5.7. Introduce the four types of innovation  
+- 5.8. Review myths & principles of innovation  
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture1.qmd), All [Lectures](schedule.qmd), or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::
