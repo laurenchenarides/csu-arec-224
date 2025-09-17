@@ -16,7 +16,7 @@ repo-actions: false
 | 3    | 9/9        | T   | [Corporate & Global Entrepreneurship](gate3.html)                  | Chapters 03 & 04           |
 | 3    | 9/11       | R   | [**Case Study**: Dann et al. (2024), *Small Niches, Big Promise*](../cases/templates/case03.qmd) |                     |
 | 4    | 9/16       | T   | [Innovation & Creativity](gate4.html)                              | Chapter 05                 |
-| 4    | 9/18       | R   | **Case Study**: Knapp et al. (2019), *Chewse*            |                            |
+| 4    | 9/18       | R   | [**Case Study**: Knapp et al. (2019), *Chewse*](../cases/templates/case04.qmd)            |                            |
 | 5    | 9/23       | T   | Opportunity Assessment                               | Chapter 06                 |
 | 5    | 9/25       | R   | **Case Study**: Ghosh & Maslauskaite (2016), *Dinr*      |                            |
 | 6    | 9/30       | T   | Venture Pathways                                     | Chapter 07                 |

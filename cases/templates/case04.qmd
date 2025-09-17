@@ -1,0 +1,229 @@
+---
+title: "Chewse: Delivering a Culture of Love"
+subtitle: Discussion Guide
+page-meta:
+  robots: noindex
+format:
+  revealjs:
+    pdf-export: true
+    theme: white
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: false
+    scrollable: true
+    css: fishbowl.css
+execute:
+  echo: false
+  warning: false
+  message: false
+  allow-html: true
+---
+
+## Today's Agenda
+
+1. Case Discussion: Knapp et al. (2019), *Chewse*. Lead by **Team B**.
+
+
+## Key Terms: Startup Funding Stages
+
+- **Seed Round** – Initial capital to test product/market fit.
+    - Often <$1M from friends, angels, accelerators.  
+
+- **Series A** – First major VC round (typically $2–15M). 
+    - Goal: prove scalability of business model.  
+
+- **Series B** – Later round (tens of millions). 
+    - Goal: expand markets, grow operations.  
+
+- **Series C (and beyond)** – Larger, growth-focused rounds. 
+    - Goal: expand globally, acquire competitors, prep for IPO.  
+
+
+## Key Terms: Other Concepts
+
+- **Accelerator (e.g., 500 Startups)** – Short-term program offering capital, mentorship, and exposure.  
+- **Burn Rate** – How quickly a startup spends cash. Determines “runway” before new funding is needed.  
+- **Runway** – Number of months before the company runs out of cash at current burn rate.  
+- **Product–Market Fit** – When a product meets a strong market demand and growth accelerates naturally.  
+- **Culture Fit** – Hiring/management emphasis on values and alignment with company mission.  
+
+
+# Framing the Case
+
+## Founder’s Perspective
+
+**Role Play**
+
+- Imagine you are **Tracy Lawrence, co-founder and CEO of Chewse**.  
+- Your goals:  
+  - Scale the business beyond San Francisco.  
+  - Preserve the **“Love Culture”** that differentiates Chewse.  
+  - Secure the right investors and leaders for growth.  
+
+**Key Question:**  
+
+How do you expand Chewse without losing its culture?  
+
+# Case Overview
+
+## Chewse at a Glance
+
+- Founded by **Tracy Lawrence** (2011) after frustrations with catering logistics.  
+- Pivoted from event catering to **corporate lunch delivery**.  
+- Completed **500 Startups** accelerator → refined focus on office meals.  
+- Differentiation:  
+  - Simplified catering management.  
+  - Curated local restaurant partners.  
+  - **Culture factor**: mealtime hosts to build community.  
+
+**Mission:** “Make sure nobody eats alone.”  
+
+## Chewse’s “Love Culture”
+
+- Emphasis on **relationships, transparency, and vulnerability**.  
+- Practices include:  
+  - **Open salaries**.  
+  - **Weekly gratitude circles**.  
+  - Hiring based on **values fit**.  
+  - Transitioned delivery staff to employees.  
+
+::: {.callout-tip title="Discussion Prompt"}
+- What advantages does this culture create?  
+- What risks does it carry for growth and fundraising?  
+:::
+
+# Turning Point
+
+## Investor Pushback
+
+- Some investors dismissed Tracy for not being “out for blood.”  
+- Lawrence reframed: Chewse isn’t “out for blood” — it’s **“out for love.”**  
+- Raised **$5.6M Series A** with Foundry Group (B Corp) + others.  
+
+**Tension:** Culture as a liability vs. culture as a strategic advantage.  
+
+# Growth Strategy
+
+## Fast vs. Slow Growth
+
+**Fast Growth**  
+- First-mover advantage.  
+- Access untapped markets quickly.  
+- Attracts more venture capital.  
+- Can recruit top talent.  
+- Higher liquidity (potential exit sooner).  
+
+**Slow Growth**  
+- More sustainable over time.  
+- Easier to maintain culture.  
+- Lower employee churn.  
+- Easier to pivot if needed.  
+- Builds trust in the brand.  
+
+::: {.callout-tip title="Discussion Prompt"}
+Why might Tracy Lawrence have chosen a slower growth path for Chewse?  
+How does this choice shape the Seattle vs. Los Angeles decision?  
+:::
+
+# Strategic Dilemma
+
+## Next Market Expansion
+
+Chewse must decide where to expand after San Francisco:
+
+- **Seattle**  
+  - Similar to SF in size and customer profile.  
+  - Safer bet for transferring culture.  
+
+- **Los Angeles**  
+  - Larger, more complex market.  
+  - Less tech-centric, more influential industries (banking, entertainment).  
+
+**Founder’s Challenge:**  
+
+As Tracy, should you choose the safer option (Seattle) or the bold move (LA) — and how will you maintain *Love Culture* in a new city?   
+
+# Compare Options
+
+## Expansion Criteria
+
+**Market similarity** – Is it easier to replicate SF’s success?  
+
+**Cultural transferability** – Can Chewse’s love culture scale here?  
+
+**Growth potential** – Will this market support fundraising and visibility?  
+
+**Operational feasibility** – Geography, logistics, local talent.  
+
+**Strategic fit** – Does the expansion reinforce mission + business model?  
+
+# Compare Options
+
+## Founder’s Expansion Criteria
+
+**Culture transferability** – Can I embed Chewse’s *Love Culture* in this new city?  
+
+**Team building** – Will I find (or promote) leaders who embody our values?  
+
+**Operational feasibility** – Is this market manageable in terms of geography and logistics?  
+
+**Personal bandwidth** – How much time will I need to spend there to get it right?  
+
+**Strategic visibility** – Will this market choice strengthen Chewse’s credibility for future fundraising?  
+
+# Compare Options
+
+## Expansion Tradeoffs
+
+| Founder’s Criteria                      | Seattle                        | Los Angeles                    |
+|-----------------------------------------|--------------------------------|--------------------------------|
+| Can Love Culture be transferred easily? | ☐ Similar culture to SF        | ☐ Different culture, riskier   |
+| Can I build the right team quickly?     | ☐ Smaller, easier to manage    | ☐ Larger, more talent diversity|
+| Are operations/logistics manageable?    | ☐ Compact city, tech hub       | ☐ Sprawl + heavy traffic       |
+| Do I have bandwidth to support it?      | ☐ Less demanding travel        | ☐ More personal time required  |
+| Will this market boost our credibility? | ☐ Safer but less visible choice| ☐ Bold, influential industries |
+
+**Instructions**
+
+- Check boxes as you evaluate each city through Tracy’s eyes.  
+- Discuss: Which criteria should matter most to her at this stage?  
+
+# Make a Recommendation
+
+## Which Market?
+
+- **Seattle**  
+  - Lower risk, culturally similar, manageable geography.  
+  - But may be seen as a “safe” or less ambitious choice.  
+
+- **Los Angeles**  
+  - Bigger market, more diverse industries, higher visibility.  
+  - But logistics + cultural differences pose challenges.  
+
+# Wrap-Up
+
+## Scorecard Totals
+
+- **Seattle** → ___ / 5  
+- **Los Angeles** → ___ / 5  
+
+## Discussion Points
+
+- Which criteria did your group weigh most heavily?  
+- How does Chewse’s **love culture** factor into your choice?  
+- Are you evaluating purely on strategy, or also on values?  
+
+## Key Takeaways
+
+- **Culture as strategy**: Chewse’s differentiation goes beyond food.  
+- **Growth dilemma**: Expansion involves both markets and values.  
+- **No single answer**: Seattle vs. LA highlights different growth philosophies.  
+- **Entrepreneurial lesson**: Mission-driven businesses must balance heart and scale.  
+
+::: {.callout-note title="What Happened?"}
+Chewse ultimately re-entered **Los Angeles**, prioritizing influence and proving culture could work outside of tech.  
+:::

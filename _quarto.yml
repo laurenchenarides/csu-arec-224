@@ -40,8 +40,14 @@ website:
           href: mentors/mentors.qmd
         - text: "Mentor Guide & Timeline"
           href: mentors/mentor-instructions.qmd
-      - text: "Additional Resources"
-        href: 404.qmd
+      - text: "Resources"
+        menu:                           
+        - text: "Fishbowl Discussion Guide"
+          href: cases/templates/fishbowl_discussion_guide.Rmd
+        - text: "Observer Feedback Form"
+          href: cases/templates/observer-form.qmd
+        - text: "Entrepreneurial Characteristics Handout"
+          href: mentors/characteristics_handout.Rmd
       # - text: Archive
       #   menu:
       #     - text: Fall 2025
