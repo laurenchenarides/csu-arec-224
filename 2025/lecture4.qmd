@@ -358,7 +358,7 @@ In improv, creativity comes from building on each other's ideas. The same mindse
 
 ::: columns
 ::: {.column width="50%"}
-**"Middling mindsets" that hinder creativity:**
+**"Muddling mindsets" that hinder creativity:**
 
 - **Either/or thinking**: seeing only two options and ignoring alternatives; a concern for certainty  
 - **Security hunting** (or perfectionism): always seeking safety and avoiding risk; unwilling to explore the unknown  
@@ -367,7 +367,7 @@ In improv, creativity comes from building on each other's ideas. The same mindse
 :::
 
 ::: {.column width="50%"}
-**Exercises to help eliminate the middling mindset:**
+**Exercises to help eliminate the muddling mindset:**
 
 - Take small risks  
 - Talk with people outside stereotypes  
