@@ -1,0 +1,49 @@
+---
+title: "Kim Rounds"
+description: "Storyteller. Strategist. Ag-vocate."
+categories: [Agriculture Communication, Beef Industry, Content Creation]
+format: 
+  html: 
+    theme: cosmo
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+![](kim-rounds.png){fig-align="left" width=300}
+
+**Background:** Originally from Colorado, Kim holds degrees in Animal and Equine Science from Colorado State University. Her career has spanned media, education, and advocacy roles within the beef industry—all grounded in a passion for connecting people to agriculture through stories that are real, relatable, and rooted in experience. Kim has served as a National Beef Ambassador, a teaching assistant in CSU’s Legends of Ranching course, and a groom for an international show jumper, reflecting her lifelong love of both equine and bovine pursuits.
+
+**Current Ventures:** Kim leads social media and talent strategy at Five Rivers Cattle Feeding, the largest cattle feeding company in the U.S. Her work bridges digital communication and workforce development—creating content that builds trust in beef production while also recruiting and inspiring the next generation of ag professionals. Whether she’s on a feedyard shooting a reel or writing copy that resonates with young audiences, Kim brings creativity and clarity to the way modern agriculture is represented.
+
+**Expertise:** Agricultural communication, brand storytelling, recruitment, and social media strategy. Kim offers a strong grasp of how to translate complex, boots-on-the-ground work into messages that inform, inspire, and build connection—especially in sectors like beef and cattle feeding.
+
+**Student Experience:** Students working with Kim will explore how messaging, media, and mentorship shape the public's understanding of agriculture. Kim encourages students to find their voice, ask better questions, and think critically about how to represent their work in a noisy digital world. Her experience on both the content and talent sides of the business gives students a well-rounded look at ag-based entrepreneurship and brand-building.
+
+**Fun Fact:** Kim is a two-time top-5 finisher at the National Reined Cowhorse Association’s Celebration of Champions and was named to *COWGIRL Magazine*’s 30 Under 30 and *BizWest*’s 40 Under 40—all before becoming a mom in 2024.
+
+## Additional Resources
+
+```{=html}
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+
+  <a href="https://www.fiveriverscattle.com/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Five Rivers Cattle Feeding
+  </a>
+
+  <a href="https://www.cowgirl30under30.com/gallery/kim-rounds/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Cowgirl 30 Under 30
+  </a>
+
+  <a href="https://www.youtube.com/watch?v=ab_UkeJxWaA" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
+    Two Minutes on Integrity (YouTube)
+  </a>
+
+</div>
+```
+
+<br>
+
+::: footer
+Navigate to: All [Mentors](../mentors.qmd) or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::
