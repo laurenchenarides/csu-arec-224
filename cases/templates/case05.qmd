@@ -1,0 +1,206 @@
+---
+title: "Dinr: My First Start-Up"
+subtitle: Discussion Guide
+page-meta:
+  robots: noindex
+format:
+  revealjs:
+    pdf-export: true
+    theme: white
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: false
+    scrollable: true
+    css: fishbowl.css
+execute:
+  echo: false
+  warning: false
+  message: false
+  allow-html: true
+---
+
+## Today's Agenda
+
+1. Case Discussion: Ghosh and Maslauskaite (2016), *Dinr: My First Start-Up*. Lead by **Team C**.
+
+
+## Key Terms: Startup Funding Stages
+
+- **Seed Round** – Initial capital to build product and test viability.  
+- **Angel Investment** – Early external capital, often from wealthy individuals.  
+- **Crowdfunding** – Raising smaller investments from many individuals online.  
+- **Accelerator** – Short-term program with mentorship, resources, and sometimes cash in exchange for equity.  
+- **Valuation** – Estimated worth of the company at a given funding round.  
+
+
+## Key Terms: Other Concepts
+
+- **Burn Rate** – Speed at which a startup spends its available cash.  
+- **Runway** – Months until cash runs out at current burn rate.  
+- **Minimal Viable Product (MVP)** – Simplest version of the product that can be tested with real customers.  
+- **Customer Acquisition Cost (CAC)** – Cost to gain one customer.  
+- **Customer Lifetime Value (CLV)** – Expected revenue from a customer over their relationship with the company.  
+
+
+<!-- # Framing the Case -->
+
+## Founder’s Perspective
+
+**Role Play**
+
+- Imagine you are **Markus Berger, founder of Dinr**.  
+- Your goals:  
+  - Prove the *on-demand meal kit* model works in London.  
+  - Raise money to extend runway.  
+  - Turn first-time buyers into repeat customers.  
+
+**Key Question:**  
+
+How do you make Dinr financially sustainable before the cash runs out?  
+
+
+<!-- # Case Overview -->
+
+## Dinr at a Glance
+
+- Founded in **2012** by Markus Berger, former Google employee.  
+- London-based same-day **meal ingredient delivery** service.  
+- Customers ordered online; Dinr delivered pre-measured ingredients + recipe cards.  
+- Differentiation:  
+  - **On-demand orders** (no subscription).  
+  - Targeted **young urban professionals**.  
+  - Premium experience: recipe cards, surprise gifts, playlists, wine suggestions.  
+
+**Mission:** Teach people to cook quality meals at home with ease.  
+
+## The Founder, Markus Berger
+
+- Born in **Brno, Czech Republic (1978)**; trained as a lawyer at Vienna University.  
+- Early career: **consultant at Booz Allen Hamilton**, then earned an **MBA at London Business School**.  
+- Worked at **Google London (2008–2012)** in account management and business development.  
+- Inspired by **Jamie Oliver’s TED Talk** on teaching people to cook and by emerging meal-kit startups in Europe.  
+- Personal motivation: more passion for **education and improving lives** than for food itself.  
+  - Wanted to help people master at least **ten quality home-cooked meals**.  
+- Cofounded Dinr in **2012** with Atul Mahajan (part-time tech co-founder).  
+
+::: {.callout-tip title="Discussion Prompt"}
+How did Berger’s background — law, consulting, Google, MBA — shape his approach to entrepreneurship?  
+:::
+
+## Dinr Competitors
+
+- **HelloFresh** – Subscription-based, backed by Rocket Internet, aggressive growth.  
+- **Gousto** – UK subscription startup, heavy fundraising.  
+- **Middagsfrid (Sweden)** – First mover, sustainability focus.  
+
+::: {.callout-tip title="Discussion Prompt"}
+How did Dinr’s *on-demand* positioning differ from subscription-based competitors?  
+What advantages and risks did this choice create?  
+:::
+
+
+<!-- # Turning Point -->
+
+## Early Results
+
+- Initial traction: some enthusiasm, but **low repeat orders** (avg. 1.53).  
+- CAC (£30.4) > CLV.  
+- Customers liked the food, but did not reorder enough.  
+- Berger raised **£60,000 via Seedrs crowdfunding** (2013).  
+
+**Challenge:** Build habit and loyalty in a market dominated by subscription players.  
+
+
+<!-- # Growth Strategy -->
+
+## Relaunch Efforts
+
+- Invested in glossy new website with high-quality food photography.  
+- Hired a culinary intern to create 8 new themed recipes per week.  
+- Added **membership option** (£5/month for 10% discount).  
+- Considered switching to subscription model, but decided against it.  
+
+::: {.callout-tip title="Discussion Prompt"}
+Why might Berger have resisted adopting a subscription model?  
+Would you advise him differently?  
+:::
+
+
+## Strategic Dilemma
+
+- **Funding pressures**: Limited runway, failed accelerator applications, reliance on crowdfunding.  
+- **Execution issues**: Tech delays with overseas developers.  
+- **Market pressures**: HelloFresh and Gousto scaling rapidly with large VC rounds.  
+
+**Founder’s Challenge:**  
+
+What should Berger do next to attract repeat customers and secure sustainable funding?   
+
+
+## Compare Options
+
+| Option | Pros | Cons |
+|--------|------|------|
+| Stay On-Demand | Differentiates from competitors; flexible for customers | Harder to build loyalty; higher marketing costs |
+| Pivot to Subscription | Recurring revenue; aligns with investor expectations | Competes head-on with better-funded rivals |
+| Hybrid (on-demand + membership) | Offers flexibility + some loyalty | Complex to manage; unclear positioning |  
+
+
+## Make a Recommendation: Which Path?
+
+- **On-Demand**  
+  - Keeps differentiation, but high risk of running out of money.  
+
+- **Subscription**  
+  - Easier to model growth, more attractive to investors.  
+
+- **Hybrid**  
+  - Potential compromise, but resource-intensive for small team.  
+
+
+<!-- # Wrap-Up -->
+
+## Scorecard Totals
+
+- **On-Demand** → ___ / 5  
+- **Subscription** → ___ / 5  
+- **Hybrid** → ___ / 5  
+
+## Discussion Points
+
+- Which growth model makes most sense given Dinr’s resources?  
+- How should Berger balance vision (education + flexibility) with financial realities?  
+- How do customer acquisition and retention metrics drive the decision?  
+
+
+## Exit Strategy
+
+- Berger’s vision: not a billion-dollar business, but a few million in revenue and a solid first startup experience.  
+- Actual outcome: Dinr struggled to scale and eventually shut down, without a formal exit.  
+
+**Discussion Prompt:**  
+
+- What realistic exit strategies could Berger have pursued?  
+  - Acquisition by a larger meal-kit company?  
+  - Building toward a sustainable lifestyle business?  
+  - Positioning for strategic partnerships?  
+- How do the sources of funding (friends/family, crowdfunding) shape the expectations for an exit?  
+- Should founders think about exit strategy from the beginning, or focus first on product–market fit?  
+
+
+## Key Takeaways
+
+- **Business model matters**: Revenue structure must match market + investor expectations.  
+- **Execution risk**: Technical delays and founder bandwidth can derail progress.  
+- **Funding challenge**: Crowdfunding offers quick capital, but limited runway.  
+- **Entrepreneurial lesson**: Passion and vision must align with repeatable, scalable economics.  
+
+::: {.callout-note title="What Happened?"}
+Dinr ultimately struggled to compete with heavily funded subscription rivals.  
+Berger later pivoted to other ventures, but the Dinr experience served as his entrepreneurial training ground.  
+:::
+
