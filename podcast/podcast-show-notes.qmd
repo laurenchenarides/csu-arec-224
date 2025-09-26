@@ -1,0 +1,54 @@
+---
+title: "Podcast Show Notes"
+author: "Pod [Name/Number]"
+format: 
+  pdf:
+    toc: false
+    number-sections: false
+fontsize: 11pt
+geometry: margin=1in
+mainfont: Times New Roman
+---
+
+# Podcast Show Notes
+
+> **Note:** These notes are written for a general audience.  
+> Imagine they will be published alongside the podcast episode.  
+> They should be clear, concise, and highlight broad lessons for aspiring entrepreneurs.
+
+
+## Episode Title
+*Catchy but clear — e.g., “Building a Business from Scratch with Tim Jordan”*  
+
+## Pod Members & Roles
+- [Name] — Pre-Production  
+- [Name] — Co-Host  
+- [Name] — In-Studio Fact Checker  
+- [Name] — Post-Production  
+
+> **Note on Roles and Responsibilities:**
+> The listed [podcast roles](https://laurenchenarides.github.io/csu-arec-224/podcast/podcast-instructions.html#roles-within-your-pod) are intended as general guides. Some pods may not have four members, and that’s okay. In every group, at least one student must serve as a co-host during the recording. The remaining responsibilities (research, fact checking, show notes, scheduling, etc.) should be divided fairly among the pod members so that everyone contributes meaningfully. Grades will be assigned individually to account for variation in contributions, if that becomes an issue.
+
+## Episode Summary (2–3 paragraphs)
+- Introduce your mentor and their business.  
+- Summarize the main themes of the conversation (decisions, challenges, lessons learned).  
+- Connect at least one theme to course content (e.g., opportunity recognition, risk-taking, entrepreneurial culture).  
+
+## Key Takeaways (3–5 bullets)
+- [Lesson 1]  
+- [Lesson 2]  
+- [Lesson 3]  
+
+## Links & Resources
+- [Mentor’s business website or social media]  
+- [Any additional resources or references mentioned in the episode]  
+
+
+### Submission Checklist (Part 2: Show Notes)
+- [ ] Episode title included  
+- [ ] All pod members + roles listed  
+- [ ] 2–3 paragraph summary written for a general audience  
+- [ ] 3–5 key takeaways highlighted in bullets  
+- [ ] Links/resources included (if any)  
+
+

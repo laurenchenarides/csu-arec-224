@@ -1,0 +1,83 @@
+---
+title: "Podcast Prep Document"
+author: "Pod [Name/Number]"
+format: 
+  pdf:
+    toc: false
+    number-sections: false
+fontsize: 11pt
+geometry: margin=1in
+mainfont: Times New Roman
+---
+
+# Podcast Prep Document
+
+> **Note:** Dr. Chenarides will review these prep documents in advance.  
+> This allows her to prepare and serve as a helpful co-host during the interview.  
+> Please be thorough, concise, and submit on time so she has the necessary context.
+
+> **Max length: 1–2 pages. Submit as a single Word document or PDF file on Canvas.**
+
+## Header
+- **Pod Name/Number:**  
+- **Mentor:**  
+- **Business & Industry:**  
+- **Planned Recording Date/Location:**  
+
+## Pod Members & Roles
+- **[Name] — Pre-Production:** research, scheduling, question prep  
+- **[Name] — Co-Host:** on-mic interviewer  
+- **[Name] — In-Studio Fact Checker:** supporting interviewer; verifies facts live  
+- **[Name] — Post-Production:** drafts show notes
+
+> **Note on Roles and Responsibilities:**
+> The listed [podcast roles](https://laurenchenarides.github.io/csu-arec-224/podcast/podcast-instructions.html#roles-within-your-pod) are intended as general guides. Some pods may not have four members, and that’s okay. In every group, at least one student must serve as a co-host during the recording. The remaining responsibilities (research, fact checking, show notes, scheduling, etc.) should be divided fairly among the pod members so that everyone contributes meaningfully. Grades will be assigned individually to account for variation in contributions, if that becomes an issue.
+
+## Background Notes (Concise bullets)
+- **Company overview:** *(founded, product/service, customers, scale)*  
+- **Market/industry context:** *(trends, competitors, regulation if relevant)*  
+- **Mentor highlights:** *(key experiences, prior roles, notable wins/challenges)*  
+- **Recent news or milestones:**  
+- **Sources consulted:** *(links/titles)*
+
+## Interview Goals (Broad Discovery)
+- What do we hope listeners learn from this mentor?
+- What theme(s) will you explore (e.g., opportunity recognition, hiring, operations, pivots)?
+
+## Interview Questions (Finalized)
+*(Open-ended; 8–12 total. Group by theme; include 1–2 follow-ups you can adapt in studio.)*
+
+**Theme: [e.g., Founding Story]**\
+- Q1:\
+- Q2:\
+- Follow-ups:\
+
+**If more than one theme:**\ 
+**Theme: [e.g., Decision-Making & Risk]**\
+- Q3:\
+- Q4:\
+- Follow-ups:\
+
+**Theme: [e.g., People & Culture]**\
+- Q5:\
+- Q6:\
+- Follow-ups:\
+
+**Closing**\
+- “What advice would you give to students starting in food & agribusiness?”\
+- “Where can listeners learn more about you/your work?”
+
+## Logistics & Studio Plan
+- **Confirmed time window:**  
+- **Co-Host:** *(mic distance, levels, room tone)*
+- **Artifacts to bring:** *(water, printed questions, laptop, charger)*  
+
+## Link to Course Themes
+- 1–2 sentences on how your planned questions connect to course concepts.
+
+
+### Submission Checklist (Part 1: Prep Time)
+- [ ] Background notes (bulleted)
+- [ ] Finalized interview questions (8–12, open-ended)
+- [ ] Roles assigned (all four listed)
+- [ ] Recording date/time proposed or scheduled

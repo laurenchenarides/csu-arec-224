@@ -29,7 +29,13 @@ website:
         - text: "How We Use Case Studies"
           href: cases/case-method.qmd 
       - text: "Podcast Project"
-        href: podcast/podcast-instructions.qmd                
+        menu:                           
+        - text: "Podcast Project Instructions"
+          href: podcast/podcast-instructions.qmd                
+        - text: "Podcast Prep Document"
+          href: podcast/podcast-pre.qmd
+        - text: "Podcast Show Notes"
+          href: podcast/podcast-show-notes.qmd
       - text: "Case Competition"
         href: cases/case-competition.qmd                
       - text: "Your E-IDP"
