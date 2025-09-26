@@ -33,7 +33,7 @@ website:
         - text: "Podcast Project Instructions"
           href: podcast/podcast-instructions.qmd                
         - text: "Podcast Prep Document"
-          href: podcast/podcast-pre.qmd
+          href: podcast/podcast-prep.qmd
         - text: "Podcast Show Notes"
           href: podcast/podcast-show-notes.qmd
       - text: "Case Competition"
