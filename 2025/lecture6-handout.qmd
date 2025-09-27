@@ -1,0 +1,355 @@
+---
+title: "Lecture 6"
+description-meta: "Pathways to Entrepreneurial Ventures"
+author: "Dr. Lauren Chenarides"
+date: September 30, 2025
+date-format: long
+image: "/images/01entrepreneur.png"
+page-meta:
+  robots: noindex
+format:
+  pdf:
+    documentclass: article
+    geometry: [top=1in, bottom=1in, left=1in, right=1in]
+execute:
+  echo: false      # hide code (set true if you want to show it)
+  warning: false
+  message: false
+---
+
+> “Big things have small beginnings.”  
+> – Spoken by Mr. Dryden in the film *Lawrence of Arabia*  
+
+
+
+## Lecture 6: Venture Pathways
+**Textbook Reading (Quiz Basis):** Chapter 7. Pathways to Entrepreneurial Ventures  
+
+**Lecture Agenda:**  
+- Pathway 1: _______________________  
+- Pathway 2: _______________________ 
+- Pathway 3: _______________________ 
+
+Source: @kuratko2024
+
+
+## Chapter 7 Objectives
+7.1 Describe the major pathways and structures for entrepreneurial ventures.  
+7.2 Explain the newness dimensions involved in creating a “new venture.”  
+7.3 Discuss the elements involved in acquiring an established venture.  
+7.4 Outline 10 key questions to ask when buying an ongoing venture.  
+7.5 Describe the underlying issues involved in the acquisition process.  
+7.6 Define a franchise and outline its structure.  
+7.7 Outline the benefits and drawbacks of franchising.  
+7.8 Explain the franchise disclosure document (FDD) as a key item in franchises.  
+7.9 Describe the elements involved with incubators, accelerators, and entrepreneurial ecosystems.  
+
+
+
+## Last Week, We Covered
+- What predicts the performance of successful new ventures?  
+- What are common pitfalls of new ventures?  
+- Why do new ventures fail?  
+- How to test if an idea will work?  
+- What are “low stakes” business models to get your idea off the ground?  
+- Why is legitimacy important for new business ventures?  
+
+
+
+## What IF…
+- There were other ways to start a business that would flourish overnight?  
+- There was a playbook that allowed your business to overcome some of the common pitfalls attributed to new ventures failure?  
+
+**This week, we’ll look at three pathways to pursue entrepreneurial ventures:**  
+1. ______________________  
+2. ______________________  
+3. ______________________  
+
+
+
+## Three Pathways
+**Entrepreneurs generally enter ventures through three pathways:**  
+
+- **______________________________:** Build from scratch, new idea, higher risk but higher control.  
+  *Example: launching a farm-based kombucha brand.*  
+
+- **______________________________:** Buy an established business with history, contracts, staff.  
+  *Example: purchasing a dairy operation from retiring owners.*  
+
+- **______________________________:** Buy into a proven business system with support and brand recognition.  
+  *Example: running a Subway franchise near a university.*  
+
+**Analogy:**  
+- ______________ = clearing a new field.  
+- ______________ = buying a farm.  
+- ______________ = joining a cooperative with shared tools and systems.  
+
+# Pathway #1 New Venture Creation
+
+## The Story of Sweetgreen
+**Origins:** Sweetgreen began as a single salad shop near Georgetown University in 2007.  
+
+**______________ ______________:**  
+- Build healthier communities with convenient, fast-casual, sustainable food.  
+- Solve the tradeoff between fast/cheap/unhealthy food and slow/expensive/fresh food.  
+
+
+
+## The Story of Sweetgreen (cont.)
+**Customer ______________:**  
+- Health-conscious consumers in urban areas and college students.  
+- Individuals seeking convenient meal options, willing to pay for quality.  
+
+**Key Activities:**  
+- Seasonal, plant-forward menu.  
+- Transparent supply chain with farmers.  
+- Mobile app for ordering/delivery.  
+- Automation/new kitchen technology (e.g., “Infinite Kitchen”).  
+
+
+
+## The Story of Sweetgreen (cont.)
+**Revenue Streams:**  
+- Sales from in-store and online orders.  
+- Delivery service revenue through owned app.  
+- Corporate catering.  
+
+**Recent Challenges (Q2 2025):**  
+- Decline in same-store sales and traffic.  
+- Wider net loss year-over-year.  
+- Volatile stock price, 52-week low.  
+
+
+
+## Creating New Ventures
+Entrepreneurs think about how their idea is positioned relative to existing offerings.  
+
+Two approaches (textbook):  
+- **______________ Approach**  
+- **______________ Approach**  
+
+
+
+## ______________ Approach
+- Identify something that does not yet exist and create it from scratch.  
+- Requires observing unmet needs, frustrations, or inefficiencies.  
+- Example in agribusiness: apps integrating satellite imagery with irrigation scheduling.  
+- High risk (customers unfamiliar) but high potential reward.  
+
+
+
+## ______________ Approach
+- Adapt, improve, or extend an existing concept.  
+- Example: customizable CSA subscription boxes.  
+- Easier for customers to understand/adopt, but allows differentiation through quality, service, or market reach.  
+
+
+
+## Trends in Agri-Business Startups
+- Sample of 5,290 global startups analyzed.  
+- Technology advances (automation, drones, biotech) drive most innovation.  
+- *Source: StartUs Insights (2025).*  
+
+
+
+## A Newness Framework for New Ventures
+Framework helps us think about how “new” a venture is.  
+
+**Dimensions:**  
+- _______________________ (incremental vs. radical).  
+- _______________________ (incremental vs. radical).  
+
+
+
+## Entrepreneurial Newness Framework
+*Source: Kuratko, Fisher, Bloodgood, Hornsby (2017), Small Business Economics 49(1):124.*  
+
+Framework gauges:  
+- How bold or incremental a venture is.  
+- Risks and opportunities of that positioning.  
+
+
+
+## Examining the Financial Picture
+After feasibility analysis (Week 5) and business plan (not yet covered):  
+
+- **For _______________:** risk vs. reward analysis.  
+- **For acquisitions:** picture looks different…  
+
+**Checklist for _______________ Expenses:**  
+- Inventory  
+- Equipment  
+- Payroll  
+- Utilities  
+- Debt service  
+- Legal/professional fees  
+- Licenses  
+- More…  
+
+
+
+# Pathway #2 Acquisition
+
+## Acquiring an Established Venture
+
+**Sources:** brokers, trade associations, newspapers, contacts, online.  
+
+**Advantages:**  
+- Customers, contracts, brand reputation.  
+- Staff, inventory, facilities in place.  
+- Reduced failure risk, quicker path to revenue.  
+
+*Example:* Young entrepreneur buys a fruit orchard.  
+- Benefits: loyal customers, contracts with grocers.  
+- Challenges: aging trees, outdated equipment.  
+
+
+## Evaluating an Established Venture
+Evaluation requires background info:  
+- Profits, sales, ratios.  
+- Inventory/equipment.  
+- Intellectual property.  
+- Goodwill/reputation.  
+
+**Prompt:** Which would you prioritize in an agribusiness purchase? Why?  
+
+
+
+## The Buying Process: What to Look For (1/2)
+Less about “hardball negotiation,” more about careful evaluation.  
+
+**Influences:**  
+- **Information:** More info = better decisions.  
+- **Time:** Don’t rush, uncover problems.  
+- **Pressure:** Seller pressure (retirement, debt) shapes deal.  
+- **Alternatives:** More options = stronger position.  
+
+
+
+## The Buying Process: What to Look For (2/2)
+**Considerations for Buyers:**  
+- Seller may stay as minority owner for continuity.  
+- Price can depend on future performance (3–5 years).  
+- Trust only written promises.  
+- Review books carefully.  
+- Talk to vendors, customers, employees, competitors.  
+
+
+
+# Pathway #3 Franchising
+
+## Franchising: The Hybrid
+
+**Discussion:**  
+- Have you considered owning a franchise? Why/why not?  
+- What agribusiness-related franchises can you think of?  
+
+**Show of hands:**  
+- Who has eaten at McDonald’s, Subway, Dairy Queen?  
+- Who has been to Tractor Supply, John Deere dealers, farm supply stores?  
+
+
+
+## Franchising: Definition & Terms
+**___________________:** Arrangement where franchisor licenses franchisee to use trademarks, trade names, systems.  
+
+**Roles:**  
+- ___________________ = buyer.  
+- ___________________ = seller.  
+
+
+
+## How Franchising Works
+**Franchisee Obligations:**  
+- Invest capital.  
+- Maintain standardized inventory/equipment.  
+- Pay fees/royalties.  
+- Maintain quality.  
+
+**Franchisor Provides:**  
+- Brand identity.  
+- Training/support.  
+- Merchandise, equipment, food.  
+- Financing, guidance.  
+
+
+
+## Pros and Cons of Franchising
+**Advantages:**  
+- Training/support.  
+- Brand recognition.  
+- Proven system lowers risk.  
+- Financing options.  
+
+**Disadvantages:**  
+- High upfront/ongoing fees.  
+- Strict control.  
+- Some franchisors under-deliver.  
+- A franchise can feel like a “golden cage.”  
+
+
+
+## Franchise Law & FDD
+**Franchise Rule (FTC):**  
+- Requires franchisors to provide FDD 14 days before signing/paying.  
+
+**FDD:**  
+- 23 required categories.  
+- Must be delivered pre-contract.  
+- Protects franchisees from incomplete info.  
+
+
+
+## Support Systems: Incubators, Accelerators, Ecosystems
+**What helps you succeed once you choose a pathway?**  
+
+- **Incubators:** “Daycare” – safe, long-term support (space, training, mentorship).  
+  *Example: food innovation hubs with shared kitchens.*  
+
+- **Accelerators:** “Boot camp” – short, intensive, often equity-based.  
+  *Example: Colorado AgTech accelerators funding drone startups.*  
+
+- **Ecosystems:** Networks of entrepreneurs, mentors, regulators, investors.  
+  *Example: Fort Collins food innovation network (CSU, farmers, startups).*  
+
+
+
+## Recall (Week 5): How Incubators & Accelerators Help
+Programs lower cost, time, risk of starting ventures.  
+
+- Provide shared space/resources, access to mentors.  
+- Guide funding estimates, connect with grants, investors, competitions.  
+- Offer market intelligence, legal/regulatory support, peer learning.  
+- Validate ideas technically/legally through review/testing.  
+- Support customer discovery, refine value proposition.  
+- Advise on pricing, distribution, reaching first customers.  
+
+
+
+## Reflection
+Which pathway (create, acquire, franchise) would YOU choose for your first agribusiness venture, and why?  
+
+
+
+## Summary
+7.1 Describe pathways and structures.  
+7.2 Explain newness dimensions.  
+7.3 Discuss acquiring ventures.  
+7.4 Outline 10 key questions for buying.  
+7.5 Describe acquisition issues.  
+7.6 Define a franchise and its structure.  
+7.7 Outline franchising pros/cons.  
+7.8 Explain FDD.  
+7.9 Describe incubators, accelerators, ecosystems.  
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture1.qmd), All [Lectures](schedule.qmd), or Course [Home](https://laurenchenarides.github.io/csu-arec-224/).
+:::

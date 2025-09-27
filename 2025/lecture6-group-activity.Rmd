@@ -1,0 +1,153 @@
+---
+title: "Group Activity 6-1 and 6-2"
+output: pdf_document
+---
+
+## Part 1: Entrepreneurial Newness Framework (Card Sort)
+
+Each student receives a playing card. Each suit corresponds to a quadrant in the framework:  
+
+- **Hearts**: Quadrant A (Incremental Technology, Existing Market)  
+- **Diamonds**: Quadrant B (Incremental Technology, New Market)  
+- **Clubs**: Quadrant C (Radical Technology, Existing Market)  
+- **Spades**: Quadrant D (Radical Technology, New Market)  
+
+**Instructions:**  
+1. Sit with your suit (form groups based on the suit of your card).  
+2. Each group receives a scenario.  
+3. Analyze the scenario and explain why it belongs in your assigned quadrant.  
+4. Prepare a short (3-minute) explanation to present to the class.  
+
+
+## Part 2: Role-Play Acquisition
+
+Using the same businesses from Part 1:  
+
+- Lowest card number in each group = **Seller**  
+- Highest card number in each group (Ace is high) = **Buyer**  
+
+**Buyer’s Questions to Ask the Seller:**  
+1. Why is the business for sale?  
+2. Are there any noncompete agreements?  
+3. What is the physical condition of inventory, land, and facilities?  
+4. Will employees remain?  
+5. What competition exists locally?  
+6. What is the profitability?  
+
+> **Note:** Use the cards for Part 2: Role-Play Acquisition. Give the appropriate card to the student who is designated as the “Seller” in each group.  
+
+
+**Discussion:**  
+- For buyers: Which answers from the sellers raised red flags?  
+- How could you follow up on those issues in a real negotiation?  
+
+
+---
+
+\newpage
+
+# Scenario Sheet
+
+### Quadrant A (Hearts – Incremental Tech, Existing Market)  
+**Story:** Maple Grove Dairy is a family-owned dairy farm that has been in operation for 40 years. Recently, they invested in a more efficient milking machine that reduces milking time per cow by 10%, allowing them to increase throughput without hiring more workers. They sell their milk to the same regional processor they have worked with for decades. The farm has reliable employees, but some of the equipment (barn roofs, tractors) is aging. The current owners are considering selling as they approach retirement.  
+
+---
+
+### Quadrant B (Diamonds – Incremental Tech, New Market)  
+**Story:** Sunny Acres Farm has been producing vegetables on 100 acres for three generations. They recently began packaging their produce into convenient, ready-to-eat snack packs for busy urban professionals, selling directly into local grocery stores and coffee shops. The farm uses traditional growing methods and existing infrastructure, but the packaging process is labor-intensive, and they’ve taken on debt to buy packaging equipment. The owners are looking for someone with energy and marketing savvy to take the business further.  
+
+---
+
+### Quadrant C (Clubs – Radical Tech, Existing Market)  
+**Story:** Green Plains Grain Farm cultivates 3,000 acres of corn and soybeans. They recently invested in autonomous tractors and AI-driven planting and harvesting technology, making operations more efficient but requiring significant upfront capital. They continue to sell into the commodity grain market, competing with neighboring farms. The workforce has been reduced since the new equipment requires fewer employees. The farm is profitable, but still paying off loans on the new machinery. The current owners are open to selling because of high debt pressure.  
+
+---
+
+### Quadrant D (Spades – Radical Tech, New Market)  
+**Story:** AquaHarvest is a startup that operates aquaponic systems built inside shipping containers. Each unit produces both tilapia and leafy greens year-round. They market directly to high-end restaurants and specialty grocery stores that value local, sustainable sourcing. Demand is strong, but scaling has been expensive due to the cost of building new units. They have a small, enthusiastic team of five employees. The founders are considering selling to pursue another venture, but they believe the model has long-term growth potential.  
+
+---
+
+\newpage
+
+# Seller Role Cards
+
+## Quadrant A (Hearts – Incremental Tech, Existing Market)  
+**Business:** Maple Grove Dairy  
+
+**Background:**  
+
+- Family-owned for 40 years.  
+- Supplies milk to a regional processor under long-term contracts.  
+- Recently invested in a new milking machine that reduces time per cow by 10%.  
+
+**Key Details for Seller:**  
+
+- **Reason for Sale:** Owners nearing retirement. Children are not interested in continuing the farm.  
+- **Noncompete:** No legal restrictions; regional processor may want assurances milk supply continues.  
+- **Condition of Assets:** Milking equipment is new and reliable. Some tractors and barn structures are aging.  
+- **Employees:** 6 full-time employees; most are long-term and want to stay on.  
+- **Competition:** Competes with several other dairies in the county.  
+- **Profitability:** Profitable, though margins are thin due to feed costs. Efficiency gain has improved cash flow modestly.  
+
+\newpage
+
+## Quadrant B (Diamonds – Incremental Tech, New Market)  
+**Business:** Sunny Acres Farm  
+
+**Background:**  
+
+- 100-acre vegetable farm, operated for three generations.  
+- Added a new line of snack-pack produce sold in local grocery stores and coffee shops.  
+- Recently invested in small-scale packaging equipment.  
+
+**Key Details for Seller:**  
+
+- **Reason for Sale:** Owners feel out of their depth with marketing/branding and want someone with more business expertise.  
+- **Noncompete:** No formal restrictions; may agree not to start another snack-pack line.  
+- **Condition of Assets:** Fields and equipment are in good condition. Packaging equipment is new but requires training.  
+- **Employees:** Seasonal labor; small permanent staff of 3. Workers may stay if buyer retains them.  
+- **Competition:** Growing competition from larger regional distributors that also sell packaged produce.  
+- **Profitability:** Core farm is profitable. Snack-pack line is promising but currently breaks even due to startup costs.  
+
+\newpage
+
+## Quadrant C (Clubs – Radical Tech, Existing Market)  
+**Business:** Green Plains Grain Farm  
+
+**Background:**  
+
+- 3,000 acres producing corn and soybeans.  
+- Invested heavily in autonomous tractors and AI-powered planting/harvesting technology.  
+- Still sells into the commodity grain market.  
+
+**Key Details for Seller:**  
+
+- **Reason for Sale:** Owners struggling with high debt from technology investments.  
+- **Noncompete:** None. Neighboring farms are potential competitors.  
+- **Condition of Assets:** Cutting-edge autonomous machinery is new. Storage facilities are in decent shape. Land is fertile but debt is heavy.  
+- **Employees:** Workforce reduced from 15 to 6 due to automation. Remaining staff are skilled and loyal.  
+- **Competition:** Other local farms selling into the same commodity markets.  
+- **Profitability:** Revenues are steady, but debt service is high. Profits are slim at present.  
+
+\newpage
+
+## Quadrant D (Spades – Radical Tech, New Market)  
+**Business:** AquaHarvest  
+
+**Background:**  
+
+- Startup producing tilapia and leafy greens inside shipping-container aquaponic systems.  
+- Selling directly to high-end restaurants and specialty grocery stores.  
+- Strong brand appeal in the sustainability niche.  
+
+**Key Details for Seller:**  
+
+- **Reason for Sale:** Founders want to move on to a new venture; open to selling or bringing in a growth-focused buyer.  
+- **Noncompete:** Would agree not to start another aquaponics company for at least 5 years.  
+- **Condition of Assets:** Systems are relatively new but costly to expand. Units are high-maintenance and require technical expertise.  
+- **Employees:** Small, passionate team of 5. May or may not stay if the company changes hands.  
+- **Competition:** Few direct competitors locally, but similar concepts emerging nationwide.  
+- **Profitability:** Not yet consistently profitable. Revenue is growing, but expansion costs outpace profits. Break-even expected within 2 years if demand continues.  
+
+
