@@ -2,6 +2,26 @@
 title: Fall 2025 Course Schedule
 page-layout: full
 repo-actions: false
+format: 
+  html: 
+    theme: cosmo
+ #   css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=0.75in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
 ---
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
