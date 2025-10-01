@@ -1,0 +1,166 @@
+---
+title: "White Oak Pastures: A Radically Traditional Farm Redefines Growth"
+subtitle: Discussion Guide
+page-meta:
+  robots: noindex
+format:
+  revealjs:
+    pdf-export: true
+    theme: white
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: false
+    scrollable: true
+    css: fishbowl.css
+execute:
+  echo: false
+  warning: false
+  message: false
+  allow-html: true
+---
+
+## Today's Agenda
+
+1. Case Discussion: Hoffman (2021), *White Oak Pastures: A Radically Traditional Farm Redefines Growth*. Lead by **Team D**.  
+2. Explore two key decisions:  
+   - Transitioning to regenerative agriculture.  
+   - Building an on-site processing facility.  
+
+
+## Key Terms: Regenerative Agriculture
+
+- **Cover Cropping** – Planting crops that enrich soil health rather than for harvest.  
+- **No-Till Farming** – Avoiding mechanical tillage to preserve soil structure.  
+- **Adaptive Grazing** – Rotating animals to allow pasture regrowth and carbon capture.  
+- **Regenerative Organic Certified (ROC)** – Certification based on soil health, animal welfare, and social fairness.  
+
+
+## Key Terms: Processing & Vertical Integration
+
+- **Abattoir** – Slaughterhouse for processing livestock.  
+- **Vertical Integration** – Owning multiple steps of the supply chain (birth to sale).  
+- **Capacity Constraint** – A production bottleneck that limits sales.  
+- **Fixed Cost Investment** – Up-front costs to build infrastructure.  
+
+
+## Founder’s Perspective
+
+**Role Play**
+
+- Imagine you are **Will Harris III**, 4th-generation farmer at White Oak Pastures.  
+- Your goals:  
+  - Restore degraded farmland.  
+  - Build a resilient, profitable family business.  
+  - Revitalize Bluffton’s rural economy.  
+
+**Key Question:**  
+
+How do you define “growth” at White Oak — more animals, more land, or deeper ecological and social impact?  
+
+
+## White Oak at a Glance
+
+- Family farm since **1866**, Bluffton, GA.  
+- Industrialized post–WWII, transitioned to regenerative in the 1990s.  
+- On-farm abattoirs: **red meat (2008)** and **poultry (2011)**.  
+- Vertically integrated: beef, poultry, pork, eggs, hides/leather, compost, ecotourism.  
+- Three pillars: **animal welfare, land regeneration, rural revival**.  
+
+
+## The Founder, Will Harris III
+
+- Rejected chemical inputs and confined feeding systems of his father’s generation.  
+- Instituted rotational multi-species grazing.  
+- Invested heavily to process on site and own the supply chain.  
+- Passionate about jobs and wages in Bluffton, not just soil health.  
+
+::: {.callout-tip title="Discussion Prompt"}
+How do Harris’s values and family legacy influence the risks he takes?  
+:::
+
+
+## Decision #1: Transition to Regenerative Practices
+
+- Benefits: Soil restoration, biodiversity, carbon sequestration, brand story.  
+- Risks: Higher costs, reduced automation, niche market, price premium required.  
+
+::: {.callout-tip title="Discussion Prompt"}
+Would you have made the same choice to abandon industrial practices? Why or why not?  
+:::
+
+
+## Decision #2: Build On-Site Processing Facility
+
+- 2007: Local processor capped capacity, unwilling to expand.  
+- Harris’s options:  
+  - Plateau sales.  
+  - Find a new external processor.  
+  - Borrow $2.5M+ to build on-farm abattoir.  
+
+**Outcome:** Built both red meat and poultry abattoirs, rare in the U.S.  
+
+
+## Strategic Dilemmas
+
+- **Financial:** Heavy reinvestment, debt load.  
+- **Environmental:** Leader in regenerative grazing, carbon-negative beef.  
+- **Market:** Competing with cheap conventional beef + alt-proteins.  
+- **Community:** Rural revival through wages, jobs, and ecotourism.  
+
+
+## Compare Options: Farming Model
+
+| Option                | Pros                                  | Cons                          |
+|-----------------------|---------------------------------------|-------------------------------|
+| Stay Industrial       | Lower costs, easier competition       | Land degradation, no brand edge |
+| Regenerative          | Ecological leadership, brand premium  | Higher costs, slower growth   |
+
+
+## Compare Options: Processing
+
+| Option              | Pros                              | Cons                                |
+|---------------------|-----------------------------------|-------------------------------------|
+| Plateau sales       | Avoids debt, minimizes risk       | No growth, mission capped           |
+| Partner externally  | Lower cost, less responsibility   | Loss of control, still constrained  |
+| Build abattoir      | Control, differentiation, impact  | High capital cost, major risk       |
+
+
+## Make a Recommendation
+
+- Should Harris have transitioned to regenerative farming despite the risks?  
+- Should he have borrowed to build the abattoir, or relied on external processors?  
+- How do these choices shape the long-term definition of “growth” at White Oak?  
+
+
+## Scorecard Totals
+
+- **Regenerative Transition** → ___ / 5  
+- **Industrial Status Quo** → ___ / 5  
+- **Build On-Site Processing** → ___ / 5  
+- **External Processor / Plateau** → ___ / 5  
+
+
+## Discussion Points
+
+- How does regenerative agriculture redefine profitability and sustainability?  
+- Does building the abattoir strengthen or weaken White Oak’s resilience?  
+- Can White Oak compete on price against mainstream producers?  
+- How important is rural community revival to defining business success?  
+
+
+## Key Takeaways
+
+- **Values vs. Viability:** Ecological principles must be balanced with financial realities.  
+- **Vertical Integration:** Ensures control but demands high capital investment.  
+- **Redefining Growth:** Not just output, but soil health, jobs, and community well-being.  
+- **Entrepreneurial Lesson:** Family farms can innovate by aligning tradition with sustainability.  
+
+::: {.callout-note title="What Happened?"}
+White Oak Pastures grew into a vertically integrated regenerative farm employing 175+ people.  
+Its beef was found to have a 111% lower carbon footprint than conventional U.S. beef.  
+Despite cost pressures, it became a national model for regenerative agriculture and rural revival.  
+:::

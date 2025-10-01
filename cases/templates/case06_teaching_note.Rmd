@@ -1,0 +1,162 @@
+---
+title: "Case 06: White Oak Pastures: A Radically Traditional Farm Redefines Growth"
+subtitle: "Teaching Note"
+output: pdf_document
+---
+
+Today we’re discussing *White Oak Pastures: A Radically Traditional Farm Redefines Growth*.  
+
+The goal isn’t to find one “right” answer but to think through Will Harris’s choices, his constraints, and how you would balance values, finances, and growth in his shoes.  
+
+
+## 1. Founding Decision: Regenerative Transition
+Will Harris inherited an industrialized farm and had to decide whether to keep those practices or transition back to regenerative methods.  
+
+- What risks did Harris take by rejecting conventional industrial agriculture?  
+- How compelling was his case for moving toward regenerative farming (soil health, biodiversity, carbon sequestration, premium products)?  
+- Would you have made the same choice in the 1990s? Why or why not?  
+- How do legacy, values, and long-term vision influence decisions differently on a family farm than in a startup?  
+- What did Harris gain — and what did he risk losing — by redefining “growth” in terms beyond yield and revenue?  
+
+
+
+## 2. Execution: Building a Regenerative Model
+After committing to regenerative practices, Harris had to make operational and financial choices.  
+
+- How well did he execute the transition (removing chemical inputs, multi-species grazing, marketing his own beef)?  
+- What strengths did vertical integration (birth to sale on the farm) create for White Oak Pastures?  
+- Where were the major weaknesses (cost structure, scaling, consumer perceptions)?  
+- How did Harris balance the three pillars of impact — animal welfare, land regeneration, and rural revival?  
+
+
+
+## 3. Decision Point: Processing Capacity
+By 2007, White Oak’s external processor had reached capacity. Harris had three options: plateau, find another processor, or build an on-site facility.  
+
+- What are the pros and cons of each path?  
+- How risky was the $2.5M investment to build an abattoir?  
+- Did vertical integration strengthen White Oak’s long-term sustainability or put it at financial risk?  
+- Would you have made the same call?  
+
+
+
+## 4. Competitive Pressures
+White Oak faced competition from multiple directions.  
+
+- How do factory farms and cheap conventional meat challenge regenerative producers?  
+- What about “greenwashed” claims from large firms, or alt-proteins like Beyond Meat?  
+- How should Harris communicate White Oak’s differentiation to consumers who may not understand the nuances (e.g., not certified organic)?  
+- Which competitors pose the biggest risk to White Oak’s model?  
+
+
+
+## 5. Growth and Definition of Success
+Unlike a startup chasing scale or an exit, White Oak is a legacy business redefining growth.  
+
+- What does “growth” mean for White Oak Pastures — more land and livestock, or deeper ecological and community impact?  
+- Should Harris expand horizontally (new products, ecotourism, composting) or double down on vertical integration?  
+- How do you advise Harris to balance mission-driven impact with financial sustainability?  
+- Can White Oak’s model be replicated elsewhere, or is it unique to Bluffton?  
+
+
+
+## 6. Future Pathways
+Imagine you are advising Will Harris today.  
+
+- How should he continue building resilience into the business?  
+- Should he pursue new revenue streams (e.g., grazing services, education/training for other farms)?  
+- What metrics should White Oak track to know whether it’s succeeding on the three pillars of animal welfare, land regeneration, and rural revival?  
+- What’s the right balance between being a *model farm* for others and staying a *profitable family enterprise*?  
+
+
+
+## Case Discussion
+
+Hoffman (2021), *White Oak Pastures: A Radically Traditional Farm Redefines Growth*. Lead by **Team D**.  
+
+
+
+## Key Terms: Regenerative Agriculture
+
+- **Cover Cropping** – Plants grown for soil health, not sale.  
+- **No-Till Farming** – Preserves soil structure and microbial life.  
+- **Adaptive Grazing** – Rotating livestock to restore pastures and sequester carbon.  
+- **Regenerative Organic Certified (ROC)** – Holistic certification for soil, animals, and social fairness.  
+
+
+
+## Key Terms: Processing & Vertical Integration
+
+- **Abattoir** – On-farm slaughterhouse facility.  
+- **Vertical Integration** – Owning production from birth to processing to sale.  
+- **Capacity Constraint** – Bottleneck that limits output and sales.  
+- **Fixed Cost Investment** – Up-front infrastructure outlay, regardless of volume.  
+
+
+
+## Founder’s Perspective
+
+**Role Play**
+
+- Imagine you are **Will Harris III**.  
+- Your goals:  
+  - Restore degraded farmland.  
+  - Build a resilient, profitable family business.  
+  - Revitalize Bluffton’s rural economy.  
+
+**Key Question:**  
+
+How do you define and pursue “growth” in a way that stays true to White Oak’s mission?  
+
+
+
+## White Oak Pastures at a Glance
+
+- Family-owned since **1866** in Bluffton, GA.  
+- Shifted from industrial beef back to regenerative farming in the 1990s.  
+- Built both red meat and poultry abattoirs on site (2008, 2011).  
+- Vertically integrated: beef, poultry, pork, eggs, hides/leather, compost, ecotourism.  
+- Three pillars: **animal welfare, land regeneration, rural revival**.  
+
+## Compare Options: Farming Model
+
+| Option            | Pros                                | Cons                           |
+|-------------------|-------------------------------------|--------------------------------|
+| Stay Industrial   | Low cost, mainstream market         | Land degradation, no brand edge |
+| Regenerative      | Brand/story, ecological leadership  | Higher costs, niche positioning |
+
+
+
+
+## Compare Options: Processing
+
+| Option              | Pros                              | Cons                                |
+|---------------------|-----------------------------------|-------------------------------------|
+| Plateau sales       | Avoids debt, minimizes risk       | No growth, mission capped           |
+| Partner externally  | Lower cost, less responsibility   | Loss of control, capacity limited   |
+| Build abattoir      | Control, brand integrity, animal welfare | High capital cost, financial risk |
+
+
+## Discussion Points
+
+- How does regenerative agriculture redefine profitability and sustainability?  
+- Does vertical integration strengthen or weaken White Oak’s resilience?  
+- How important is rural revival to the definition of business success?  
+- Can regenerative farming scale, or does it stay niche by design?  
+
+
+
+## Key Takeaways
+
+- **Values vs. Viability:** Mission-driven choices bring risks but also unique opportunities.  
+- **Vertical Integration:** Creates control and differentiation, but with heavy financial burden.  
+- **Redefining Growth:** Not just output and revenue, but ecological health and community vitality.  
+- **Entrepreneurial Lesson:** Family enterprises can innovate by aligning tradition with sustainability.  
+
+**What Happened?**  
+
+White Oak Pastures grew into a vertically integrated regenerative farm employing 175+ people.  
+
+Its beef was found to have a 111% lower carbon footprint than conventional beef.  
+
+Despite high costs and competitive pressures, it became a national model for regenerative agriculture.  
