@@ -1,0 +1,131 @@
+---
+title: "Shark Tank Activity: Investor Evaluation Worksheet"
+output:
+  pdf_document:
+    latex_engine: xelatex
+---
+
+Use this worksheet **while watching** the pitch. Pause the video **before the sharks decide**. Your team should complete the questions below, then vote to (a) invest, (b) not invest, or (c) propose different terms.
+
+## Start-Up: Incredible Eats
+
+**Show:** Shark Tank – Season 13, Episode 4  
+**Company:** Incredible Eats  
+**Link:** [Watch here on YouTube](https://youtu.be/EU96s14zgLk)  
+
+### Background
+
+Incredible Eats is a **sustainable utensil company** that makes **edible spoons** designed to replace single-use plastic cutlery. The founder, **Dinesh Tadepalli**, presents his business as both a mission-driven and scalable enterprise — aiming to reduce plastic waste while building a viable, profitable consumer brand.
+
+
+## Quick Context: Who are the “Sharks”?
+Investors are experienced founders/VCs investing their **own money** in exchange for **equity** or other terms (e.g., royalties, convertible notes). They evaluate **team, traction, margins, defensibility, and scale**.
+
+
+## Instructions
+1. Watch the clip (up until the sharks share their decisions).
+2. In your group, discuss the following:
+   - What additional information would you want before deciding whether to invest?
+   - How does this product fit within the broader market for sustainable foodware?
+   - Which sharks might add the most value as investors, and why?
+3. Complete the **Investor Evaluation Worksheet** (below) using what you learned from the pitch.  
+4. As a group, decide whether you would:
+   - **Invest**
+   - **Not invest**, or
+   - **Propose different terms**
+5. After recording your decision, watch the rest of the clip and compare your reasoning with the sharks’.
+
+
+## 1) Core Understanding (fast scan)
+- **What problem is being solved?**  
+  ________________________________________________________
+- **Target customer and use case:**  
+  ________________________________________________________
+- **Stage (idea / prototype / launched / growth):**  [  ] Idea  [  ] Prototype  [  ] Launched  [  ] Growth
+- **Primary business model (how they make money):**  
+  ________________________________________________________
+
+
+## 2) Financial Snapshot (from the pitch)
+- **Ask:** $________ for ________% equity  → **Implied valuation:** $________________
+- **Unit economics (price, COGS, gross margin %):**  
+  ________________________________________________________
+- **Sales/traction to date (revenue, growth rate, channels):**  
+  ________________________________________________________
+- **Customer acquisition (CAC) & payback (if given):**  
+  ________________________________________________________
+- **Planned use of funds:**  
+  ________________________________________________________
+
+
+## 3) VC Screening Criteria — Guiding Questions
+Consult these as you analyze the pitch. Jot notes/evidence from the clip.
+
+### Market & Strategy
+- **Timing of entry:** Why is *now* advantageous?  
+  ________________________________________________________
+- **Key success factor stability:** Are critical drivers (demand, supply, inputs, channels) stable 3–5 yrs?  
+  ________________________________________________________
+- **Lead time:** How long until competitors can copy/surpass them?  
+  ________________________________________________________
+- **Competitive rivalry:** Who competes now and what defends share (price, brand, distribution)?  
+  ________________________________________________________
+- **Entry wedge & imitation risk:** What prevents cloning (IP, data, contracts, network effects)?  
+  ________________________________________________________
+- **Scope:** Market size (TAM/SAM/SOM) and adjacent expansion paths?  
+  ________________________________________________________
+- **Industry-related competence:** Founder/team domain knowledge, supplier/buyer relationships?  
+  ________________________________________________________
+
+### Product / Customer
+- **Product or service characteristics:** Clear pain point, differentiation, and scalability?  
+  ________________________________________________________
+- **Market characteristics:** Growth rate, customer validation (LOIs, repeat rates, retention)?  
+  ________________________________________________________
+
+### People
+- **Entrepreneur’s personality:** Coachable, resilient, focused? Examples from Q&A?  
+  ________________________________________________________
+- **Entrepreneur’s experience:** Prior startups, relevant wins, operator credibility?  
+  ________________________________________________________
+- **Nature of the venture team:** Complementary skills, key gaps, hiring plan?  
+  ________________________________________________________
+
+### Financials
+- **Financial considerations:** Realistic projections, margin structure, runway, path to profitability?  
+  ________________________________________________________
+
+
+## 4) Risk–Return Summary (bullet your top 2–3)
+- **Top strengths:**  
+  1) ____________________________  
+  2) ____________________________  
+  3) ____________________________
+- **Top risks:**  
+  1) ____________________________  
+  2) ____________________________  
+  3) ____________________________
+
+
+## 5) Your Investment Decision
+- **Choose one:**  [  ] Invest  [  ] Do Not Invest  [  ] Different Terms
+- **If investing, proposed terms (equity %, valuation, or alternative):**  
+  - Equity %: ________   
+  - Valuation: $________   
+  - Structure: [  ] Equity [  ] Convertible Note [  ] Royalty [  ] Other: __________
+  - Any contingencies (milestones, hire, patent filing, channel commitments):  
+    ________________________________________________________
+
+- **If not investing, why not (one-sentence rationale):**  
+  ________________________________________________________
+
+
+## 6) Post-Reveal Reflection (after watching the sharks’ decisions)
+- **Were your reasons similar to the sharks’?** What was the biggest difference?  
+  ________________________________________________________
+- **What new info changed your view (if any)?**  
+  ________________________________________________________
+- **Which VC criteria most influenced the actual outcome (team, margins, scale, defensibility, etc.)?**  
+  ________________________________________________________
+
+
