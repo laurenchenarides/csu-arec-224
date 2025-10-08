@@ -42,8 +42,8 @@ format:
 | 6    | 9/30       | T   | Venture Pathways                                     | Chapter 07                 |
 | 6    | 10/2       | R   | [**Case Study**: Hoffman (2021), *White Oak Pastures*](../cases/templates/case06.qmd)     |                            |
 | 7    | 10/7       | T   | Entrepreneurial Finance                              | Chapter 08                 |
-| 7    | 10/9       | R   | **Case Study**: Hyde et al. (2022), *Sunomi Switchel*    |                            |
-| 8    | 10/14      | T   | Midterm Exam (In-Class)                              | –                          |
+| 7    | 10/9       | R   | [**Case Study**: Hyde et al. (2022), *Sunomi Switchel*](../cases/templates/case07.qmd)    |                            |
+| 8    | 10/14      | T   | Midterm Exam (Take Home)                              | –                          |
 | 8    | 10/16      | R   | No Case Study                                        |                            |
 | 9    | 10/21      | T   | Legal & Marketing Challenges                         | Chapters 09 & 10           |
 | 9    | 10/23      | R   | **Case Study**: Hoffman (2020), *JUST, Inc.*             |                            |

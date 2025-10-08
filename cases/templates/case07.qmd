@@ -1,0 +1,186 @@
+---
+title: "Sunōmi Switchel: Time to Switch?"
+subtitle: Discussion Guide and Teaching Notes  
+page-meta:
+  robots: noindex
+format:
+  revealjs:
+    pdf-export: true
+    theme: white
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: false
+    scrollable: true
+    css: fishbowl.css
+execute:
+  echo: false
+  warning: false
+  message: false
+  allow-html: true
+---
+
+## Today's Agenda
+
+1. Case Discussion: Hyde et al. (2023), *Sunōmi Switchel: Time to Switch?* — led by **Team E**.  
+2. Focus on two key entrepreneurial decisions:  
+   - Whether to **raise outside capital** or continue **bootstrapping**.  
+   - Whether the founder, **Nikki Blank**, should **stay with Sunōmi or switch careers**.  
+3. Connect case insights to this week’s concepts on **sources of capital**, **entrepreneurial risk**, and **growth trade-offs**.  
+
+
+## Key Terms: Functional Beverage Market
+
+- **Functional Beverage** – Drinks with added health benefits beyond hydration (e.g., gut health, immunity).  
+- **Purchase Occasion** – When and why consumers drink the product (e.g., post-workout, hangover recovery).  
+- **Velocity** – Rate of repeat purchases; the metric retailers use to evaluate performance.  
+- **Co-packing** – Contracting with a third party to manufacture and package your product.  
+- **Working Capital** – Cash needed to fund daily operations (inventory, production, logistics).  
+
+
+
+## Founder’s Perspective
+
+**Role Play Scenario**
+
+- Imagine you are **Nikki Blank**, founder and CEO of Sunōmi Switchel.  
+- You started the business in 2017 after discovering switchel as a healthier alternative to sugary sports drinks.  
+- You bootstrapped the company, produced small runs with co-packers, and built distribution into **Whole Foods, Giant, and Stop & Shop**.  
+- After years of growth and burnout, you face a major decision:  
+  - **Raise capital** to expand or  
+  - **Switch** to a stable career in brand marketing.
+
+**Your goals:**
+
+- Create a successful beverage brand that aligns with your values.\  
+- Avoid overextending yourself financially and personally.\  
+- Decide what “growth” really means to you.\
+
+
+## Sunōmi at a Glance
+
+| Year | Milestone | Key Takeaway |
+|------|------------|--------------|
+| 2017 | Founded in D.C., joined GoKitchen accelerator | Gave up 10% equity + board seat for $1 investment |
+| 2018 | Launch at Glen’s Garden Market and Whole Foods | Proof of concept + brand traction |
+| 2019 | Trademark conflict → Rebrand to Sunōmi | Legal & brand management challenge |
+| 2020 | Expanded to Giant and Stop & Shop | Rapid growth, but limited working capital |
+| 2021 | Stalled operations, burnout, job offers elsewhere | Strategic and personal crossroads |
+
+::: {.callout-tip title="Discussion Prompt"}
+What does this timeline reveal about the tension between **growth and control**?  
+:::
+
+
+## Founder Profile: Nikki Blank
+
+- Background: Journalism + athletics (Tufts University).  
+- Motivation: Replace unhealthy sports drinks with natural alternatives.  
+- Strengths: Brand storytelling, persistence, authentic mission.  
+- Weaknesses: Limited business experience, undercapitalized, emotionally tied to the venture.  
+- External pressures: Family investors, co-founder exit, burnout.
+
+::: {.callout-tip title="Discussion Prompt"}
+How do Nikki’s **values and personality** shape her approach to financing?  
+Compare to last week’s discussion of **entrepreneurial risk tolerance**.
+:::
+
+
+## Decision #1: Raise Outside Capital?
+
+**Context:**
+
+- Orders from major retailers (Whole Foods, Giant, Stop & Shop).\  
+- Not enough cash to fulfill them.\  
+- Estimated need: ~$1.3M for national rollout.\
+
+**Options for Funding:**
+
+- **Equity Investment** → Give up ownership for long-term growth capital.\  
+- **Debt Financing / Working Capital Loan** → Retain control, but assume repayment risk.\  
+- **Continue Bootstrapping** → Maintain independence but risk stagnation.\
+
+
+## Decision #2: Stay or Switch?
+
+| Option | Description | Trade-Off |
+|---------|-------------|------------|
+| **Stay at Sunōmi** | Raise capital, quit job, go full-time | High risk, aligns with purpose, uncertain payoff |
+| **Switch Careers** | Take corporate brand marketing role | Financial stability, less autonomy, end of founder journey |
+
+**Key Question:**  
+How should an entrepreneur decide when to persist vs. pivot?
+
+::: {.callout-tip title="Discussion Prompt"}
+Have students apply the **Entrepreneurial Decision Matrix (EDM)**—compare risk, control, return, and alignment with personal goals.
+:::
+
+
+## Strategic Dilemmas
+
+- **Financial:** Under-capitalized, strained cash flow, limited runway.  
+- **Operational:** Dependence on co-packers and distributors.  
+- **Market:** Competitive functional beverage space dominated by kombucha and big brands.  
+- **Personal:** Burnout and pressure from family investors.  
+- **Ethical:** Responsibility to repay family loans vs. pursue personal well-being.
+
+
+## Compare Growth Options
+
+| Strategy | Pros | Cons | Source of Capital |
+|-----------|------|------|------------------|
+| **Raise Equity** | Scale fast, meet retail demand | Lose control, investor pressure | Angel or venture investors |
+| **Take Working Capital Loan** | Maintain control, modest growth | Personal liability, ongoing strain | Asset-based lender |
+| **Bootstrap / Stay Small** | Full autonomy, organic growth | Cash constraint, limited impact | Personal savings, family |
+| **Exit / Switch Careers** | Financial stability, skill development | Ends entrepreneurial dream | N/A |
+
+
+## Class Exercise: The Founder’s Dilemma
+
+> Imagine you are an investor evaluating Sunōmi.  
+> What would you look for before funding Nikki Blank?
+
+1. What signals show founder readiness?  
+2. What financials or traction would you need to see?  
+3. Would you invest — and if so, under what terms?  
+
+
+## Discussion Questions
+
+1. What financing path best fits Nikki’s goals and constraints?  
+2. How do her financing choices shape control, risk, and growth potential?  
+3. How might her **burnout** influence rational decision-making?  
+4. Should she prioritize **repaying her family** or **protecting her own wellbeing**?  
+5. What lessons about **capital structure** and **personal sustainability** can entrepreneurs learn from Sunōmi?
+
+
+## Scorecard Exercise
+
+| Option | Founder Fit (1–5) | Financial Viability (1–5) | Market Potential (1–5) | Mission Alignment (1–5) | Total |
+|--------|------------------|---------------------------|------------------------|------------------------|--------|
+| Raise Investor Capital | ___ | ___ | ___ | ___ | ___ |
+| Take Working Loan | ___ | ___ | ___ | ___ | ___ |
+| Continue Bootstrapping | ___ | ___ | ___ | ___ | ___ |
+| Exit / Switch Careers | ___ | ___ | ___ | ___ | ___ |
+
+After you score each option, **defend you recommendation** in a short summary.
+
+
+## Key Takeaways
+
+- **Bootstrapping Builds Discipline:** But limits scale and speed.  
+- **Control vs. Capital Trade-Off:** Every funding source affects autonomy and mission.  
+- **Founder–Market Fit:** Passion matters, but stamina and systems matter too.  
+- **Financial Literacy:** Understanding debt, equity, and working capital is vital for growth.  
+- **Sustainability:** Success also means knowing when to pivot or pause.  
+
+
+## What Happened?
+
+- Sunōmi continued small-scale regional distribution but never scaled nationally.  
+- Nikki Blank transitioned into a brand marketing role while keeping Sunōmi active online.  
+- Her experience is now used in entrepreneurship programs as a model of **founder self-awareness** and **values-driven decision-making**.
+
