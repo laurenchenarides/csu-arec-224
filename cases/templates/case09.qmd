@@ -1,0 +1,289 @@
+---
+title: "JUST, Inc.: Clean Meat and the Future of Protein Alternatives"
+subtitle: Discussion Guide and Teaching Notes
+page-meta:
+  robots: noindex
+format:
+  revealjs:
+    pdf-export: true
+    theme: white
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: false
+    scrollable: true
+    css: fishbowl.css
+execute:
+  echo: false
+  warning: false
+  message: false
+  allow-html: true
+---
+
+## Today's Agenda
+
+1. Case Discussion: Collins-Carey et al. (2020), *JUST, Inc.: Clean Meat and the Future of Protein Alternatives* — led by **Team E**.  
+2. Focus on the strategic choice among four paths:  
+   - **Enter clean meat** (cultured meat)  
+   - **Enter plant-based meat**  
+   - **Enter edible insects**  
+   - **Double down on plant-based alternatives** (status quo/core)  
+3. Connect to this week’s concepts: **industry life cycles**, **dominant design**, **go-to-market**, and **mission–strategy fit**.
+
+
+## Key Terms: Alternative Protein Landscape
+
+- **Clean (Cultured) Meat** – Animal cells grown in bioreactors to form edible muscle tissue.  
+- **Plant-Based Meat** – Texture/flavor engineered from plant proteins (e.g., soy, pea, wheat).  
+- **Plant-Based Alternatives** – Non-meat analogs (e.g., JUST Egg, mayo, dressings).  
+- **Edible Insects** – Protein from insects (e.g., crickets) whole or as ingredients (flour).  
+- **Dominant Design** – A prevailing product architecture that shapes competition.  
+- **First-Mover Advantage** – Benefits from early market entry before standards/leaders emerge.
+
+
+## Role Play: You Are Josh Tetrick (CEO)
+
+- Mission-driven founder with prior wins (JUST Egg) and a **controversial history** that raises reputational/regulatory risk.  
+- **Decision (2017)**: Where should JUST invest next to lead the protein transition?  
+- Constraints: capital intensity (esp. clean meat), regulatory uncertainty, consumer acceptance, and competition.
+
+::: {.callout-tip title="Prompt"}
+From the CEO seat: What path best advances **impact + viability** while leveraging JUST’s **algorithm/R&D** and brand?
+:::
+
+
+## JUST at a Glance (Timeline)
+
+| Year | Milestone | Why It Matters |
+|------|-------------------|--------------|
+| 2011–2016 | Founding (as Hampton Creek), plant-based R&D & product launches | Built brand + discovery algorithm |
+| 2017 | Rebrand to **JUST, Inc.**; consider new protein categories | Strategic fork in the road |
+| 2018–2019 | JUST Egg scales; Minnesota facility enables 24/7 mung-protein extraction | Demonstrates ops scaling in core |
+| 2018–2020 | Accel in clean meat R&D across industry (e.g., Memphis Meats, Aleph) | Competitive race; rising capital needs |
+
+
+## Learning Objectives (for Students)
+
+- Evaluate **market attractiveness** across clean meat, plant-based meat, insects, and core plant-based alternatives.  
+- Assess **fit** with JUST’s resources/capabilities and **mission alignment**.  
+- Anticipate **go-to-market** hurdles: regulation, cost curves, consumer adoption, supply chains.
+
+
+## Market Snapshots
+
+### Clean Meat
+- **Pros:** Potential parity on taste/texture; large long-run TAM; ethical/land/water upside.  
+- **Cons:** High capex + R&D risk; regulation & labeling; consumer “lab-grown” skepticism; energy intensity.
+
+### Plant-Based Meat
+- **Pros:** Momentum + near-term growth; access to flexitarians; leverages JUST’s discovery platform.  
+- **Cons:** Strong incumbents (Beyond, Impossible); taste/texture arms race; late-mover risks.
+
+### Plant-Based Alternatives (Core)
+- **Pros:** Brand equity; proven ops scaling (JUST Egg); lower regulatory friction.  
+- **Cons:** Finite substitution space; supply chain build-outs for novel inputs; slower path to category leadership.
+
+### Edible Insects
+- **Pros:** Efficient feed conversion; niche demand growth; ingredient versatility.  
+- **Cons:** Cultural barriers in U.S.; fragmented field; far from JUST’s capabilities/brand.
+
+
+## Industry Life Cycle & Design
+
+- **Where are categories on the curve?**  
+  - Clean meat: **emergent / pre-dominant design**  
+  - Plant-based meat: **growth / design converging**  
+  - Plant-based alternatives: **growth / fragmentation by application**  
+  - Insects: **emergent / niche**
+
+::: {.callout-tip title="Discussion Prompt"}
+If **dominant design** emerges in clean meat in 3–5 years, does JUST want to shape it or adapt to it?
+:::
+
+
+## The Strategic Choice
+
+**Options:**
+
+1. **Enter Clean Meat** (pursue first-mover potential)  
+2. **Enter Plant-Based Meat** (fast-follower vs. incumbents)  
+3. **Enter Edible Insects** (ingredient play, niche)  
+4. **Double Down on Core** (expand plant-based alternatives portfolio)
+
+
+## Connect These Options with Legal & Marketing Hurdles
+
+- **Regulatory pathways** → cultured vs. plant-based products
+- **Food safety & liability** → GMP, traceability, recalls
+- **Contracts & market access** → brokers, co-manufacturing, slotting
+- **Cottage vs. Commercial** → why JUST can’t be “cottage”
+- **Pricing & costs** → thin margins, scaling choices
+- **Brand & positioning** → dominant design and focus
+
+::: {.callout-tip}
+Goal: Use Lecture 9 tools to evaluate **which path** (clean meat, plant-based meat, core plant-based, insects) best fits JUST’s mission, means, and market.
+:::
+
+
+## Regulatory Pathways (FDA/USDA)
+**Cultured meat (clean meat)**
+
+- Pre-market consultations, facility registration, inspections
+- Joint FDA–USDA oversight (cells → FDA; harvest/processing → USDA)
+- Labeling and nomenclature uncertainty
+
+**Plant-based**
+
+- FDA food rules (ingredients, allergens, GRAS, labeling)
+- Claims (protein quality, sustainability) need substantiation
+
+**Implication for JUST**
+
+- **Clean meat**: longer, costlier path; high policy risk
+- **Plant-based**: clearer path; faster channel expansion
+
+**Prompt:** If the **dominant design** in cultured meat is 3–5 years out, does JUST want to **shape** it or **follow** it?
+
+
+## Food Safety, GMP, and Liability
+- **GMP** is non-negotiable for national retail
+- **Traceability**: one-step forward/back, batch IDs, recall readiness
+- **Risk**: contamination, allergen control, supply chain failures
+
+**JUST Application**
+
+- Clean meat: aseptic bioprocessing, media control, QA/QC uptick
+- Plant-based: co-manufacturing + supplier audits; simpler—but still strict
+
+**Quick Check:** What **documentation** must JUST have in place before pitching a national QSR pilot?
+
+
+## Contracts & Channel Access
+- **Brokers/Distributors**: unlock retail buyers but take margin
+- **Slotting/Promotion**: trade spend planning matters
+- **Co-packing**: capacity, MOQs, lead times, quality specs, IP/NDAs
+- **Force majeure**: supply shocks, logistics, recalls
+
+**JUST Application**
+
+- Core/plant-based: leverage co-packers to scale JUST Egg–adjacent lines
+- Clean meat: likely JV/strategics for pilot plants + foodservice entry
+
+**Exercise:** Draft 3 must-have **contract clauses** JUST should demand from a co-packer for a new plant-based SKU.
+
+
+## Cottage Food vs. Commercial Reality
+- Cottage laws ≠ wholesale/interstate
+- National brands require **commercial facilities** + audits (GMP/HACCP)
+
+**JUST Application**
+
+- All four paths require commercial compliance; **no cottage shortcuts**
+- Clean meat adds **bioprocess** validation and new SOPs
+
+
+## Market Access & Competition
+**Barriers**
+
+- Shelf space (category captaincy by incumbents)
+- Velocity expectations, cold chain, slotting fees
+- Consumer acceptance (taste, texture, name)
+
+**Playbooks**
+
+- **Plant-based**: fast-follower differentiation (protein source, nutrition, price)
+- **Clean meat**: staged foodservice launches; transparent messaging
+- **Core**: deepen penetration (foodservice + retail), capacity expansion
+
+**Think:** What is JUST’s “**Haribo focus**”? (One killer SKU or platform where it can dominate.)
+
+
+## Costs, Pricing, and Thin Margins
+- Rising inputs, labor, freight, trade spend → squeeze gross margin
+- Clean meat: **Very high capex/opex** until media yield improves
+- Plant-based/core: scale lowers COGS; ingredient hedging helps
+
+**Decision Lens**
+
+- Can JUST hit a **price-to-value** that drives velocity without burning runway?
+
+
+## Compare the Paths
+
+| Path | Strategic Fit | Capital Need | Regulatory Risk | Consumer Adoption | Speed to Revenue |
+|---|---:|---:|---:|---:|---:|
+| Clean Meat | High (mission) / Medium (capabilities) | **Very High** | **High** | Medium (omnivores) | Low |
+| Plant-Based Meat | High | High | Medium | Medium–High | Medium |
+| Core Alternatives | **Very High** | Medium | Low | High (existing) | **High** |
+| Insects | Low | Medium | Medium | Low–Medium (U.S.) | Low |
+
+
+## Finance & Ops Implications
+
+- **Clean Meat**: Bioreactors, cell lines, scaffolding, media costs, QA; multi-year burn to unit economics.  
+- **Plant-Based Meat**: Ingredient supply (pea/soy/wheat proteins), extrusion tech, flavor science.  
+- **Core**: Capacity expansions, channel partnerships (retail/foodservice), brand building.  
+- **Insects**: Farming or sourcing, processing to ingredients, B2B demand development.
+
+
+## Class Exercise (Investor Lens)
+
+> You’re an investor hearing JUST’s pitch for **one** path.
+
+1. What **traction** or technical milestones must you see?  
+2. What are the **leading risks** and how are they mitigated?  
+3. What **terms/structure** (e.g., staged capital, milestones) would you require?
+
+
+## Discussion Questions
+
+1. Which path best aligns with JUST’s **mission–market–means** triangle?  
+2. How should prior **reputational turbulence** shape entry timing/communications?  
+3. Where can JUST’s **algorithmic discovery** create durable edge?  
+4. What **sequencing** option (now vs. later) best balances risk and upside?  
+5. If entering clean meat, what **partnerships** (bioprocess, regulatory, distribution) are pivotal?
+
+
+## Scorecard Exercise
+
+| Option | Capability Fit (1–5) | Market Attractiveness (1–5) | Risk (1–5, low=5) | Mission Alignment (1–5) | Total |
+|---|---:|---:|---:|---:|---:|
+| Clean Meat | ___ | ___ | ___ | ___ | ___ |
+| Plant-Based Meat | ___ | ___ | ___ | ___ | ___ |
+| Core Alternatives | ___ | ___ | ___ | ___ | ___ |
+| Insects | ___ | ___ | ___ | ___ | ___ |
+
+**Write 3–4 sentences** defending your recommendation and proposed next steps.
+
+
+## Go-to-Market: If Clean Meat Wins
+
+- **Milestones:** cost curve (media ↓, yield ↑), sensory parity, regulatory pathway, pilot plant.  
+- **Allies:** academic labs, bioprocess OEMs, strategic CPG/meat partners, advocacy orgs.  
+- **GTMP:** limited-scope launches (foodservice), transparent messaging, data on safety & sustainability.
+
+
+
+## Go-to-Market: If Plant-Based Meat Wins
+
+- **Differentiate:** novel proteins via discovery platform; superior nutrition or price.  
+- **Ops:** co-manu vs. owned lines; secure inputs; flavor/texture IP.  
+- **Channels:** QSR pilots → retail; chef partnerships; retailer category captaincy.
+
+
+## Epilogue (for Debrief)
+
+- JUST ultimately **pursues clean meat** while scaling JUST Egg; costs decline but commercialization remains staged; competitive field intensifies.  
+- Debrief: Was this **optimal sequencing** given capabilities, risk, and the market window? What would you do in 2026?
+
+
+## Key Takeaways
+
+- **Fit before flash:** Match path to capabilities, mission, and runway.  
+- **Design & timing matter:** Pre-dominant-design races reward crisp milestones and alliances.  
+- **De-risk in stages:** Sequence bets; protect the core while advancing the frontier.  
+- **Narrative discipline:** Reg- and reputation-aware communications are strategic assets.
+

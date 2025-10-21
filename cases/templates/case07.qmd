@@ -1,6 +1,6 @@
 ---
 title: "Sunōmi Switchel: Time to Switch?"
-subtitle: Discussion Guide and Teaching Notes  
+subtitle: Discussion Guide and Teaching Notes
 page-meta:
   robots: noindex
 format:
@@ -32,6 +32,21 @@ execute:
 3. Connect case insights to this week’s concepts on **sources of capital**, **entrepreneurial risk**, and **growth trade-offs**.  
 
 
+## Teaching Note for In-Class Framing
+
+**Goal:** Encourage students to see how financing choices reflect not just numbers, but also founder values, risk tolerance, and the realities of scaling a mission-driven venture.  
+
+**Connection to course concepts:**  
+
+- **Week theme:** Sources of Capital and Financing Growth  
+- **Core ideas:** bootstrapping, angel vs. venture capital, debt vs. equity, opportunity cost, and founder–market fit.  
+
+**Discussion anchors:**  
+
+- “What does success mean for Nikki?”  
+- “How should she finance that version of success?”  
+
+
 ## Key Terms: Functional Beverage Market
 
 - **Functional Beverage** – Drinks with added health benefits beyond hydration (e.g., gut health, immunity).  
@@ -39,6 +54,10 @@ execute:
 - **Velocity** – Rate of repeat purchases; the metric retailers use to evaluate performance.  
 - **Co-packing** – Contracting with a third party to manufacture and package your product.  
 - **Working Capital** – Cash needed to fund daily operations (inventory, production, logistics).  
+
+
+> Link to our discussion on **working capital and liquidity constraints**.  
+> “How do working capital needs differ for service vs. product-based ventures?”  
 
 
 
@@ -55,9 +74,9 @@ execute:
 
 **Your goals:**
 
-- Create a successful beverage brand that aligns with your values.\  
-- Avoid overextending yourself financially and personally.\  
-- Decide what “growth” really means to you.\
+- Create a successful beverage brand that aligns with your values.  
+- Avoid overextending yourself financially and personally.  
+- Decide what “growth” really means to you.
 
 
 ## Sunōmi at a Glance
@@ -70,9 +89,7 @@ execute:
 | 2020 | Expanded to Giant and Stop & Shop | Rapid growth, but limited working capital |
 | 2021 | Stalled operations, burnout, job offers elsewhere | Strategic and personal crossroads |
 
-::: {.callout-tip title="Discussion Prompt"}
-What does this timeline reveal about the tension between **growth and control**?  
-:::
+> What does this timeline reveal about the tension between **growth and control**?  
 
 
 ## Founder Profile: Nikki Blank
@@ -83,25 +100,31 @@ What does this timeline reveal about the tension between **growth and control**?
 - Weaknesses: Limited business experience, undercapitalized, emotionally tied to the venture.  
 - External pressures: Family investors, co-founder exit, burnout.
 
-::: {.callout-tip title="Discussion Prompt"}
-How do Nikki’s **values and personality** shape her approach to financing?  
-Compare to last week’s discussion of **entrepreneurial risk tolerance**.
-:::
+> How do Nikki’s **values and personality** shape her approach to financing?  
+> Compare to last week’s discussion of **entrepreneurial risk tolerance**.
 
 
 ## Decision #1: Raise Outside Capital?
 
 **Context:**
 
-- Orders from major retailers (Whole Foods, Giant, Stop & Shop).\  
-- Not enough cash to fulfill them.\  
-- Estimated need: ~$1.3M for national rollout.\
+- Orders from major retailers (Whole Foods, Giant, Stop & Shop).  
+- Not enough cash to fulfill them.  
+- Estimated need: ~$1.3M for national rollout.
 
 **Options for Funding:**
 
-- **Equity Investment** → Give up ownership for long-term growth capital.\  
-- **Debt Financing / Working Capital Loan** → Retain control, but assume repayment risk.\  
-- **Continue Bootstrapping** → Maintain independence but risk stagnation.\
+- **Equity Investment** → Give up ownership for long-term growth capital.  
+- **Debt Financing / Working Capital Loan** → Retain control, but assume repayment risk.  
+- **Continue Bootstrapping** → Maintain independence but risk stagnation.
+
+> Tie this to **Sources of Capital** from lecture:
+- Personal savings / friends & family (initial phase)
+- Angel investors and accelerators (GoKitchen example)
+- Asset-based lending (receivables/inventory-backed loan)
+
+> “How does each funding source shape strategic flexibility?”  
+
 
 
 ## Decision #2: Stay or Switch?
@@ -112,11 +135,10 @@ Compare to last week’s discussion of **entrepreneurial risk tolerance**.
 | **Switch Careers** | Take corporate brand marketing role | Financial stability, less autonomy, end of founder journey |
 
 **Key Question:**  
+
 How should an entrepreneur decide when to persist vs. pivot?
 
-::: {.callout-tip title="Discussion Prompt"}
-Have students apply the **Entrepreneurial Decision Matrix (EDM)**—compare risk, control, return, and alignment with personal goals.
-:::
+> Have students apply the **Entrepreneurial Decision Matrix (EDM)**—compare risk, control, return, and alignment with personal goals.
 
 
 ## Strategic Dilemmas
@@ -126,6 +148,10 @@ Have students apply the **Entrepreneurial Decision Matrix (EDM)**—compare risk
 - **Market:** Competitive functional beverage space dominated by kombucha and big brands.  
 - **Personal:** Burnout and pressure from family investors.  
 - **Ethical:** Responsibility to repay family loans vs. pursue personal well-being.
+
+> “What non-financial costs do entrepreneurs face when capital is scarce?”  
+> Draw parallels to our in-class exercise on **bootstrapping stress points**.
+
 
 
 ## Compare Growth Options
@@ -143,9 +169,14 @@ Have students apply the **Entrepreneurial Decision Matrix (EDM)**—compare risk
 > Imagine you are an investor evaluating Sunōmi.  
 > What would you look for before funding Nikki Blank?
 
+Discuss:
+
 1. What signals show founder readiness?  
 2. What financials or traction would you need to see?  
 3. Would you invest — and if so, under what terms?  
+
+> This connects to the **entrepreneur–investor relationship** we discussed: alignment of values, vision, and risk appetite.
+
 
 
 ## Discussion Questions
@@ -160,13 +191,13 @@ Have students apply the **Entrepreneurial Decision Matrix (EDM)**—compare risk
 ## Scorecard Exercise
 
 | Option | Founder Fit (1–5) | Financial Viability (1–5) | Market Potential (1–5) | Mission Alignment (1–5) | Total |
-|--------|------------------|---------------------------|------------------------|------------------------|--------|
+|-------------------|------------------|---------------------------|------------------------|------------------------|--------|
 | Raise Investor Capital | ___ | ___ | ___ | ___ | ___ |
 | Take Working Loan | ___ | ___ | ___ | ___ | ___ |
 | Continue Bootstrapping | ___ | ___ | ___ | ___ | ___ |
 | Exit / Switch Careers | ___ | ___ | ___ | ___ | ___ |
 
-After you score each option, **defend you recommendation** in a short summary.
+After scoring each option, **defend your recommendation** in a short summary.
 
 
 ## Key Takeaways
@@ -184,3 +215,5 @@ After you score each option, **defend you recommendation** in a short summary.
 - Nikki Blank transitioned into a brand marketing role while keeping Sunōmi active online.  
 - Her experience is now used in entrepreneurship programs as a model of **founder self-awareness** and **values-driven decision-making**.
 
+
+> Emphasize that *success in entrepreneurship is multidimensional* — sometimes stepping away is a strategic decision, not a failure.

@@ -46,7 +46,7 @@ format:
 | 8    | 10/14      | T   | Midterm Exam (Take Home)                              | –                          |
 | 8    | 10/16      | R   | No Case Study                                        |                            |
 | 9    | 10/21      | T   | Legal & Marketing Challenges                         | Chapters 09 & 10           |
-| 9    | 10/23      | R   | **Case Study**: Hoffman (2020), *JUST, Inc.*             |                            |
+| 9    | 10/23      | R   | [**Case Study**: Hoffman (2020), *JUST, Inc.*](../cases/templates/case09.qmd)             |                            |
 | 10   | 10/28      | T   | Financial Planning & Business Plans                  | Chapters 11 & 12           |
 | 10   | 10/30      | R   | **Case Study**: Salwan & Kate (2024), *Nano Ganesh*      |                            |
 | 11   | 11/4       | T   | Growth & Scaling                                     | Chapter 13                 |
