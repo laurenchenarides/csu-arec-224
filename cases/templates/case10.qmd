@@ -1,0 +1,207 @@
+---
+title: "Nano Ganesh: Adoption and Scaling of Irrigation Technology"
+subtitle: Discussion Guide and Teaching Notes
+page-meta:
+  robots: noindex
+format:
+  revealjs:
+    pdf-export: true
+    theme: white
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: false
+    scrollable: true
+    css: fishbowl.css
+execute:
+  echo: false
+  warning: false
+  message: false
+  allow-html: true
+---
+
+## Today’s Agenda
+
+1. Part 1 – *Nano Ganesh: Will Farmers Adopt New Tech?*  
+   Focus: persuading early users in rural markets.  
+2. Part 2 – *Nano Ganesh: Scaling Irrigation Tech*  
+   Focus: expanding operations and financing growth.  
+3. Connect both parts through concepts of **innovation diffusion**, **behavioral adoption**, and **scaling strategy**.  
+4. Apply frameworks: **Technology Acceptance**, **Ansoff Matrix**, **Mission–Market–Means** alignment.
+
+
+## Case Overview
+
+**Nano Ganesh** is a mobile-enabled switch that allows farmers to remotely operate irrigation pumps.  
+The product addresses unreliable power supply, long travel distances, and labor shortages in rural India.
+
+| Role | Decision | Key Question |
+|------|-----------|--------------|
+| **Amol Shinde (Rep)** | Promote adoption among traditional farmers | How to communicate value and reduce risk perceptions? |
+| **Santosh & Prasad Ostwal (Founders)** | Expand the enterprise | How to scale sustainably while preserving affordability and reliability? |
+
+
+## Linking the Two Cases
+
+| Stage | Central Challenge | Conceptual Lens | Outcome |
+|--------|-------------------|----------------|----------|
+| **Part 1: Adoption** | Convincing risk-averse farmers to try the technology | Diffusion of Innovation, Farmers’ Technology Acceptance Model | Proof of concept and user trust |
+| **Part 2: Scaling** | Expanding distribution, funding, and operations | Ansoff Matrix, Business Model Design | Sustainable growth strategy |
+
+Both stages form a learning arc: *from behavioral change at the farm level to strategic scaling at the firm level.*
+
+
+## Part 1 – Understanding Adoption
+
+### Adoption Barriers
+- **Technological:** limited electricity, poor network coverage, reliability concerns.  
+- **Behavioral:** resistance to change, risk aversion, reliance on peer norms.  
+- **Economic:** up-front cost despite long-term savings.
+
+### Behavioral and Social Dimensions
+Adoption depends not only on functional benefit but on *perceived credibility* and *social proof*.  
+Local demonstrations and endorsements often matter more than technical specifications.
+
+
+## Diffusion of Innovation Framework
+
+**Stages:** Awareness → Interest → Evaluation → Trial → Adoption  
+
+| Factor | Application to Nano Ganesh |
+|--------|----------------------------|
+| **Relative Advantage** | Saves time, water, and electricity. |
+| **Compatibility** | Must fit existing irrigation routines. |
+| **Complexity** | Ease of use via simple mobile interface. |
+| **Trialability** | Field demos lower perceived risk. |
+| **Observability** | Visible outcomes (water flow, cost savings) reinforce trust. |
+
+Instructors can prompt students to identify which attributes Nano Ganesh communicates effectively and which require clearer messaging.
+
+
+## Cost–Benefit Thinking
+
+Using field data:
+
+- A 5 HP pump running 8 hours/day for 7 months can save roughly ₹ 85,000 (≈ US$ 1,000) per year.  
+- Payback occurs within one to two cropping seasons.
+
+Encourage students to connect economic reasoning with behavioral adoption:  
+
+> Even when savings are clear, what makes people hesitate?  
+> What mechanisms—demonstrations, warranties, peer networks—can bridge the gap?
+
+
+## Communicating with Rural Consumers
+
+Effective strategies emphasize:
+
+- **Localization:** vernacular language, cultural references.  
+- **Community engagement:** trusted intermediaries, cooperatives, and local champions.  
+- **After-sales support:** training and maintenance to reduce uncertainty.  
+- **Two-way communication:** feedback loops that inform product refinement.
+
+These approaches align with the **4 As framework**—Awareness, Acceptability, Affordability, Availability.
+
+
+## Transition to Scaling
+
+Once early adoption occurs, the challenge shifts from *convincing individuals* to *building systems* that enable widespread access.  
+Scaling requires operational efficiency, reliable financing, and channel partnerships.
+
+Transition question:  
+
+> How can OAAPL convert a successful pilot into a viable business serving thousands of farmers?
+
+
+## Part 2 – Scaling Nano Ganesh
+
+### Core Challenges
+- Infrastructure limitations in rural markets.  
+- Need for capital to expand manufacturing and distribution.  
+- Competition from other IoT and irrigation technologies.  
+- Balancing affordability with profitability.
+
+### Short- vs. Long-Term Priorities
+- **Short term:** operational efficiency, targeted marketing, regulatory compliance, strategic alliances.  
+- **Long term:** R&D investment, localization, education programs, sustainable financing models.
+
+
+## Applying the Ansoff Matrix
+
+| Strategy | Description | Nano Ganesh Application |
+|-----------|--------------|-------------------------|
+| **Market Penetration** | Deepen reach in current markets | Promotions, dealer networks, awareness drives |
+| **Product Development** | Enhance or complement existing tech | Add sensors, water-use analytics |
+| **Market Development** | Enter new regions | States with similar irrigation needs |
+| **Diversification** | Move into adjacent domains | Remote monitoring for other sectors |
+
+Encourage students to evaluate which path offers the most leverage given OAAPL’s resources.
+
+
+## Financing and Investor Relations
+
+Scaling requires a clear funding story:
+
+- Identify aligned investors (impact funds, ag-tech accelerators).  
+- Present realistic growth projections and risk mitigation.  
+- Maintain transparency and steady communication with funders.  
+- Explore blended models (government grants, micro-finance, pay-per-use).
+
+Discussion prompt:  
+
+> What balance of equity, debt, and partnership funding preserves control while enabling scale?
+
+
+## Business Model and Competitive Advantage
+
+Five lenses (adapted from TG Exhibit 1):
+
+1. **Value Proposition** – Reliable, affordable irrigation control for smallholders.  
+2. **Market Factors** – Broad B2C base with selective institutional partnerships.  
+3. **Capabilities** – Engineering know-how, field service network.  
+4. **Positioning** – Operational reliability and customer trust.  
+5. **Economics** – High volume, low margin, moderate leverage.
+
+Prompt:  
+
+> Which elements of this model create defensibility against imitators?
+
+
+## Connecting Adoption and Scaling
+
+| Dimension | Early Stage | Growth Stage |
+|------------|-------------|--------------|
+| **Customer Focus** | Farmer trust, usability | Channel partners, institutional buyers |
+| **Key Constraint** | Behavior and awareness | Capital and infrastructure |
+| **Metric of Success** | Number of adopters | Unit economics and reach |
+| **Primary Risk** | Rejection or disuse | Overextension or dilution |
+
+Students can reflect on how early adoption patterns shape long-term strategic choices.
+
+
+## Integrative Discussion Questions
+
+1. How does understanding behavioral adoption improve scaling outcomes?  
+2. What short-term actions build toward long-term scalability?  
+3. How can OAAPL design partnerships that balance mission with market discipline?  
+4. What are realistic indicators of readiness to scale (technical, financial, social)?  
+5. How might the approach differ if expansion targeted global markets?
+
+
+## Key Takeaways
+
+- Technology adoption depends on social context as much as technical performance.  
+- Scaling requires alignment between **mission, market opportunity, and organizational capacity**.  
+- Sequencing matters: prove the concept locally, then build systems for broader reach.  
+- Sustainable impact emerges from steady, evidence-based growth rather than rapid expansion.  
+- Maintaining credibility and user trust is as vital as product innovation.
+
+
+## Epilogue (Debrief)
+
+By 2024, [Nano Ganesh](http://www.nanoganesh.com/) continues as a reference case for affordable ag-tech.  
+
+The progression from **adoption** to **scaling** illustrates that rural innovation succeeds when firms match ambition with realistic execution—grounded in farmer needs, adaptive learning, and disciplined resource use.

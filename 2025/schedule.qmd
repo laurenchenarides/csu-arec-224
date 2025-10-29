@@ -48,7 +48,7 @@ format:
 | 9    | 10/21      | T   | Legal & Marketing Challenges                         | Chapters 09 & 10           |
 | 9    | 10/23      | R   | [**Case Study**: Hoffman (2020), *JUST, Inc.*](../cases/templates/case09.qmd)             |                            |
 | 10   | 10/28      | T   | Financial Planning & Business Plans                  | Chapters 11 & 12           |
-| 10   | 10/30      | R   | **Case Study**: Salwan & Kate (2024), *Nano Ganesh*      |                            |
+| 10   | 10/30      | R   | [**Case Study**: Salwan & Kate (2024), *Nano Ganesh*](../cases/templates/case10.qmd)      |                            |
 | 11   | 11/4       | T   | Growth & Scaling                                     | Chapter 13                 |
 | 11   | 11/6       | R   | **Case Study**: Morkunas & Matheson (2020), *Blue Sky Ranch* |                      |
 | 12   | 11/11      | T   | Valuation of Ventures                                | Chapter 14                 |
