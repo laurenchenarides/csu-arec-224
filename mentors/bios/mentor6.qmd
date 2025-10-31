@@ -1,7 +1,7 @@
 ---
-title: "Jeff Engell"
-description: "Global economic strategist building resilient rural communities through innovation and systems thinking."
-categories: [economic development, international consulting, rural food systems]
+title: "Nic Guillen"
+description: "From Concept to Craveable: Turning Food Science into Shelf-Ready Products."
+categories: [food innovation, product development, ingredient sourcing]
 format: 
   html: 
     theme: cosmo
@@ -10,38 +10,38 @@ format:
     link-external-newwindow: true
 ---
 
-![](jeff-engell.jpg){fig-align="left" width=300}
+![](){fig-align="left" width=300}
 
 
-**Background:** A proud Colorado native, Jeff grew up in Loveland and Fort Collins and earned his Finance degree from CSU. After starting his career in investment banking and acquisitions in Denver, he found the work unfulfilling and pivoted—earning a master’s in economics from Lund University in Sweden. From there, Jeff spent four years teaching economics and finance at a private high school in Beijing before transitioning to international economic development, starting with a six-year stint in Turkey building tech transfer systems in partnership with the Turkish government and the EU.
+**Background:** Nic graduated from Colorado State University in 2024 with a degree in Food Science and Human Nutrition. As a student, he worked as an undergraduate research assistant in CSU’s Food Structure and Function Lab and completed a brewery operations internship at Ramskeller Pub & Grub, where he helped lead recipe development for craft sodas and seltzers. These early experiences helped him build a strong foundation in food chemistry, product development, and ingredient functionality.
 
-**Current Ventures:** Jeff currently serves as a Regional Specialist for Economic Development with [CSU Extension’s Western Region](https://wr.extension.colostate.edu/), based in Grand Junction. He brings decades of experience from public and private sector consulting, having built a 26-person international firm working on entrepreneurship and capacity-building across Asia and Africa. Back in Colorado, he also directed a Small Business Development Center in the western part of the state and now supports rural communities through infrastructure financing, entrepreneurship support, and economic analysis projects.
+**Current Ventures:** Nic is currently a Research & Development Food Scientist at Bobo’s, a Colorado-based natural foods company known for its oat bars, snacks, and commitment to using wholesome, simple ingredients. Since joining the company, he has helped develop new product lines and flavor profiles, worked closely with procurement teams to source ingredients, and supported cross-functional innovation across R&D and operations. His work sits at the intersection of science, sourcing, and consumer experience.
 
-**Expertise:** Economic development, entrepreneurship ecosystems, public-private partnerships, international consulting, rural infrastructure finance, and systems thinking. Jeff brings a global perspective to local problems and encourages open-ended thinking and innovation.
+**Expertise:** Food product development, formulation, ingredient sourcing, and cross-team collaboration in a fast-growing CPG (consumer packaged goods) company. Nic offers insight into what it takes to bring a food product from idea to shelf—from functional prototypes to commercial scale-up.
 
-**Student Experience:** Students working with Jeff will gain exposure to real-world economic development projects—like irrigation improvements and capital stacking—and learn how financial systems interact with community resilience. Jeff is especially open to students interested in internships and wants to support bold thinkers. As he puts it: “*There are no limitations for what we can explore and think about.*”
+**Student Experience:** Students working with Nic will get a firsthand look at food innovation inside an established brand. His mentorship is especially valuable for students interested in product-based ventures, functional foods, or R&D roles in the food industry. Nic brings a relatable perspective as a recent graduate navigating his early career, with a collaborative, curious approach to solving problems and iterating new ideas.
 
-**Fun Fact:** Jeff has lived abroad in Sweden, China, Turkey, and Germany.
+**Fun Fact:** Before joining Bobo’s full-time, Nic helped brew craft sodas and develop small-batch beer recipes on a 10-hectoliter system—proof that good R&D starts with experimentation.
 
 ## Additional Resources
 
-```{=html}
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+<!-- ```{=html} -->
+<!-- <div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;"> -->
 
-  <a href="https://extension.colostate.edu/#gsc.tab=0" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
-    CSU Extension Center
-  </a>
+<!--   <a href="https://extension.colostate.edu/#gsc.tab=0" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;"> -->
+<!--     CSU Extension Center -->
+<!--   </a> -->
 
-  <a href="https://wr.extension.colostate.edu/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
-    CSU Extension - Western Region
-  </a>
+<!--   <a href="https://wr.extension.colostate.edu/" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;"> -->
+<!--     CSU Extension - Western Region -->
+<!--   </a> -->
 
-  <a href="https://www.youtube.com/watch?v=rFBBRkodf_s" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;">
-    History of CSU Extension (YouTube)
-  </a>
+<!--   <a href="https://www.youtube.com/watch?v=rFBBRkodf_s" target="_blank" style="flex: 1; min-width: 200px; text-align: center; padding: 20px; background: #f4f4f4; border: 1px solid #ccc; text-decoration: none; color: #333; border-radius: 8px;"> -->
+<!--     History of CSU Extension (YouTube) -->
+<!--   </a> -->
 
-</div>
-```
+<!-- </div> -->
+<!-- ``` -->
 
 <br>
 
