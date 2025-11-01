@@ -1,0 +1,205 @@
+---
+title: "Case 11: Blue Sky Ranch: Sustainable Meat"
+subtitle: "Teaching Note"
+output: pdf_document
+---
+
+
+## Overview
+
+**Julia Smith**, founder of **Blue Sky Ranch** in Merritt, British Columbia, has built a business grounded in ethical pork production.  
+
+She raises heritage pigs outdoors, without confinement or chemical inputs, and markets directly to consumers who value humane and sustainable meat.  
+
+Despite strong customer feedback, Blue Sky Ranch is not profitable.
+
+As Julia prepares to meet her bank manager, she must evaluate her options for sustaining the business financially without compromising its principles.
+
+
+## Key Terms and Concepts
+
+| Term | Definition |
+|------|-------------|
+| **Ethical Farming** | Production that prioritizes animal welfare, environmental care, and transparency. |
+| **Abattoir** | Facility for slaughter and meat processing. Licensing class (A–E) determines sales scope. |
+| **Class D License** | Allows slaughter and local retail sales within the same regional district (up to 25 animal units). |
+| **Prestige Pricing** | Pricing strategy based on perceived quality or ethical differentiation. |
+| **Value Proposition** | The distinct value offered to customers—here, humane, local, and traceable pork. |
+| **Economies of Scale** | Reduction in per-unit cost as production increases, often inaccessible to small farms. |
+| **Market Access** | Ability to sell products across regions or through distribution channels. |
+
+
+## Case Context
+
+Julia and her husband moved from Vancouver to Merritt to expand their small butchery into a full-scale farm.  
+
+They built Blue Sky Ranch around ethical production and a belief in transparency.  
+
+However, the business faces structural challenges:  
+
+- Limited slaughterhouse access (three within driving range, all with constraints).  
+- Regulatory barriers to inter-provincial or wholesale sales.  
+- Rising feed, fuel, and processing costs.  
+- Ongoing financial losses and no outside investors.  
+
+The case centers on how Julia can stabilize and grow Blue Sky Ranch under these conditions.
+
+
+## 1. Understanding the Situation
+
+**Central question:**  
+
+How can Blue Sky Ranch achieve financial sustainability while maintaining its ethical and environmental standards?
+
+Julia’s current position:
+
+- Strong mission and product differentiation.  
+- Narrow market reach due to regulatory and logistical limits.  
+- Dependence on costly intermediaries for slaughter and distribution.  
+
+::: {.callout-note icon=false title="Discussion Questions"}
+- What is Blue Sky Ranch’s strategic positioning?  
+- How does Julia’s commitment to ethical production shape her competitive advantage and constraints?
+:::
+
+## 2. Evidence from the Case
+
+| Category | Key Evidence | Implications |
+|-----------|---------------|--------------|
+| **Financial** | FY2017 net loss: –CA$38,118; high vehicle and feed costs (Exhibit 5). | Business is not yet self-sustaining. |
+| **Operations** | 100–120 pigs sold vs. goal of 230; bottlenecks in slaughter and transport. | Capacity limits revenue potential. |
+| **Regulation** | Class D license restricts sales to within local district (Exhibit 3). | Growth limited by law, not demand. |
+| **Market** | Ethical meat demand is increasing; 23% of consumers prioritize supporting farmers. | Niche opportunity, but scale remains small. |
+
+::: {.callout-note icon=false title="Discussion Questions"}  
+- What are the primary financial constraints?  
+- How do costs at each production stage influence pricing and viability?  
+:::
+
+## 3. Exhibits: Interpretation and Use
+
+| Exhibit | Focus | Relevance |
+|----|--------|-----------------|
+| **1** | Feed cost curve (weeks 7–32). | Demonstrates working capital needs and cumulative cost burden. |
+| **2** | Yield by cut and price. | Identifies which products generate higher returns. |
+| **3** | BC slaughter licensing system. | Defines regulatory limits on operations and market access. |
+| **4** | Grants and loans. | Highlights options for financing, but with administrative and timing constraints. |
+| **5** | Income statement (FY2016–17). | Shows limited profitability and cost sensitivity. |
+
+Consider: Why is each exhibit included, and how does it clarify the problem or possible solutions?
+
+
+## 4. Strategic and Financial Analysis
+
+### Porter’s Five Forces
+| Force | Observation |
+|--------|--------------|
+| **Rivalry** | Few small-scale competitors, but large producers dominate distribution. |
+| **Supplier Power** | High—few abattoirs and high kill, cut, and wrap costs. |
+| **Buyer Power** | Moderate—niche consumers loyal but infrequent purchasers. |
+| **Substitutes** | Moderate to high—other meats or plant-based alternatives. |
+| **Barriers to Entry** | Low for new farms, but difficult to achieve sustained profitability. |
+
+### Cost Structure and Bottlenecks
+
+- Feed and fuel are major variable costs.  
+- Processing and packaging fees drive up per-unit expenses.  
+- Distance to abattoirs increases time and logistics costs.  
+- Limited access to federally inspected facilities constrains growth.
+
+
+## 5. SWOT Framework
+
+| **Strengths** | **Weaknesses** |
+|------------|-------------|
+| Established ethical reputation | Small scale, off-grid infrastructure |
+| High product quality | Dependence on external processors |
+| Loyal customer base | Ongoing financial losses |
+| **Opportunities** | **Threats** |
+| Agritourism and direct marketing | Industrial competition, regulatory rigidity |
+| Cooperative processing partnerships | Rising input costs, weather-related risks |
+
+
+## 6. Financing Considerations
+
+**Options:**
+
+- Apply for government grants (Exhibit 4).  
+- Seek loan financing or investor equity.  
+- Explore community-supported agriculture (CSA) or subscription-based models.  
+
+::: {.callout-note icon=false title="Discussion Questions"}  
+- Do government grants meaningfully address Blue Sky Ranch’s structural challenges?  
+- Would additional staff or reporting requirements offset the benefits?  
+- How might a cooperative or subscription model change Julia’s funding landscape?
+:::
+
+
+## 7. Market Positioning and Growth
+
+**Unique Sales Proposition (USP):**  
+
+Humane, traceable, small-scale pork from animals raised outdoors in BC.
+
+**Potential Market Strategies**
+
+1. **Direct-to-Consumer Expansion** – via online sales, farm pickup, or CSA.  
+2. **Partnerships with Distributors** – expand reach while retaining branding.  
+3. **Wholesale Relationships** – sell to restaurants or specialty butchers.  
+4. **Agritourism Diversification** – add modest visitor-based revenue.  
+
+::: {.callout-note icon=false title="Discussion Questions"}  
+- Which channel provides the most feasible path to financial stability?  
+- Who is Blue Sky Ranch’s ideal customer, and is Julia reaching them effectively?  
+:::
+
+## 8. Decision Criteria
+
+Julia’s options should be evaluated on:
+
+| Criterion | Description |
+|------------|-------------|
+| **Mission Alignment** | Does it preserve Blue Sky Ranch’s ethical identity? |
+| **Financial Viability** | Can it lead to profitability within a reasonable period? |
+| **Regulatory Feasibility** | Is it permissible under BC’s licensing system? |
+| **Operational Control** | Does Julia maintain quality and brand oversight? |
+| **Scalability** | Can the model expand without diluting the brand? |
+
+::: {.callout-note icon=false title="Discussion Questions"}  
+How would you apply these criteria to decide which option Julia should pursue?
+:::
+
+## 9. Possible Strategic Directions
+
+| Option | Advantages | Challenges |
+|---------|-------------|-------------|
+| **Expand Production** | Potentially lower unit costs. | Capital requirements; same processing limits. |
+| **Invest in Processing (Mobile Abattoir)** | Greater control and reliability. | High upfront costs; licensing uncertainty. |
+| **Partnerships or Cooperative Model** | Shared infrastructure and bargaining power. | Requires coordination and shared governance. |
+| **Agritourism** | Aligns with mission; diversifies income. | Adds complexity and labor demands. |
+
+
+## 10. Discussion Summary
+
+- What combination of actions could help Blue Sky Ranch reach break-even?  
+- How can Julia retain her ethical positioning while addressing operational constraints?  
+- To what extent does the business depend on external policy change versus internal adaptation?  
+
+
+## 11. What Happened
+
+In late 2018, Julia Smith entered a **non-exclusive agreement** with a regional meat distributor to sell Blue Sky Ranch products through an online delivery platform.  
+
+She maintained direct relationships with a small set of restaurants and individual customers.
+
+The **regulatory environment** in British Columbia did not change significantly, but small producers formed the **Small-Scale Meat Producers Association** to advocate for improved access to processing facilities and clearer rules for farm-based slaughter.
+
+Julia continues to operate Blue Sky Ranch, focusing on efficiency, partnerships, and advocacy for regulatory reform.
+
+
+## Takeaways
+
+- Regulatory systems can define or constrain market opportunity.  
+- Mission-driven firms must balance values and financial sustainability.  
+- Incremental partnerships and diversification can be pragmatic responses to structural barriers.  
+- Long-term viability may depend as much on policy change as on business model adaptation.
