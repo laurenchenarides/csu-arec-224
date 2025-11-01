@@ -51,7 +51,7 @@ format:
 | 10   | 10/30      | R   | [**Case Study**: Salwan & Kate (2024), *Nano Ganesh*](../cases/templates/case10.qmd)      |                            |
 | 11   | 11/6       | R   | [**Case Study**: Morkunas & Matheson (2020), *Blue Sky Ranch*](../cases/templates/case11.qmd) |                      |
 | 11   | 11/4       | T   | No Class                                     |                  |
-| 12   | 11/11      | T   | Growth & Scaling / Valuation of Ventures                                | Chapters 13 &14                 |
+| 12   | 11/11      | T   | Growth & Scaling / Valuation of Ventures <br> **In-Class Peer Evaluation** | Chapters 13 &14                 |
 | 12   | 11/13      | R   | **Case Study**: Serafeim & Norris (2023), *Seeds of Innovation* |                  |
 | 13   | 11/18      | T   | Harvesting & Exit Strategies                         | Chapter 15                 |
 | 13   | 11/20      | R   | **Case Study**: Parker et al. (2019), *Yuser*            |                            |
