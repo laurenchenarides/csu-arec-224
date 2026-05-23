@@ -6,8 +6,8 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.32">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.9.36">
 
   <meta name="author" content="Lauren Chenarides">
   <meta name="dcterms.date" content="2025-08-26">
@@ -18,6 +18,9 @@
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
   <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -33,7 +36,6 @@
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
-      margin-bottom: 0em;
     }
     .hanging-indent div.csl-entry {
       margin-left:2em;
@@ -50,7 +52,7 @@
     div.csl-indent {
       margin-left: 2em;
     }  </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-f563837468303362081e247dddd440d0.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-2740581606dc327e82f18f789b69d8a0.css">
   <link rel="stylesheet" href="lecture-style.css">
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GG4GM3TPXK"></script>
 
@@ -826,9 +828,9 @@ Dr.&nbsp;Lauren Chenarides
 <section class="slide level2 smaller scrollable" id="references">
 
 <h3 id="references">References</h3>
-<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
 <div id="ref-enetwork2017mindset" class="csl-entry" role="listitem">
-E. Network. 2017. <span>“How to Switch from an Employee to an Entrepreneur Mindset.”</span> <a href="https://www.huffingtonpost.com/entry/how-to-switch-from-an-employee-to-an-entrpreneur-mindset_us_59b69e29e4b0d364c97f53fb" class="uri">https://www.huffingtonpost.com/entry/how-to-switch-from-an-employee-to-an-entrpreneur-mindset_us_59b69e29e4b0d364c97f53fb</a>.
+E. Network. 2017. <em>How to Switch from an Employee to an Entrepreneur Mindset</em>. <a href="https://www.huffingtonpost.com/entry/how-to-switch-from-an-employee-to-an-entrpreneur-mindset_us_59b69e29e4b0d364c97f53fb" class="uri">Https://www.huffingtonpost.com/entry/how-to-switch-from-an-employee-to-an-entrpreneur-mindset_us_59b69e29e4b0d364c97f53fb</a>.
 </div>
 <div id="ref-kuratko2024" class="csl-entry" role="listitem">
 Kuratko, Donald F. 2024. <em>Entrepreneurship: Theory, Process, Practice</em>. 12th ed. Cengage Learning, Inc.
@@ -1030,7 +1032,7 @@ Kuratko, Donald F. 2024. <em>Entrepreneurship: Theory, Process, Practice</em>. 1
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -1180,13 +1182,14 @@ Kuratko, Donald F. 2024. <em>Entrepreneurship: Theory, Process, Practice</em>. 1
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy

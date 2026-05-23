@@ -1,0 +1,40 @@
+---
+title: TILT Faculty Research Fellowship
+subtitle: "AY 2025--2026"
+format: 
+  html: 
+    theme: cosmo
+ #   css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+---
+
+# Background
+
+AREC 224 (Introduction to Agribusiness Entrepreneurship) transitioned from a 1-credit seminar to a 3-credit experiential course in Fall 2025. The redesign replaced a traditional guest lecture format with four active learning strategies: student-led podcasting, case-study analysis, structured mentorship, and a business case presentation. The study examines how these interventions influenced student engagement across behavioral, emotional, and cognitive dimensions, as well as students' professional development and self-awareness over the semester.
+
+This project was selected for the [TILT Faculty Research Fellowship](https://tilt.colostate.edu/tilt-faculty-research-fellowship/), which supports faculty pursuing Scholarship of Teaching and Learning at Colorado State University.
+
+# Preliminary Results
+
+## Conference Poster
+
+The poster below was presented at the TILT Faculty Research Fellows conference, Spring 2026. It summarizes the study design, conceptual framework, and preliminary findings across the four research questions.
+
+```{=html}
+<iframe src="tilt/Chenarides_Baxter_Bennett_TILT_Conference_Poster.pdf" 
+        width="100%" height="800px" 
+        style="border: none;">
+</iframe>
+```
+
+## Key Findings
+
+**RQ1.** Mentorship contributed most to a more engaged student experience, ranked first by nearly half of students (47.4%) for engagement and by more than half (57.9%) for learning. Podcasting showed the most balanced positive profile across all three engagement dimensions.
+
+**RQ2.** Podcasting activated all three engagement dimensions positively, with small positive change scores for behavioral (d = +0.25), emotional (d = +0.29), and cognitive (d = +0.16) engagement. Mentorship and the business case presentation showed declining cognitive engagement relative to pre-semester expectations, despite uniformly high behavioral engagement across all four activities.
+
+**RQ3.** Pre-semester beliefs and values strongly predicted anticipated behavioral engagement across all four activities (r = 0.50 to 0.65). These correlations did not extend to realized engagement, suggesting course structure drove actual participation more than entering mindset alone.
+
+**RQ4.** Most students overestimated their class standing: 62% placed themselves in a higher tier than their actual performance warranted. Students who overestimated fell at approximately the 45th percentile (44.9th) on average, while students who accurately assessed themselves fell at approximately the 83rd percentile (82.6th), consistent with the Dunning-Kruger effect. By the end of the semester, students reported significant gains in confidence and perceived strength in the entrepreneurial skills they set out to develop.

@@ -54,6 +54,8 @@ website:
           href: cases/templates/observer-form.qmd
         - text: "Entrepreneurial Characteristics Handout"
           href: mentors/characteristics_handout.Rmd
+      - text: "TILT Faculty Research Fellowship"
+        href: tilt.qmd
       # - text: Archive
       #   menu:
       #     - text: Fall 2025
